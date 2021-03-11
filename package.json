@@ -1,0 +1,39 @@
+{
+  "name": "testbook-ocr",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Testbook OCR",
+  "keywords": [
+    "ocr"
+  ],
+  "homepage": "https://github.com/pokusew/testbook-ocr#readme",
+  "bugs": {
+    "url": "https://github.com/pokusew/testbook-ocr/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pokusew/testbook-ocr.git"
+  },
+  "license": "proprietary",
+  "author": {
+    "name": "Martin Endler",
+    "url": "https://github.com/pokusew"
+  },
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "dependencies": {
+    "@google-cloud/vision": "^2.3.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.13.10",
+    "@babel/preset-env": "^7.13.10",
+    "@babel/preset-typescript": "^7.13.0",
+    "@babel/register": "^7.13.8",
+    "typescript": "^4.2.3"
+  },
+  "engines": {
+    "node": "14.x",
+    "yarn": "1.x"
+  }
+}

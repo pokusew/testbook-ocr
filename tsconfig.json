@@ -1,0 +1,28 @@
+{
+	"compilerOptions": {
+		// https://stackoverflow.com/questions/61305578/what-typescript-configuration-produces-output-closest-to-node-js-14-capabilities/61305579#61305579
+		"lib": [
+			"es2020",
+			"dom"
+		],
+		"module": "commonjs",
+		"target": "es2020",
+		// TODO: maybe true Process & infer types from .js files.
+		"allowJs": true,
+		// Don't emit; allow Babel to transform files.
+		"noEmit": true,
+		// TODO: Enable strictest settings like strictNullChecks & noImplicitAny.
+		"strict": false,
+		"strictNullChecks": true,
+		// Import non-ES modules as default imports.
+		"esModuleInterop": true,
+		"jsx": "preserve",
+		"resolveJsonModule": true
+	},
+	"exclude": [
+		// TODO: check
+		"/temp/",
+		"/data/",
+		"**/node_modules/"
+	]
+}
