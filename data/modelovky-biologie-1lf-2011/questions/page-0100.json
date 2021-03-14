@@ -1,0 +1,578 @@
+[
+	{
+		"id": 1692,
+		"category": 23,
+		"number": 1692,
+		"text": "Evolučně nejmladší jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jinany",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nahosemenné rostliny",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jehličnany",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "krytosemenné rostliny",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1693,
+		"category": 23,
+		"number": 1693,
+		"text": "Kostěná vnitřní kostra se objevuje ve vývoji nejprve u:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "paryb",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ryb",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kalcichordat",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "graptolitů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1694,
+		"category": 23,
+		"number": 1694,
+		"text": "Schopnost dýchat vzdušný kyslík se vyvinula nejprve u:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "obojživelníků",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "lalokoploutvých ryb",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "plazů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "paryb",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1695,
+		"category": 23,
+		"number": 1695,
+		"text": "Savci se objevili v:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "druhohorách",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "třetihorách",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "prvohorách",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "prahorách",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1696,
+		"category": 23,
+		"number": 1696,
+		"text": "Strategie přežití typu R:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v současnosti ji využívají lidé",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je charakteristická vysokou úmrtností mladých jedinců",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "využívají ji hraboši",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je charakteristická vysokou úmrtností starých jedinců",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1697,
+		"category": 23,
+		"number": 1697,
+		"text": "Strategie přežití typu K:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v současnosti ji využívají lidé",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je charakteristická vysokou úmrtností mladých jedinců",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "využívají ji hraboši",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je charakteristická vysokou úmrtností starých jedinců",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1698,
+		"category": 23,
+		"number": 1698,
+		"text": "Ve třetihorách:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "došlo k rozšíření savců a krytosemenných rostlin",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pronikl život i na souš (první rostliny a bezobratlí)",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pronikli první plazi na souš",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vzniká Gondwana",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1699,
+		"category": 23,
+		"number": 1699,
+		"text": "Hlavními faktory dle Darwina, které ovlivňují evoluci všech druhů jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "změny v ekosystémech a symbióza druhů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "boj o život a přirozený výběr",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "přirozený výběr a opakující se kataklyzmata (obrovské katastrofy)",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "fyzikální (teplo, světlo, radiace) a chemické (pH, živiny, aj.)",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1700,
+		"category": 23,
+		"number": 1700,
+		"text": "Jednou z myšlenek Darwinovy evoluční teorie je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dlouhý vývoj eobiontů z koacervátů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "opakování vývoje druhu ve vývoji jedince",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dlouhý vývoj všech druhů rostlin a živočichů ze společných předků",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "dlouhý vývoj druhů umělým výběrem jedinců s vhodnými znaky",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1701,
+		"category": 23,
+		"number": 1701,
+		"text": "Plíce se poprvé objevují u:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "lalokoploutvých ryb",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "obojživelníků",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "paryb",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pláštěnců",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1702,
+		"category": 23,
+		"number": 1702,
+		"text": "Evoluční novinkou savců je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "přechod k plicnímu dýchání",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jejich zárodečný vývoj",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vývoj kráčivé končetiny",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kostěná vnitřní kostra",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1703,
+		"category": 23,
+		"number": 1703,
+		"text": "Do nejstaršího pleistocénu jsou datovány nálezy skupiny australopiték pocházející z:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Afriky",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Austrálie",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Asie",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1704,
+		"category": 23,
+		"number": 1704,
+		"text": "Porodní hmotnost novorozenců je příkladem znaku ovlivňovaného:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "usměrňující selekcí",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "normalizující selekcí",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "disruptivní selekcí",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "balancující selekcí",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1705,
+		"category": 23,
+		"number": 1705,
+		"text": "Nové geny vznikají v evoluci života na Zemi především mechanismem:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "genové duplikace",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mutací",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "selekce",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "inbreedingu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1706,
+		"category": 23,
+		"number": 1706,
+		"text": "Nové druhy vznikají zejména:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kreací",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "selekcí",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "reprodukční izolací",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "příbuzenským křížením",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1707,
+		"category": 23,
+		"number": 1707,
+		"text": "Společný předek dnes žijících lidí žil podle genetických indicií:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v Číně",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v severovýchodní Africe",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "na více místech Země současně",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v Evropě",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1708,
+		"category": 23,
+		"number": 1708,
+		"text": "Který z procesů je nezbytný pro průběh evoluce:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mutace",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "přirozený výběr (selekce)",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pohlavní rozmnožování",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "stálé prostředí",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1709,
+		"category": 23,
+		"number": 1709,
+		"text": "Historicky první biologickou molekulou na Zemi mohla být RNA, protože:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je chemicky stabilní",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "může mít katalytickou (enzymatickou) aktivitu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "může uchovávat a reprodukovat dědičnou informaci",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "její syntéza je úspornější, než syntéza bílkovin",
+				"correct": false
+			}
+		]
+	}
+]

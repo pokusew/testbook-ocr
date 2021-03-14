@@ -1,0 +1,514 @@
+[
+	{
+		"id": 938,
+		"category": 7,
+		"number": 938,
+		"text": "U obojživelníků (Amphibia) a plazů (Reptilia):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "existuje velký a malý oběh krevní",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "srdce má 1 předsíň a 2 komory",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "srdce má 1 předsíň a jednu komoru",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se v srdci krev z plic mísí s krví přicházející z těla",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 939,
+		"category": 7,
+		"number": 939,
+		"text": "Ptáci (Aves) a savci (Mammalia):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mají malý a velký krevní oběh zcela oddělený",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mají krevní oběh otevřený",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mají neuzavřenou mezikomorovou srdeční přepážku",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mají dvě srdeční komory a dvě předsíně",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 940,
+		"category": 7,
+		"number": 940,
+		"text": "Hemocyanin se vyskytuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "u některých kroužkovců (žížala)",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "u hlavonožců",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "u raka",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "u všech obratlovců",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 941,
+		"category": 7,
+		"number": 941,
+		"text": "Kyselinu močovou jako zplodinu metabolismu vylučují:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ptáci",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "korýši",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "hmyz",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "savci",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 942,
+		"category": 7,
+		"number": 942,
+		"text": "Močovinu jako zplodinu metabolismu aminokyselin vylučují:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ptáci",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Žahavci",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ostnokožci",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "savci",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 943,
+		"category": 7,
+		"number": 947,
+		"text": "Bezjaderné erytrocyty nacházíme:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "u ptáků",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "u ryb",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "u plazů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 944,
+		"category": 7,
+		"number": 948,
+		"text": "U obojživelníků a plazů:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "existuje pouze velký oběh krevní",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "srdce má 2 předsíně a jednu komoru",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "srdce má 1 předsíň a jednu komoru",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 945,
+		"category": 7,
+		"number": 949,
+		"text": "Difúzní nervovou soustavu mají např.:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žahavci",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "houby",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "paryby",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ptáci",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 946,
+		"category": 7,
+		"number": 950,
+		"text": "Jednoděložné rostliny:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "patří mezi nahosemenné",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "patří mezi krytosemenné",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mají svazčité kořeny",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "patří mezi ně trávy, palmy, magnólie",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 947,
+		"category": 7,
+		"number": 951,
+		"text": "Semiplacenta:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se nachází u vačnatců",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je situace, kdy je chorion volně přiložen ke stěně dělohy bez vytvořených klků",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je placenta přibližně poloviční velikosti než odpovídá danému druhu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je nedokonalá placenta u živorodých plazů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 948,
+		"category": 7,
+		"number": 952,
+		"text": "Trubicová nervová soustava se v průběhu ontogeneze nachází u:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Žahavců",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pláštěnců",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "bezlebečných",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "strunatců",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 949,
+		"category": 7,
+		"number": 953,
+		"text": "Dvouděložné rostliny:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "patří mezi vyšší rostliny",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "patří mezi krytosemenné",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mají cévní svazky uspořádané do kruhu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "patří mezi ně smrk, bříza, dub",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 950,
+		"category": 7,
+		"number": 943,
+		"text": "Gangliovou nervovou soustavu mají např.:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "paryby",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kopinatci",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "členovci",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ptáci",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 951,
+		"category": 7,
+		"number": 944,
+		"text": "Trubicová nervová soustava je typická pro:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "obratlovce",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "členovce",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "měkkýše",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "výtrusovce",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 952,
+		"category": 7,
+		"number": 945,
+		"text": "Zelené řasy (Chlorophyta):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v životním cyklu převládá haploidní fáze",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mají zpravidla uzavřenou mitózu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou jednobuněčné nebo mnohobuněčné, stélkaté",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou autotrofní nebo heterotrofní",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 953,
+		"category": 7,
+		"number": 946,
+		"text": "Kožní dýchání:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "má značný význam u ryb",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "má značný význam u ptáků",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "má značný význam u obojživelníků",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je jediným způsobem dýchání u máloštětinatců",
+				"correct": true
+			}
+		]
+	}
+]

@@ -1,0 +1,514 @@
+[
+	{
+		"id": 148,
+		"category": 2,
+		"number": 156,
+		"text": "DNA je obsažena kromě jádra také v:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mitochondriích",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "plastidech",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ribosomech",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "tukových vakuolách",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 149,
+		"category": 3,
+		"number": 148,
+		"text": "Při křížení heterozygotní červenooké samičky octomilky s červenooký samečkem dostaneme:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "červenooké samečky a bělooké samičky",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "samičky červenooké, polovinu samečků červenookých, polovinu bělookých",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "polovinu potomků bělookých a polovinu červenookých bez ohledu na pohlaví",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 150,
+		"category": 3,
+		"number": 149,
+		"text": "Při křížení heterozygotní červenooké samičky octomilky s bělookým samečke dostaneme:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pouze bělooké samičky a červenooké samečky",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pouze červenooké samečky a bělooké samičky",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "polovinu potomků bělookých a polovinu červenookých bez ohledu na pohlaví",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 151,
+		"category": 3,
+		"number": 150,
+		"text": "Při křížení červenookého samečka octomilky s bělookou samičkou dostaneme:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "všechno potomstvo červenooké",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "červenooké samečky a bělooké samičky",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "polovinu potomků bělookých a polovinu červenookých",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 152,
+		"category": 3,
+		"number": 151,
+		"text": "Při křížení heterozygotní červenooké samičky octomilky s červenooký samečkem dostaneme:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "všechno potomstvo červenooké",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "červenooké samečky a bělooké samičky",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "bělooké samečky a červenooké samičky",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 153,
+		"category": 3,
+		"number": 152,
+		"text": "Při křížení heterozygotní červenooké samičky octomilky s bělookým samečke dostaneme:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "všechno potomstvo červenooké",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pouze červenooké samečky a bělooké samičky",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "polovinu potomků bělookých a polovinu červenookých bez ohledu na pohlaví",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 154,
+		"category": 3,
+		"number": 153,
+		"text": "Chromosomové mutace:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou u člověka neslučitelné se životem",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mění pouze stavbu chromosomů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mění vždy počet chromosomů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "můžeme u člověka odhalit i před narozením",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 155,
+		"category": 3,
+		"number": 154,
+		"text": "Genomové mutace:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mění genetický kód",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vyvolávají zlomy chromatid",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mění strukturu chromosomů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "násobí počet úplných chromosomových sad",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 156,
+		"category": 3,
+		"number": 155,
+		"text": "Genové mutace strukturního genu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mohou zaměnit jednu aminokyselinu v polypeptidovém řetězci",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mohou zaměnit více aminkyselin v peptidu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vždy znamenají kratší peptid",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se musí projevit změnou peptidu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 157,
+		"category": 3,
+		"number": 157,
+		"text": "Látky, které dovedou buněčné dělení vyvolat, jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mutageny",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "cytostatika",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "antibiotika",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mitogeny",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 158,
+		"category": 3,
+		"number": 158,
+		"text": "Hlavní kontrolní uzel buněčného cyklu je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v G1 fázi",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v S fázi",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v G2 fázi",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mezi S a G2 fází",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 159,
+		"category": 3,
+		"number": 159,
+		"text": "K replikaci jaderné DNA dochází v:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "G1 fázi",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "S fázi",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "G2 fázi",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Go fázi",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 160,
+		"category": 3,
+		"number": 160,
+		"text": "Jako interfázní označujeme jádro buňky ve fázi buněčného cyklu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "G1",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "S",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "G2",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "M",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 161,
+		"category": 3,
+		"number": 161,
+		"text": "Buněčný cyklus nazýváme období od:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "konce jedné mitózy do konce mitózy následující",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "konce profáze do metafáze",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "začátku G1 do začátku mitózy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "začátku G1 do konce G2",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 162,
+		"category": 3,
+		"number": 162,
+		"text": "Cytokineze je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "rozdělení jádra buňky",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pohyb buňky pomocí panožek",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "cytoskeletální soustava",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "rozdělení cytoplazmy",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 163,
+		"category": 3,
+		"number": 163,
+		"text": "V profázi mitózy se chromosom skládá:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "z jedné chro",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ze 2 chromatid",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ze 3 chromatid",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ze 4 chromatid",
+				"correct": false
+			}
+		]
+	}
+]

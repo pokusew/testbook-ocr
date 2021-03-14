@@ -1,0 +1,578 @@
+[
+	{
+		"id": 579,
+		"category": 6,
+		"number": 579,
+		"text": "Kašovitou moč s krystalky kyseliny močové a jejích solí vylučují:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ryby",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hlavonožci",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "suchozemští vejcorodí živočichové",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mořské houby a žahavci",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 580,
+		"category": 6,
+		"number": 580,
+		"text": "Kašovitou moč s krystalky kyseliny močové a jejích solí vylučují:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "plazi",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ptáci",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "hmyz",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ryby",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 581,
+		"category": 6,
+		"number": 581,
+		"text": "Tělní tekutina sladkovodních živočichů je ve vztahu k osmotickému tlak a iontovému složení mořské vody roztokem:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hypotonickým",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hypertonickým",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "izotonickým",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "přesyceným",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 582,
+		"category": 6,
+		"number": 582,
+		"text": "Tělní tekutina sladkovodních živočichů je ve vztahu k sladké vodě roztokem:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "přesyceným",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hypotonickým",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "izotonickým",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "hypertonickým",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 583,
+		"category": 6,
+		"number": 583,
+		"text": "U suchozemských živočichů je definitivní moč ve srovnání s tělními tekutinam roztokem:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "odpovídajícím 0,9% roztoku Naci",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hypotonickým",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "izotonickým",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "hypertonickým",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 584,
+		"category": 6,
+		"number": 584,
+		"text": "Vylučovacím orgánem jsou u:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ploštěnců protonefridie",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hmyzu metanefridie",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kroužkovců malpighické žlázy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "korýšů nefrony",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 585,
+		"category": 6,
+		"number": 585,
+		"text": "Vylučovacím orgánem ploštěnců jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "metanefridie",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "malpighické žlázky",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "protonefridie",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 586,
+		"category": 6,
+		"number": 586,
+		"text": "Nefrony:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vytvářejí moč filtrací, sekrecí a zpětnou resorpcí",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou tam, kde není vyvinut coelom, na vnitřním konci otevřeny do zadní části střeva",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou vylučovacím orgánem ryb",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou vylučovacím orgánem kopinatce",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 587,
+		"category": 6,
+		"number": 587,
+		"text": "Plaménkové buňky:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou základem protonefridií",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nacházíme u tasemnic",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nacházíme u žebernatců",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nacházíme u ploštěnců",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 588,
+		"category": 6,
+		"number": 588,
+		"text": "Specializované smyslové orgány, např. orgány rovnováhy jsou u bezobratlých:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "tvořeny kostěným a blanitým labyrintem",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "tvořeny kostěným labyrintem",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "tvořeny statocystou",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "dosud nevytvořeny",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 589,
+		"category": 6,
+		"number": 589,
+		"text": "U komorového oka tvoří světlolomný aparát vždy:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "duhovka",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "sítnice",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "rohovka a čočka",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "tyčinky a čípky na sítnici",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 590,
+		"category": 6,
+		"number": 590,
+		"text": "Polyembryonie:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je rozdělení, rýhujícího se vajíčka živočichů na dvě nebo více buněk, které se vyvino v samostatné jedince",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je příkladem pohlavního rozmnožování u prvoků",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vede ke vzniku různopohlavních dvojčat člověka",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je základem vzniku všech dvojčat člověka",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 591,
+		"category": 6,
+		"number": 591,
+		"text": "Při pohlavním rozmnožování:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "splývají dvě zygoty",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "splývají dvě gamety v zygotu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "obvykle vznikají z vajíčka a dvou spermií 2 zygoty",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mohou z jedné zygoty vzniknout dvě embrya",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 592,
+		"category": 6,
+		"number": 592,
+		"text": "Gamety jednoho jedince při pohlavním rozmnožování:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mají haploidní počet chromosomů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vznikají v gonádách několikanásobným redukčním dělením somatických buněk",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mají diploidní počet chromosomů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mají všechny stejnou genetickou výbavu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 593,
+		"category": 6,
+		"number": 593,
+		"text": "Partenogeneze je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "způsob rozmnožování vyskytující se často u parazitických organismů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "tzv. haploidní u mšic, perloočky a hlístů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "tzv. diploidní u trubců a roztočů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vývoj vajíčka bez vniknutí spermie",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 594,
+		"category": 6,
+		"number": 594,
+		"text": "Rodozměna (metageneza):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je střídání pohlavní a nepohlavní generace",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nastává pouze u rostlin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je sekundární jev u bičíkovců a výtrusovců",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je primární jev u mnohobuněčných živočichů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 595,
+		"category": 6,
+		"number": 595,
+		"text": "Při metagenezi žahavců:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je pohlavní generací polyp",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je střídáno pohlavní rozmnožování s nepohlavním",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je nepohlavní generací medúza",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se volně plovoucí larva tvoří z polypa",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 596,
+		"category": 6,
+		"number": 596,
+		"text": "Při metagenezi žahavců:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "z oplozeného vajíčka pohyblivé (plovoucí) generace vzniká larva planula",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vzniká pohyblivá generace medúz nepohlavně z přisedlé generace polypů příčný dělením nebo pučením",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se z polypa tvoří volně plovoucí larva",
+				"correct": false
+			}
+		]
+	}
+]

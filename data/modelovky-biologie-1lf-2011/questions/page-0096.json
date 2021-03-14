@@ -1,0 +1,578 @@
+[
+	{
+		"id": 1621,
+		"category": 22,
+		"number": 1621,
+		"text": "Pojmem imise označujeme:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "plynné znečištění ovzduší",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "spad",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "znečištění vody",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "samoznečištění ekosystémů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1622,
+		"category": 22,
+		"number": 1622,
+		"text": "Skleníkový efekt je vyvoláván především:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "CO2",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "SO2",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "NO,",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Sr",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1623,
+		"category": 22,
+		"number": 1623,
+		"text": "Eutrofizace vody je především podmíněna sloučeninami:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "N",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "S",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "C1",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "C",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1624,
+		"category": 22,
+		"number": 1624,
+		"text": "V důsledku emisí pH půdy:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "klesá",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kolísá",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nabývá hodnot nižších než 7",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se nemění",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1625,
+		"category": 22,
+		"number": 1625,
+		"text": "Jako horní hranici akustické pohody můžeme označit hluk do:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "40 dB",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "60 dB",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "80 dB",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "100 dB",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1626,
+		"category": 22,
+		"number": 1630,
+		"text": "Pojem klimax je užíván pro označení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zhroucení ekosystému",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "rovnovážného ekosystému",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "změny ekosystému",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vývoje ekosystému",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1627,
+		"category": 22,
+		"number": 1631,
+		"text": "Vztah mezi populacemi ve společenstvu je dán soutěží:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "o omezené zdroje výživy",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "o omezený prostor",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "o krásnější zevnějšek",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mezi slabšími a silnějšími",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1628,
+		"category": 22,
+		"number": 1632,
+		"text": "Biocenoza se skládá z:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "fytocenózy a společenstva mikrobů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "fytocenózy a zoocenózy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pouze z antropocenózy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "z fytocenózy, zoocenózy a společenstva mikrobů",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1629,
+		"category": 22,
+		"number": 1633,
+		"text": "Pro ekosystém ve vývojovém stupni zmlazení je typické:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dominance silně specializovaných druhů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "složitější formy symbiózy druhů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "adaptace druhu a vývoj nových forem",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "degenerace silně specializovaných druhů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1630,
+		"category": 22,
+		"number": 1634,
+		"text": "Pro ekosystém ve vývojovém stupni zmlazení je typické:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "divergence vývojových linií druhu a adaptivní radiace",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zpomalené tempo vývoje nových druhů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dominance silně specializovaných druhů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "maximální zastoupení nejmladších forem jednotlivých druhů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1631,
+		"category": 22,
+		"number": 1635,
+		"text": "Pro ekosystém ve vývojovém období vyzrávání jsou charakteristické:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "složité vzájemné vztahy, stoupá počet druhů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "složité formy symbiózy různých druhů",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "tzv. ekologické nahrazování („biologická štafeta“)",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "po určité době vede k selhání systému",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1632,
+		"category": 22,
+		"number": 1636,
+		"text": "Vrcholové stádium ekosystému se vyznačuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "převahou silně specializovaných druhů a jejich degenerací",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "urychlením vývoje nových forem a jejich případnou konvergencí",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "adaptací druhu na nové vývojové podmínky a jeho divergencí",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "adaptivní radiaci druhu a jeho specializací na nové podmínky",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1633,
+		"category": 22,
+		"number": 1637,
+		"text": "Vrcholové stádium vývoje ekosystému končí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "tzv. ekologickým nahrazováním",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "prudkým početním vzrůstem druhů a jedinců ve společenstvu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zhroucením ekosystému a s ním spojeným vymíráním druhů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "divergencí několika vývojových linií původně jediného druhu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1634,
+		"category": 22,
+		"number": 1638,
+		"text": "Zhroucení ekosystému:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je důsledek adaptivní radiace",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je spojeno s vymíráním druhů nebo jejich ústupem",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je způsobeno neadaptivní radiací",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se projeví mj. konvergencí vývoje druhů a forem",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1635,
+		"category": 22,
+		"number": 1626,
+		"text": "Ve stabilních ekosystémech se kompetice zmírňuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "migrací",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "rozdělením stanovišť",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "změnou preference určité potravy",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1636,
+		"category": 22,
+		"number": 1627,
+		"text": "Eutrofizace vody vede v konečné fázi k:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vymizení kyslíku",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zlepšení kvality vody",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zvýšení obsahu živin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zvýšení obsahu kyslíku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1637,
+		"category": 22,
+		"number": 1628,
+		"text": "Vyšší obsah dusíkatých látek v pitné vodě ohrožuje kojence zejména:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "průjmy",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vytvářením methemoglobinu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mutagenním působením",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "špatnou chutí",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1638,
+		"category": 22,
+		"number": 1629,
+		"text": "Nejvyšší koncentrace toxických látek je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ve výškových budovách",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "u konzumentů nižšího řádu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "u producentů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "u konzumentů vyššího řádu",
+				"correct": true
+			}
+		]
+	}
+]

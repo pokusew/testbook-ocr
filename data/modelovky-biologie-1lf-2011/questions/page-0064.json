@@ -1,0 +1,546 @@
+[
+	{
+		"id": 1062,
+		"category": 8,
+		"number": 1062,
+		"text": "Vápník je důležitý pro:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "srážení krve",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "stavbu kostí a zubů",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kontrakci svalů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pružnost kůže",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1063,
+		"category": 8,
+		"number": 1070,
+		"text": "Krev je do srdečnice vypuzena, když je tlak krve v srdečnici nižší než tlak krve v:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "levé síni",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pravé komoře",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pravé síni",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "levé komoře",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1064,
+		"category": 8,
+		"number": 1071,
+		"text": "Krev je do plicnice vypuzena, když je tlak krve v plicnici nižší než tlak krve v:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "levé síni",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pravé komoře",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pravé síni",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "levé komoře",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1065,
+		"category": 9,
+		"number": 1063,
+		"text": "V období diastoly komor:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou uzavřené cípaté chlopně",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se komory plní krví",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou otevřené poloměsíčité chlopně",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1066,
+		"category": 9,
+		"number": 1064,
+		"text": "Pupečník obsahuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dvě tepny a jednu žílu, tepny vedou krev chudou na kyslík, žíla vede krev na kyslí bohatou",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dvě tepny a jednu žílu, tepny vedou krev bohatou na kyslík, žíla vede krev na kyslí chudou",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jednu tepnu a dvě žíly, tepna vede krev bohatou na kyslík, žíly vedou krev na kyslí chudou",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jednu tepnu a dvě žíly, tepna vede krev chudou na kyslík, žíly vedou krev na kyslí bohatou",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1067,
+		"category": 9,
+		"number": 1065,
+		"text": "Skrze bránici prochází:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "aorta, jícen, v. portae (vrátnicová žíla)",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "horní dutá žíla, aorta, jícen",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dolní dutá žíla a aorta",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "bloudivý nerv (n. vagus) spolu s jícnem",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1068,
+		"category": 9,
+		"number": 1066,
+		"text": "O cévním systému člověka platí, že:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "z pravé srdeční komory vytéká krev plicnicí (truncus pulmonalis) do plic",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "z levé srdeční komory vytéká krev plicnicí (truncus pulmonalis) do plic",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "do levé srdeční síně přitéká krev dutými žilami z tělního oběhu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "do levé srdeční síně přitéká krev plicními žilami z plic",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1069,
+		"category": 9,
+		"number": 1067,
+		"text": "Na začátku stahu komor jsou chlopně:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "cípaté otevřeny",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "poloměsíčité otevřeny",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "cípaté i poloměsíčité uzavřeny",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "poloměsíčité zavřeny",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1070,
+		"category": 9,
+		"number": 1068,
+		"text": "První ozva srdeční je nejlépe slyšitelná na:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hrotu srdečním",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "průmětu srdeční osy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "hrdelní jamce",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pravé straně u hrudní kosti",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1071,
+		"category": 9,
+		"number": 1069,
+		"text": "V období systoly komor:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se uzavírají poloměsíčité chlopně",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "komory se plní krví",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "otevírají se cípaté chlopně",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je krev vypuzována do velkých tepen",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1072,
+		"category": 9,
+		"number": 1072,
+		"text": "Okysličená krev z plic přitéká do:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "levé síně",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pravé síně",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "levé komory",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pravé komory",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1073,
+		"category": 9,
+		"number": 1073,
+		"text": "Poloměsíčité chlopně jsou v srdci:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mezi síněmi a komorami",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v místě odstupu velkých tepen",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v ústí velkých žil",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mezi pravým a levým srdcem",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1074,
+		"category": 9,
+		"number": 1074,
+		"text": "U obratlovců je krev v tepnách poháněna:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jen stahy srdce",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "stahy srdce a aktivní pulzací velkých tepen",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "stahy srdce a aktivní pulzací všech tepen",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "stahy srdce a aorty",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1075,
+		"category": 9,
+		"number": 1075,
+		"text": "Do plic přitéká u člověka krev z:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "levé komory",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pravé síně",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pravé komory",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "levé síně",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1076,
+		"category": 9,
+		"number": 1076,
+		"text": "Plicní tepna vede krev",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "z plic do srdce",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "z pravé srdeční komory do plic",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "chudou na kyslík",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "bohatou na kyslík",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1077,
+		"category": 9,
+		"number": 1077,
+		"text": "Za minutu proteče plicním oběhem v porovnání s velkým oběhem:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "stejné množství krve",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "menší množství krve",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "větší množství krve",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "různé množství krve, v závislosti na zatížení",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1078,
+		"category": 9,
+		"number": 1078,
+		"text": "V klidu u dospělého člověka přečerpá srdce do plicního oběhu za minutu asi:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1,5 litru krve",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,5 litru krve",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "5 litrů krve",
+				"correct": true
+			}
+		]
+	}
+]

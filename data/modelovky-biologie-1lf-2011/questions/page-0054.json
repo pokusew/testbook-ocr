@@ -1,0 +1,578 @@
+[
+	{
+		"id": 884,
+		"category": 7,
+		"number": 884,
+		"text": "Ptáci (Aves) mají:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vždy 7 krčních obratlů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dlouhé kosti duté",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "hrudní kost vybíhající v hřeben",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "čtyřprsté přední končetiny",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 885,
+		"category": 7,
+		"number": 885,
+		"text": "Amnion je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vnitřní zárodečný obal",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vnější zárodečný obal",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vnitřní zárodečný list",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vnější zárodečný list",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 886,
+		"category": 7,
+		"number": 886,
+		"text": "Z entodermu (vnitřního zárodečného listu) u obratlovců vzniká:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "trávicí soustava",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nervová soustava",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vylučovací soustava",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "svalová soustava",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 887,
+		"category": 7,
+		"number": 887,
+		"text": "Kost krkavčí u ptáků (Aves):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je malá",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je mohutně vyvinuta",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vůbec se nevyvíjí",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "srůstá s žebry",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 888,
+		"category": 7,
+		"number": 888,
+		"text": "Ptáci (Aves) mají žaludek:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jednoduchý",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dvoudílný",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "třídílný",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "čtyřdílný",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 889,
+		"category": 7,
+		"number": 889,
+		"text": "Kloaka:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je společný vývod trávicí, vylučovací a pohlavní soustavy",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je samčí pohlavní žláza",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se nachází u ptáků",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "má význam pro výživu ptačích zárodků",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 890,
+		"category": 7,
+		"number": 890,
+		"text": "Kloaka se nachází u:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ptáků",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "žraloků",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ptakořitných",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "plazů",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 891,
+		"category": 7,
+		"number": 891,
+		"text": "Vzdušné vaky nacházíme u:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "letounů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ryb",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vzdušnicovců",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ptáků",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 892,
+		"category": 7,
+		"number": 892,
+		"text": "Mezi prvoústé (Protostomia) řadíme:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "měkkýše",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "členovce",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ostnokožce",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pláštěnce",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 893,
+		"category": 7,
+		"number": 1193,
+		"text": "Vačnatí (Metatheria):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mají nedokonalou placentu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "rodí dokonale vyvinutá mlád'ata",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "žijí v Austrálii a v Americe",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "patří mezi ně klokani, koaly, ježury",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 894,
+		"category": 7,
+		"number": 194,
+		"text": "Červené krvinky savců (Mammalia);",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mají jádra kulatá",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mají jádra laločnatá",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mají jádra piškotovitá",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou bezjaderné",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 895,
+		"category": 7,
+		"number": 195,
+		"text": "Kytovci (Cetacea):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dýchají plícemi",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dýchají plicními vaky",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "živí se výhradně dravě",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mají extrémně redukované zadní končetiny",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 896,
+		"category": 7,
+		"number": 896,
+		"text": "Tři sluchové kůstky ve středním uchu mají:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "obojživelníci",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "plazi",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ptáci",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "savci",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 897,
+		"category": 7,
+		"number": 897,
+		"text": "Mezi zárodečné obaly savců patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "entoderm",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "amnion",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ektoderm",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mezoderm",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 898,
+		"category": 7,
+		"number": 898,
+		"text": "Mezi nidikolní (krmivé) ptáky patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kur domácí",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "poštolka",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "sýkory",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "holub",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 899,
+		"category": 7,
+		"number": 899,
+		"text": "Mezi stěhovavé ptáky patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "rorýs",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "sýkora",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dlask",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Cáp",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 900,
+		"category": 7,
+		"number": 900,
+		"text": "Mezi nidifugní (nekrmivé) ptáky patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "husa",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "holub",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vrabec",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kukačka",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 901,
+		"category": 7,
+		"number": 901,
+		"text": "Do ptačího nadřádu létaví (Neognathae) patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "tučňák",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ledňáček",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kasuár",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kachna",
+				"correct": true
+			}
+		]
+	}
+]

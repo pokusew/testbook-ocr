@@ -1,0 +1,578 @@
+[
+	{
+		"id": 1515,
+		"category": 20,
+		"number": 1515,
+		"text": "Slezina:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je největší lymfatický orgán lidského těla",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je v dospělosti místem tvorby červených krvinek",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je místem zániku červených krvinek",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je uložena v levé brániční klenbě",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1516,
+		"category": 20,
+		"number": 1516,
+		"text": "Eustachova trubice:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "spojuje nosohltan se středoušní dutinou",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "spojuje nosohltan s vnitřním uchem",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "spojuje nosohltan se zvukovodem",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pomáhá vyrovnávat tlak ve středoušní dutině",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1517,
+		"category": 20,
+		"number": 1517,
+		"text": "Hltan (pharynx):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je součástí trávicího systému",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je součástí dýchacího systému",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se podílí na produkci trávicích enzymů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "podílí se na polykání",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1518,
+		"category": 20,
+		"number": 1518,
+		"text": "Pravá plíce má obvykle:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "3 laloky",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "2 laloky",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1 lalok",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "4 laloky",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1519,
+		"category": 20,
+		"number": 1519,
+		"text": "Levá plíce má obvykle:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "4 laloky",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "3 laloky",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "2 laloky",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1 lalok",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1520,
+		"category": 20,
+		"number": 1520,
+		"text": "Dýchání je řízeno z dechového centra:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v prodloužené míše",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v krční oblasti páteřní míchy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v hypothalamu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v mozkové kůře",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1521,
+		"category": 20,
+		"number": 1521,
+		"text": "Epitel dýchacích cest:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je řasinkový epitel",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je dlaždicový epitel",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je pokryt hlenem",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je rohovějící epitel",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1522,
+		"category": 20,
+		"number": 1522,
+		"text": "Hlasivkové vazy:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou důležité pro tvorbu hlasu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou 4",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se pohybují díky svalům hrtanu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se pohybují díky svalům hltanu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1523,
+		"category": 20,
+		"number": 1523,
+		"text": "Tenké střevo:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se anatomicky dělí na 3 části",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je jeden metr dlouhé",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je 3-5 metrů dlouhé",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je 7 metrů dlouhé",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1524,
+		"category": 20,
+		"number": 1524,
+		"text": "Pankreas:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "produkuje insulin",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "produkuje glukagon",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "produkuje pepsinogen",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "produkuje amylázu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1525,
+		"category": 20,
+		"number": 1525,
+		"text": "Pankreas:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "obsahuje endokrinní tkáň",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "obsahuje exokrinní tkáň",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jeho vývod ústí do dvanáctníku",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jeho vývod ústí do lačníku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1526,
+		"category": 20,
+		"number": 1526,
+		"text": "Žluč:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je produkována jaterními buňkami",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je vylučována do dvanáctníku",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je vylučována do vzestupného tračníku",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je produkována ve žlučníku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1527,
+		"category": 20,
+		"number": 1527,
+		"text": "Dolní dutá žíla ústí do:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pravé síně",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pravé komory",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "levé síně",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "levé komory",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1528,
+		"category": 20,
+		"number": 1528,
+		"text": "Základní částí nefronu jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "glomerulus a proximální stočený kanálek",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Bowmanovo pouzdro a ledvinná pánvička",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "terciární stočený kanálek",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Henleova klička",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1529,
+		"category": 20,
+		"number": 1529,
+		"text": "Základní částí neuronu jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dendrit, axon, tělo buňky (soma)",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "neuroglie",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "myelinové pochvy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Henleova klička",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1530,
+		"category": 20,
+		"number": 1530,
+		"text": "Gliové buňky:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "tvoří myelinové pochvy",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou součástí srdce",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou důležité pro růst kostí",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "tvoří šedou hmotu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1531,
+		"category": 20,
+		"number": 1531,
+		"text": "Hypofýza:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se skládá ze 2 částí",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je spojena stopkou s hypothalamem",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se skládá ze 5 částí",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "není u člověka vytvořena",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1532,
+		"category": 20,
+		"number": 1532,
+		"text": "Funkcí varlat je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "produkce spermií",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "produkce testosteronu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "produkce estrogenu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "produkce moči",
+				"correct": false
+			}
+		]
+	}
+]

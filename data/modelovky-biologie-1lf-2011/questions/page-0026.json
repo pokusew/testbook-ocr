@@ -1,0 +1,546 @@
+[
+	{
+		"id": 383,
+		"category": 5,
+		"number": 383,
+		"text": "U příbuzenských sňatků hrozí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zvýšené riziko dominantně dědičných nemocí",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zvýšené riziko recesivně dědičných nemocí",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zvýšení frekvence škodlivých mutací",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "neplodnost manželů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 384,
+		"category": 5,
+		"number": 384,
+		"text": "Frekvence alel v populaci:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je za normálních podmínek vždy 0,5",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se ve velké populaci mění rychle",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je vždy stálá",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 385,
+		"category": 5,
+		"number": 385,
+		"text": "Genofond populace může být ovlivněn:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "selekcí",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "příbuzenskými sňatky",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "inbreedingem",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "migrací",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 386,
+		"category": 5,
+		"number": 386,
+		"text": "Rovnovážná modelová populace je vymezena:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dostatečnou velikostí (nad 1000 jedinců v reprodukčním věku)",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "možností náhodné volby partnera (panmixie)",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "sdíleným územím",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zastoupením všech generací",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 387,
+		"category": 5,
+		"number": 387,
+		"text": "Plodnost (fitness) genotypu v populaci je určována:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "délkou průměrného dožití potomků ve srovnání s ostatními genotypy",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "poměrem pohlaví potomků ve srovnání s ostatními genotypy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "průměrným počtem potomků ve srovnání s ostatními genotypy",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "frekvencí sterilních párů ve srovnání s ostatními genotypy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 388,
+		"category": 5,
+		"number": 388,
+		"text": "Relativní biologická zdatnost (fitness) genotypu v populaci je určována:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "poměrem délky průměrného dožití potomků ku střední očekávané délce života",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "poměrem průměrného množství potomků daného genotypu ku průměrnému množstv potomků nejplodnějšího genotypu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "četností neplodnosti daného genotypu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "hmotností potomků při narození (hmotností vajec) ve srovnání s ostatními genotypy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 389,
+		"category": 5,
+		"number": 389,
+		"text": "Selekce se může projevit:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "letálním efektem do reprodukčního věku",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "spontánními potraty",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "letálním efektem ve středním a vyšším věku",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "neplodností",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 390,
+		"category": 5,
+		"number": 390,
+		"text": "Dynamika změn genofondu populace působením selekce závisí na:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "velikosti populace",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "intenzitě selekce",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "výchozí frekvenci selektovaného fenotypu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "na typu selektovaného fenotypu (dominantní, recesivní)",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 391,
+		"category": 5,
+		"number": 391,
+		"text": "Selekce proti dominantním i recesivním homozygotům v populaci člověka:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vede k snižování zastoupení méně často zastoupených homozygotů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vysvětluje relativně vysokou frekvenci některých chorob (např. cystické fibrózy)",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je v současné době nehodnotitelná vzhledem k úrovni léčebné péče",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nebyla popsána",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 392,
+		"category": 5,
+		"number": 392,
+		"text": "Prevence narození dětí s recesivně dědičnými letálními (smrtelnými) chorobami:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "může závažně zhoršit genofond populace již po několika generacích prevence",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "může významně zlepšit genofond již za 100 let prevence",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "může zlepšit genofond po několika desítkách generací prevence",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nemění strukturu genofondu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 393,
+		"category": 5,
+		"number": 393,
+		"text": "Úkolem lékařské genetiky je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "péče o kvalitu genofondu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "realizace eugenických opatření",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "sledování frekvence mutací",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pomoc při realizaci reprodukčních záměrů rodičů",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 394,
+		"category": 5,
+		"number": 394,
+		"text": "V malých populacích se uplatňuje náhodná změna frekvence alel genů označovaná:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "genový tok",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "genový drift",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "efekt zakladatele",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "genový posun",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 395,
+		"category": 5,
+		"number": 395,
+		"text": "Fixace alely v malé populaci znamená:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "upevnění rovnovážného zastoupení alel v populaci",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ztrátu druhé alely genu v populaci",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "že genofond populace obsahuje právě jen tuto alelu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ochuzení genofondu populace",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 396,
+		"category": 5,
+		"number": 396,
+		"text": "Efekt zakladatele:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vysvětluje vznik populace",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vysvětluje rozdíly ve frekvenci onemocnění v různých populacích",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je důsledkem jednosměrné selekce",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "patří mezi náhodné změny genofondu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 397,
+		"category": 5,
+		"number": 397,
+		"text": "Populace se může vychýlit z Hardy-Weinbergovy rovnováhy působením:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "selekce",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mutací",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "genovým tokem (migrací)",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "rekombinací",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 398,
+		"category": 5,
+		"number": 398,
+		"text": "U populace v Hardy-Weinbergově rovnováze je frekvence heterozygotů po deset generacích pozorování:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "4p?q?",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "p² + q?",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "p",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "2pg",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 399,
+		"category": 5,
+		"number": 399,
+		"text": "Působením genetického driftu se v populaci:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "snižuje podíl homozygotů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zvyšuje podíl homozygotů",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "snižuje podíl heterozygotů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zvyšuje podíl heterozygotů",
+				"correct": false
+			}
+		]
+	}
+]

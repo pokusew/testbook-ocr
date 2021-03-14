@@ -1,0 +1,546 @@
+[
+	{
+		"id": 1551,
+		"category": 20,
+		"number": 1551,
+		"text": "Cortiho orgán:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "slouží k registraci sluchových podnětů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "slouží k registraci podnětů z vestibulárního aparátu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "slouží k registraci zrakových podnětů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jeho součástí jsou vláskové buňky",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1552,
+		"category": 20,
+		"number": 1552,
+		"text": "Mozeček:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "slouží ke koordinaci motorické aktivity",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "k udržování polohy a postoje",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "přijímá podněty ze svalů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "přijímá podněty z mozkové kůry",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1553,
+		"category": 20,
+		"number": 1553,
+		"text": "Bránicí prochází:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vrátnicová žíla",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "horní dutá žíla",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "aorta a jícen",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "dolní dutá žíla",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1554,
+		"category": 20,
+		"number": 1554,
+		"text": "Poloměsíčité chlopně se nacházejí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v ústí srdečnice (aorty)",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v ústí plicní tepny",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v ústí plicních žil",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v ústí dutých žil",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1555,
+		"category": 20,
+		"number": 1555,
+		"text": "Cípaté chlopně se nacházejí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v ústí srdečnice (aorty)",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v ústí plicní tepny",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mezi pravou síní a komorou",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mezi levou síní a komorou",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1556,
+		"category": 20,
+		"number": 1559,
+		"text": "Bakteriálního původu jsou všechny čtyři choroby:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "spála, spalničky, tuberkulosa, infekční žloutenka",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "malárie, vzteklina, hemofilie, úplavice",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "záškrt, angina, spála, kapavka",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "břišní tyfus, tetanus, tuberkulosa, dýmějový mor",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1557,
+		"category": 20,
+		"number": 1560,
+		"text": "Spálu vyvolává:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vibrio",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "spirocheta",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "tyčinkovitá bakterie",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1558,
+		"category": 20,
+		"number": 1561,
+		"text": "Choleru vyvolává:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "streptokok",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vibrio",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "spirocheta",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "tyčinkovitá bakterie",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1559,
+		"category": 20,
+		"number": 1562,
+		"text": "Choleru vyvolává:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "virus",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "prvok",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "stafylokok",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1560,
+		"category": 20,
+		"number": 1563,
+		"text": "Spálu vyvolává:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "streptokok",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vibrio",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "virus",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "tyčinkovitá bakterie",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1561,
+		"category": 20,
+		"number": 1564,
+		"text": "Tuberkulosu vyvolává:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "streptokok",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vibrio",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "tyčinkovitá bakterie",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1562,
+		"category": 20,
+		"number": 1565,
+		"text": "Příjici (syfilis) vyvolává:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "prvok",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "streptokok",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "spirocheta",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "tyčinkovitá bakterie",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1563,
+		"category": 20,
+		"number": 1566,
+		"text": "Mezi nákazy přenášené vzduchem patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "spála",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "tuberkulóza",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "záškrt",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "botulismus",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1564,
+		"category": 20,
+		"number": 1567,
+		"text": "Mezi nákazy přenášené alimentární cestou patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "cholera",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "úplavice",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "růže",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "záškrt",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1565,
+		"category": 21,
+		"number": 1556,
+		"text": "Čtyři virové choroby člověka jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "infekční žloutenka, chřipka, zarděnky, příušnice",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dětská obrna, opar, chřipka, spalničky",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "rýma, pásový opar, spála, chřipka",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "klíšťová encefalitida, dětská obrna, tuberkulosa, rýma",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1566,
+		"category": 21,
+		"number": 1557,
+		"text": "Viry způsobují u člověka všechny uvedené choroby:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zánět mozkových blan, neštovice, beri-beri, příušnice, chřipku",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "neštovice, syphilis, infekční žloutenku, dětskou obrnu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zánět mozkových blan, mor, spalničky, infekční žloutenku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1567,
+		"category": 21,
+		"number": 1558,
+		"text": "Mezi virová onemocnění člověka patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "spalničky",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vzteklina",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mor",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Downova choroba",
+				"correct": false
+			}
+		]
+	}
+]

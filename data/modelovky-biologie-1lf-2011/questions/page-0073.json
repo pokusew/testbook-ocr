@@ -1,0 +1,546 @@
+[
+	{
+		"id": 1219,
+		"category": 13,
+		"number": 1219,
+		"text": "Sliny obsahují enzym:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "lipázu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "amylázu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "peptidázu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "gastrin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1220,
+		"category": 13,
+		"number": 1220,
+		"text": "Žlučové kyseliny jsou důležité pro trávení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "cukrů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "škrobu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "tuků",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "bílkovin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1221,
+		"category": 13,
+		"number": 1221,
+		"text": "Příušní žlázy patří mezi:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žlázy s vnitřní sekrecí",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "slinné žlázy",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mazové žlázy zevního zvukovodu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kožní žlázy boltce",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1222,
+		"category": 13,
+		"number": 1222,
+		"text": "Vývody velkých slinných žláz ústí do:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hltanu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vedlejších ústních dutin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ústní dutiny",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jícnu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1223,
+		"category": 13,
+		"number": 1223,
+		"text": "Žvýkání přijaté potravy v dutině ústní :",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "umožňuje z bílkovin tvorbu bazických aminokyselin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zvyšuje lipolýzu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "snižuje produkci slin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "uvedené alternativy nejsou správné",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1224,
+		"category": 13,
+		"number": 1224,
+		"text": "Trávicí ústrojí plní tyto funkce:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mechanické a chemické zpracování potravy",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "umožňuje vstřebávání látek",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "může přijaté látky skladovat",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "podílí se na obraných funkcích organismu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1225,
+		"category": 13,
+		"number": 1225,
+		"text": "Tenké střevo je místem:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dlouhodobého skladování potravy",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "trávení",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vstřebávání",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "obrany organismu proti infekci",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1226,
+		"category": 13,
+		"number": 1226,
+		"text": "Pankreatická šťáva je důležitá pr trávení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pouze tuků a peptidů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "tuků",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "cukrů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "tuků, peptidů a cukrů",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1227,
+		"category": 13,
+		"number": 1227,
+		"text": "Tvorbu moči v ledvinách zahajuje proces:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ultrafiltrace krevní plazmy",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ultrafiltrace tkáňového moku",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "resorpce krevní plazmy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "resorpce tkáňového moku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1228,
+		"category": 13,
+		"number": 1228,
+		"text": "Hnací silou filtrace v ledvinách obratlovců je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "tlak krve",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "osmotický tlak",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pulzace přívodných tepen",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "aktivita stěny glomerulů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1229,
+		"category": 13,
+		"number": 1229,
+		"text": "Součástí moči u zdravého člověka není:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "voda",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "močovina",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "sodík",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "glukóza",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1230,
+		"category": 13,
+		"number": 1230,
+		"text": "Glomerulární filtrát je tekutina vzniklá filtrováním:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mízy",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "krve",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "primární moče",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "definitivní moče",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1231,
+		"category": 13,
+		"number": 1231,
+		"text": "Definitivní moč je vytvořena až po průchodu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "proximálním tubulem",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vzestupným raménkem Henleovy kličky",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Henleovou kličkou",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "sběracím kanálkem",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1232,
+		"category": 13,
+		"number": 1232,
+		"text": "Při normální hladině glukózy v krvi:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se glukóza v glomerulech nefiltruje",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je glukóza součástí definitivní moče",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se glukóza filtruje, ale zpětně se vstřebá buňkami proximálního tubulu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "není glukóza součástí definitivní moče",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1233,
+		"category": 13,
+		"number": 1233,
+		"text": "Na řízení činnosti ledvin se podílí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "aldosteron",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "antidiuretický hormon",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "renin-angiotensin",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "erytropoetin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1234,
+		"category": 13,
+		"number": 1234,
+		"text": "Antidiuretický hormon:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zvyšuje množství vyloučené vody v moči",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "snižuje množství vyloučené vody v moči",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "neovlivňuje množství vyloučené vody v moči",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zvyšuje objem vyloučené moči",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1235,
+		"category": 13,
+		"number": 1235,
+		"text": "Močový měchýř je uložen:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "za sponou stydkou",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "před sponou stydkou",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "za křížovou kostí",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "před a nad sponou stydkou",
+				"correct": false
+			}
+		]
+	}
+]

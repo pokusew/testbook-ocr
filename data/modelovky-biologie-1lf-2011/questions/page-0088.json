@@ -1,0 +1,546 @@
+[
+	{
+		"id": 1481,
+		"category": 18,
+		"number": 1481,
+		"text": "První krční obratel se nazývá:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "čepovec",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "atlas",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nosič",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Achilles",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1482,
+		"category": 18,
+		"number": 1482,
+		"text": "Kostra hrudníku je mimo jiné složena z:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "12 párů žeber",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "16 párů žeber",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dvanácti hrudních a tří krčních obratlů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "čtrnácti hrudních obratlů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1483,
+		"category": 18,
+		"number": 1483,
+		"text": "Kyčelní kloub je tvořen:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hlavicí stehenní kosti a jamkou kosti křížové",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hlavicí stehenní kosti a jamkou na kosti holenní",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "hlavicí stehenní kosti a jamkou na kosti pánevní",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "krčkem stehenní kosti a jamkou na kosti pánevní",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1484,
+		"category": 18,
+		"number": 1484,
+		"text": "Mezi těly sousedících obratlů je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "silná vrstva vaziva",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "chrupavčitá ploténka",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vrstva meziobratlových svalů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "meziobratlový kloub",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1485,
+		"category": 18,
+		"number": 1485,
+		"text": "Stavební jednotkou kosterního svalu je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "svalové vlákno",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "svalová buňka",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "motorická ploténka",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "motorická jednotka",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1486,
+		"category": 18,
+		"number": 1486,
+		"text": "Trojhlavý pažní sval patří svojí funkcí mezi:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ohybače (flexory) loketního kloubu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "natahovače (extensory) loketního kloubu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "odtahovače horní končetiny",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "dýchací svaly",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1487,
+		"category": 18,
+		"number": 1487,
+		"text": "Chrupavčité destičky (menisky) kolenního kloubu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "spojují holení, lýtkovou a stehenní kost",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vyrovnávají neodpovídající zakřivení kloubních ploch",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zabraňují natažení v kolenním kloubu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "upevňují čéšku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1488,
+		"category": 18,
+		"number": 1488,
+		"text": "Hladká svalovina je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ve stěně kloubních pouzder",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ve stěně srdečních dutin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ve stěně vnitřních orgánů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v duhovce",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1489,
+		"category": 18,
+		"number": 1489,
+		"text": "Obrys šíje tvoří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "široký sval zádový",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "sval kápový (trapézový)",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zdvihače hlavy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "m. biceps",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1490,
+		"category": 18,
+		"number": 1490,
+		"text": "Kosterní svaly se upínají pomocí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "menisků",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "šlach",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "motorických jednotek",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vsunutých chrupavek",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1491,
+		"category": 18,
+		"number": 1491,
+		"text": "Termín parenchym lze použít pro označení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "druhu cukru",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "specifického hormonu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "rostlinného pletiva",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "specifické jaterní tkáně",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1492,
+		"category": 18,
+		"number": 1492,
+		"text": "Štítná chrupavka:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je součástí hltanu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je součástí hrtanu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "obklopuje štítnou žlázu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "současně obklopuje hrtan i hltan",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1493,
+		"category": 18,
+		"number": 1493,
+		"text": "Natažení horní končetiny v lokti způsobuje sval:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dvouhlavý pažní",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "trojhlavý pažní",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "čtyřhlavý pažní",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kápový",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1494,
+		"category": 18,
+		"number": 1494,
+		"text": "Nejsložitější a nejzatíženější kloub lidského těla je kloub:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ramenní",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "loketní",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kyčelní",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kolenní",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1495,
+		"category": 18,
+		"number": 1495,
+		"text": "V útrobách a cévních stěnách je svalstvo:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zejména příčně pruhované",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hladké",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "převážně obojího typu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "minimálně přítomno a jeho význam je malý",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1496,
+		"category": 19,
+		"number": 1496,
+		"text": "Kůže obsahuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mazové žlázy",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "potní žlázy",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "glomeruly",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "drobné příčně pruhované svaly",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1497,
+		"category": 19,
+		"number": 1497,
+		"text": "Kožní receptory jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dotykové",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "chladové",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "čichové",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "volná zakončení nervová",
+				"correct": true
+			}
+		]
+	}
+]

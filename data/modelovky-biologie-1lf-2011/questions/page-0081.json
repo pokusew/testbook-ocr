@@ -1,0 +1,578 @@
+[
+	{
+		"id": 1359,
+		"category": 16,
+		"number": 1359,
+		"text": "Antidiuretický hormon a oxytocin se tvoří v:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hypothalamu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zadním laloku hypofýzy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "předním laloku hypofýzy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ledvinách",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1360,
+		"category": 16,
+		"number": 1360,
+		"text": "Antidiuretický hormon působí v ledvinách na:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zpětné vstřebávání sodíku",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zpětné vstřebávání draslíku",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "množství filtrované tekutiny",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1361,
+		"category": 16,
+		"number": 1361,
+		"text": "Antidiuretický hormon:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zvyšuje koncentraci moče",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "řídí hospodaření s vápníkem a fosfáty",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ovlivňuje hospodaření s vodou",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "navozuje stahy dělohy při porodu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1362,
+		"category": 16,
+		"number": 1362,
+		"text": "Antidiuretický hormon:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zvyšuje vylučování vody ledvinami",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zvyšuje zpětné vstřebávání vody v ledvinách",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zvyšuje tvorbu moči",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "snižuje množství vylučované moči",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1363,
+		"category": 16,
+		"number": 1363,
+		"text": "Antidiuretický hormon působí v ledvinách na:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zpětné vstřebávání vody",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zpětné vstřebávání sodíku",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zpětné vstřebávání draslíku",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "množství filtrované tekutiny",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1364,
+		"category": 16,
+		"number": 1364,
+		"text": "Funkcí hormonů je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ovlivňovat činnost jednotlivých buněk",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "poskytovat vysoce specifický stavební materiál",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dodávat energii pro specifické buněčné mechanismy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1365,
+		"category": 16,
+		"number": 1365,
+		"text": "Inzulín:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "umožňuje využití glukosy",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "snižuje hladinu glukosy v plasmě",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zvyšuje hladinu glukosy v krvi",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "využívá se při léčbě cukrovky",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1366,
+		"category": 16,
+		"number": 1366,
+		"text": "Inzulín:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "podporuje využití glukózy",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zvyšuje přemě bílkovin cukry",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zvyšuje hladinu glukózy v krvi",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1367,
+		"category": 16,
+		"number": 1367,
+		"text": "Tyroxin ve své molekule obsahuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jod",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "chlor",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zinek",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "železo",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1368,
+		"category": 16,
+		"number": 1368,
+		"text": "Struma je důsledkem:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "odstranění předního laloku hypofýzy",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nadbytku vápníku",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nedostatečného přívodu jódu potravou",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nadměrné stimulace štítné žlázy TSH",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1369,
+		"category": 16,
+		"number": 1369,
+		"text": "Aldosteron:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mění průsvit cév a zvyšuje činnost srdce",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mobilizuje zdroje energie při zátěži",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zasahuje do přeměny živin, zejména bílkovin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1370,
+		"category": 16,
+		"number": 1370,
+		"text": "Aldosteron:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je tvořen dření nadledvin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je tvořen v kůře nadledvin",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "má silné protizánětlivé účinky",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se podílí na regulaci homeostázy",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1371,
+		"category": 16,
+		"number": 1371,
+		"text": "Aldosteron:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "má vliv na hospodaření se sodíkem a draslíkem",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mění průsvit cév a zvyšuje činnost srdce",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mobilizuje zdroje energie při zátěži",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zasahuje do přeměny živin, zejména bílkovin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1372,
+		"category": 16,
+		"number": 1372,
+		"text": "Hormony štítné žlázy mají účinky:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "metabolické",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zvyšují tvorbu tepla",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "podporují růst",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "důležité pro vývoj centrálního nervového systému",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1373,
+		"category": 16,
+		"number": 1373,
+		"text": "Parathormon ovlivňuje plazmatickou hladinu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "draslíku",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "hořčíku",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "sodíku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1374,
+		"category": 16,
+		"number": 1374,
+		"text": "Parathormon:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "snižuje zpětné vstřebávání vápníku v ledvinách",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zvyšuje zpětné vstřebávání vápníku v ledvinách",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "snižuje zpětné vstřebávání fosfátů v ledvinách",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zvyšuje zpětné vstřebávání fosfátů v ledvinách",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1375,
+		"category": 16,
+		"number": 1375,
+		"text": "Parathormon:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zvyšuje hladinu vápníku v krvi",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "snižuje hladinu vápníku v krvi",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "snižuje hladinu fosfátů v krvi",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zvyšuje hladinu fosfátů v krvi",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1376,
+		"category": 16,
+		"number": 1376,
+		"text": "Která z uvedených tkání se podílí na řízení plazmatické hladiny vápníku:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ledviny",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "slezina",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "střevo",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "plíce",
+				"correct": false
+			}
+		]
+	}
+]

@@ -1,4 +1,3 @@
-$
 651. Mezi vezikulární útvary buňky řadíme:
 A) váčky vznikající z endoplasmatického retikula a Golgiho útvarů
 B) lyzosomy
@@ -38,7 +37,7 @@ c) centromer
 D) vlákna dělícího vřeténka
 658. Polární lipidy mohou vytvářet:
 A) bimolekulární membrány
-micely
+B) micely
 c) pravé roztoky
 d) gely
 659. Příjem a výdej látek živočišné buňky:

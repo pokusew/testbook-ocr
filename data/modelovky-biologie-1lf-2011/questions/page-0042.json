@@ -1,0 +1,578 @@
+[
+	{
+		"id": 669,
+		"category": 6,
+		"number": 669,
+		"text": "Pohlcování větších částic buňkou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se nazývá pinocytóza",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se nazývá fagocytóza",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je jedním z mechanismů obrany organismu proti bakteriální infekci",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vede ke vzniku fagozomu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 670,
+		"category": 6,
+		"number": 670,
+		"text": "Exocytóza je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "působení exogenních vlivů na buňku",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vlastnost buněk trávicích žláz",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "rozpad buněčné membrány",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mechanismus vylučování látek buňkou",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 671,
+		"category": 6,
+		"number": 671,
+		"text": "Látky s mimobuněčnou funkcí mohou být z buňky vylučovány:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pomocí exocytózových měchýřků",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "plasmoptýzou",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "plynule bez tvorby sekrečních váčků",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kanálky v plazmatické membráně",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 672,
+		"category": 6,
+		"number": 672,
+		"text": "Osmotické jevy jsou podmíněny:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "transportem molekul vody membránou",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "polopropustností membrány",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "elektrickým potenciálem na membráně",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "volnou propustností buněčné stěny",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 673,
+		"category": 6,
+		"number": 673,
+		"text": "Kosmotické lýze živočišné buňky dochází:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v isotonickém prostředí",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v hypertonickém prostředí",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v prostředí s větší koncentrací osmoticky aktivních částic",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 674,
+		"category": 6,
+		"number": 674,
+		"text": "Kosmotické lýze živočišné buňky dochází:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v hypotonickém prostředí",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v destilované vodě",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v hypertonickém prostředí",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v prostředí s větší koncentrací osmoticky aktivních částic",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 675,
+		"category": 6,
+		"number": 675,
+		"text": "Rostlinná buňka v hypotonickém roztoku:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se morfologicky nemění",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zvyšuje turgor",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "podléhá plasmolýze",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se svrašťuje",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 676,
+		"category": 6,
+		"number": 676,
+		"text": "Rostlinná buňka v hypotonickém roztoku:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nepraská",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "snižuje turgor",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "bobtná",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se svrašťuje",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 677,
+		"category": 6,
+		"number": 677,
+		"text": "K plasmolýze dochází jsou-li buňky:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "živočišné v hypotonickém roztoku",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "rostlinné v hypotonickém roztoku",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "živočišné v hypertonickém roztoku",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "rostlinné v hypertonickém roztoku",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 678,
+		"category": 6,
+		"number": 678,
+		"text": "Chování červených krvinek v hypotonickém roztoku označujeme jako:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "plasmolýzu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "plasmoptýzu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "plasmorhizu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "osmotickou hemolýzu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 679,
+		"category": 6,
+		"number": 679,
+		"text": "Jako Brownův pohyb se označuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pohyb organismů pomocí bičíků a řasinek",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "amoeboidní pohyb buněk",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pohyb drobných částic způsobený nárazy molekul",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pohyb uskutečňovaný interakcí aktinových a myozinových vláken",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 680,
+		"category": 6,
+		"number": 680,
+		"text": "Živočišná buňka v hypertonickém roztoku:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se svraštuje",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "podléhá plasmolýze",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "podléhá plasmoptýze",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se nemění",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 681,
+		"category": 6,
+		"number": 681,
+		"text": "Vložíme-li živočišnou buňku do hypotonického roztoku dojde především k difúzi:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vody do buňky",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vody z buňky",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "osmoticky aktivních částic do buňky",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "osmotických částic z buňky",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 682,
+		"category": 6,
+		"number": 682,
+		"text": "Vložíme-li živočišnou buňku do hypertonického roztoku dojde předevší k difúzi:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vody z buňky",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vody do buňky",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "osmoticky aktivních částic do buňky",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "osmoticky aktivních částic z buňky",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 683,
+		"category": 6,
+		"number": 683,
+		"text": "Osmotická hodnota rostlinné buňky je dána:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "koncentrací osmoticky aktivních látek ve vakuolách",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "turgorem",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "množstvím iontů H*",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kořenovým vztlakem",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 684,
+		"category": 6,
+		"number": 684,
+		"text": "Při exergonických reakcích:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se uvolňuje volná energie",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se spotřebovává volná energie",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se spotřebovává teplo",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nedochází k přeměně energie",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 685,
+		"category": 6,
+		"number": 685,
+		"text": "Při endergonických reakcích:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se spotřebovává volná energie",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se uvolňuje volná energie",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se spotřebovává teplo",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nedochází k přeměně látek",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 686,
+		"category": 6,
+		"number": 686,
+		"text": "Heterotrofní buňky využívají",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "energii chemickou",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "energii světelnou",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "všechny formy energie",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "energii vázanou v anorganických látkác v",
+				"correct": false
+			}
+		]
+	}
+]

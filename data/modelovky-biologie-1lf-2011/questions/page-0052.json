@@ -1,0 +1,578 @@
+[
+	{
+		"id": 848,
+		"category": 7,
+		"number": 848,
+		"text": "Štěnice domácí (Cimex lectuarius):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "patří mezi ploštice (Heteroptera)",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "má nedokonalou proměnu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je krevsajícím ektoparazitem člověka",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "může přenášet původce skvrnitého tyfu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 849,
+		"category": 7,
+		"number": 849,
+		"text": "Mezi blanokřídlé (Hymenoptera) patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mravenec",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mravkolev",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "moucha domácí",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vážka",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 850,
+		"category": 7,
+		"number": 850,
+		"text": "Druhotná tělní dutina u členovců (Arthropoda):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vůbec nevzniká",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se zakládá jen embryonálně a později splývá s prvotní tělní dutinou",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se vytváří až těsně před dosažením pohlavní dospělosti",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se vytváří pouze v okolí vylučovacích orgánů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 851,
+		"category": 7,
+		"number": 851,
+		"text": "Členovci (Arthropoda) mohou dýchat:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žábrami",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "plicními vaky",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vzdušnicemi",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "celým povrchem těla",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 852,
+		"category": 7,
+		"number": 852,
+		"text": "Roztoči (Acari):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mají redukovanou cévní a dýchací soustavu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mají nervovou soustavu splývající do jednoho ganglia",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zahrnují významné škůdce rostlin a parazity teplokrevných živočichů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "patří k nim svilušky, klíšťata, sekáči, zákožkovci",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 853,
+		"category": 7,
+		"number": 853,
+		"text": "U členovců (Arthropoda) slouží k vylučování:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "malpighické trubice",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "protonefridie",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "antenální žlázy",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 854,
+		"category": 7,
+		"number": 854,
+		"text": "Veš dětská (Pediculus capitis):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "patří mezi hmyz s proměnou nedokonalou",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je druhotně bezkřídlá",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je běžným krev sajícím ektoparazitem člověka",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "může přenášet původce skvrnitého tyfu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 855,
+		"category": 7,
+		"number": 855,
+		"text": "Hmyz s nedokonalou proměnou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je hmyz, v jehož individuálním vývoji se vyskytují kukly",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je hmyz v jehož vývoji schází stádium vajíčka",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je hmyz, z jehož vajíček se líhnou nymfy nebo najády podobné dospělcům",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zahrnuje vši a blechy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 856,
+		"category": 7,
+		"number": 856,
+		"text": "Perloočky (Cladocera):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mají složené oči",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se pohybují pomocí dvouvětevných tykadel",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se mohou množit partenogeneticky",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zahrnují parazity ryb",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 857,
+		"category": 7,
+		"number": 857,
+		"text": "Hmyz (Insecta) má:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dva páry tykadel",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "tři páry nohou",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "s výjimkou bezkřídlých původně dva páry křídel",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "příčně pruhované svaly",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 858,
+		"category": 7,
+		"number": 858,
+		"text": "Latimerie (Latimeria chalumnae):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "patří mezi ryby dvojdyšné (Dipnoi)",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "patří mezi ryby lalokoploutvé (Coelacanthiformes)",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "má párové ploutve schopné podpírat tělo",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "dýchá plicními vaky",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 859,
+		"category": 7,
+		"number": 859,
+		"text": "Pláštěnci (Tunicata) patří mezi:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "strunatce",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ostnokožce",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "bezlebečné",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 860,
+		"category": 7,
+		"number": 860,
+		"text": "Pláštěnci (Tunicata):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mají otevřenou cévní soustavu nebo cévní soustava zcela chybí",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mají uzavřenou cévní soustavu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou výhradně mořští živočichové",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mají chordu a nervovou trubici pouze v ocasní části těla",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 861,
+		"category": 7,
+		"number": 861,
+		"text": "Mezi pláštěnce (Tunicata) patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "sumky",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kopinatci",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "salpy",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "bezlebeční",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 862,
+		"category": 7,
+		"number": 862,
+		"text": "Dvojdyšní (Dipnoi):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "patří do linie ryb vedoucí ke čtyřnožcům",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "patří k nim bahník (rod Protopterus)",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nemají žábry",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mají plicní vaky jako přídatný dýchací orgán",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 863,
+		"category": 7,
+		"number": 863,
+		"text": "Ostnokožci (Echinodermata):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou většinou paprsčitě souměrní",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mají systém vodních cév (ambulakrální soustavu)",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mají vysokou regenerační schopnost",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mají trubicovou nervovou soustavu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 864,
+		"category": 7,
+		"number": 864,
+		"text": "Strunatci (Chordata) mají:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nervovou trubici uloženou nad chordou dorsalis",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nervovou soustavu gangliovou",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nervovou trubici uloženou pod chordou dorsalis",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 865,
+		"category": 7,
+		"number": 865,
+		"text": "Strunatci (Chordata) mají:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "trubicovou nervovou soustavu vznikající z prvostřeva",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "trubicovou nervovou soustavu vznikající z ektodermu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "chordu dorsalis vznikající z ektodermu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "párové žaberní štěrbiny prolomené z hltanu",
+				"correct": true
+			}
+		]
+	}
+]

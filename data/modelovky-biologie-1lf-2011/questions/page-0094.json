@@ -1,0 +1,578 @@
+[
+	{
+		"id": 1586,
+		"category": 21,
+		"number": 1586,
+		"text": "Krevní skupina Rh je znak:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "gonosomálně recesivně dědičný",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "s neúplnou dominancí",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "s vysokou dědivostí",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1587,
+		"category": 21,
+		"number": 1587,
+		"text": "Příkladem dědičné (molekulární) choroby je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "neuróza",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "esenciální hypertenze",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "krevněskupinový systém ABO",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1588,
+		"category": 21,
+		"number": 1588,
+		"text": "Mezi lidské choroby s polygenně determinovanou dědičnou dispozicí patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "alergie",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dědičná krvácivost",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "galaktosemie",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mongolismus",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1589,
+		"category": 21,
+		"number": 1589,
+		"text": "V lidské populaci můžeme za panmiktické považovat tyto znaky:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "inteligenční kvocient",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "výšku",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "váhu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "krevně skupinový systém ABO",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1590,
+		"category": 21,
+		"number": 1590,
+		"text": "Downův syndrom je podmíněn:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "autosomálně recesivně",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "chromosomální aberací",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "autochromosomálně dominantně",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "heterochromosomálně",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1591,
+		"category": 21,
+		"number": 1591,
+		"text": "V karyotypu chlapce postiženého Downovým syndromem jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "3 autosomy 21. páru a heterochromosomy XY",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "3 heterochromosomy 21. páru",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "45 autosomů a heterochromosomy XX",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1592,
+		"category": 21,
+		"number": 1592,
+		"text": "V karyotypu chlapce postiženého Downovým syndromem jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "3 chromosomy 21. a jeden X heterochromosom",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "3 heterochromosomy 21. páru",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "3 heterochromosomy XXX",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "45 autosomů a heterochromosomy XX",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1593,
+		"category": 21,
+		"number": 1593,
+		"text": "Hemofilie (dědičná krvácivost) je porucha tvorby:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "červených krvinek",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hemocyaninu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "faktorů srážení krve",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "hemoglobinu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1594,
+		"category": 21,
+		"number": 1594,
+		"text": "Hemofilie (dědičná krvácivost) se vyskytuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "u mužů, jejichž otec byl takto postižen",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "stejně často u obou pohlaví",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "častěji u žen",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "častěji u mužů",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1595,
+		"category": 21,
+		"number": 1595,
+		"text": "Hemofilie (dědičná krvácivost) se vyskytuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "stejně často u obou pohlaví",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "častěji u žen",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "u mužů, jejichž otec byl takto postižen",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1596,
+		"category": 21,
+		"number": 1596,
+		"text": "Barvoslepost se vyskytuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "častěji u mužů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "stejně často u obou pohlaví",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "častěji u žen",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "u mužů, jejichž otec byl takto postižen",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1597,
+		"category": 21,
+		"number": 1597,
+		"text": "Barvoslepost se vyskytuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "u žen homozygotních pro tento recesivní gen",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "stejně často u obou pohlaví",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "častěji u žen",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "u mužů, jejichž otec byl takto postižen",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1598,
+		"category": 21,
+		"number": 1598,
+		"text": "Při sňatku zdravé ženy (přenašečky krvácivosti) a zdravého muže:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "všichni synové budou mít hemofilii",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se může narodit syn s hemofilií (krvácivostí)",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "některé dcery budou nemocné",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "všechny děti budou zdravé",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1599,
+		"category": 21,
+		"number": 1599,
+		"text": "Barvoslepý muž a žena s normálním barvocitem:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mohou mít barvoslepé syny",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nemohou mít barvoslepé syny",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mohou mít barvoslepé dcery",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mohou mít barvoslepé dcery i syny",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1600,
+		"category": 21,
+		"number": 1600,
+		"text": "U X chromosomové dědičnosti je fenotypo projev alel závislý:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "na matroklinní dědičnosti",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jen na jediné alele u muže",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "na symbióze pohlavních chromosomů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "na pohlaví jejich nositele",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1601,
+		"category": 21,
+		"number": 1601,
+		"text": "U X chromosomové dědičnosti u mužů:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "není ani jedno z uvedených tvrzení správné",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nacházíme dominantní homozygoty",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nacházíme heterozygoty",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nacházíme recesivní homozygoty",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1602,
+		"category": 21,
+		"number": 1602,
+		"text": "Příkladem choroby kódované recesivním genem na X chromosomu je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "barvoslepost",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "šeroslepost",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "albinismus",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kretenismus",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1603,
+		"category": 21,
+		"number": 1603,
+		"text": "Přítomnost pohlavních chromosomů XXY určuje u člověka:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Klinefelterův syndrom",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mužské pohlaví",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ženské pohlaví",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Turnerův syndrom",
+				"correct": false
+			}
+		]
+	}
+]

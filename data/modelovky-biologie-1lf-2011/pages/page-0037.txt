@@ -9,7 +9,8 @@ B) ptáci
 C) hmyz
 d) ryby
 581. Tělní tekutina sladkovodních živočichů je ve vztahu k osmotickému tlaku
-a iontovému složení mořské vody roztokem:
+### the spaces fix parsing
+     a iontovému složení mořské vody roztokem:
 A) hypotonickým
 b) hypertonickým
 c) izotonickým

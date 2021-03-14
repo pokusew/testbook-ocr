@@ -1,0 +1,578 @@
+[
+	{
+		"id": 182,
+		"category": 3,
+		"number": 191,
+		"text": "U většiny eukaryotických organismů nacházíme v tělových buňkách následujíc počet chromosomů:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná odpověď z ostatních není správná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "n",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "3n",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "4n",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 183,
+		"category": 3,
+		"number": 182,
+		"text": "Spiralizace chromosomů:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je největší v průběhu dělení buněčného jádra",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je nejmenší v M fázi buněčného cyklu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je největší v interfázi",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ovlivňuje průběh interfáze",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 184,
+		"category": 3,
+		"number": 183,
+		"text": "U člověka se nevyskytují chromosomy:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "akrocentrické",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "metacentrické",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "telocentrické",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "submetacentrické",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 185,
+		"category": 3,
+		"number": 184,
+		"text": "Soubor genetické informace daného jedince se nazývá:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "genotyp",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "fenotyp",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "karyotyp",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "genofond",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 186,
+		"category": 3,
+		"number": 185,
+		"text": "Sesterské chromatidy:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vznikají replikací",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se rozcházejí v anafázi mitózy",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se rozcházejí v anafázi I. zracího dělení meiózy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se rozcházejí v anafázi heterotypického dělení meiózy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 187,
+		"category": 3,
+		"number": 186,
+		"text": "Homologické chromosomy:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou spojeny centromerou",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou párové chromosomy v jádrech somatických buněk",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se rozcházejí v anafázi mitózy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se rozcházejí v anafázi heterotypického dělení (meiózy I)",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 188,
+		"category": 3,
+		"number": 187,
+		"text": "Heterochromosomy u člověka:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mají stejné genové složení jen u ženského pohlaví",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se značí v tělových buňkách samce YY",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "určují pohlaví",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nemají centromeru",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 189,
+		"category": 3,
+		"number": 188,
+		"text": "Crossing-over:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "cíleně vyhledává mutované geny",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "probíhá mezi nehomologickými chromosomy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zajišťuje zdvojení molekuly DNA",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zajišťuje genetickou variabilitu jedinců",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 190,
+		"category": 3,
+		"number": 189,
+		"text": "V lidské bílé krvince je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "počet chromosomů diploidní",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "počet autosomů 46",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "totožný počet chromosomů jako v gametě",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "aneuploidní počet chromosomů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 191,
+		"category": 3,
+		"number": 190,
+		"text": "V tělových buňkách člověka je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "46 chromosomů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "počet chromosomů stejný jako u nezralé gametogonie",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "počet chromosomů stejný jako u zralé gamety",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "počet chromosomů poloviční než u spermie",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 192,
+		"category": 3,
+		"number": 192,
+		"text": "Během meiózy dochází nejčastěji k rozchodu chromosomů otcovskéh a mateřského původu do gamet tak, že:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná odpověď z ostatních není správná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jedna gameta má chromosomy otcovské, druhá mateřské",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "gameta má vždy polovinu otcovských a polovinu mateřských chromosomů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "převažují gamety s mateřskými chromosomy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 193,
+		"category": 3,
+		"number": 193,
+		"text": "Heterochromosom:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je v normální gametě přítomen pouze jeden",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je v somatické buňce přítomen 23krát",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se vyskytuje pouze v pohlavních buňkách",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "bývá v každé sadě chromosomů obsažen pětkrát",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 194,
+		"category": 3,
+		"number": 194,
+		"text": "Chromosom Y:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "má stejnou pravděpodobnost výskytu ve spermii jako chromozom X",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "bývá obvykle větší než chromosom X",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nacházíme přibližně u poloviny vajíček člověka",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se v tělových buňkách mužů vyskytuje obvykle dvakrát (YY)",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 195,
+		"category": 3,
+		"number": 195,
+		"text": "Mimojaderné molekuly DNA v buňkách eukaryot:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou přítomny jak u buněk rostlinných tak i živočišných",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mají vesměs formu chromosomů eukaryotického typu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nesou genetickou informaci",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "představují zás materiálu pro tvorbu jaderné DNA",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 196,
+		"category": 3,
+		"number": 196,
+		"text": "Mimojaderné molekuly DNA nacházíme v:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "plasmidech",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jádru",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mitochondriích",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "gonosomech",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 197,
+		"category": 3,
+		"number": 197,
+		"text": "Z chromosomové mapy člověka:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "můžeme určit umístění genů na jednotlivé chromosomy",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "určíme i poměrnou vzdálenost genů na chromosomu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zjistíme funkci genů na jednotlivých chromosomech",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vytváříme prostřednictvím cílené hybridologické analýzy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 198,
+		"category": 3,
+		"number": 198,
+		"text": "Chromosomové mutace vznikají:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "např. zlomem chromosomu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ztrátou jednoho nukleotidu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "záměnou jednoho nukleotidu jiným",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zařazením nadpočetného nukleotidu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 199,
+		"category": 3,
+		"number": 199,
+		"text": "Kdyby byl počet chromosomů v lidské buňce 69, jednalo by se o:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "polyploidii",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "triploidii",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "aneuploidii",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "tetraploidii",
+				"correct": false
+			}
+		]
+	}
+]

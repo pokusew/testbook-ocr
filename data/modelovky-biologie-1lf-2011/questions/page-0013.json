@@ -1,0 +1,578 @@
+[
+	{
+		"id": 164,
+		"category": 3,
+		"number": 173,
+		"text": "Crossing-over je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "výměna částí chromatid homologních chromosomů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "segregace chromosomů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "cílené vyčlenění genů, které zmutovaly",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "proces redukce chromosomů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 165,
+		"category": 3,
+		"number": 174,
+		"text": "Chromosomy můžeme pozorovat ve světelném mikroskopu v:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "S fázi",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "G2 fázi",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "metafázi",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "anafázi",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 166,
+		"category": 3,
+		"number": 164,
+		"text": "Mezi fáze mitózy patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "profáze",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zygoten",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "anafáze",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "leptoten",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 167,
+		"category": 3,
+		"number": 165,
+		"text": "Při mitóze:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vznikají dvě geneticky rovnocenná dceřinná jádra",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vznikají dvě diploidní buňky",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vznikají dvě rovnocenné diploidní gamety",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pravidelně dochází k procesu crossing - over",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 168,
+		"category": 3,
+		"number": 166,
+		"text": "Generační doba buňky je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "délka trvání buněčného cyklu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "u všech buněk jedince stejná",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nezávislá na množství živin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "délka trvání M fáze",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 169,
+		"category": 3,
+		"number": 167,
+		"text": "Při nedostatku živin v prostředí se generační doba buňky:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nemění",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "prodlužuje",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zrychluje",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zrychluje za vzniku nádorových buněk",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 170,
+		"category": 3,
+		"number": 168,
+		"text": "Mezi buňky trvale zablokované v Go fázi patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "gangliové buňky",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kmenové buňky kostní dřeně",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nádorové buňky",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "blastomery",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 171,
+		"category": 3,
+		"number": 169,
+		"text": "V průběhu meiózy:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dochází k redukci počtu chromosomů na polovinu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se počet chromosomů nemění",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dochází v důsledku procesu crossing-over k rekombinaci chromosomů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "dochází v důsledku procesu crossing-over k redukci počtu chromosomů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 172,
+		"category": 3,
+		"number": 170,
+		"text": "Segregace homologních chromosomů:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "probíhá v anafázi mitózy",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je součástí mitotického dělení",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zajišťuje genetickou identitu dceřinných buněk",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je charakteristický děj v prvním meiotickém dělení",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 173,
+		"category": 3,
+		"number": 171,
+		"text": "Mezi stadia profáze I. meiotického dělení patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "leptoten",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zygoten",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pleiocén",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kolenchym",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 174,
+		"category": 3,
+		"number": 172,
+		"text": "Meióza se skládá:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ze dvou dělení, avšak replikace DNA předchází jen prvnímu z nich",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ze dvou různých typů dělení, avšak oběma předchází replikace DNA",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "z jednoho dělení, kterému však předchází trojnásobná replikace DNA",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "z jednoho typu dělení, kterému však předcházejí dvě replikace DNA",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 175,
+		"category": 3,
+		"number": 175,
+		"text": "Buněčné jádro:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je složeno zejména z rRNA a bílkovin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nemá vlastní membránu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je typické pro prokaryotické buňky",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je složeno zejména z DNA a bílkovin",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 176,
+		"category": 3,
+		"number": 176,
+		"text": "Buněčné jádro:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "má na povrchu dvě biomembrány",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jeho vnější biomembrána navazuje na endoplasmatické retikulum",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "obsahuje chromatin",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "obsahuje centriol",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 177,
+		"category": 3,
+		"number": 177,
+		"text": "V interfázickém jádře:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou viditelné chromosomy ve světelném mikroskopu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je porušena celistvost molekul DNA",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dochází ke zdvojení hmoty chromosomů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je vytvořeno dělící vřeténko",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 178,
+		"category": 3,
+		"number": 178,
+		"text": "Jadérko:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je místem syntézy nové DNA",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je vázáno na organizátor jadérka",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je místem syntézy rRNA",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "spolu s ribosomy se vyskytuje na drsném endoplasmatickém retikulu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 179,
+		"category": 3,
+		"number": 179,
+		"text": "Mikrotubuly jsou stavební prvky:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "centriolů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "bičíků",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "centromer",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vlákna dělícího vřeténka",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 180,
+		"category": 3,
+		"number": 180,
+		"text": "U člověka se vyskytují chromosomy:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "akrocentrické",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "metacentrické",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "telocentrické",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "submetacentrické",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 181,
+		"category": 3,
+		"number": 181,
+		"text": "Soubor chromosomů daného druhu se nazývá:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "genotyp",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "fenotyp",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "karyotyp",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "genofond",
+				"correct": false
+			}
+		]
+	}
+]

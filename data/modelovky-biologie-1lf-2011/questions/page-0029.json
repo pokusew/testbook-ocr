@@ -1,0 +1,578 @@
+[
+	{
+		"id": 436,
+		"category": 5,
+		"number": 436,
+		"text": "Rozmnožování u bakterií:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je nepohlavní (vegetativní)",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "spočívá ve vzniku 2 nebo 4 diploidních bakterií z 1 mateřské bakterie",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "spočívá ve výměně bakteriálních chromosomů dvou bakterií",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je vždy spojeno se změnou genomu bakterie",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 437,
+		"category": 5,
+		"number": 437,
+		"text": "V genetice bakterií označujeme pojmem:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "transformace vniknutí volné samostatné DNA do recipientní buňky",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "transformace přestup nekonjugativního plasmidu z buňky donorové do recipientní",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "transdukce vniknutí volné samostatné molekuly DNA do recipientní buňky",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "transdukce přestup konjugativního plasmidu z buňky donorové do recipientní",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 438,
+		"category": 5,
+		"number": 438,
+		"text": "Při transdukci u bakterií může být přenesen(a):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jak fragment chromosomální tak plasmidové DNA",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pouze plasmidové DNA a nikoliv chromosomální",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pouze chromosomální DNA a nikoliv plasmidové",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pouze plasmidové RNA",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 439,
+		"category": 5,
+		"number": 439,
+		"text": "Grampozitivní bakterie:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "má na povrchu buněčnou stěnu tvořenou dvěma lipidovými membránami",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "má větší hmotnost než bakterie gramneutrální",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "má buněčnou stěnu tvořenou peptidoglykanem",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "může tvořit spory",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 440,
+		"category": 5,
+		"number": 440,
+		"text": "Gramnegativní bakterie:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "má nižší hmotnost než bakterie gramneutrální",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "obsahuje silnou buněčnou stěnu s peptidoglykanem",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "má vnější membránu obsahující lipoproteiny",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "může mít pohyblivé bičíky",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 441,
+		"category": 5,
+		"number": 441,
+		"text": "Mezi základní znaky eubakterií patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nukleoid není ohraničen jaderným obalem",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ribosomy jsou volně v cytoplasmě",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "buněčná stěna obsahuje peptidoglykan (murein)",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "centrosom má zjednodušenou stavbu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 442,
+		"category": 5,
+		"number": 442,
+		"text": "Bakterie:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se množí nepohlavně",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se dělí mitoticky",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mohou získat novou kombinaci genů transformací",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mohou vytvářet spory odolné k extrémním podmínkám",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 443,
+		"category": 5,
+		"number": 443,
+		"text": "Plazmidy:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "obsahují kruhovou DNA",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "obsahuje kruhovou RNA",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se replikují nezávisle na bakteriálním chromosomu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "obsahují například geny pro rezistenci k antibiotikům",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 444,
+		"category": 5,
+		"number": 444,
+		"text": "První prokaryotické buňky pravděpodobně byly:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "anaerobně heterotrofni",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "aerobně heterotrofni",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "anaerobně autotrofni",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "aerobně autotrofní",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 445,
+		"category": 5,
+		"number": 445,
+		"text": "Stromatolity jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "produktem prokaryot",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "produktem eukaryot",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "součástí orgánu vnímání polohy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "součástí orgánu vnímání pohybu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 446,
+		"category": 5,
+		"number": 446,
+		"text": "Při konjugaci u bakterií dochází:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "k přechodu části chromosomu z jedné buňky do druhé",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "k jejich celkovému splynutí",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "k jejich rozštěpení",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "k jejich rozmnožení",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 447,
+		"category": 5,
+		"number": 447,
+		"text": "Streptokoky tvoří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hrozny",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "řetízky",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dvojice",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "spirály",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 448,
+		"category": 5,
+		"number": 448,
+		"text": "Stafylokoky tvoří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hrozny",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "řetízky",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dvojice",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "spirály",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 449,
+		"category": 5,
+		"number": 449,
+		"text": "Ve vnitřní části buněk sinic:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se nachází DNA",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se nenachází DNA",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se nachází lignin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se nachází celulóza",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 450,
+		"category": 5,
+		"number": 450,
+		"text": "Některé druhy sinic žijí v symbióze:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "s houbami",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "s lišejníky",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "s mechy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se stromy z čeledi břízovité",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 451,
+		"category": 5,
+		"number": 451,
+		"text": "Obligátně (striktně) aerobní prokaryota:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "rostou jen za přítomnosti kyslíku",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "získávají energii aerobní respirací",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "rostou jen bez přístupu kyslíku",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mohou růst za přístupu nebo i bez přístupu kyslíku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 452,
+		"category": 5,
+		"number": 452,
+		"text": "Obligátně (striktně) anaerobní prokaryota:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "rostou jen bez přístupu kyslíku",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "získávají energii bud' kvašením nebo anaerobní respirací",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mohou růst za přístupu nebo i bez přístupu kyslíku",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "rostou jen za přítomnosti kyslíku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 453,
+		"category": 5,
+		"number": 453,
+		"text": "V buněčné stěně hub (Fungi) se může nacházet:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "chitin",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "lignin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "celulóza",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "škrob",
+				"correct": false
+			}
+		]
+	}
+]

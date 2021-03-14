@@ -1,0 +1,578 @@
+[
+	{
+		"id": 615,
+		"category": 6,
+		"number": 615,
+		"text": "Mimo mitochondrie může buňka uvolňovat energii pouze:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "z fosfátových vazeb ATP",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ze sacharidů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "z tuků",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "z cyklického AMP",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 616,
+		"category": 6,
+		"number": 616,
+		"text": "Potravní vakuola:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se vytváří u měňavek patřících do kmene kořenonožců",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je jednou z běžných membránových struktur buněk mnohobuněčných živočichů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "slouží jak k příjmu potravy, tak k odstraňování zplodin metabolismu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "u nálevníků putuje a průběžně uvolňuje živiny",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 617,
+		"category": 6,
+		"number": 617,
+		"text": "Celulóza je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "polysacharid tvořící hlavní součást buněčné stěny rostlinných buněk",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "polysacharid tvořící hlavní součást éčné stěny živočišných buněk",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "fosfolipid tvořící hlavní součást buněčných stěn rostlinných buněk",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "glykovaný protein, který tvoří hlavní součást buněčné stěny rostļinných buněk",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 618,
+		"category": 6,
+		"number": 618,
+		"text": "Kožní dýchání:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "znamená přijímání kyslíku kůží, tedy i jinou cestou než dýchacími orgány",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "existuje i u člověka, ale má minimální význam",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "přivádí více než 50 % kyslíku u žab při přezimování",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "má zásadní významu u anaerobního metabolismu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 619,
+		"category": 6,
+		"number": 619,
+		"text": "Dusíkatým produktem metabolismu bílkovin je u:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "některých vodních živočichů amoniak",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hmyzu, plazů a ptáků kyselina močová",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "savců močovina",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "člověka urea",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 620,
+		"category": 6,
+		"number": 620,
+		"text": "Ekdyson:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je hormon",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vzniká v gonádách hmyzu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vyvolává změny v pokožce hmyzu a připravuje tak svlékání",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je regulován tzv. ekdysotropním hormonem",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 621,
+		"category": 6,
+		"number": 621,
+		"text": "Dělení rozpadem u prvoků:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se nazývá polytomie",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "může být příkladem nepohlavního rozmnožování",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "může dát vznik i gametám",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "probíhá např. u výtrusovců",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 622,
+		"category": 6,
+		"number": 622,
+		"text": "Strobilace je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "způsob nepohlavního rozmnožování medúzovců",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jedno ze stádií metageneze",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "setrvačnost vnímání lidského oka",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jev, kdy se přerušovaný pohyb jeví oku jako pohyb plynulý",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 623,
+		"category": 6,
+		"number": 623,
+		"text": "Při malém množství rezervních látek ve vajíčku obvykle (vyjma savců):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "bývá vajíček mnoho",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je vývoj zárodku dlouhý",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mezi dospělou formu a zárodek je vloženo larvální stadium",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vzniká dospělý jedinec nepřímým vývojem",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 624,
+		"category": 6,
+		"number": 624,
+		"text": "Při zvýšeném množství zásobních látek ve vajíčku obvykle (vyjma hmyzu):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se snižuje počet produkovaných vajíček",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vývoj zárodku je krátký",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mezi dospělou formu a zárodek je vloženo larvální období",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vzniká dospělý jedinec nepřímým vývojem",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 625,
+		"category": 6,
+		"number": 625,
+		"text": "Mezi orgány a tkáně ektodermálního původu patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "výstelka obou konců trávicí trubice",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pokožka",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vzdušnice hmyzu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nervový systém",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 626,
+		"category": 6,
+		"number": 626,
+		"text": "Mezi orgány a tkáně mezodermálního původů patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "plíce obratlovců",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vzdušnice hmyzu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "krev",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "svaly",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 627,
+		"category": 6,
+		"number": 627,
+		"text": "Mezi orgány a tkáně entodermálního původu patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "výstelka trávicí trubice",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "játra",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "cévy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vlasy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 628,
+		"category": 6,
+		"number": 628,
+		"text": "Mezi orgány a tkáně ektodermálního původu patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "výstelka trávicí trubice",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "bronchiální strom",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pokožka",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nervový systém",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 629,
+		"category": 6,
+		"number": 629,
+		"text": "Žábry jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "trubicovité větvené útvary se stěnami vyztuženými chitinovou spirálou",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "soustava cév vodních živočichů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kostěné prokrvené labyrinty na rozšířeném žaberním oblouku",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "prokrvené, obvykle hojně zřasené vychlípeniny kůže, umístěné na různých částech těla",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 630,
+		"category": 6,
+		"number": 630,
+		"text": "K dýchání slouží útvary:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ambulakrální soustava",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "tracheje",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "plynový měchýř",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "hltanožaberní vak",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 631,
+		"category": 6,
+		"number": 631,
+		"text": "Otevřená cévní soustava se nachází u:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "měkkýšů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kroužkovců",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "členovců",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "láčkovců",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 632,
+		"category": 6,
+		"number": 632,
+		"text": "Srdce je tvořeno u:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "měkkýšů 1 komorou a 1-4 předsíněmi",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ostnokožců 1 komorou a 1 předsíní",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "paryb 1 komorou a 1 předsíní",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ptáků 1 komorou a 2 předsíněmi",
+				"correct": false
+			}
+		]
+	}
+]

@@ -32,6 +32,7 @@ D) diafýze
 a) kompaktou
 B) okosticí
 C) tuhým vazivovým obalem
+d) vazy
 1472. Břišní svaly patří mezi pomocné svaly:
 a) vdechové
 B) výdechové
@@ -40,7 +41,7 @@ d) vdechové, ale pouze v dětství
 1473. Sekundární osifikační centra dlouhých kostí se nachází:
 a) v diafýze
 B) v epifýze
-v metafýze
+c) v metafýze
 D) v apofýze
 1474. Achillova šlacha připojuje:
 a) trojhlavý lýtkový sval k hlezenní kosti
@@ -66,7 +67,6 @@ d) hladká svalovina
 a) chrupavkami
 b) buňkami hladkého svalstva
 C) vazy
-d) vazy
 D) pruhy tuhého vaziva
 1470. Dutiny dlouhých kostí vyplňuje:
 a) nervová pleteň

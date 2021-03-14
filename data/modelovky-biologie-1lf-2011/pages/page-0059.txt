@@ -54,9 +54,10 @@ b) v krevní plazmě
 c) protilátky v séru
 d) srážlivé látky v červených krvinkách
 987. Bílých krvinek u člověka je průměrně v 1 litru krve:
-a) 106
-B) 5.109
-c) 1012
+a) 10^6
+B) 5*10^9
+c) 10^12
+d) žádná z uvedených alternativ není správná
 977. Funkcí červených krvinek je:
 A) přenos kyslíku
 b) účast na obraně proti infekci
@@ -77,7 +78,6 @@ a) tvorba protilátek
 B) fagocytóza
 c) alergie
 d) imunizace
-d) žádná z uvedených alternativ není správná
 988. V ČR je nejvíce rozšířena krevní skupina:
 a) AB
 b) B

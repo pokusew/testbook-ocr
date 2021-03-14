@@ -1,0 +1,514 @@
+[
+	{
+		"id": 97,
+		"category": 2,
+		"number": 97,
+		"text": "Při křížení dvou dominantních homozygotů se v jejich potomstvu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vyskytují dominantní homozygoti pouze v F1 generaci",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dochází ke štěpení v F2 generaci",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vyskytují recesivní znaky asi v1 % případů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 98,
+		"category": 2,
+		"number": 98,
+		"text": "Soubor všech pozorovatelných vlastností a znaků organismu se nazývá:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "genotyp",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "fenotyp",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "karyotyp",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "haplotyp",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 99,
+		"category": 2,
+		"number": 99,
+		"text": "Genotypový štěpný poměr při křížení dvou heterozygotů (Aa x Aa) je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1:1",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "3:1",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1:3",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 100,
+		"category": 2,
+		"number": 100,
+		"text": "Parentální generace (P) v mendelovském experimentu je představován následujícím zápisem:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Aa x aa",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Aa x AA",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Aa x Aa",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 101,
+		"category": 2,
+		"number": 101,
+		"text": "V 1. filiální generaci (F1) při monohybridizmu s neúplnou dominancí jsou všichn jedinci:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "fenotypově odlišní od parentální generace a genotypově uniformní",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "stejní jako jeden z rodičů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "lišící se navzájem fenotypově, ale shodní genotypově",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "rozdílní od sebe",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 102,
+		"category": 2,
+		"number": 102,
+		"text": "Při dihybridizmu tvoří heterozygot (AaBb) za podmínek volné kombinovatelnost následující počet typů gamet:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "3",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "2",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 103,
+		"category": 2,
+		"number": 103,
+		"text": "Různé formy jednoho a téhož genu se nazývají:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "alely",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "lokusy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "karyotyp",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "fenotyp",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 104,
+		"category": 2,
+		"number": 104,
+		"text": "Je-li vlastnost (znak) geneticky podmíněna párem funkčně shodných alel hovoříme o:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "homozygotním genotypu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "heterozygotním genotypu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "uniformním jedinci",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "haploidním jedinci",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 105,
+		"category": 2,
+		"number": 105,
+		"text": "Je-li vlastnost (znak) geneticky podmíněna párem funkčně odlišných alel hovoříme o:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "homozygotním genotypu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "heterozygotním genotypu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "neuniformním jedinci",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "haploidním jedinci",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 106,
+		"category": 2,
+		"number": 106,
+		"text": "Kodominance je stav kdy:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se ve fenotypu projevuje funkce obou alel téhož genu nezávisle na sobě",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "genotypový i fenotypový štěpný poměr v F2 generaci je shodný",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "neplatí pravidlo o uniformitě F1 hybridů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "heterozygotní jedinci jsou shodní s oběma typy homozygotů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 107,
+		"category": 2,
+		"number": 107,
+		"text": "Jestliže dominantní alela v heterozygotním genotypu nestačí zajistit fenotypov projev, který by odpovídal dominantně homozygotnímu genotypu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hovoříme o neúplné dominanci",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "heterozygotní jedinci jsou fenotypově odlišní od obou typů homozygotů",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je štěpný fenotypový poměr v F2 generaci 1:2:1",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "F1 jedinci nejsou uniformní",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 108,
+		"category": 2,
+		"number": 108,
+		"text": "Homozygotní výchozí rodičovské organismy se v mendelovském experiment označují jako:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "parentální generace",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "parenterální generace",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "paternální generace",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "maternální generace",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 109,
+		"category": 2,
+		"number": 109,
+		"text": "Pokud jsou rodiče genotypově odlišnými homozygoty (AA x aa):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou jejich potomci v Fı generaci uniformní",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je fenotypový štěpný poměr F1 generace 1:1",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je genotypový štěpný poměr F2 generace 3:1",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "může být fenotypový štěpný poměr v F2 generaci 1:2:1",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 110,
+		"category": 2,
+		"number": 110,
+		"text": "V F2 generaci vzniká při dihybridním křížení za podmínek voln kombinovatelnosti:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "9 rozdílných genotypů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "při vztahu úplné dominance fenotypový poměr 9:3:3:1",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "při vztahu úplné dominance genotypový poměr 1:1:1:1",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "uniformní potomstvo",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 111,
+		"category": 2,
+		"number": 111,
+		"text": "Křížíme-li jedince parentální generace AA x aa (A neúplně dominantní nad a):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vzniká v F1 generaci uniformní potomstvo",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou heterozygoti Aa fenotypově shodní s rodičem AA",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je štěpný fenotypový a genotypový poměr v F2 generaci stejný",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vzniká v F2 generaci genotypový poměr 1:2:1",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 112,
+		"category": 2,
+		"number": 112,
+		"text": "Při křížení jedinců parentální generace AA x aa (A úplně dominantní nad a):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vzniká v Fı generaci heterozygotní potomstvo",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "lze fenotypově odlišit potomky Aa od aa",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je v F2 generaci fenotypový a genotypový štěpný poměr stejný",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je v F2 generaci genotypový poměr 3:1",
+				"correct": false
+			}
+		]
+	}
+]

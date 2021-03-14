@@ -1,0 +1,578 @@
+[
+	{
+		"id": 235,
+		"category": 4,
+		"number": 235,
+		"text": "V nukleových kyselinách jsou běžné následující komplementární dvojice bází:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "A-T",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "T-U",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "G-C",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "A-C",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 236,
+		"category": 4,
+		"number": 236,
+		"text": "V nukleových kyselinách jsou běžné následující komplementární dvojice bází:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "A-T",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "T-C",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "C-G",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "U-A",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 237,
+		"category": 4,
+		"number": 237,
+		"text": "Thymin se v DNA páruje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "sadeninem",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "s cytosinem",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "s guaninem",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "s uracilem",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 238,
+		"category": 4,
+		"number": 238,
+		"text": "Cytosin se v DNA páruje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "s guaninem",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "s adeninem",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "s uracilem",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "s thyminem",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 239,
+		"category": 4,
+		"number": 239,
+		"text": "K replikaci DNA v živočišné buňce dochází:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v jádře a mitochondriích",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v jádře a chloroplastech",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v cytoplasmě",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v lyzosomech",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 240,
+		"category": 4,
+		"number": 240,
+		"text": "Replikací rozumíme přenos genetické informace z:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mRNA do tRNA",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "DNA do mRNA",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mRNA do DNA",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "DNA do DNA",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 241,
+		"category": 4,
+		"number": 241,
+		"text": "Při replikaci DNA:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se uplatňuje enzym DNA-polymeráza",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se uplatňuje komplementarita bází",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dochází ke zdvojení molekuly DNA",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se páruje adenin s guaninem",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 242,
+		"category": 4,
+		"number": 242,
+		"text": "Při replikaci DNA vznikají:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "molekuly mRNA",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "molekuly rRNA",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dvě dceřinné buňky",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "semikonzervativním procesem nové molekuly DNA",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 243,
+		"category": 4,
+		"number": 243,
+		"text": "Replikace DNA zajišťuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "identitu přenosu informace pomocí pořadí nukleotidů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zdvojování molekuly DNA",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vznik gamet",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "identitu genetické informace v dceřinných buňkách",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 244,
+		"category": 4,
+		"number": 244,
+		"text": "Replikace je proces, ve kterém dochází k:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zdvojení DNA",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "syntéze molekul RNA na molekulách DNA",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "syntéze bílkovin dle genetické informace obsažené v mRNA",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "přepisu genetické informace rRNA do mRNA",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 245,
+		"category": 4,
+		"number": 245,
+		"text": "Při replikaci dvouvláknové DNA slouží jako matrice:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "obě oddělená vlákna původní molekuly DNA",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pouze jedno vlákno původní molekuly DNA",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "DNA polymeráza",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vlákno RNA",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 246,
+		"category": 4,
+		"number": 246,
+		"text": "DNA sekvence, na které se váže RNA polymerasa a iniciuje transkripci genu se nazývají:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "introny",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "promotory",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "operátory",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "enhancery",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 247,
+		"category": 4,
+		"number": 247,
+		"text": "Funkčním přepisem strukturních genů je :",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "tRNA",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mRNA",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "rRNA",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "cDNA",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 248,
+		"category": 4,
+		"number": 248,
+		"text": "RNA se v živočišné buňce syntetizuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v jádře",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v ribosomech",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v cytoplazmě",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vendoplasmatickém retikulu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 249,
+		"category": 4,
+		"number": 249,
+		"text": "Průběh transkripce je závislý na působení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "DNA-polymeráz",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "RNA-polymeráz",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "N-acetyl-d-galaktosamin transferázy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "aminoacil-tRNA-syntetázy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 250,
+		"category": 4,
+		"number": 250,
+		"text": "Transkripcí se rozumí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "přepis strukturních genů do mediátorové RNA",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "přepis tRNA genů do informační RNA",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "přepis rRNA genů do cDNA",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "přepis strukturní RNA do mRNA",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 251,
+		"category": 4,
+		"number": 251,
+		"text": "Transkripcí rozumíme přepis genetické informace z:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mRNA do peptidu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "DNA do DNA",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "DNA do mRNA",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "tRNA do peptidu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 252,
+		"category": 4,
+		"number": 252,
+		"text": "Transkripce:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je založena na komplementaritě dusíkatých bazi",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je iniciována ribosomy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "probíhá v interfázi",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je enzymatický proces",
+				"correct": true
+			}
+		]
+	}
+]

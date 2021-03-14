@@ -1,0 +1,578 @@
+[
+	{
+		"id": 794,
+		"category": 7,
+		"number": 794,
+		"text": "Motolice jaterní (Fasciola hepatica):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "cizopasí u přežvýkavců, vzácně u člověka",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "má ústní a břišní přísavku",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "má za mezihostitele bahnatku malou",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "má za mezihostitele škebli rybničnou",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 795,
+		"category": 7,
+		"number": 795,
+		"text": "Motolice (Trematoda):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "patří mezi hlísty",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "patří mezi ploštěnce",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mají trávicí soustavu podobnou ploštěnkám",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nemají trávicí soustavu, přijímají živiny povrchem těla",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 796,
+		"category": 7,
+		"number": 796,
+		"text": "Hlístice (Nematoda):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mají trávicí soustavu končící slepě",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se množí pohlavně i nepohlavně",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mají vytvořenou cévní soustavu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mají pseudocoel",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 797,
+		"category": 7,
+		"number": 797,
+		"text": "Roup dětský (Enterobius vermicularis):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "parazituje ve střevě člověka",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je velmi běžný v dětské populaci",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se k člověku nejčastěji dostává přes domácí zvířata jako mezihostitele",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "dosahuje velikosti zhruba 20-40cm",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 798,
+		"category": 7,
+		"number": 798,
+		"text": "Škrkavka dětská:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "parazituje v dospělosti ve střevě člověka",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mezihostitelem je prase domácí",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "má v dospělosti velikost 9-12mm",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "má velikost až 40 cm",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 799,
+		"category": 7,
+		"number": 799,
+		"text": "Vlasovec mízní (Vouchereria bancrofti):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "parazituje v cévních svazcích vyšších rostlin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "působí elefantiázu u člověka",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vyskytuje se běžně na našem území",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "má za mezihostitele komára",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 800,
+		"category": 7,
+		"number": 800,
+		"text": "Škrkavka dětská (Ascaris lumbricoides) jako lidský parazit se na člověk přenáší:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vajíčky na zelenině nebo ovoci",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ze skotu nedovařeným masem",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "z vepřového masa",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "z koček",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 801,
+		"category": 7,
+		"number": 801,
+		"text": "Hádátka (druhy rodu Heterodera):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "patří mezi hlístice (Nematoda)",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "parazitují ve střevě u dětí",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "žijí pouze ve vodě",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zahrnují důležité škůdce hospodářských plodin",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 802,
+		"category": 7,
+		"number": 802,
+		"text": "Nahosemenné (gymnospermické rostliny):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mají vajíčka v semeníku",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mají vajíčka na okraji plodolistu (semenných šupin)",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vytvářejí květ",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "patří k nim cykasy, jinany, jehličnany",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 803,
+		"category": 7,
+		"number": 803,
+		"text": "Krytosemenné (angiospermické rostliny):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "tvoří květ",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vajíčka jsou uzavřena v semeníku",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zahrnují třídy Magnoliopsida, Rosopsida, Liliopsida",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zahrnují dvouděložné i jednoděložné rostliny",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 804,
+		"category": 7,
+		"number": 804,
+		"text": "Ploštěnci (Plathelminthes) jsou živočichové:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "s dvoustrannou tělesnou souměrností",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "patřící mezi Diblastica",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se schizocoelním typem tělesné dutiny",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "patřící mezi prvoústé (Protostomia)",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 805,
+		"category": 7,
+		"number": 805,
+		"text": "Kroužkovci (Annelida) mají:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "homonomní článkování",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "heteronomní článkování",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v každém článku jeden pár metanefridií",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "povrch těla krytý kutikulou",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 806,
+		"category": 7,
+		"number": 806,
+		"text": "Svalovec stočený (Trichinella spiralis):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "patří mezi tasemnice",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v dospělosti žije v tenkém střevě",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "má larvy, které se zapouzdřují ve svalech",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "parazituje i u člověka",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 807,
+		"category": 7,
+		"number": 807,
+		"text": "U kroužkovců nacházíme:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "coelom",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pseudocoel",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mixocoel",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "schizocoel",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 808,
+		"category": 7,
+		"number": 808,
+		"text": "Nervová soustava u kroužkovců je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "difúzní",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "otevřená",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "trubicová",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žebříčková",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 809,
+		"category": 7,
+		"number": 809,
+		"text": "Mnohoštětinatci (Polychaeta):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dýchají žábrami",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mají po stranách těla nečlánkované přívěsky (parapodia)",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mají článkované přívěsky",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vyvíjejí se přes larvu zvanou trochophora",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 810,
+		"category": 7,
+		"number": 810,
+		"text": "Vylučovacím orgánem kroužkovců jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "protonefridie",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "metanefridie",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "malpighické trubice",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 811,
+		"category": 7,
+		"number": 811,
+		"text": "Protonefridie nacházíme u:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ploštěnců (Plathelminthes)",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hub (Porifera)",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "hlístic (Nematoda)",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kroužkovců (Annelida)",
+				"correct": false
+			}
+		]
+	}
+]

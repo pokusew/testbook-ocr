@@ -1,0 +1,546 @@
+[
+	{
+		"id": 271,
+		"category": 4,
+		"number": 271,
+		"text": "Transferová RNA (TRNA) se aktivně uplatňuje při:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "translaci",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "transkripci",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "replikaci",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "proteosyntese",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 272,
+		"category": 4,
+		"number": 272,
+		"text": "Pořadí aminokyselin v polypeptidovém řetězci je dáno:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pořadím tripletů v mRNA",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "přepisem informace z DNA do mRNA",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pořadím tripletů v rRNA",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pořadím aminokyselin v původní molekule bílkoviny",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 273,
+		"category": 4,
+		"number": 273,
+		"text": "Úsek určitého genu má tento sled nukleotidů ...ATGCGCCGCTCAAGACTT....",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pořadí nukleotidů v mRNA, která vznikla jeho transkripcí je ATGCGCCGCTCAAGACTT",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jeho transkripce a translace povede ke vzniku polypeptidu o 6 aminokyselinách",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pořadí dusíkatých bází v jeho tRNA transkriptu je TACGCGGCGAGTTCTGAA",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 274,
+		"category": 4,
+		"number": 274,
+		"text": "Peptidový řetězec o 333 aminokyselinách je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zakódován v sekvenci o 333 tripletech nukleotidů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kódován strukturním genem o sekvenci 111 nukleotidů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kódován sekvencí, jejích příslušná dvouřetězcová DNA má molekulovou hmotnost as 6,6x105",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 275,
+		"category": 4,
+		"number": 275,
+		"text": "Peptidový řetězec 0 666 aminokyselinách je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zakódován v sekvenci o 222 tripletech nukleotidů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kódován strukturním genem o sekvenci 666 nukleotidů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kódován sekvencí, jejích příslušná dvouřetězcová DNA má molekulovou hmotnost as 3,3x105",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 276,
+		"category": 4,
+		"number": 276,
+		"text": "Introny jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "přepisovány, ale nikoli translatovány",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "transkribovány a tudíž i překládány",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "příkladem DNA, která nem genovou funkci",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kódující sekvence genu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 277,
+		"category": 4,
+		"number": 277,
+		"text": "Vyštěpování intronů:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "umožňuje větší variabilitu syntézy proteinů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je typické pro cytoplasmatickou DNA",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "probíhá před transkripcí",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "probíhá po translaci",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 278,
+		"category": 4,
+		"number": 278,
+		"text": "Které tvrzení je správné pro exony:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "obsahují sekvence kódující start a stop translace",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ve všech protein kódujících genech je jejich počet stejný",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kódují sekvence, které jsou během postranskripčních úprav odstraněny",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou obecně delší než introny",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 279,
+		"category": 4,
+		"number": 279,
+		"text": "Exony jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kódující sekvenc genu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "příkladem DNA, která nemá genovou funkci",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "z primárního transkriptu (pre-mRNA) strukturních genů velmi přesně vystřiženy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nejen transkribovány, ale i překládány",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 280,
+		"category": 4,
+		"number": 280,
+		"text": "Introny:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nalézáme uvnitř strukturních genů v eukaryontních buňkách",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou hojně roztroušené v genomech prokaryontních buněk",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "resp. jejich přepisy jsou přítomny v sekundární RNA po sestřihu eukaryontní pre-mRNA kdy exony jsou již vystříhány a introny opět sceleny a připraveny k translaci",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "resp. transkripty intronů jsou z primární formy RNA po transkripci eukaryontníc strukturních genů (pre-mRNA) sekundárně velmi přesně vystřiženy",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 281,
+		"category": 4,
+		"number": 281,
+		"text": "Jsou tyto poznatky o fungování genomu pravdivé:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jen asi 7 % až 28 % jaderné DNA v savčích buňkách je přepisováno do RNA (všech typů)",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "93% až 99 % savčí genomové DNA funguje jako geny",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v jaderném genomu člověka je asi 3 000 000 genů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "část jaderné DNA má funkce regulačních genů, užívá se též termínu regulační (signální sekvence",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 282,
+		"category": 4,
+		"number": 282,
+		"text": "Jsou tyto poznatky o fungování genomu pravdivé:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "většina (72 % až 93 %) jaderné DNA savců je přepisována do RNA (všech typů)",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "93 % až 99 % savčí genomové DNA funguje jako geny",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v jaderném genomu člověka je asi 3 000 000 genů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádný z uvedených výroků není pravdivý",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 283,
+		"category": 4,
+		"number": 283,
+		"text": "Kodon:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je trojice nukleotidů v DNA a (po transkripci) v mRNA",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "specifikuje v primární struktuře DNA peptidové zařazení tří sousedních aminokyselin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "tvoří čtveřice dusíkatých bází (T, resp. U, dále A, C a G)",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je jednotkou genetického kódu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 284,
+		"category": 4,
+		"number": 284,
+		"text": "Kodon mRNA:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "AUG ukončuje translaci peptidového řetěžce",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je komplementární kodonu DNA, jehož je transkriptem",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "UAG (podobně jako UAA či UGA) kóduje zařazení aminokyseliny methionin; současn slouží k označení začátku translace",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nese takové množství informace, jaké je nutné pro zařazení jedné aminokyseliny d syntetizovaného peptidového řetězce.",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 285,
+		"category": 4,
+		"number": 285,
+		"text": "Počet různých kodonů je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "4",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "16",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "32",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "64",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 286,
+		"category": 4,
+		"number": 286,
+		"text": "Kodon je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "trojice nukleotidů určující začlenění aminokyselin do vznikajícího polypeptidu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pořadí nukleotidů v DNA nesoucí informaci o primární struktuře tRNA",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "strukturní gen",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "gen pro tvorbu rRNA",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 287,
+		"category": 4,
+		"number": 287,
+		"text": "Genetický kód:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "určuje syntézu proteinu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je degenerovaný",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kóduje 64 aminokyselin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je čten v tripletech",
+				"correct": true
+			}
+		]
+	}
+]

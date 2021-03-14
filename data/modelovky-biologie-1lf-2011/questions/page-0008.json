@@ -1,0 +1,514 @@
+[
+	{
+		"id": 81,
+		"category": 2,
+		"number": 81,
+		"text": "Při dihybridizmu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v F2 generaci nacházíme 4 typy homozygotů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v F2 generaci je %16 dominantních homozygotů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vznikají pouze heterozygotní jedinci",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "homozygoti jsou shodní pouze s jedním z rodičů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 82,
+		"category": 2,
+		"number": 82,
+		"text": "Jedinec s genotypem AaBb tvoří při nezávislé kombinaci obou genů:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "čtyři typy gamet",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "75 % gamet jednoho typu a 25 % druhého typu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "gamety Aa, Bb",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "gamety se shodnou frekvencí",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 83,
+		"category": 2,
+		"number": 83,
+		"text": "Dihybrid AaBb tvoří za podmínek nezávislé kombinace obou genů:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "2 typy gamet",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v F2 generaci 3 fenotypy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "gamety AA, BB, aa, bb",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v F2 generaci 9 genotypů",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 84,
+		"category": 2,
+		"number": 84,
+		"text": "Fenotypový štěpný poměr 1:1:1:1 platí pro křížení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dvou dvojnásobných heterozygotů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dvojnásobného heterozygota s recesivním homozygotem při nezávislé segregaci obo genů",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dvou homozygotů při neúplné dominanci",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "recesivního homozygota s heterozygotem při dihybridizmu a nezávislé segregaci obo genů",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 85,
+		"category": 2,
+		"number": 85,
+		"text": "Při dihybridizmu za podmínek volné kombinovatelnosti obou genů:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vzniká 9 rozdílných genotypů v F2",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v F2 generaci je %16 dominantních homozygotů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v F2 generaci vznikají pouze heterozygotní jedinci",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "homozygoti jsou shodní pouze s jedním z rodičů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 86,
+		"category": 2,
+		"number": 86,
+		"text": "Jedinec s genotypem AABb tvoří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "gamety A, B, b",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "75 % gamet jednoho typu a 25 % druhého typu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "50 % gamet s oběma dominantními alelami",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "dva typy gamet",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 87,
+		"category": 2,
+		"number": 87,
+		"text": "Fenotypový štěpný poměr 1:1:1:1 platí za podmínek volné kombinovatelnost pro křížení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dvou dvojnásobných heterozygotů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dvou homozygotů při neúplné dominanci",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "dominantního homozygota s heterozygotem",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 88,
+		"category": 2,
+		"number": 88,
+		"text": "U autosomálně lokalizovaných genů jsou výsledky recipročního křížení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "různé",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "shodné",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "závislé na matce",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "závislé na otci",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 89,
+		"category": 2,
+		"number": 89,
+		"text": "Stav, kdy je fenotyp heterozygotního jedince odlišný od fenotypu dominantníh i recesivního homozygota, nacházíme při následujícím vztahu mezi alelami tého genu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "úplná dominance",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "neúplná dominance",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kodominance",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "úplná recesivita",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 90,
+		"category": 2,
+		"number": 90,
+		"text": "Při úplné dominanci A nad a je heterozygot Aa fenotypově:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "neodlišitelný od dominantního homozygota",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "shodný s aa",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mezi AA a aa",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "odlišný od obou rodičů (AA, aa)",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 91,
+		"category": 2,
+		"number": 91,
+		"text": "Při neúplné dominanci A nad a je heterozygot Aa fenotypově:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "odlišný od obou homozygotů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "shodný s AA",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "shodný s aa",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v rozmezí fenotypů AA a aa",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 92,
+		"category": 2,
+		"number": 92,
+		"text": "Při křížení dvou různých homozygotů (AA x aa):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nacházíme štěpení 1:1",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dochází ke štěpení 1:2:1",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nacházíme štěpení 3:1",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 93,
+		"category": 2,
+		"number": 93,
+		"text": "Při neúplné dominanci při křížení dvou různých homozygotů:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "heterozygotní genotyp potomků vede ke vzniku vlastního fenotypu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou potomci stejní jako jeden z rodičů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nacházíme štěpení 1:1",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "dochází v F1 generaci ke vzniku nového fenotypu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 94,
+		"category": 2,
+		"number": 94,
+		"text": "Při křížení recesivního homozygota s heterozygotem (aa * Aa):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou všichni potomci stejní",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou všichni potomci stejní jako jeden z rodičů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "dochází ke štěpení 1:2:1",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 95,
+		"category": 2,
+		"number": 95,
+		"text": "Při úplné dominanci při křížení dominantního homozygota s heterozygote (AA * Aa):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je polovina potomků homozygotních",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nacházíme ve fenotypu štěpení 1:1",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dochází ke štěpení 3:1",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "dochází ke štěpení1:2:1",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 96,
+		"category": 2,
+		"number": 96,
+		"text": "Při úplné dominanci a křížení dvou heterozygotů (Aa * Aa):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "má 44 potomků fenotyp, který odpovídá recesivnímu homozygotovi",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou všichni potomci stejní",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou 24 potomků heterozygoti",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "převládají mateřské znaky",
+				"correct": false
+			}
+		]
+	}
+]

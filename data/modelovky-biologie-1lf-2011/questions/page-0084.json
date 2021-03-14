@@ -1,0 +1,578 @@
+[
+	{
+		"id": 1413,
+		"category": 16,
+		"number": 1422,
+		"text": "V ovariích se tvoří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "estrogeny a progesteron",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jen estrogeny",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jen progesteron",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "folitropin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1414,
+		"category": 16,
+		"number": 1423,
+		"text": "Největší pravděpodobnost oplození je (při pravidelném 28 denní menstruačním cyklu):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1.-4. den",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "27.-28. den",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "5.-7. den",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "12.-14. den",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1415,
+		"category": 16,
+		"number": 1413,
+		"text": "Kortisol:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je hormon dřeně nadledvin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je produkován adenohypofýzou",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je produkován kůrou nadledvin",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "má vliv na metabolizmus bílkovin",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1416,
+		"category": 16,
+		"number": 1414,
+		"text": "Glukokortikoidy:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou tvořeny kůrou nadledvin",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou tvořeny dření nadledvin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou tvořeny v adenohypofýze",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mají protizánětlivé účinky",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1417,
+		"category": 16,
+		"number": 1415,
+		"text": "Mineralokortikoidy:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "působí hlavně v kostech",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "působí v ledvinách",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zvyšují zpětnou resorpci sodíku a vody v ledvinách",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zvyšují vylučování draslíku ledvinami",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1418,
+		"category": 16,
+		"number": 1416,
+		"text": "Noradrenalin působí hlavně na:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kosterní svalovinu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "na hladkou svalovinu cév",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "na hladkou svalovinu dělohy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "na hladkou svalovinu mléčných vývodů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1419,
+		"category": 16,
+		"number": 1417,
+		"text": "Noradrenalin:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zvyšuje systolický i diastolický tlak krve",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zvyšuje jen systolický tlak krve",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zvyšuje jen diastolický tlak krve",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "snižuje systolický tlak krve",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1420,
+		"category": 16,
+		"number": 1418,
+		"text": "Glukagon:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zvyšuje hladinu glukózy v krvi",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "snižuje hladinu glukózy v krvi",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "má stejný účinek na hladinu glukózy jako inzulín",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zvyšuje využití glukózy tkáňovými buňkami",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1421,
+		"category": 16,
+		"number": 1419,
+		"text": "Spermatogeneza začíná:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "před narozením",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "až v dospělosti",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "těsně po narození",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v období puberty",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1422,
+		"category": 16,
+		"number": 1420,
+		"text": "Menstruační cyklus probíhá v:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "adenohypofýze",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ovariích",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "hypotalamu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "děložní sliznici",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1423,
+		"category": 16,
+		"number": 1421,
+		"text": "Ovulace nastává (při pravidelném 28 denním menstruačním cyklu):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "27.-28. den",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "12.-14. den",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1.-4. den",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "5.-7. den",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1424,
+		"category": 16,
+		"number": 1424,
+		"text": "Placenta:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "odděluje krevní oběh matky a plodu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zajišťuje výměnu dýchacích plynů mezi krví matky a plodu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vytváří placentární hormony",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zajišťuje výměnu živin a odpadových látek mezi krví matky a plodu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1425,
+		"category": 16,
+		"number": 1425,
+		"text": "Prostatou prochází:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "začátek močové trubice muže",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zevní vyústění močové trubice muže",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "močovod",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jen chámovod",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1426,
+		"category": 16,
+		"number": 1426,
+		"text": "Štítná žláza se nalézá:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mezi jícnem a průdušnicí",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "na přední ploše krčních obratlů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "na zadní straně podjazylkových svalů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "za hltanem",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1427,
+		"category": 16,
+		"number": 1427,
+		"text": "Příštítné žlázy jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žlázy s vnitřní sekrecí",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "exokrinní část štítné žlázy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "endokrinní i exokrinní část štítné žlázy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "odštěpené části štítné žlázy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1428,
+		"category": 16,
+		"number": 1428,
+		"text": "Hypotalamus je součástí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "adenohypofýzy",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "neurohypofýzy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "šišinky",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mezimozku",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1429,
+		"category": 16,
+		"number": 1429,
+		"text": "Přední lalok podvěsku mozkového podléhá řídícímu vlivu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "středního mozku",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hypotalamu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mozečku",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "talamu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1430,
+		"category": 16,
+		"number": 1430,
+		"text": "Štítná žláza je vazivem připojena k:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hrtanu a průdušnici",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hrtanu a jícnu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jícnu a průdušnici",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "prvnímu žebru a jícnu",
+				"correct": false
+			}
+		]
+	}
+]

@@ -1,0 +1,578 @@
+[
+	{
+		"id": 1289,
+		"category": 14,
+		"number": 1289,
+		"text": "Nervový vzruch se u člověka může po nervovém vláknu šířit maximálně rychlostí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "120 km/s",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "120 m/s",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "120 mm/s",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "120 m/s",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1290,
+		"category": 14,
+		"number": 1290,
+		"text": "U člověka mohou mít výběžky nervových buněk maximální délku:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kolem jednoho metru",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "několik centimetrů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "několik milimetrů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "několik mikrometrů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1291,
+		"category": 14,
+		"number": 1291,
+		"text": "Senzitivní nervová vlákna:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "řídí činnost hladkého svalstva",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vedou vzruchy dostředivě",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "přenášejí informace z čidel",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou součástí reflexního oblouku",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1292,
+		"category": 14,
+		"number": 1292,
+		"text": "Motorická nervová vlákna:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vedou vzruchy k příčně pruhovaným svalům",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vedou vzruchy dostředivě",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vedou vzruchy odstředivě",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "řídí činnost hladkého svalstva",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1293,
+		"category": 14,
+		"number": 1293,
+		"text": "Autonomní nervový systém:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "řídí činnost žláz",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "řídí činnost hladkého svalstva",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "řídí pohyby očních bulbů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zahajuje polykací reflex",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1294,
+		"category": 14,
+		"number": 1294,
+		"text": "Páteřní mícha dospělého muže je přibližně dlouhá:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "45 mm",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "12 cm",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "45 cm",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "450 mm",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1295,
+		"category": 14,
+		"number": 1298,
+		"text": "Hematoencefalická bariéra zajišťuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "stálost vnitřního prostředí mozku",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ochranu mozku před úrazem",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ochranu mozku před průnikem oxidu uhličitého",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "oddělení mozku od míchy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1296,
+		"category": 14,
+		"number": 1299,
+		"text": "Signály pro cílené pohyby rukou vycházejí z:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hypotalamu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mozečku",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mozkové kůry",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "hrudní míchy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1297,
+		"category": 14,
+		"number": 1300,
+		"text": "Podněty ve 2. signální soustavě člověka jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "abstraktní",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "konkrétní",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jakékoliv",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jen nepodmíněné",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1298,
+		"category": 14,
+		"number": 1301,
+		"text": "Vnitřní stav usměrňující reakci organismu nazýváme:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "signální soustava",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "motivace",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "habituace",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "adaptace",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1299,
+		"category": 14,
+		"number": 1302,
+		"text": "Chemická synapse (zápoj):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je místem vzniku nervového vzruchu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "slouží k zesílení převáděného vzruchu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "umožňuje oboustranný přenos elektrických signálů mezi neurony",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1300,
+		"category": 14,
+		"number": 1303,
+		"text": "Tkáňový mok vzniká:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "selekcí",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "konvekcí",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "filtrací",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "difúzí",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1301,
+		"category": 14,
+		"number": 1304,
+		"text": "Hlavní řídící ústrojí pro autonomní (vegetativní) funkce je v:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "prodloužené míše",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "středním mozku",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "talamu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1302,
+		"category": 14,
+		"number": 1305,
+		"text": "Z páteřní míchy člověka vystupuje párů míšních nervů:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "21",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "12",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "13",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1303,
+		"category": 14,
+		"number": 1306,
+		"text": "Hladká svalovina je ovládána:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "buňkami předních rohů míchy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jen sympatikem",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jen parasympatikem",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1304,
+		"category": 14,
+		"number": 1295,
+		"text": "Reflexní oblouk se skládá z:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dostředivé dráhy",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "výkonného orgánu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "čidla",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "odstředivé dráhy",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1305,
+		"category": 14,
+		"number": 1296,
+		"text": "Nejjednodušší reflexní oblouk tvoří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jeden neuron",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dva neurony",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "tři neurony",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "čtyři neurony",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1306,
+		"category": 14,
+		"number": 1297,
+		"text": "Bloudivý nerv:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vede vzruchy ke svalům bránice",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "obsahuje vlákna autonomního nervstva",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vstupuje do míchy v oblasti krční páteře",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je desátým hlavovým nervem",
+				"correct": true
+			}
+		]
+	}
+]

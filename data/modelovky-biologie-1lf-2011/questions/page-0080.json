@@ -1,0 +1,546 @@
+[
+	{
+		"id": 1342,
+		"category": 15,
+		"number": 1342,
+		"text": "Mezi kožní smyslové modality patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "chlad",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "teplo",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "bolest",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "dotyk-tlak",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1343,
+		"category": 15,
+		"number": 1343,
+		"text": "Svalová vřeténka:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vysílají informace do CNS",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "řídí svalovou dráždivost",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "umožňují prostřednictvím CNS stálou kontrolu nad činností svalů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "řídí činnost útrobního svalstva",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1344,
+		"category": 15,
+		"number": 1344,
+		"text": "Statokinetické čidlo je uloženo:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ve středním uchu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v labyrintu skalní kosti",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v kmenu mozkovém",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v kůře spánkového laloku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1345,
+		"category": 15,
+		"number": 1345,
+		"text": "Kinetické čidlo informuje o:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "poloze lidského těla",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vzpřímeném postoji a tělesné rovnováze v klidu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "o vzpřímeném postoji a tělesné rovnováze v pohybu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "o změnách polohy hlavy v prostoru",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1346,
+		"category": 15,
+		"number": 1346,
+		"text": "Statické čidlo informuje o:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "poloze lidského těla",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "o vzpřímeném postoji a tělesné rovnováze v klidu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "o vzpřímeném postoji a tělesné rovnováze v pohybu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "o poloze hlavy v prostoru",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1347,
+		"category": 15,
+		"number": 1347,
+		"text": "Slyšení zprostředkuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "bubínek",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kůstky středního ucha",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Cortiho orgán",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "frontální lalok mozkový",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1348,
+		"category": 15,
+		"number": 1348,
+		"text": "Bubínek je uložen",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v zevním zvukovodu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ve vnitřním uchu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "na rozhraní zevního a středního ucha",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "na rozhraní středního a vnitřního ucha",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1349,
+		"category": 15,
+		"number": 1351,
+		"text": "Řasnaté těleso oka ovlivňuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "akomodaci čočky",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "akomodaci rohovky",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "barvu očí",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "stavbu očního nervu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1350,
+		"category": 15,
+		"number": 1352,
+		"text": "Cortiho orgán je uložen v (ve):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hlemýždi",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "středním uchu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "bázi polokruhovitých kanálků",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Eustachově trubici",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1351,
+		"category": 15,
+		"number": 1353,
+		"text": "Statické čidlo se nachází v:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "polokruhovitých kanálcích",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "středním mozku",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "hlemýždi vnitřního ucha",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1352,
+		"category": 15,
+		"number": 1354,
+		"text": "Receptor je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "senzitivní nervové zakončení",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zakončení hybných nervových vláken",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "druh svalu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "orgán uvnitř míchy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1353,
+		"category": 15,
+		"number": 1355,
+		"text": "Exteroreceptory pro dotyk a tlak jsou v:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kůži a sliznici",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "krvi",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v nehtech",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "očním nervu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1354,
+		"category": 15,
+		"number": 1356,
+		"text": "Zrakové barvivo rodopsin je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "uloženo v membránách tyčinek",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "uloženo v axonech tyčinek a čípků",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "sloučenina cukru opsinu a vitaminu D",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "sloučenina cukru opsinu a vitaminu A",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1355,
+		"category": 15,
+		"number": 1357,
+		"text": "Zrakové barvivo rodopsin je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "sloučenina bílkoviny opsinu a vitaminu A",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "sloučenina vitaminů A a D",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "uloženo v duhovce oka",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "přítomno v buňkách slepé skvrny",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1356,
+		"category": 15,
+		"number": 1358,
+		"text": "Zrakový nerv (n. opticus):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "patří mezi hlavové nervy",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je výchlipkou mezimozku (diencephala)",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vede zrakové podněty",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "obalen tvrdou plenou mozkovou",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1357,
+		"category": 15,
+		"number": 1349,
+		"text": "Eustachova trubice spojuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "středoušní dutinu s nosohltanem",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "středoušní dutinu s dutinou nosní",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vnitřní ucho s hrtanem",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "napíná bubínek",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1358,
+		"category": 15,
+		"number": 1350,
+		"text": "Polokruhovité kanálky jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ve vnitřním uchu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "součástí sluchového čidla",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "součástí statokinetického čidla",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "součástí mozkového kmene",
+				"correct": false
+			}
+		]
+	}
+]

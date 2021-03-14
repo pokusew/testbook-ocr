@@ -1,0 +1,578 @@
+[
+	{
+		"id": 365,
+		"category": 5,
+		"number": 365,
+		"text": "Vyberte rovnici, která platí v rovnovážné populaci:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "q2 = 1 - 2pq-p",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "p² + q2 = 1 - 2pq",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "p2 + 2pq + q2 = 1",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 366,
+		"category": 5,
+		"number": 366,
+		"text": "Vyberte rovnici, která platí v rovnovážné populaci:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "2p - 1 = q?",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "p+ q2 = 1 - 2pq",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pq + 2pq = 0",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 367,
+		"category": 5,
+		"number": 367,
+		"text": "Panmixie:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je příznačná pro samooplození",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se vyskytuje zejména u autogamie",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je náhodný výběr partnerů při křížení",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je typická pro samosprašné rostliny",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 368,
+		"category": 5,
+		"number": 368,
+		"text": "Panmiktická populace:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se vyznačuje nepohlavním rozmnožováním",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nemůže vznikat u hermafroditů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je populace o více než miliónu jedinců",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se vyznačuje náhodným výběrem sexuálního partnera",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 369,
+		"category": 5,
+		"number": 369,
+		"text": "V malých populacích, na rozdíl od populací velkých, se na změnách genovýc frekvencí význačně uplatňuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "genetický posun (drift)",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mutace",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "selekce",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vnější ostředí",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 370,
+		"category": 5,
+		"number": 370,
+		"text": "V Genové frekvence v malých populacích jsou na rozdíl od populací velkýc výrazně ovlivněny:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "změnami prostředí",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "selekcí",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "genetickým driftem",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mutagenními látkami",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 371,
+		"category": 5,
+		"number": 371,
+		"text": "HardyWeinbergův zákon:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "platí pro velkou panmiktickou populaci",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Ize vyjádřit rovnicí p? + pq + q² = 1",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "platí jen pro alely autosomálních genů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vysvětluje úbytek heterozygotů v populaci",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 372,
+		"category": 5,
+		"number": 372,
+		"text": "HardyWeinbergův zákon:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "platí pouze pro malé populace cca do 1000 jedinců",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "platí pro panmiktické populace",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "platí pro velké populace",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "neplatí pro dědičnost genů na chromozomu X",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 373,
+		"category": 5,
+		"number": 373,
+		"text": "Frekvence alel v populaci:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je vždy stálá",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se ve velké populaci mění rychle",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je za normálních podmínek vždy 0,5",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se mění vlivem selekce",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 374,
+		"category": 5,
+		"number": 374,
+		"text": "Frekvence alel v populaci:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou ovlivněny selekcí",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se mění tím rychleji, čím je populace větší",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou ovlivněny mutacemi",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "piq jsou vždy konstantní",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 375,
+		"category": 5,
+		"number": 375,
+		"text": "V malé populaci vlivem genetického posunu se může po velkém počtu generací:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "genofond stát variabilní, frekvence všech alel stoupá a klesá, přibývá heterozygot v důsledku inbridingu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "měnit genofond populace ve smyslu vymizení některých alel, zvýšení frekvence jiných zvýšení frekvence heterozygotů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "genofond stát variabilní, frekvence všech alel stoupá a klesá, přibývá heterozygotů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 376,
+		"category": 5,
+		"number": 376,
+		"text": "V malé populaci (se) může vlivem genetického driftu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "některá z alel z populace vymizet",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zvýšit frekvence heterozygotů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "některá alela převládnout (tzv. fixovat se)",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zvýšit množství alel danéh genu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 377,
+		"category": 5,
+		"number": 377,
+		"text": "Malé populace:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zachovávají stálou frekvenci alel",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mají snížený počet homozygotů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ve shodných podmínkách jsou shodné",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mění četnost alel vlivem náhody",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 378,
+		"category": 5,
+		"number": 378,
+		"text": "V malých populacích:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se zvyšuje genetická variabilita",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se postupně snižuje počet homozygotů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se frekvence alel náhodně mění",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se frejvence alel mění působením genetického driftu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 379,
+		"category": 5,
+		"number": 379,
+		"text": "Malé populace:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mají snížený počet homozygotů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mají stejné frekvence týchž alel",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zachovávají stálou frekvenci alel",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 380,
+		"category": 5,
+		"number": 380,
+		"text": "V malých populacích:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se postupně zvyšuje počet heterozygotů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "může jedna z alel nakonec zcela převládnout",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dochází k účinnějšímu přírodnímu výběru výhodných vlastností",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se frejvence alel na rozdíl od velkých populací nemění",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 381,
+		"category": 5,
+		"number": 381,
+		"text": "Příbuzenské křížení v populaci má za následek:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vzestup počtu heterozygotů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "změnu genových frekvencí",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "snížení počtu recesivních homozygotů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 382,
+		"category": 5,
+		"number": 382,
+		"text": "Genetické riziko příbuzenských sňatků spočívá:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v efektu heterosy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ve zvyšování počtu mutací",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ve zvýšené pravděpodobnosti narození heterozygotů",
+				"correct": false
+			}
+		]
+	}
+]

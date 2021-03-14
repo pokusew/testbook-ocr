@@ -1,0 +1,578 @@
+[
+	{
+		"id": 46,
+		"category": 1,
+		"number": 46,
+		"text": "Složený heterozygot je pojem pro:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jedince heterozygotního ve dvou genech",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jedince s recesivním znakem podmíněným dvěma různými mutacemi (alelami) genu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jedince vytvořeného genetickým inženýrstvím",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jedince s dominantní a recesivní alelou určitého genu v genotypu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 47,
+		"category": 1,
+		"number": 47,
+		"text": "Civilizační choroby:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nejsou dědičné, jsou vyvolávány pouze civilizačními vlivy",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou nejčastěji autozomálně dominantně dědičné, fenotyp je ovlivňován civilizačním vlivy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou nejčastěji polygenně dědičné, fenotyp je ovlivňován civilizačními vlivy",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou nejčastěji autozomálně recesivně dědičné, vlivy prostředí je neovlivňují",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 48,
+		"category": 1,
+		"number": 48,
+		"text": "Příbuzenský sňatek:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je sňatek dvou osob se společnými předky kdykoli v dávné minulosti",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je sňatek dvou osob se společnými předky v prvé, druhé nebo třetí generaci",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zvyšuje riziko recesivně dědičných znaků",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zvyšuje riziko dominantně dědičných znaků",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 49,
+		"category": 1,
+		"number": 49,
+		"text": "Koeficient příbuznosti 42 je mezi:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "sourozenci",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "otcem a dcerou",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "matkou a synem",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "otcem a synem",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 50,
+		"category": 1,
+		"number": 50,
+		"text": "Variabilní expresivita znaku:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je pojem pro vyjádření různé regulace funkce genu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je termín, vyjadřující různý stupeň vyjádření znaku",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je termín, vyjadřující pravděpodobnost manifestace určitého genotypu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je totožný s pojmem penetrance znaku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 51,
+		"category": 1,
+		"number": 51,
+		"text": "Neúplná penetrance:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je pojem pro vyjádření různé regulace funkce genu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je termín, vyjadřující pravděpodobnost manifestace určitého genotypu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je termín, vyjadřující různý stupeň vyjádření znaku",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je pojem pro neúplný průnik genů jedné populace do druhé populace",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 52,
+		"category": 1,
+		"number": 52,
+		"text": "Znaky pohlavně vázané (X vázané):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou podmíněny geny lokalizovanými jen na X chromosomu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se v rodinách předávají jen přes ženy-nosičky",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dominantně dědičné postihují častěji ženské pohlaví",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "postihují jen mužské pohlaví",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 53,
+		"category": 1,
+		"number": 53,
+		"text": "Pleiotropní efekt genu značí, že:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "znak je podmíněn samostatným účinkem různých genů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "gen se manifestuje různým stupněm vyjádření ve fenotypu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "gen ovlivňuje více znaků",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jeho manifestace se projeví jen u X vázaných chorob",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 54,
+		"category": 1,
+		"number": 54,
+		"text": "Heterogenně podmíněný znak:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je podmíněn samostatným účinkem mutací různých genů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je charakterizován různým stupněm vyjádření ve fenotypu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se může v některých rodinách dědit dominantně, v jiných recesivně",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je znak jehož manifestace může přeskakovat generace",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 55,
+		"category": 1,
+		"number": 55,
+		"text": "Dominantně dědičným znakem člověka je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Otoskleróza",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "cystická fibróza",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "diabetes mellitus I i II. typu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "polycystická choroba ledvin, typ dospělých",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 56,
+		"category": 1,
+		"number": 56,
+		"text": "Recesivně dědičným znakem člověka je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "adrenogenitální syndrom",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "diabetes mellitus I a II. typu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "cystická fibróza",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "polycystická choroba ledvin, typ dospělých",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 57,
+		"category": 1,
+		"number": 57,
+		"text": "X vázaným dědičným znakem člověka je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hemofilie A a B",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Rh krevní skupina",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "barvoslepost",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "azoospermie",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 58,
+		"category": 1,
+		"number": 58,
+		"text": "Mnohotná alelie:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je pojem, který značí přítomnost více než dvou alel genu v genotypu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je pojem, který značí existenci více než dvou alel genú v genofondu populace",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je u člověka vzácným jevem",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "může podmiňovat různou expresivitu a penetranci znaku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 59,
+		"category": 1,
+		"number": 59,
+		"text": "Genetická vazba:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je podmíněna interakcí genů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "má jen teoretický význam",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je využívána v genetické konzultaci, cytogenetice a molekulární genetice",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je podmíněna blízkou lokalizací genů na jednom chromosomu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 60,
+		"category": 1,
+		"number": 60,
+		"text": "Jednotka CM (centimorgan):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "10M je mírou genetického rizika",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je jednotkou genetické vazby, 1 cM odpovídá 1% pravděpodobnosti rekombinace",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je jednotkou pro fyzikální hodnocení vazby",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vyjadřuje jednotkové množství genetické informace",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 61,
+		"category": 1,
+		"number": 61,
+		"text": "Mezi interakce nealelních genů patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "komplementarita",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "epistáze",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "exkluze",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kodominance",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 62,
+		"category": 1,
+		"number": 62,
+		"text": "Polygénní dědičnost se od monogenní dědičnosti znaků odlišuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "větším podílem vlivů prostředí na utváření fenotypu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vyloučením efektu dominance některých genů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "účastí genů malého účinku (minor genů)",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "typickým genotypovým štěpným poměrem v F1 generaci",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 63,
+		"category": 1,
+		"number": 63,
+		"text": "Dědivost:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je schopnost dědit určitý znak",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vyjadřuje podíl geneticky podmíněné variability na variabilitě znaku",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je dána podílem V/V+V",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je podmíněna působením genů malého účinku a prostředí",
+				"correct": true
+			}
+		]
+	}
+]

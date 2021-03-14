@@ -1,0 +1,546 @@
+[
+	{
+		"id": 218,
+		"category": 4,
+		"number": 218,
+		"text": "Objev molekulární struktury DNA uveřejnili:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Watson a Holmes v r. 1905",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Griffith v r. 1924",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Avery, McLeod a McCarthy v r. 1944",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Watson a Crick v r. 1953",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 219,
+		"category": 4,
+		"number": 219,
+		"text": "Který/é kolektiv/y výzkumných pracovníků podal/y průkaz DNA jako nositel genetické informace:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Griffith a spolupracovníci",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Avery a spolupracovníci",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Watson a Crick",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Hershey a Chase",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 220,
+		"category": 4,
+		"number": 220,
+		"text": "Že je DNA substrátem dědičnosti, objevil/i:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Miescher v r. 1869",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Griffith v r. 1924",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Avery, McLeod a McCarthy v r. 1944",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Watson a Crick v r. 1953",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 221,
+		"category": 4,
+		"number": 221,
+		"text": "Genetická informace:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je zapsána v molekulách nukleových kyselin",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je zapsána v molekulách bílkovin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "umožňuje buňce realizaci určitého znaku",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je zapsána podle biologicky téměř univerzálního klíče - genetického kódu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 222,
+		"category": 4,
+		"number": 222,
+		"text": "Genetické informace:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "řídí celý život buňky",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "rozhodují o tom, jakých funkcí je buňka schopna",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "určují, jaké budou biochemické a morfologické znaky buňky",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná z ostatních odpovědí není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 223,
+		"category": 4,
+		"number": 223,
+		"text": "Specifická primární struktura molekul DNA:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zůstává nezměněna po celý život buňky",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je v dceřiných buňkách totožná s buňkou mateřskou",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se v průběhu buněčného cyklu zdvojuje - replikuje",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "určuje, jaké budou morfologické a funkční znaky celého mnohobuněčného organismu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 224,
+		"category": 4,
+		"number": 224,
+		"text": "Ústředním dogmatem molekulární biologie je přenos genetické informace z:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nukleové kyseliny do nukleové kyseliny",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nukleové kyseliny do bílkoviny",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "bílkoviny do bílkoviny",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "bílkoviny do nukleové kyseliny",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 225,
+		"category": 4,
+		"number": 225,
+		"text": "Dceřinné tělové buňky organismu obsahují:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ve srovnání s mateřskou buňkou haploidní sadu všech genů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "polovinu všech genů rodičovských gamet",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zdvojenou - replikovanou genetickou informaci buňky mateřské",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nezměněné genetické informace buňky mateřské",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 226,
+		"category": 4,
+		"number": 226,
+		"text": "Dceřinné tělové buňky organismu obsahují:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ve srovnání s mateřskou buňkou haploidní sadu všech genů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "polovinu všech genů rodičovských gamet",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zdvojenou - replikovanou genetickou informaci buňky mateřské",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná z ostatních odpovědí není správná",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 227,
+		"category": 4,
+		"number": 227,
+		"text": "DNA:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je typickým biopolymerem",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je téměř univerzálně látkovým nosičem genetických informací",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "není signálem genetické informace RNA-virů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je dobře rozpustná ve vodě",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 228,
+		"category": 4,
+		"number": 228,
+		"text": "DNA je obsažena kromě jádra také v:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mitochondriích",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "plastidech",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ribosomech",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "tukových vakuolách",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 229,
+		"category": 4,
+		"number": 229,
+		"text": "Které z následujících tvrzení je správné pro eukaryotickou DNA:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "veškerá DNA kóduje proteiny",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "různé oblasti DNA jsou transkribovány v různých buněčných typech",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "množství DNA je proporcionelní k vývojovému stupni organismu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádné tvrzení není správné",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 230,
+		"category": 4,
+		"number": 230,
+		"text": "Gen je úsek polynukleotidového řetezce, jehož funkcí je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kódovat primární strukturu polypeptidu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kódovat primární strukturu polysacharidů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kódovat primární strukturu RNA, která nepodléhá translaci",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kódovat strukturu primárních aminokyselin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 231,
+		"category": 4,
+		"number": 231,
+		"text": "Které tvrzení platí pro dvouřetězcovou DNA:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "oba řetězce jsou spolu spojeny fosfodiesterickými vazbami",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vodíkové můstky spojují purin-purin, pyrimidin-pyrimidin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vždy obsahuje stejné množství adeninových a guaninových bazi",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "replikuje se semikonzervativním způsobem",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 232,
+		"category": 4,
+		"number": 232,
+		"text": "Které společné vlastnosti mají DNA a RNA molekuly:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v eukaryotických buňkách jsou vázány na histony",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "obsahují fosfodiesterické vazby",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "obsahují adenin, thymin, guanin a cytosin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nacházejí se pouze v jádře",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 233,
+		"category": 4,
+		"number": 233,
+		"text": "DNA obsahuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dvouřetězce nukleotidů párované kovalentními vazbami",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dusíkaté baze párované vodíkovými můstky",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "paralelní řetězce bílkovin nesoucí shodnou genetickou informaci",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nukleotidy adenin, cytosin, guaninu a uracil",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 234,
+		"category": 4,
+		"number": 234,
+		"text": "Které z následujících sloučenin jsou pyrimidiny:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "adenin, guanin, cytosin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "cytosin , guanin, uracil",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "cytosin a thymin, adenin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "cytosin, thymin, uracil",
+				"correct": true
+			}
+		]
+	}
+]

@@ -1,0 +1,546 @@
+[
+	{
+		"id": 723,
+		"category": 6,
+		"number": 732,
+		"text": "Při sekreci nízkomolekulárních látek:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou ionty zpravidla přenášeny specifickými membránovými receptory",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "sekrece probíhá aktivním transportem v plasmatické membráně",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dojde k odštěpení manózových zbytků",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se vždy uplatňují jen buňky specializovaných orgánů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 724,
+		"category": 7,
+		"number": 723,
+		"text": "Zárodečný vývoj závisí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pouze na asynchronním dělení buněk",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "na množství a způsobu uložení žloutkové rezervy",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "přesunech buněčných komplexů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "na kaskádě induktivních dějů, na kterých se podílejí povrchové nebo signální molekuly",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 725,
+		"category": 7,
+		"number": 724,
+		"text": "Kmenové buňky:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou přítomné např. v epidermis nebo ve střevní výstelce",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jejich dceřiné buňky se mohou diferencovat",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "embryonální jsou totipotentní",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se uplatňují při krvetvorbě",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 726,
+		"category": 7,
+		"number": 725,
+		"text": "Stárnutí je provázeno:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "snižováním počtu vysoce diferencovaných buněk",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "poškozováním mitochondriální DNA volnými radikály",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zvyšováním počtu mutací v buňkách",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zkracováním koncových úseků DNA lineárních chromosomů",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 727,
+		"category": 7,
+		"number": 726,
+		"text": "Prokaryota a eukaryota se liší:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ve struktuře DNA",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ve stavbě ribosomů",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v uspořádání vnitřního prostoru na kompartmenty",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "tím, že prokaryota nerealizují autonomně překlad genetické informace do primárn struktury proteinů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 728,
+		"category": 7,
+		"number": 727,
+		"text": "Mezi vitamíny řadíme:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kyselinu listovou",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "tokoferol, který působí jako antioxidant",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "melanin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kyselinu retinovou",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 729,
+		"category": 7,
+		"number": 728,
+		"text": "Ras protein:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "patří mezi G proteiny",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je prvním článkem proteinkinasové kaskády",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je aktivován transkripčním faktorem",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je transportován do jádra",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 730,
+		"category": 7,
+		"number": 729,
+		"text": "Endoplasmatické retikulum:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "rozlišujeme hladké a hrubé",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se účastní proteosyntézy",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je síť membrán, kde může probíhat syntéza sacharidů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "obsahuje lysosomy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 731,
+		"category": 7,
+		"number": 730,
+		"text": "Svalové buňky:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "srdce obsahují vždy více jader",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v hladkém svalstvu jsou spojeny interkalárními disky",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vznikají v embryogenezi splynutím většího počtu buněk",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou příkladem soubuni",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 732,
+		"category": 7,
+		"number": 731,
+		"text": "Sekrece makromolekulárních látek v eukaryotických buňkách:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "začíná biosyntézou proteinů a glykoproteinů v hladkém endoplasmatickém retikulu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se uskutečňuje splýváním membrány sekrečních váčků s plasmatickou membránou",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vyžaduje vytřídění proteinů v cisterně Golgiho komplexu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zahrnuje několik prostorově oddělených dějů",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 733,
+		"category": 7,
+		"number": 733,
+		"text": "Na základě sekvence rRNA malých ribozomových podjednotek rozdělujem buněčné živé soustavy:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "na prokaryota a eukaryota",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "do tří domén",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "na bakterie, archea a eukarya",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "na jednobuněčné a mnohobuněčné",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 734,
+		"category": 7,
+		"number": 734,
+		"text": "Mezi prokaryotické buňky řadíme:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "viry",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "archea",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "bakterie",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "krásnoočka (Euglenozoa)",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 735,
+		"category": 7,
+		"number": 735,
+		"text": "Houby (Fungi):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou heterotrofní",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "tělo tvoří stélka složená z hyf",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou vždy mnohobuněčné",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "rozmnožují se výtrusy",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 736,
+		"category": 7,
+		"number": 736,
+		"text": "Říše houby (Fungi) se liší od rostlin:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nepřítomností chloroplastů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nepřítomností mitochondrií",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "přítomností glykogenu a tuků jako zásobních látek",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "přítomností chitinu v buněčných stěnách",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 737,
+		"category": 7,
+		"number": 737,
+		"text": "Viry:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou prokaryotní",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou nebuněčné živé soustavy",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou schopné samostatné translace",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v syntéze proteinů jsou závislé na hostitelských buňkách",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 738,
+		"category": 7,
+		"number": 738,
+		"text": "Mezi smrtelně jedovaté houby patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "muchomůrka zelená (hlízovita)",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "závojenka olovová",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "holubinka trávozelená",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pestřec",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 739,
+		"category": 7,
+		"number": 739,
+		"text": "Mezi jedovaté houby patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hřib kovář",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pavučinec plyšový",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "muchomůrka zelená",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "muchomůrka růžovka",
+				"correct": false
+			}
+		]
+	}
+]

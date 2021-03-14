@@ -1,0 +1,578 @@
+[
+	{
+		"id": 507,
+		"category": 6,
+		"number": 507,
+		"text": "Taxe jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pohyby rostlin, při nichž buňky nebo organely mění místo",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pohyby rostlin, při nichž se část rostliny zakřiví",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "orientované ohyby",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "hygroskopické a kohezní pohyby",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 508,
+		"category": 6,
+		"number": 508,
+		"text": "Tropismus je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "orientovaný pohyb rostliny",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "neorientovaný pohyb rostliny",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "positivní nebo negativní",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pohyb rostlin vyvolaný světlem",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 509,
+		"category": 6,
+		"number": 509,
+		"text": "Nastie je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "neorientovaný pohyb rostliny",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "spánkový pohyb rostliny",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pasivní přenášení částí rostlin na jiné místo",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kohezní pohyb rostlin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 510,
+		"category": 6,
+		"number": 510,
+		"text": "Při pohybu vody v rostlinách se uplatňuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "transpirační proud",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kořenový vztlak",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "koheze vody",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "adheze vody",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 511,
+		"category": 6,
+		"number": 511,
+		"text": "Mezi fytohormony růst povzbuzující (stimulátory) patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "auxiny",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "gibereliny",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "cytokininy",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kyselina abscisová",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 512,
+		"category": 6,
+		"number": 512,
+		"text": "Mezi inhibitory růstu patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kyselina abscisová",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "etylen",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "cytokininy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "auxiny",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 513,
+		"category": 6,
+		"number": 513,
+		"text": "Gibereliny:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "podporují prodlužovací růst lodyh",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "tvoří se hlavně v nejmladších listech a kořenech",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "přerušují dormaci",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zastavují transkripci DNA",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 514,
+		"category": 6,
+		"number": 514,
+		"text": "Cytokininy:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou deriváty adeninu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "podporují vznik pupenů",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "tvoří se v nejmladších kořenech",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "podněcují buněčné dělení",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 515,
+		"category": 6,
+		"number": 515,
+		"text": "Gametofyt:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je vždy haploidní",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je diploidní",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "může být oboupohlavní",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "může být tvořen lodyžkou a lístky",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 516,
+		"category": 6,
+		"number": 516,
+		"text": "Sporofyt:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je diploidní stélka nebo kormus",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je vždy haploidní",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "tvoří výtrusnice",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "může být samostatný jedinec",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 517,
+		"category": 6,
+		"number": 517,
+		"text": "Izogamety jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "gamety stejného tvaru a velikosti",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "gamety nestejného tvaru a velikosti",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "haploidní nepohlavní výtrusy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "diploidní nepohlavní výtrusy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 518,
+		"category": 6,
+		"number": 518,
+		"text": "Gametofyt vzniká:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mitotickým dělením spor",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "meiotickým dělením spor",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mitotickým dělením zygoty",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "meiotickým dělením zygoty",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 519,
+		"category": 6,
+		"number": 519,
+		"text": "Rodozměna (metageneze):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je střídání pohlavní a nepohlavní generace",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je tvorba spor",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je střídání gametofytu a sporofytu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "může být jak izomorfní, tak heteromorfní",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 520,
+		"category": 6,
+		"number": 520,
+		"text": "V životním cyklu semenných rostlin:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je naprostá převaha sporofytu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je naprostá převaha gametofytu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "gametofyt se vyvíjí jako součást sporofytu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 521,
+		"category": 6,
+		"number": 521,
+		"text": "Anemofilie je přenášení pylu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vodou",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hmyzem",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "větrem",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "člověkem",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 522,
+		"category": 6,
+		"number": 522,
+		"text": "Entomofilie je přenášení pylu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "větrem",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hmyzem",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vodou",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "člověkem",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 523,
+		"category": 6,
+		"number": 523,
+		"text": "Hydrofilie je přenášení pylu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vodou",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hmyzem",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "člověkem",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "větrem",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 524,
+		"category": 6,
+		"number": 524,
+		"text": "Alogamie znamená:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "samoopylení",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "cizosprašnost",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "sprášení pylem z květu jiné rostliny téhož druhu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vznik somatického embrya",
+				"correct": false
+			}
+		]
+	}
+]

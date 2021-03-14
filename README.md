@@ -16,7 +16,14 @@
     ```bash
     nodemon -r ./register.js scripts/post-process.ts \
     data/modelovky-biologie-1lf-2011/ocr-output/ \
-    data/modelovky-biologie-1lf-2011/pages/
+    data/modelovky-biologie-1lf-2011/pages-original/
+    ```
+
+* `parse-questions.ts`
+    ```bash
+    nodemon -r ./register.js scripts/parse-questions.ts \
+    data/modelovky-biologie-1lf-2011/pages/ \
+    data/modelovky-biologie-1lf-2011/questions/
     ```
 
 

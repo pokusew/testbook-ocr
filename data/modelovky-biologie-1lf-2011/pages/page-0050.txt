@@ -76,7 +76,8 @@ d) svalové buňky
 818. Nervová soustava žahavců (Cnidaria):
 a) má jednu centrální nervovou uzlinu
 b) má difúzní charakter se dvěma centrálními nervovými uzlinami u přijímacího
-a vyvrhovacího otvoru
+### the spaces fix parsing
+   a vyvrhovacího otvoru
 C) je typem difúzní – rozptýlené nervové soustavy
 d) je radiální
 819. Cévní soustava u kroužkovců (Annelida):

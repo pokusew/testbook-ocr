@@ -1,0 +1,578 @@
+[
+	{
+		"id": 400,
+		"category": 5,
+		"number": 409,
+		"text": "Bakterie mohou být:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "autotrofni",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "heterotrofni",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "chemotrofni",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "fototrofni",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 401,
+		"category": 5,
+		"number": 400,
+		"text": "Prokaryotická buňka:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "může obsahovat tylakoidy",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "obsahuje ribosomy",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "má na povrchu plasmatickou membránu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "může obsahovat plastidy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 402,
+		"category": 5,
+		"number": 401,
+		"text": "Ve virionu nacházíme:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "tRNA",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "rRNA",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ribosomy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "DNA nebo RNA",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 403,
+		"category": 5,
+		"number": 402,
+		"text": "Fototrofní bakterie:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mají bakteriochlorofyl",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mají chloroplasty",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "produkují kyslík",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "používají k redukci CO2 molekulu H2O",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 404,
+		"category": 5,
+		"number": 403,
+		"text": "Bakteriofág:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ničí buňky bakterií",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "umožňuje růst bakterií",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "fagocytuje bakterie",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "fagocytuje bílé krvinky",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 405,
+		"category": 5,
+		"number": 404,
+		"text": "Viry můžeme v laboratoři pěstovat:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "na živých buňkách",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "na mrtvých buňkách",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "na tekutých živných půdách",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "na pevných živných půdách",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 406,
+		"category": 5,
+		"number": 405,
+		"text": "Virion bakteriofága:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "má bičík, pomocí něhož se pohybuje",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "může být ikozahedrický bez bičíku",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "může být složen z hlavičky a stažlivého bičíku",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "může být tyčinkovitý",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 407,
+		"category": 5,
+		"number": 406,
+		"text": "Bakteriofágy jsou viriony:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "rostlinných virů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "onkogenních virů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "bakteriálních virů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "virů dětské obrny",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 408,
+		"category": 5,
+		"number": 407,
+		"text": "Polyvalentní bakteriofágy:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mají široké spektrum hostitelských kmenů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se používají k jemné typizaci patogenních bakterií",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "patří mezi ně polyoma virus",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "parazitují na sinicích",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 409,
+		"category": 5,
+		"number": 408,
+		"text": "Jako lytický cyklus se označuje průběh:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "glykolýzy",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "plazmolýzy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "hemolýzy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná odpověď z ostatních není správná",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 410,
+		"category": 5,
+		"number": 410,
+		"text": "Jako fágy temperované označujeme:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "profágy",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "fágy mírné",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "fágy virulentní",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "bakteriofágy prodělávající lyzogenní cyklus",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 411,
+		"category": 5,
+		"number": 411,
+		"text": "Malý virion obsahuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "bílkovinný obal",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nukleovou kyselinu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jádro",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "reverzní transkriptazu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 412,
+		"category": 5,
+		"number": 412,
+		"text": "Virová DNA:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kóduje strukturu kapsidu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kóduje enzymy pro energetický metabolismus",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se může stát součástí jaderného genomu buňky",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "tvoří chromosom obdobný eukaryotickému",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 413,
+		"category": 5,
+		"number": 413,
+		"text": "Kapsomery:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "tvoří obal virové nukleové kyseliny",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou identické strukturní jednotky",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou z bílkovinných makromolekul",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou kódovány geny hostitelské buňky",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 414,
+		"category": 5,
+		"number": 414,
+		"text": "Jako transfekci označujeme proces:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "přenosu izolované RNA z viru do buněk",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "přenosu izolované DNA z viru do buněk",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "latentní virové infekce",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nádorové transformace buněk",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 415,
+		"category": 5,
+		"number": 415,
+		"text": "Buněčné hybridy lze získat:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "fúzí buněk stejných živočišných druhů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "fúzí buněk různých živočišných druhů",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "působením některých virů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "působením některých chemikálií",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 416,
+		"category": 5,
+		"number": 416,
+		"text": "Provirus je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "formou začlenění DNA infikujícího tkáňového virionu do chromosomu napadené buňky",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "formou začlenění DNA bakterie do DNA bakteriofága",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "obdobou profága u bakteriofágů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "výrazem pro virion bez kapsidy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 417,
+		"category": 5,
+		"number": 417,
+		"text": "K nádorové transformaci může vést:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "působení některých DNA virů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "infekce onkogenními viry",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "infekce retroviry",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "infekce bakteriofágy",
+				"correct": false
+			}
+		]
+	}
+]

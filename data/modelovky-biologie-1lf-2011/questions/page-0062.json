@@ -1,0 +1,578 @@
+[
+	{
+		"id": 1026,
+		"category": 8,
+		"number": 1026,
+		"text": "Pasivní imunizace dosáhneme podáním:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "usmrcených bakterií",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "T-lymfocytů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "výtažku ze sleziny",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "protilátek",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1027,
+		"category": 8,
+		"number": 1027,
+		"text": "Aktivní imunizace dosáhneme:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "podáním oslabených bakterií a virů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "podáním usmrcených bakterií a virů",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "podáním protilátek",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vitaminem B12",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1028,
+		"category": 8,
+		"number": 1028,
+		"text": "Bílé krvinky vznikají u dospělého člověka:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ve slezině",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v játrech",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v mízních uzlinách",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v červené kostní dřeni",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1029,
+		"category": 8,
+		"number": 1029,
+		"text": "Zralé červené krvinky člověka jsou buňky:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "s více jádry",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "bezjaderné",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "slaločnatým jádrem",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "sjádrem, které obsahuje 46 chromosomů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1030,
+		"category": 8,
+		"number": 1030,
+		"text": "Erytrocyty u dospělého člověka vznikají:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ve slezině",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v mízních uzlinách",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v červené kostní dřeni",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ve stěně velkých cév",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1031,
+		"category": 8,
+		"number": 1031,
+		"text": "V červené kostní dřeni vznikají:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pouze krevní destičky",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "všechny typy krvinek",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pouze červené krvinky",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pouze bílé krvinky",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1032,
+		"category": 8,
+		"number": 1032,
+		"text": "V dospělosti (za fyziologických podmínek) se tvoří červené krvinky:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v kostní dřeni všech kostí",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v kostní dřeni proximálních konců dlouhých kostí",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v játrech a ve slezině",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jen ve slezině",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1033,
+		"category": 8,
+		"number": 1033,
+		"text": "Tvorba červených krvinek:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "probíhá autoregulací jaderných buněk kostní dřeně",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je řízena erytropoetinem, který vzniká v mízních uzlinách",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je řízena erytropoetinem, který vzniká v ledvinách",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je ovlivnitelná tlakem atmosférického kyslíku",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1034,
+		"category": 8,
+		"number": 1034,
+		"text": "Hemoglobin váže nejsnáze a nejpevněji:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kyslík",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "oxid uhličitý",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "oxid uhelnatý",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "dusík",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1035,
+		"category": 8,
+		"number": 1035,
+		"text": "Látky nepostradatelné pro srážení krve jsou obsaženy v:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "erytrocytech",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "leukocytech",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "lymfocytech",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "trombocytech",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1036,
+		"category": 8,
+		"number": 1036,
+		"text": "Leukopenie je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "snížený počet leukocytů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nález leukocytů v moči",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zvýšený počet leukocytů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "bělavé ložisko na sliznici dutiny ústní",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1037,
+		"category": 8,
+		"number": 1037,
+		"text": "Retikulocyty jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "buňky retikulární tkáně",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vývojové stadium trombocytů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nejmladší erytrocyty",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pouze v periferním oběhu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1038,
+		"category": 8,
+		"number": 1038,
+		"text": "Jaká je úloha sleziny ve vztahu k červeným krvinkám:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je rezervoárem erytrocytů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je místem zániku přestárlých a poškozených erytrocytů",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je rezervoárem erytrocytů a destiček",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je nejvýznamnější zásobárnou železa",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1039,
+		"category": 8,
+		"number": 1039,
+		"text": "Lymfa je tekutina:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "obsažená ve všech kloubech",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vyplňující páteřní kanál v okolí míchy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vyplňující mozkové komory",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "proudící v lymfatických cévách a tzv. mízovodu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1040,
+		"category": 8,
+		"number": 1040,
+		"text": "Transportní funkce krve jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "přenos kyslíku ke tkáním",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "odvod oxidu uhličitého z tkání do plic",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "přenos živin",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "tvorba protilátek",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1041,
+		"category": 8,
+		"number": 1041,
+		"text": "Hematokrit je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "absolutní množství červených krvinek v krvi",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "množství hemoglobinu v krvi",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "procentuální zastoupení červených krvinek na celkovém objemu krve",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "procentuální zastoupení leukocytů na celkovém objemu krve",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1042,
+		"category": 8,
+		"number": 1042,
+		"text": "Na plazmatické buňky se mění lymfocyty:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "P",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "T",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "M",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1043,
+		"category": 8,
+		"number": 1043,
+		"text": "Aglutininy jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "antigeny erytrocytů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "produkty aglutinogenů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "antigeny shlukující erytrocyty",
+				"correct": false
+			}
+		]
+	}
+]

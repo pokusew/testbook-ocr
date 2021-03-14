@@ -1,0 +1,514 @@
+[
+	{
+		"id": 1431,
+		"category": 16,
+		"number": 1440,
+		"text": "Nedostatek jódu způsobí poruchu činnosti:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hypofýzy",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "brzlíku",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "štítné žlázy",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nadledvin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1432,
+		"category": 16,
+		"number": 1441,
+		"text": "Diabetes mellitus je onemocnění, které může být způsobeno nedostatkem:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "glukagonu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "releasing hormonů hypofýzy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "somatostatinu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "inzulínu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1433,
+		"category": 16,
+		"number": 1442,
+		"text": "Akromegalie nebo hypofyzárni gigantismus jsou působeny nadbytkem:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ACTH",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "somatostatinu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "STH",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "TSH",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1434,
+		"category": 16,
+		"number": 1431,
+		"text": "Hlavní části štítné žlázy jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dva laloky",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "čtyři laloky",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jeden lalok",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pět laloků",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1435,
+		"category": 16,
+		"number": 1432,
+		"text": "žláza připojená k mezimozku se nazývá:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "adenohypofýza",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hypofýza",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "brzlík",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "podvěsek mozkový",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1436,
+		"category": 16,
+		"number": 1433,
+		"text": "Langerhansovy ostrůvky jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vnitřně sekretorické části slinivky břišní",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vnějšně sekretorické části slinivky břišní",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "napojeny na vývody slinivky břišní",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "napojeny na vývody žlučové",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1437,
+		"category": 16,
+		"number": 1434,
+		"text": "Děloha je uložena:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "bezprostředně za sponou stydkou",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "před konečníkem",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mezi močovým měchýřem a konečníkem",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v malé pánvi",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1438,
+		"category": 16,
+		"number": 1435,
+		"text": "Prostata je uložena:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "za močovým měchýřem",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pod močovým měchýřem",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v šourku",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v dutině břišní",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1439,
+		"category": 16,
+		"number": 1436,
+		"text": "Prostata:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "leží pod bazí močového měchýře, prochází jí močová trubice",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "do prostatické části močové trubice ústí společná vyústění chámovodu a semennýc váčků",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je exokrinní žláza",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je endokrinní žláza",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1440,
+		"category": 16,
+		"number": 1437,
+		"text": "Tříselným kanálem u muže prochází:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "chámovod",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "tepna zásobující varle",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "žilní odtok z varlete",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "lymfatická drenáž varlete",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1441,
+		"category": 16,
+		"number": 1438,
+		"text": "Žluté tělísko vzniká:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "z prasklého folikulu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v klimakteriu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "z buněk středu oční sítnice",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "u lidských plodů mužského pohlaví",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1442,
+		"category": 16,
+		"number": 1439,
+		"text": "Nedostatek růstového hormonu v mládí způsobí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nanismus",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "gigantismus",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kretenismus",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "akromegalii",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1443,
+		"category": 16,
+		"number": 1443,
+		"text": "Nadledviny jsou umístěny:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "za pobřišnicí na horním pólu ledvin",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "před pobřišnicí",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "uvnitř ledvin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "volně v břišní dutině",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1444,
+		"category": 16,
+		"number": 1444,
+		"text": "Funkcí hormonů je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "navození kontrakce příčně pruhovaných svalů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dodávat energii pro specifické buněčné mechanismy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ovlivňovat činnost cílových buněk",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1445,
+		"category": 16,
+		"number": 1445,
+		"text": "Snížená hladina kalcia v krvi vyvolává:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "křeče svalů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ochabnutí svalových stahů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Ca2+ nemá pro svalový stah význam",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kompenzaci P2- ionty, svaly pracují normálně",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1446,
+		"category": 16,
+		"number": 1446,
+		"text": "Tělesná hmotnost a výška 12měsíčního dítěte se od narození zvýší přibližn takto:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hmotnost dvojnásobně a výška o polovinu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hmotnost trojnásobně a výška o polovinu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "hmotnost dvojnásobně a výška o třetinu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "hmotnost trojnásobně a výška o třetinu",
+				"correct": false
+			}
+		]
+	}
+]

@@ -1,0 +1,578 @@
+[
+	{
+		"id": 990,
+		"category": 8,
+		"number": 990,
+		"text": "Imunoglobuliny jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "bílkovinné protilátky",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vytvářeny v granulocytech",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "bílkovinné složky hemoglobinu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vytvářeny v žírných buňkách",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 991,
+		"category": 8,
+		"number": 991,
+		"text": "Bílkoviny v krevní plazmě jsou důležité pro:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "udržení vody v krevním řečišti",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "výstup tekutiny do tkání",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "udržení nesmáčivosti cévní výstelky",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 992,
+		"category": 8,
+		"number": 992,
+		"text": "V jednom litru krve u muže je červených krvinek v průměru:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "5.1012",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "109",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "106",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 993,
+		"category": 8,
+		"number": 993,
+		"text": "V počtu bílých krvinek u dospělého člověka:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se výrazně liší ženy od mužů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou pohlavní rozdíly",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nejsou pohlavní rozdíly",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je nejvíce lymfocytů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 994,
+		"category": 8,
+		"number": 994,
+		"text": "Diapedeza je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pohlcování částic buňkou",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "prostup bílých krvinek stěnou vlásečnic",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "přilnutí bílé krvinky k antigenu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "činnost lymfocytů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 995,
+		"category": 8,
+		"number": 995,
+		"text": "Počet červených krvinek se zvětšuje při:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nedostatku kyslíku",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zvýšeném tlaku kyslíku",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "poklesu tlaku oxidu uhličitého",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zvětšení obsahu vody v krvi",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 996,
+		"category": 8,
+		"number": 996,
+		"text": "Celkové množství krve u průměrného dospělého člověka činí okolo:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "5 litrů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "7 litrů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "3,5 litrů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 997,
+		"category": 8,
+		"number": 997,
+		"text": "Vazbou hemoglobinu s kyslíkem vzniká:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "methemoglobin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "karboxyhemoglobin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "karbonylhemoglobin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "oxyhemoglobin",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 998,
+		"category": 8,
+		"number": 998,
+		"text": "Fagocytóza spočívá v:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pohlcování částic buňkou",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "tvorbě protilátek",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "činnosti lymfocytů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "produkci imunoglobulinů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 999,
+		"category": 8,
+		"number": 999,
+		"text": "Životnost lidských erytrocytů je přibližně:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1 rok",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "24 hodin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "3-5 dní",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1000,
+		"category": 8,
+		"number": 1000,
+		"text": "Krevní skupiny jsou podmíněny:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z dále uvedených alternativ není správná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "druhem hemoglobinu v červených krvinkách",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "typem přítomných plazmatických bílkovin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "schopností tvořit protilátky",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1001,
+		"category": 8,
+		"number": 1001,
+		"text": "Vnitřní prostředí organismu zahrnuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "tkáňový mok a krevní plasmu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nitrobuněčnou tekutinu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mozkomíšní mok",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mízu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1002,
+		"category": 8,
+		"number": 1002,
+		"text": "Červené krvinky mají důležitou úlohu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v přenosu kyslíku",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "při obraně proti infekci",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v transportu železa",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v přenosu CO2",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1003,
+		"category": 8,
+		"number": 1003,
+		"text": "Krvinky krevní skupiny A mají:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "protilátku A",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "protilátku anti B",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "antigen A",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "antigen anti A",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1004,
+		"category": 8,
+		"number": 1004,
+		"text": "Krev člověka s krevní skupinou A obsahuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "antigen A",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "protilátku anti B",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "protilátku anti A",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "antigen anti A",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1005,
+		"category": 8,
+		"number": 1005,
+		"text": "Pro určení krevních skupin jsou nejvýznamnější aglutinogeny:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v cytoplazmě erytrocytů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "na membráně erytrocytů",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v krevní plazmě",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ve slinách",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1006,
+		"category": 8,
+		"number": 1006,
+		"text": "Krevní skupina AB je charakterizována:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "aglutinogenem antiB",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "aglutinogenem AiB",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "aglutininem B",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "aglutininem antiAB",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1007,
+		"category": 8,
+		"number": 1007,
+		"text": "Červené krvinky krevní skupiny A se shlukují působením:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "aglutininů antiB",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "aglutinogenů B",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "aglutinogenů antiB",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "aglutininů antiA",
+				"correct": true
+			}
+		]
+	}
+]

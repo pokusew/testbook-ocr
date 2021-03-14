@@ -50,8 +50,8 @@ D) nejen transkribovány, ale i překládány
 280. Introny:
 A) nalézáme uvnitř strukturních genů v eukaryontních buňkách
 b) jsou hojně roztroušené v genomech prokaryontních buněk
-c) resp. jejich přepisy jsou přítomny v sekundární RNA po sestřihu eukaryontní pre-
-mRNA, kdy exony jsou již vystříhány a introny opět sceleny a připraveny k translaci
+c) resp. jejich přepisy jsou přítomny v sekundární RNA po sestřihu eukaryontní pre-mRNA,
+kdy exony jsou již vystříhány a introny opět sceleny a připraveny k translaci
 D) resp. transkripty intronů jsou z primární formy RNA po transkripci eukaryontních
 strukturních genů (pre-mRNA) sekundárně velmi přesně vystřiženy
 281. Jsou tyto poznatky o fungování genomu pravdivé:

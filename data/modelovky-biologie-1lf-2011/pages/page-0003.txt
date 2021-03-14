@@ -1,17 +1,4 @@
-Jménem autorského kolektivu přeji všem dostatek energie a motivace při
-studiu a výsledek korunovaný úspěchem.
 ZÁKLADNÍ GENETICKÉ POJMY
-Praha, říjen 2007
-MUDr. Jaroslav Kotlas
-Praha, září 2010
-Tři roky od posledního vydání „Modelových otázek“ z biologie ukázaly, že pře-
-devším úprava struktury skripta se osvědčila. Z vlastní praxe při výuce v „pří-
-pravném kurzu“ pak vím, že i obsahově se nám podařilo skloubit informace
-z velikého množství učebnic používaných na středních školách při výuce bio-
-logie a genetiky. Proto po opravě drobných chyb a nepřesností, které se vlou-
-dily do předchozího vydání, vám předkládáme aktuální verzi opět s přáním
-úspěchu v podobě přijetí na naši fakultu.
-MUDr. Jaroslav Kotlas
 1. Fenotyp:
 A) je podmíněn genotypem
 b) je soubor všech genů
@@ -56,4 +43,4 @@ d) typický gen
 a) označuje alelu, na kterou nepůsobí selekce
 b) je synonymem pro alelu dominantní
 c) vyjadřuje působení alel u recesivního homozygota
-se používá v polygenní dědičnosti
+D) se používá v polygenní dědičnosti

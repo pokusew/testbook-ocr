@@ -1,0 +1,578 @@
+[
+	{
+		"id": 489,
+		"category": 6,
+		"number": 489,
+		"text": "Při sekundárním procesu fotosyntézy:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dochází k přeměně molekul CO2 a pentózy na molekuly hexózy",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dochází ke vzniku karboxylových skupin",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dochází k redukci karboxylových skupin na skupiny aldehydové",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je zapotřebí energie ADP",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 490,
+		"category": 6,
+		"number": 490,
+		"text": "Calvinův cyklus:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je metabolická dráhy pro syntézu hexózy z CO2",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "závisí na množství kyseliny listové",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v jeho průběhu dochází k vazbě CO2 na pětiuhlíkatý fosforylovaný cukr",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v jeho průběhu dochází k oxidaci acetylu - KoA na CO2 a H20",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 491,
+		"category": 6,
+		"number": 491,
+		"text": "Buňky se stěnami obvykle v hranách ztloustlými má:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kolenchym",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "parenchym",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "prozenchym",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "sklerenchym",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 492,
+		"category": 6,
+		"number": 492,
+		"text": "Buňky se stěnami v celém rozsahu ztloustlými má:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "sklerenchym",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "parenchym",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "prozenchym",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kolenchym",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 493,
+		"category": 6,
+		"number": 493,
+		"text": "Pasivní příjem vody rostlinou se uskutečňuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "apoplastickou cestou",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "symplastickou cestou",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "průduchy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "hydatodami",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 494,
+		"category": 6,
+		"number": 494,
+		"text": "Aktivní příjem vody rostlinou se uskutečňuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "symplastickou cestou",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kohezí vody",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "apoplastickou cestou",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kutikulární transpirací",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 495,
+		"category": 6,
+		"number": 495,
+		"text": "V xylému jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "cévy a cévice",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "sítkovice",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "průduchové štěrbiny",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "chloroplasty",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 496,
+		"category": 6,
+		"number": 496,
+		"text": "V lýkové části rostliny jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "sítkovice",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "cévy a cévice",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "svěrací buňky",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pokožkové buňky",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 497,
+		"category": 6,
+		"number": 497,
+		"text": "Cévice vedou převážně:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vodu a minerální látky",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "asimiláty",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "organické látky",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "bílkoviny",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 498,
+		"category": 6,
+		"number": 498,
+		"text": "Sítkovice vedou převážně:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "asimiláty na místa spotřeby",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "minerální látky do nadzemních částí rostlin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "organické látky přijaté kořenovými vlásky",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "anorganické látky přijaté kořenovými vlásky",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 499,
+		"category": 6,
+		"number": 499,
+		"text": "Transpirační proud stoupá:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dřevní částí cévního svazku",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "lýkovou částí cévního svazku",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "soustavou krycích pletiv",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "houbovitým parenchymem",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 500,
+		"category": 6,
+		"number": 500,
+		"text": "Asimilační proud:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "proudí lýkovou částí cévního svazku",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "začíná v kořenových vláscích",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "končí v průduších",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "závisí na transpiraci",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 501,
+		"category": 6,
+		"number": 501,
+		"text": "Transpirace je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vypařování vody z povrchu rostlinného těla",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "výdej vody v kapalném stavu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dýchání rostlin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "příjem vody kořenem",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 502,
+		"category": 6,
+		"number": 502,
+		"text": "Hlavním orgánem transpirace:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou listy",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je stonek",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je kořen",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je xylém",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 503,
+		"category": 6,
+		"number": 503,
+		"text": "Gutace je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "výdej vody z rostliny v kapalném stavu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "výdej vody z rostliny vypařováním",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "výdej vody pneumatofory",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "způsob vedení vody rostlinou",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 504,
+		"category": 6,
+		"number": 504,
+		"text": "Poloparaziti získávají organické látky:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "fotosyntézou",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "z mrtvých organismů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "iz dřevní části hostitelské rostliny",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "chemosyntézou",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 505,
+		"category": 6,
+		"number": 505,
+		"text": "Při vegetativním rozmnožování vzniká nová rostlina:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "z buněk vzniklých mitózou",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "z buněk vzniklých meiózou",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ze zygoty",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "samoopylením",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 506,
+		"category": 6,
+		"number": 506,
+		"text": "Vegetativní rozmnožování:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dovoluje množení rostlin dělením hlíz",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zachovává shodný genotyp jako byl u mateřské rostliny",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vede k redukci počtu chromosomů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se může odehrát přímo na mateřské rostlině",
+				"correct": true
+			}
+		]
+	}
+]

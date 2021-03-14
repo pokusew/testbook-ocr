@@ -1,0 +1,290 @@
+[
+	{
+		"id": 1,
+		"category": 1,
+		"number": 1,
+		"text": "Fenotyp:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je podmíněn genotypem",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je soubor všech genů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je určován vždy jen haploidní sadou chromosomů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "závisí pouze na genotypu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 2,
+		"category": 1,
+		"number": 2,
+		"text": "Gen:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je tvořen tripletem bází",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je vždy aktivní ve všech buňkách",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se může vyskytovat ve více formách (alelách)",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "podmiňuje vždy realizaci jednoho znaku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 3,
+		"category": 1,
+		"number": 3,
+		"text": "Čisté linie:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "získáváme ve šlechtitelství nejčastěji inbreedingem (příbuzenským křížením)",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou tvořeny jedinci shodnými fenotypicky a rozdílnými genotypicky",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou tvořeny jedinci vzniklými vegetativně",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "získáváme nejčastěji náhodným křížením",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 4,
+		"category": 1,
+		"number": 4,
+		"text": "Čisté linie:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou tvořeny jedinci shodnými fenotypicky a rozdílnými genotypicky",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou tvořeny jedinci shodnými genotypicky a rozdílnými fenotypicky",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "získáváme nejčastěji náhodným křížením",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 5,
+		"category": 1,
+		"number": 5,
+		"text": "Při monogenní dědičnosti:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je možný pouze jeden fenotyp",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je znak podmiňován vždy jen jednou alelou",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou znaky podmiňovány jedním genem",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou v genotypu vždy identické alely",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 6,
+		"category": 1,
+		"number": 6,
+		"text": "Fenotyp je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je podmíněn genotypem",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "téměř vždy ovlivněn prostředím",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "obvykle determinován třemi alelami",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nezávislý na genotypu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 7,
+		"category": 1,
+		"number": 7,
+		"text": "Alela:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je jednotkou fenotypu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se vždy vyskytuje ve dvou formách",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je konkrétní forma genu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se vždy vyskytuje ve více formách",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 8,
+		"category": 1,
+		"number": 8,
+		"text": "Genotyp je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "podmíněn fenotypem",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "konkrétní typ genu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "typický gen",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 9,
+		"category": 1,
+		"number": 9,
+		"text": "Pojem aktivní alela:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "označuje alelu, na kterou nepůsobí selekce",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je synonymem pro alelu dominantní",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vyjadřuje působení alel u recesivního homozygota",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se používá v polygenní dědičnosti",
+				"correct": true
+			}
+		]
+	}
+]

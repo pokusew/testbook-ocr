@@ -1,0 +1,578 @@
+[
+	{
+		"id": 830,
+		"category": 7,
+		"number": 830,
+		"text": "Cévní soustavu členovců (Arthropoda):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je otevřená",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je uzavřená",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "má trubicovité srdce na hřbetní straně těla",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "má centrum v břišní cévě",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 831,
+		"category": 7,
+		"number": 831,
+		"text": "Nervová soustava členovců (Arthropoda):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je žebříčková",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je difúzní",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je rozptýlená",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "má ganglia, která v jednotlivých článcích mohou splývat",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 832,
+		"category": 7,
+		"number": 832,
+		"text": "Kutikula členovců (Arthropoda):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "obsahuje chitin",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se tvoří pouze u dospělců, protože brání růstu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je pouze na povrchu těla",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vystýlá například vzdušnice",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 833,
+		"category": 7,
+		"number": 833,
+		"text": "Řád roztoči (Acari) patří mezi:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "klepítkatce (Chelicerata)",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pavoukovce (Arachnida)",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vzdušnicovce (Tracheata)",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "hmyz (Insecta)",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 834,
+		"category": 7,
+		"number": 834,
+		"text": "Mezi hmyz s proměnou dokonalou patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jepice",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mravenci",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "škvoři",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kobylky",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 835,
+		"category": 7,
+		"number": 835,
+		"text": "Mezi hmyz s proměnou nedokonalou patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "švábi",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "včely",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "lumci",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "blechy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 836,
+		"category": 7,
+		"number": 836,
+		"text": "Buchanky (Copepoda):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou korýši tvořící součást zooplanktonu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mají jednoduché oči",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dýchají celým povrchem těla",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou mezihostiteli motolice jaterní",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 837,
+		"category": 7,
+		"number": 837,
+		"text": "Mezi pavoukovce (Arachnida) patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "sekáči",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "roztoči",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "štíři",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "štírci",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 838,
+		"category": 7,
+		"number": 838,
+		"text": "Štíři (Scorpionida):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mají tělo členěné na hlavohrud'a zadeček",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mají jedovou žlázu ústící na chelicerách",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mají jedovou žlázu ústící na zadečku",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "někteří jsou nebezpeční pro člověka",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 839,
+		"category": 7,
+		"number": 839,
+		"text": "Vzdušnicovci (Tracheata) zahrnují např.:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "stonožky (Chilopoda)",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mnohonožky (Diplopoda)",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pavoukovce (Arachnida)",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "hmyz (Insecta)",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 840,
+		"category": 7,
+		"number": 840,
+		"text": "Pavouci (Arachnida):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mají osm kráčivých nohou",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mají na hlavohrudi jednoduché oči",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se množí partenogeneticky",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "některé z našich druhů jsou nebezpečné pro člověka",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 841,
+		"category": 7,
+		"number": 841,
+		"text": "Pavouci (Arachnida):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dýchají vzdušnými vaky a vzdušnicemi",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mají složené oči",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mají chelicery s vyústěním jedových žláz",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "využívají mimotělního trávení",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 842,
+		"category": 7,
+		"number": 842,
+		"text": "Zákožka svrabová (Sarcoptes scabiei):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "patří mezi roztoče",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "patří mezi pavoukovce",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "přenáší původce borreliózy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vyvolává u člověka onemocnění kůže (svrab)",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 843,
+		"category": 7,
+		"number": 843,
+		"text": "Klíště (Ixodes ricinus):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "přenáší encefalitidu (zánět mozku)",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "způsobuje svrab",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "přenáší lymskou borreliózu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "přenáší skvrnitý tyfus",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 844,
+		"category": 7,
+		"number": 844,
+		"text": "Korýši (Crustacea):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dýchají většinou žábrami",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mají dva páry tykadel",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mají původně dvouvětevné končetiny",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mají pouze jednoduché oči",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 845,
+		"category": 7,
+		"number": 845,
+		"text": "Mezi korýše (Crustacea) patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "rak říční",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "humr",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kapřivec",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "blešivec",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 846,
+		"category": 7,
+		"number": 846,
+		"text": "Vzdušnicovci (Tracheata) dýchají:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "trubicovitými vzdušnicemi",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "plicním vakem",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "celým povrchem těla",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "celým povrchem těla a plicním vakem",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 847,
+		"category": 7,
+		"number": 847,
+		"text": "Hmyz s proměnou dokonalou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "má larvy značně odlišné od dospělců",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "má larvy s viditelnými základy křídel",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "má klidové stádium (kuklu)",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zahrnuje většinu hmyzu",
+				"correct": true
+			}
+		]
+	}
+]

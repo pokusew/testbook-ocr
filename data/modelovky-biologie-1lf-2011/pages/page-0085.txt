@@ -1,4 +1,3 @@
-T
 1440. Nedostatek jódu způsobí poruchu činnosti:
 a) hypofýzy
 b) brzlíku
@@ -32,12 +31,12 @@ d) napojeny na vývody žlučové
 1434. Děloha je uložena:
 a) bezprostředně za sponou stydkou
 B) před konečníkem
-mezi močovým měchýřem a konečníkem
+C) mezi močovým měchýřem a konečníkem
 D) v malé pánvi
 1435. Prostata je uložena:
 a) za močovým měchýřem
 B) pod močovým měchýřem
-v Šourku
+c) v šourku
 d) v dutině břišní
 1436. Prostata:
 A) leží pod bazí močového měchýře, prochází jí močová trubice

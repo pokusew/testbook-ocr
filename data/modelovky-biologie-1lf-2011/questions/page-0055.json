@@ -1,0 +1,578 @@
+[
+	{
+		"id": 902,
+		"category": 7,
+		"number": 902,
+		"text": "Plíce ptáků (Aves):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "tvoří plicní sklípky",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vybíhají do vzdušných vaků",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "při dýchání podstatně mění svůj objem",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou přirostlé ke stěně hrudní dutiny",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 903,
+		"category": 7,
+		"number": 903,
+		"text": "Vejcorodí (Prototheria) jsou rozšířeni:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jen v Austrálii a na okolních ostrovech",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jen v Asii",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "na celém světě",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "hlavně v Jižní Americe",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 904,
+		"category": 7,
+		"number": 904,
+		"text": "Ptakopysk (Ornithorhynchus anatinus):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "patří mezi vačnatce",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "má zobákovité čelisti bez zubů",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "klade vejce",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "živí mlád'ata mateřským mlékem",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 905,
+		"category": 7,
+		"number": 905,
+		"text": "Mezi hmyzožravce (Insectivora) patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ježek",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mravenečník",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "netopýr",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "krtek",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 906,
+		"category": 7,
+		"number": 906,
+		"text": "Hlodavci (Rodentia):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mají řezáky přeměněné na hlodáky",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "živí se většinou rostlinnou potravou",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "náš největší hlodavec je bobr",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "další zástupci jsou např. plšík lískový, hraboš polní, myš domácí",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 907,
+		"category": 7,
+		"number": 907,
+		"text": "Mezi kytovce (Cetacea) patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "lachtan",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "tuleň",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kosatka",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "delfín",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 908,
+		"category": 7,
+		"number": 908,
+		"text": "Přežvýkaví sudokopytníci (Artiodactyla) mají žaludek složen ze:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dvou dílů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "tří dílů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "čtyř dílů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pěti dílů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 909,
+		"category": 7,
+		"number": 909,
+		"text": "Mezi naše přežvýkavé sudokopytníky (Artiodactyla) patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kráva",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jelen",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "prase divoké",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "srnec",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 910,
+		"category": 7,
+		"number": 910,
+		"text": "Ruduchy (Rhodophyta):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "patří mezi zelené rostliny (Viridiplantae)",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "patří do podříše rostlin Biliphyta",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "obsahují fykobiliny",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou zdrojem agaru",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 911,
+		"category": 7,
+		"number": 911,
+		"text": "Mihule potoční (Lampetra planeri) má:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ústa tvořící kruhovitou přísavku",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "chordu dorsalis po celý život",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "chordu dorsalis pouze u larev",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kostěnou kostru",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 912,
+		"category": 7,
+		"number": 912,
+		"text": "Srdce se dvěma předsíněmi a jednou komorou nacházíme u:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vrabce",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "rejnoka",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kapra",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ropuchy",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 913,
+		"category": 7,
+		"number": 913,
+		"text": "Mezi druhoústé (Deuterostomia) patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ostnokožci (Echinodermata)",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hlísti (Nemathelminthes)",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kroužkovci (Annelida)",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "měkkýši (Mollusca)",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 914,
+		"category": 7,
+		"number": 914,
+		"text": "Mezi ostnokožce (Echinodermata) patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "sumýši",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vršenky",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "sumky",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ježovky",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 915,
+		"category": 7,
+		"number": 915,
+		"text": "Mezi opice ploskonosé (Ceboidea) patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kosman",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kočkodan",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pavián",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "všechny jihoamerické opice",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 916,
+		"category": 7,
+		"number": 916,
+		"text": "Mezi chudozubé (Edentata) patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ptakopysk",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "rejsek",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pásovec",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "klokan",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 917,
+		"category": 7,
+		"number": 917,
+		"text": "Primáti (Primates):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mají končetiny s protistojným palcem",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "orientují se převážně čichem",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mají výrazně vyvinutý koncový mozek",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "patří mezi ně lemuři, malpy, kočkodani, gorily, člověk",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 918,
+		"category": 7,
+		"number": 918,
+		"text": "Mezi Amniota patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Želva",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "žralok",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pstruh",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "skokan",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 919,
+		"category": 7,
+		"number": 919,
+		"text": "Zelené rostliny (Viridiplantae):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mají chlorofyl a i b",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mají fykobiliny",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zahrnují ruduchy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zahrnují zelené řasy, parožnatky, mechorosty, vyšší rostliny",
+				"correct": true
+			}
+		]
+	}
+]

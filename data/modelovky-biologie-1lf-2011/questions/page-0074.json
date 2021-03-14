@@ -1,0 +1,546 @@
+[
+	{
+		"id": 1236,
+		"category": 13,
+		"number": 1245,
+		"text": "Volní kontrola močení dozrává mezi:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "6. a 7. měsícem intrauterinně",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1. a 2. měsícem života",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1. a 2. rokem života",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "3. a 4. rokem života",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1237,
+		"category": 13,
+		"number": 1246,
+		"text": "V ledvinách je produkován:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "renin",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "erytropoetin",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je zde dokončena syntéza vitamínu D3",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "adiuretin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1238,
+		"category": 14,
+		"number": 1236,
+		"text": "Ledviny jsou uloženy:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ve velké pánvi",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "po obou stranách bederní páteře za pobřišnicí",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "po obou stranách bederní páteře před pobřišnicí",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "za žaludkem",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1239,
+		"category": 14,
+		"number": 1237,
+		"text": "Hlavní úkol ledvin je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "filtrovat z krve odpadní látky",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zachycovat a ukládat zásobní látky",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "akumulovat energii organismu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vylučovat cukry",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1240,
+		"category": 14,
+		"number": 1238,
+		"text": "Nejdůležitější orgán pro vylučování je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "močový měchýř",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "močovod",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "močová trubice",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ledvina",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1241,
+		"category": 14,
+		"number": 1239,
+		"text": "Mezi močové cesty patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pouze močový měchýř, ureter a močová trubice",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pouze nefron, ledvinná pánvička a ureter",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pánvička ledvinná, močovod, močová trubice",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "močový měchýř, pánvička ledvinná, močovod",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1242,
+		"category": 14,
+		"number": 1240,
+		"text": "Močovod ústí do:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "prostaty",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "močového měchýře",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "močové trubice",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Šourku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1243,
+		"category": 14,
+		"number": 1241,
+		"text": "Mezi části nefronu patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pouze tubuly a kapilární klubíčko",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Henleova klička a tubuly",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kanálky a parenchym",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kapiláry a parenchym,",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1244,
+		"category": 14,
+		"number": 1242,
+		"text": "Základní stavební a funkční jednotkou ledvin je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "glomerulus",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "tubulus",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "cévní systém",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nefron",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1245,
+		"category": 14,
+		"number": 1243,
+		"text": "Ledviny mají velký význam pro:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "syntézu bílkovin a tvorbu enzymů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pro detoxikaci cizorodých látek a jejich rychlou metabolizaci",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pro udržení stálého složení a objemu tělesných tekutin",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pro zajištění metabolismu kyselin, tuků a zejména cukrů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1246,
+		"category": 14,
+		"number": 1244,
+		"text": "Průtok ledvinami je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nepříliš významný",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kolísavý a výrazně závislý zejména na aktuálním příjmu tekutin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nejpodstatnější částí minutového srdečního výdeje, zejména při svalové námaze",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "významný a představuje asi jednu čtvrtinu srdečního výdeje",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1247,
+		"category": 14,
+		"number": 1247,
+		"text": "Šedá hmota nervového systému je tvořena:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "výběžky neuronů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "těly neuronů",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "tukovou hmotou",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "buňkami mozkových plen",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1248,
+		"category": 14,
+		"number": 1248,
+		"text": "V předních míšních rozích u člověka se nacházejí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "alfa-motoneurony",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "beta-motoneurony",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "gama-motoneurony",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "delta-motoneurony",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1249,
+		"category": 14,
+		"number": 1249,
+		"text": "Přední míšní kořeny:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "obsahují motorická i sensitivní vlákna",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "obsahují motorická vlákna",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "obsahují senzitivní vlákna",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "obsahují vegetativní vlákna",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1250,
+		"category": 14,
+		"number": 1250,
+		"text": "Propojení periferního nervu a svalu je realizováno v:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nervosvalové ploténce",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "svalovém vřeténku",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Malpighiho tělísku",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Merkelově buňce",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1251,
+		"category": 14,
+		"number": 1251,
+		"text": "Objem mozkomíšního moku je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "150 ml",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "500 ml",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "750 ml",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1500 ml",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1252,
+		"category": 14,
+		"number": 1252,
+		"text": "Synapse může být vytvořena mezi axonem a:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dendritem jiného neuronu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "tělem jiného neuronu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "axonem jiného neuronu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "svalovou buňkou",
+				"correct": true
+			}
+		]
+	}
+]

@@ -1,0 +1,578 @@
+[
+	{
+		"id": 200,
+		"category": 3,
+		"number": 200,
+		"text": "Crossing-over:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "může nastat mezi homologickými chromosomy",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "probíhá mezi nehomologickými chromosomy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zajišťuje zdvojení molekuly DNA",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je způsob jakým se z DNA přepisuje informace do RNA",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 201,
+		"category": 3,
+		"number": 201,
+		"text": "U dědičnosti, kdy je gen vázán na X chromosom, jsou jedinci s chromosomy XY:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených možností není správná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dominantní homozygoti",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "heterozygoti",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "recesivní homozygoti",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 202,
+		"category": 3,
+		"number": 202,
+		"text": "Mitóza je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "rozdělení genetického materiálu buňky tak, aby byla zachována celistvost genetick informace u buněk dceřiných",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "replikace DNA vedoucí ke zdvojení jejího obsahu v buňce",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "despiralizace chromatinu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jedna z fází buněčného cyklu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 203,
+		"category": 3,
+		"number": 203,
+		"text": "Mitoza se sestává z těchto fází:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "S fáze, Go, Gia M fáze",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "profáze, metafáze, anafáze a telofáze",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "anafáze I, telofáze I, interkinesis",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "diplotene, pachytene, zygotene, leptotene",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 204,
+		"category": 3,
+		"number": 204,
+		"text": "Chromosomy v interfázi:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou viditelné jako tenká vlákna, která se postupně zkracují",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se postupně kondenzují do barvitelných struktur",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou v jádrech despiralizovány",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou přichyceny k dělícímu vřeténku v oblasti centromery",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 205,
+		"category": 3,
+		"number": 205,
+		"text": "Centromera na chromosomu má za úkol:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "udržet integritu jednotlivých chromosomů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "umožnit připojení chromosomů na dělící vřeténko v metafázi",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "určit místo, které odděluje polovinu jeho genetické informace",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zabránit mitoze",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 206,
+		"category": 3,
+		"number": 206,
+		"text": "Telomery na chromosomu mají za úkol:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "umožnit připojení chromosomů na dělící vřeténko v mitose",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "umožnit crossing over",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "přichycení k endoplazmatickému retikulu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná odpověď z ostatních není správná",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 207,
+		"category": 3,
+		"number": 207,
+		"text": "Pod pojem chromatin jsou zahrnuty:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jaderné obaly",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nukleové kyseliny a proteiny",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "DNA, RNA a komplex proteinů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "proteiny obalující RNA chromosomů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 208,
+		"category": 3,
+		"number": 208,
+		"text": "Většina genetické informace je obsažena v:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "euchromatinu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "heterochromatinu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kódující sekvenci DNA",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "koncových částech chromosomu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 209,
+		"category": 3,
+		"number": 209,
+		"text": "Profáze meiózy I sestává z těchto stádií:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "profáze I, metafáze I, anafáze I, telofáze I",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "leptotene, zygotene, pachytene, diplotene, diakineze",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "profáze I, metafáze I, anafáze I (telofáze I je identická s profází II)",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "leptotene, zygotene, kiatene, duotene",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 210,
+		"category": 3,
+		"number": 210,
+		"text": "Meiotické dělení II probíhá:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "obdobně jako mitóza",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "stejně jako meióza I",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "amitoticky",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "endoreduplikací",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 211,
+		"category": 3,
+		"number": 211,
+		"text": "Centriol je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mikrotubulární struktura",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "část chromosomu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "důležitá při buněčném dělení",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná odpověď z ostatních není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 212,
+		"category": 3,
+		"number": 212,
+		"text": "Chromosomy lze nejlépe studovat (vyšetřovat) v:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "profázi",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "anafázi",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "metafazi",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "interfázi",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 213,
+		"category": 3,
+		"number": 213,
+		"text": "Pro mitózu platí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dělící vřeténko se začíná formovat v anafazi",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jadérko mizí v profázi",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "interfáze nastává po skončení telofáze a končí se začátkem profáze",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jaderná membrána mizí v době telofáze",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 214,
+		"category": 3,
+		"number": 214,
+		"text": "Metacentrický chromosom má:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jedno raménko chromosomu výrazně delší",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "raménka stejně dlouhá",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "centromeru umístěnou uprostřed chromosomální struktury",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "centromeru na konci chromosomální struktury",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 215,
+		"category": 3,
+		"number": 215,
+		"text": "Dlouhá ramena chromosomů označujeme písmenem:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "d",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "q",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "p",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 216,
+		"category": 3,
+		"number": 216,
+		"text": "Mitóza zajišťuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "rovnoměrné (identické) rozmístění genetické informace mezi dceřinné buňky",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "identickou genetickou výbavu u buňky rodičovské a dceřinné",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "diploidní chromosomální výbavu u dceřinných buněk",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "haploidní chromosomální výbavu u dceřinných buněk",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 217,
+		"category": 3,
+		"number": 217,
+		"text": "Downův syndrom:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nemocní s tímto syndromem mají obvykle 47 chromosomů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pravděpodobnost postižení se zvyšuje s věkem matky",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je způsoben trisomií chromosomu 21",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vzniká s četností 1:10 živě narozených dětí",
+				"correct": false
+			}
+		]
+	}
+]

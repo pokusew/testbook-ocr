@@ -1,0 +1,450 @@
+[
+	{
+		"id": 337,
+		"category": 4,
+		"number": 337,
+		"text": "Evoluční význam mohou mít:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "obecně jen ty mutace, které mají pro své nositele v daném prostředí pozitivní selekčn význam",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "delece částí či celých genů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "obecně jen znevýhodňující, škodlivé či dokonce letální mutace genů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "tandemové duplikace genů",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 338,
+		"category": 4,
+		"number": 338,
+		"text": "Evoluční historii druhů můžeme rekonstruovat:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "srovnáváním nukleotidových sekvencí DNA",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "srovnáváním aminokyselinových sekvencí proteinů",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "přibližným výpočtem, kolik času bylo třeba, aby se dva dnešní druhy evolučně vzdálíl od posledního společného předka",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pomocí tzv. molekulárních hodin, tj. sekvencí (nukleotidových i aminokyselinových) kde mutace probíhají poměrně stálým rytmem.",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 339,
+		"category": 4,
+		"number": 339,
+		"text": "Celková délka DNA v haploidní chromosomové sadě vyjádřená počte nukleotidů v genomu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je u savců a korýšů srovnatelná.",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je hlístů větší než u měkkýšů.",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je v taxonomických skupinách některých eukaryontů (např. hmyz, obojživelníci) široc variabilní.",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je u savců řádově 106 (jednotky miliónů).",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 340,
+		"category": 4,
+		"number": 340,
+		"text": "Rekombinované molekuly DNA:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vznikají procesem crossingover v meióze.",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "brzdí průběh meiózy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou produktem mutací",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 341,
+		"category": 4,
+		"number": 341,
+		"text": "Rekombinantní molekuly DNA:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou nové, záměrně uměle konstruované sestavy genů v živé buňce",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vznikají přirozenými procesy spojenými s rozmnožováním nebo mutacemi",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "lze vnést do buněčného jádra příjemce, kde je trvale udržována jako součást jeh genomu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou produktem heteroze",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 342,
+		"category": 4,
+		"number": 342,
+		"text": "Základní postup genového inženýrství zahrnuje použití:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vektorové DNA",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "izolované a vyčištěné donorové (dárcovské) DNA",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "restrikčních endonukleáz",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "selekce a pomnožení hostitelské buňky",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 343,
+		"category": 4,
+		"number": 343,
+		"text": "Jako vektory dopravující genový fragment donorové DNA se užívají:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "do buněk bakterií - nejčastěji vhodné plazmidy",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "do savčích buněk – reverzní transkripty izolovanných a selektovaných mRNA",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "do buněk prokaryontních - restrikčních endonukleázy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "do buněk eukaryontních - vhodné, předem upravené a neškodné viry",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 344,
+		"category": 4,
+		"number": 344,
+		"text": "Genové inženýrství umožnilo výrobu např.:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "čistého lidského inzulínu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vysoce čistých interferonů",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mimořádně čistých enzymů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 345,
+		"category": 4,
+		"number": 345,
+		"text": "Transgenní rostliny mohou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "obsahovat látky toxické pro člověka",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "být uvolněny k distribuci bez předchozího testování důsledků pro lidské zdraví",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "být odolné proti mikrobiálním škůdcům",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "být odolné vůči hmyzím škůdcům",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 346,
+		"category": 4,
+		"number": 346,
+		"text": "Transgenoze u hospodářských živočichů:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je metodicky snazší než u rostlin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "má za cíl vyšlechtit druhy s přímou asimilací atmosférického dusíku či schopnýc fotosyntézy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "DNA žádoucího genu se vpravuje přímo do buněčného jádra zygoty",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "DNA žádoucího genu se vpravuje přímo do buněčného jádra vajíčka izolovanéh z vaječníku",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 347,
+		"category": 4,
+		"number": 347,
+		"text": "Který/é z následujících pro ktů lze připravit biote",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "modifikovaný enzym",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "DNA sondu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "proteinový hormon",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "steroidní hormon",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 348,
+		"category": 4,
+		"number": 348,
+		"text": "Genová terapie:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je přímá náprava genových mutací v genomu člověka",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "otvírá cestu ke příčinnému léčení molekulárních dědičných chorob u lidí",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "napravuje nefunkčnost mutovaného genu v buňkách určité tkáně tím, že se do nic vpraví příslušná funkční alela, která zajistí syntézu chybějícího genového produktu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 349,
+		"category": 4,
+		"number": 349,
+		"text": "Genová terapie:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "využívá transgenoze především kmenových krvetvorných buněk kostní dřeně",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "otvírá cestu ke příčinnému léčení např. cystické fibrózy a některých nádorovýc onemocnění",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "byla poprvé úspěšně použita u těžké (smrtelné) kombinované imunodeficience (SCID) způsobené neschopností T-lymfocytů vytvářet enzym adenosin deaminasu (ADA)",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se typicky zaměřuje na cílové buňky, které se v dospělém organismu již dále nemnož (nedělí)",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 350,
+		"category": 4,
+		"number": 350,
+		"text": "Které z následujících tvrzení nejlépe popisuje základní rozdíl mezi somaticko genovou terapií a zárodečnou genovou terapií:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "somatická genová terapie je nahrazení abnormálního genu normálním, zárodečn genová terapie je přidání normálního genu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "somatická genová terapie neovlivňuje genom dětí léčeného pacienta, zárodečná genov terapie může ovlivňovat budoucí generace",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "somatická genová terapie je prováděna postnatálně, zárodečná genová terapie j prováděna prenatálně",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "somatická genová terapie potřebuje celoživotní imunosupresi, zárodečná genov terapie nikoli",
+				"correct": true
+			}
+		]
+	}
+]

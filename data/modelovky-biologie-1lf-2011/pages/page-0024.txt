@@ -71,14 +71,14 @@ A 0,81
 b) 0,9
 c) 0,5
 d) nelze určit
-362. V mendelovské populaci je frekvence recesivní alely 0,01. Na základě Hardy-
-Weinbergovy rovnováhy určete frekvenci dominantních homozygotů:
+362. V mendelovské populaci je frekvence recesivní alely 0,01. Na základě Hardy-Weinbergovy
+rovnováhy určete frekvenci dominantních homozygotů:
 a) 0,1
 b) 0,06
 C) 0,98
 d) 0,99
-363. V mendelovské populaci je frekvence recesivní alely 0,1. Na základě Hardy-
-Weinbergovy rovnováhy určete frekvenci heterozygotů:
+363. V mendelovské populaci je frekvence recesivní alely 0,1. Na základě Hardy-Weinbergovy
+rovnováhy určete frekvenci heterozygotů:
 a) 0,1
 B) 0,18
 c) 0,5

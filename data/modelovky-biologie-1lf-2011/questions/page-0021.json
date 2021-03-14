@@ -1,0 +1,514 @@
+[
+	{
+		"id": 304,
+		"category": 4,
+		"number": 304,
+		"text": "Mutace somatická:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "proběhne v somatické, tj. diploidní tělové buňce",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se do další generace přenáší jen tehdy, proběhla-li v buňce, z níž během dalšíc buněčných dělení vznikly pohlavní prabuňky a z nich gamety",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "postihne jen část organismu vzniklou jako buněčné potomstvo mutované buňky",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 305,
+		"category": 4,
+		"number": 305,
+		"text": "Mutace gametická:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "proběhne v haploidní gametě",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je do další generace nepřenosná; gameta s mutací zaniká",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je přenosná do další generace, jen pokud je spontánní",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 306,
+		"category": 4,
+		"number": 306,
+		"text": "Mutace:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ztrátové jsou obvykle recesivní",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dominantní, které přinášejí organismu nové schopnosti či funkce, jsou velmi vzácné.",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zpětné (reverzní) jsou pravidelné, zpravidla letální, a mutační cyklus se vrací zpět a kexcisní reparaci",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zpětné (reverzní) jsou četné, zpravidla jen přechodné; mutační cyklus pak pokračuj dále k letální mutaci",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 307,
+		"category": 4,
+		"number": 307,
+		"text": "Spontánní mutace:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vznikají v nejrůznějších genech se stejnou konstantní frekvencí",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jejich příčiny nedovedeme zjistit ani ovlivnit",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jejich pravděpodobnost v somatických buňkách je obecně přímo úměrná (krom jiného) rozsahu jejího genomu a trvání jejího buněčného cyklu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "u člověka je průměrná četnost vzniku gametické mutace 10-3 na jeden gen za jedn generaci.",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 308,
+		"category": 4,
+		"number": 308,
+		"text": "Spontánní mutace:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vznikají v různých genech s různou, ale pro daný gen konstantní frekvencí",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jejich příčiny jsou známy, např. nervový stress",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jejich pravděpodobnost v somatických buňkách nelze zvýšit, ale je možno ji snižova působením např. chemických mutagenních látek",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "u člověka je průměrná četnost vzniku gametické mutace 1 x 10-5 na jeden gen za jedn generaci.",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 309,
+		"category": 4,
+		"number": 309,
+		"text": "Četnost spontánních genových mutací na jeden gen a jednu generaci se odhaduje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,1%",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "žádná z ostatních odpovědí není správná",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "10-5 až 10-7",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "6,3 %",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 310,
+		"category": 4,
+		"number": 310,
+		"text": "Mutagenní činitelé (faktory):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vyvolávají (indukují) mutace",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou fyzikální povahy, např. krátkovlné, ionozující i neionizující záření",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou to především záření rentgenové a radioaktivní",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou chemické mutagenní látky (dnes častěji označované jako látky genotoxické)",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 311,
+		"category": 4,
+		"number": 311,
+		"text": "Pro člověka jsou mutagenními faktory:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "chemické genotoxické látky (asi 60 různých typů)",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "alkylační činidla, silná oxidační činidla (peroxidy), dusitany, činidla interkalační aj.",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kuřáctví cigaret",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "látky v průmyslových emisích, emisích z energetiky a výfukových plynech",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 312,
+		"category": 4,
+		"number": 312,
+		"text": "Epigenetické mutageny:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou látky, které poškozují DNA přímo",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "většinou narušují funkci enzymů nezbytných pro replikaci či reparaci DNA",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou např. H, He, NaCl, CO2, některé vitaminy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je jiný název látek promutagenních",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 313,
+		"category": 4,
+		"number": 313,
+		"text": "Karcinogeny:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou mutageny, která chrání organismus před zvrhnutím buněk ve zhoubné buňk nádorové",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "podněcují vznik somatických mutací",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jejich koncentrace v našem životním prostředí jsou stále vyšší a vyšší",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou geny s onkogenním potenciálem",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 314,
+		"category": 4,
+		"number": 314,
+		"text": "Vyberte správný/é výrok/y:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "každá, v chemickém průmyslu nově připravená látka podléhá předepsaným testům n mutagenní účinky",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je-li mutagenní aktivita látky vyloučena, je její distribuce mezi obyvatelstvo zakázána",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "většina mutagenů působí současně karcinogenně",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zvrhnutí buněk v rakovinné buňky může být doprovázeno změnou buněčné morfologie",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 315,
+		"category": 4,
+		"number": 315,
+		"text": "Vyberte správný/é výrok/y:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "opakované diagnostické rentgenování v lékařství může zvyšovat mutagenn a karcinogenní zátěž organismu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "závislost vzestupu úmrtí na rakovinu plic a kouřením cigaret v posledním století nebyl nikdy prokázána",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "příkladem mutagenů jsou průmyslové emise, výfukové plyny a látky k ochran zemědělských rostlin proti škůdcům",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vyhodnocení buněčné morfologie je jednou z metod v diagnostice zvrhnutí buně v buňky rakovinné",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 316,
+		"category": 4,
+		"number": 316,
+		"text": "Standardní alela genu může být změněna v jinou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mutací v některém místě celé své délky",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ztrátou nebo vložením jednoho nukleotidu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "záměnou (substitucí) jediné baze",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zvýšením počtu chromosomových sad",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 317,
+		"category": 4,
+		"number": 317,
+		"text": "Standardní alela genu může být změněna v jinou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mutací pouze v určitých místech celé své délky",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ztrátou nebo vložením jednoho chromosomu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ztrátou nebo vložením několika sousedních nukleotidů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "při amniocentéze (vyšetření plodové vody)",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 318,
+		"category": 4,
+		"number": 318,
+		"text": "Genové mutace:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mohou měnit čtení genetického kódu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "způsobují změny v karyotypu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "brání v segregaci mitotickým chromosomům",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mohou změnit regulaci buněčného dělení",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 319,
+		"category": 4,
+		"number": 319,
+		"text": "Genové mutace strukturního genu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mohou zaměnit jednu aminokyselinu v polypeptidovém řetězci",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mohou zaměnit více aminkyselin v peptidu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vždy znamenají kratší peptid",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se nemusí projevit změnou peptidu",
+				"correct": true
+			}
+		]
+	}
+]

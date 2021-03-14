@@ -1,0 +1,546 @@
+[
+	{
+		"id": 1498,
+		"category": 20,
+		"number": 1506,
+		"text": "Sval kápový (trapézový) patří do skupiny svalů:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hrudníku",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zad",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "břicha",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "dolní končetiny",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1499,
+		"category": 20,
+		"number": 1507,
+		"text": "Nitrokloubní diskus obsahují tyto klouby:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "čelistní",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "loketní",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kyčelní",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kolenní",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1500,
+		"category": 20,
+		"number": 1498,
+		"text": "Vrstvy kůže na řezu jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pokožka a podkožní vazivo",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "sliznice a pokožka",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "podkožní vazivo a sliznice",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "škára a pokožka",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1501,
+		"category": 20,
+		"number": 1499,
+		"text": "Hlavní význam mazových žláz spočívá:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ve vylučování nadbytečné vody",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ve vylučování Naci",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v účasti na termoregulaci",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v ochraně kůže",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1502,
+		"category": 20,
+		"number": 1500,
+		"text": "Kůže je hlavním zdrojem vitaminu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "A",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "B",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "C",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "D",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1503,
+		"category": 20,
+		"number": 1501,
+		"text": "Bradavkovité výběžky škáry obsahují:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "specializovaná nervová zakončení",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "receptory pro vnímání chladu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "potní žlázy",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "četné drobné cévy",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1504,
+		"category": 20,
+		"number": 1502,
+		"text": "Průměrný povrch těla u dospělého člověka je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "3 m2",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,9 m2",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1,7 m2",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1,2 m2",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1505,
+		"category": 20,
+		"number": 1503,
+		"text": "Plocha kůže u průměrného dospělého člověka měří cca:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1,7 m2",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "2,5 m",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "0,8 m2",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1,2 m2",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1506,
+		"category": 20,
+		"number": 1508,
+		"text": "Ve stěně tenkého střeva je svalstvo:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zejména příčně pruhované",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hladké",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "převážně obojího typu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "minimálně přítomno a jeho význam je malý",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1507,
+		"category": 20,
+		"number": 1509,
+		"text": "Ve stěně jícnu je svalstvo:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "příčně pruhované",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hladké",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "tvořeno kardiomyocyty",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "minimálně přítomno a jeho význam je malý",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1508,
+		"category": 20,
+		"number": 1510,
+		"text": "Míšních nervů je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "30 párů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "31 párů",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "32 párů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "33 párů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1509,
+		"category": 20,
+		"number": 1511,
+		"text": "V útrobách a cévních stěnách je svalstvo:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "příčně pruhované",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hladké",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "převážně obojího typu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "minimálně přítomno a jeho význam je malý",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1510,
+		"category": 20,
+		"number": 1512,
+		"text": "Endotel:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vystýlá vnitřní povrch srdečních dutin",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vystýlá dýchací cesty",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vystýlá trávicí trubici",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vystýlá lumen krevních cév",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1511,
+		"category": 20,
+		"number": 1513,
+		"text": "Věnčité (koronární) tepny zásobují krví:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "srdce",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ledviny",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mozek",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "játra",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1512,
+		"category": 20,
+		"number": 1514,
+		"text": "Hypothalamus:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je součástí mezimozku",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je součástí středního mozku",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "podílí se na regulaci činnosti vnitřních orgánů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je součástí koncového mozku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1513,
+		"category": 20,
+		"number": 1504,
+		"text": "Kůže se podílí na:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "regulaci tělesné teploty",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ochraně proti škodlivým mechanickým, chemickým a světelným účinkům",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vylučování mazu a potu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "tvorbě vitaminu D",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1514,
+		"category": 20,
+		"number": 1505,
+		"text": "Termoregulační funkce kůže je dána:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "změnou prokrvení",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "sekrecí potu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "neustálým odpařování vody z jejího povrhu (ne potními žlázami)",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vrstvou elastických vláken",
+				"correct": false
+			}
+		]
+	}
+]

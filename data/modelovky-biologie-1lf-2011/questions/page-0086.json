@@ -1,0 +1,514 @@
+[
+	{
+		"id": 1447,
+		"category": 17,
+		"number": 1447,
+		"text": "Termoregulace těla je zajišťována:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pocením",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vyzařováním tepla",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "svalovým třesem",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "termostabilisatory",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1448,
+		"category": 17,
+		"number": 1448,
+		"text": "Výdej tepla z organismu v prostředí teplejším než povrch těla:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je umožněn odpařováním vody",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "není možný",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se snižuje prouděním vzduchu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se snižuje v prostředí se suchým vzduchem",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1449,
+		"category": 17,
+		"number": 1449,
+		"text": "Nejúčinnější prostředek odvádění nadbytku tepla z lidského těla",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pocení",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "sálání",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vedení",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "proudění",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1450,
+		"category": 17,
+		"number": 1455,
+		"text": "Potní žlázy se podílejí na:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "udržování tělesné teploty",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "průtoku krve",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ochraně kůže proti působení vody",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "resorpci látek",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1451,
+		"category": 17,
+		"number": 1456,
+		"text": "Termoregulační centrum se nachází v:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "předních rozích míšních",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "frontální oblasti mozkové kůry",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zadních oblastech mozkového kmene",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "hypotalamu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1452,
+		"category": 17,
+		"number": 1457,
+		"text": "Pocení umožňuje ztráty tepla z organismu při:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "teplotě těla vyšší než je teplota prostředí",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "teplotě těla nižší než je teplota prostředí",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nízké vrstvě podkožního tuku",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nízkém průtoku krve kůží",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1453,
+		"category": 18,
+		"number": 1450,
+		"text": "Hnědá tuková tkáň:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se u člověka nevyskytuje",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vyskytuje se především u novorozenců a uplatňuje se v termoregulaci",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "má stejný metabolismus jako žlutá tuková tkáň",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "bývá uložena mezi lopatkami",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1454,
+		"category": 18,
+		"number": 1451,
+		"text": "Na regulaci tělesné teploty se pocení podílí hlavně tím, že:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "odvádí ohřátou část tělesných tekutin do zevního prostředí",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "při tvorbě potu se spotřebovává energie, která by se jinak použila na tvorbu tepla",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "smáčí chlupy, vlasy a eventuelně oděv a vytváří tak tepelně vodivý můstek mez vnitřním a zevním prostředím",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "při odpařování z povrchu těla pot přijímá skupenské teplo a tím povrch ochlazuje",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1455,
+		"category": 18,
+		"number": 1452,
+		"text": "Tělesná teplota zdravého člověka:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kolísá během 24 hodin",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je rozdílná na různých částech těla",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je nejnižší ve spánku",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1456,
+		"category": 18,
+		"number": 1453,
+		"text": "Když člověk spadne do ledové vody dobře oblečený:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je to z hlediska přežití lepší, než když je bez oděvu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je lépe chráněn proti ztrátám tepla způsobeným vedením a prouděním",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "musí se intenzivně pohybovat, aby zvýšil tvorbu tepla a tím se zahřál",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "musí omezit pohyb, aby snížil ztráty tepla vedením a prouděním",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1457,
+		"category": 18,
+		"number": 1454,
+		"text": "Když večer naměříme u dospělého člověka teplotu vyšší než ráno:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je vždy vhodné navštívit lékaře",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vždy stačí použít léky proti horečce (např. acylpyrin)",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je vždy vhodné nejdříve zjistit, zda večerní teplota přesáhla 37,0 °C",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná z odpovědí není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1458,
+		"category": 18,
+		"number": 1458,
+		"text": "Kloubní plochy kyčelního kloubu jsou pokryty chrupavkou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hyalinní",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vazivovou",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "elastickou",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "rosolovitou",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1459,
+		"category": 18,
+		"number": 1459,
+		"text": "Kontraktilní aparát svalových buněk je spouštěn ionty:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Ca2+",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Nat",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "K+",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Mg2+",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1460,
+		"category": 18,
+		"number": 1460,
+		"text": "Hladké svalstvo nacházíme například:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ve stěně dělohy",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v srdečním svalu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v bránici",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v okohybných svalech",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1461,
+		"category": 18,
+		"number": 1461,
+		"text": "Růst kosti do délky se uskutečňuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v růstových chrupavkách mezi diafýzou a epifýzou",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "z okostice",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mitotickým dělením osteocytů difusně po celé kosti",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "z kostní dřeně",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1462,
+		"category": 18,
+		"number": 1462,
+		"text": "Aktinomyosinovou soustavu aktivují uvolněné ionty:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Ca2+",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Nat",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "K+",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Fe2+",
+				"correct": false
+			}
+		]
+	}
+]

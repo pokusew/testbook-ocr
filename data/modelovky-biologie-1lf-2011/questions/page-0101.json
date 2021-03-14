@@ -1,0 +1,514 @@
+[
+	{
+		"id": 1710,
+		"category": 23,
+		"number": 1710,
+		"text": "Mutace v DNA vznikají:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "chybami v replikaci",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "působením vnějších faktorů, jako jsou např. chemické látky a záření",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v důsledku aktivity transpozonů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "chybami při rekombinaci DNA molekul",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1711,
+		"category": 23,
+		"number": 1711,
+		"text": "Mutace sekvencí kódujícich bílkoviny, které nevedou k záměně aminokyselin jsou obvykle:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "selekčně výhodné",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "z genofondu odstraněny purifikující selekcí",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mohou vzácně narušit strukturu nebo hladinu exprese proteinu (např. pokud jso blízko rozhraní exon/intron)",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "selekčně neutrální",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1712,
+		"category": 23,
+		"number": 1712,
+		"text": "Mitochondriální DNA (mtDNA) se používá při studiu evoluce lidských populac zvláště pro:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "svojí malou velikost",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "znalost úplné sekvence nukleotidů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dědičnost mtDNA pouze po mateřské linii",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "heteroplasmii (tj. přítomnosti mnoha kopií mtDNA a tím potenciálně mnoha různýc alel v jedné buňce - na rozdíl od právě 2 kopií jaderných genů)",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1713,
+		"category": 23,
+		"number": 1713,
+		"text": "Mitochondriální DNA savců:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je lineární molekula",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je cirkulární molekula",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "obsahuje geny pro všechny komponenty mitochondrií",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "obsahuje jen několik genů, většina genů se přesunula v průběhu evoluce do jadernéh genomu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1714,
+		"category": 23,
+		"number": 1714,
+		"text": "Mitochondrie pravděpodobně vznikly:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vchlípením části buněčné membrány, která u předka eukayot obsahovala enzym dýchacího řetězce",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "symbiózou bakterií s předkem eukaryot",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jako derivát endoplazmatického retikula",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "symbiózou předka eukaryot s kvasinkami",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1715,
+		"category": 23,
+		"number": 1715,
+		"text": "Chromosom Y člověka:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se dědí celý výlučně po mužské linii (holandricky)",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se dědí výlučně po mužské linii, s výjimkou malých úseků na obou koncích, nutných pr párování s chromozomem X",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "obsahuje větší množství genů než chromozom X",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pravděpodobně vznikl v průběhu evoluce z chromozomu X",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1716,
+		"category": 23,
+		"number": 1716,
+		"text": "Negativní selekce (proti určitému genotypu) může být způsobena:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "časnou úmrtností jedinců tohoto genotypu (před dosažením pohlavní dospělosti)",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zvýšenou úmrtností jedinců s tímto genotypem ve vyšším věku",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "sníženou plodností jedinců tohoto genotypu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "neplodností jedinců tohoto genotypu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1717,
+		"category": 23,
+		"number": 1717,
+		"text": "Iminoforma cytosinu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se vyskytuje přibližně ve stejné koncentraci jako aminoforma",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se v DNA páruje s guaninem",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se v DNA páruje s adeninem",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se vyskytuje ve výrazně nižší koncentraci než aminoforma",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1718,
+		"category": 23,
+		"number": 1718,
+		"text": "Frekvence mutací:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je udržována na co nejnižší úrovni pomocí reparačních mechanismů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je u většiny organismů nastavena na optimální úrovni",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se často zvyšuje, nachází-li se organismus ve stresovém prostředí",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je udržována na co nejvyšší úrovni působením speciálních enzymů, např tzv. termináln transferázy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1719,
+		"category": 23,
+		"number": 1719,
+		"text": "Příkladem mikroevoluce je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vznik rezistence viru HIV proti antivirovým látkám",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nárůst svalové hmoty u trénovaných sportovců",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vznik zhoubného nádoru z transformované („zvrhlé“) buňky",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zmnožení červených krvinek při adaptaci na vysokohorské prostředí",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1720,
+		"category": 23,
+		"number": 1720,
+		"text": "Nejpravděpodobnějším způsobem vzniku nového genu je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mutace",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "duplikace existujícího genu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mezidruhové křížení",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "genový drift",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1721,
+		"category": 23,
+		"number": 1721,
+		"text": "Kyslík (O2) v atmosféře:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vzniká převážně činností rostlin",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je nezbytným předpokladem suchozemského života, protože je zdrojem ozónové vrstvy",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je nezbytným předpokladem suchozemského života, protože umožňuje spalování",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je převážně sopečného původu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1722,
+		"category": 23,
+		"number": 1722,
+		"text": "Selekčně neutrální mutace:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "svému nositeli neprospívá ani neškodí",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vymizí postupně z populace mechanismem negativní selekce",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "může v populaci převážit, např. mechanismem genetického driftu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pozitivně ovlivňuje biologickou zdatnost jedince",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1723,
+		"category": 23,
+		"number": 1723,
+		"text": "Mírně škodlivá mutace:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v malých populacích se chová jako selekčně neutrální",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "může v populaci převážit, např. působením genetického driftu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ve velkých populacích se chová jako selekčně neutrální",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vždy vymizí z populace mechanismem negativní selekce",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1724,
+		"category": 23,
+		"number": 1724,
+		"text": "Přirozený výběr:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je založen na nerovnoměrném předávání alel jednotlivých jedinců do genofondu dalšíc generací",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "čím vyšší podíl alel předá jedinec do další generace ve srovnání s ostatními jedinc v populaci, tím vyšší je jeho biologická zdatnost",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "funguje dobře i pro geny s jedinou alelou",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vyžaduje, aby vlastnosti získané během života byly dědičné",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1725,
+		"category": 23,
+		"number": 1725,
+		"text": "Přirozený výběr:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zajišťuje vždy přežití nejsilnějšího jedince v populaci",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zajišťuje šíření alel s vlastnostmi výhodnými pro jedince",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nefunguje u nepohlavně se množících organismů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nefunguje u pohlavně se množících organismů",
+				"correct": false
+			}
+		]
+	}
+]

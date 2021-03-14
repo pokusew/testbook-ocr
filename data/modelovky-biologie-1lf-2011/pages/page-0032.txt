@@ -1,4 +1,3 @@
->
 489. Při sekundárním procesu fotosyntézy:
 A) dochází k přeměně molekul CO2 a pentózy na molekuly hexózy
 B) dochází ke vzniku karboxylových skupin
@@ -63,14 +62,14 @@ d) závisí na transpiraci
 A) vypařování vody z povrchu rostlinného těla
 b) výdej vody v kapalném stavu
 c) dýchání rostlin
-(!) příjem vody kořenem
+d) příjem vody kořenem
 502. Hlavním orgánem transpirace:
 A) jsou listy
 b) je stonek
 c) je kořen
 d) je xylém
 503. Gutace je:
-^) výdej vody z rostliny v kapalném stavu
+A) výdej vody z rostliny v kapalném stavu
 b) výdej vody z rostliny vypařováním
 c) výdej vody pneumatofory
 d) způsob vedení vody rostlinou
@@ -80,7 +79,7 @@ b) z mrtvých organismů
 C) iz dřevní části hostitelské rostliny
 d) chemosyntézou
 505. Při vegetativním rozmnožování vzniká nová rostlina:
-^) z buněk vzniklých mitózou
+A) z buněk vzniklých mitózou
 b) z buněk vzniklých meiózou
 c) ze zygoty
 d) samoopylením

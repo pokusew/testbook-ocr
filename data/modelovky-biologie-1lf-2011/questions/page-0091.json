@@ -1,0 +1,578 @@
+[
+	{
+		"id": 1533,
+		"category": 20,
+		"number": 1533,
+		"text": "Ovulace:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je uvolnění zralého vajíčka z folikulu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "probíhá obvykle v polovině menstruačního cyklu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je zahnízdění oplodněného vajíčka ve sliznici dělohy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "probíhá obvykle poslední dny menstruačního cyklu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1534,
+		"category": 20,
+		"number": 1534,
+		"text": "Počet mozkových komor je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "2",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "3",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "4",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "5",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1535,
+		"category": 20,
+		"number": 1535,
+		"text": "Sluchové kůstky:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou uloženy ve vnitřním uchu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou uloženy ve středoušní dutině",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou celkem 4",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou celkem 2",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1536,
+		"category": 20,
+		"number": 1536,
+		"text": "Přištítná tělíska:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou obvykle 4 tělíska ležící na zadní straně laloků štítné žlázy",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "produkují parathormon",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou obvykle 2 tělíska ležící zevně od štítné chrupavky",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "produkují trijodtyronin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1537,
+		"category": 20,
+		"number": 1537,
+		"text": "Červená kostní dřeň:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je místem tvorby červených krvinek a krevních destiček",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je v průběhu života nahrazena žlutou kostní dření",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je i v dospělosti přítomna ve všech kostech",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je přítomna v dospělosti v plochých kostech",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1538,
+		"category": 20,
+		"number": 1538,
+		"text": "Rytmická srdeční činnost:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je řízena centrem v prodloužené míše",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je dána vlastní automacitou sinusového uzlíku",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je nezávislá na mozku",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je ovlivňována vegetativním nervovým systémem",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1539,
+		"category": 20,
+		"number": 1539,
+		"text": "Mízní cévy:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vznikají jako slepé kapiláry v tkáních",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "přivádí mízu k uzlinám",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "odvádí vstřebané bílkoviny z trávicí soustavy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "odvádí vstřebané tuky z trávicí soustavy",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1540,
+		"category": 20,
+		"number": 1540,
+		"text": "Pohrudniční dutina:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je párová",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je štěrbinovitý prostor mezi poplicnicí a pohrudnicí",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "tlak v ní je nižší než atmosferický",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "tlak v ní je vyšší než atmosferický",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1541,
+		"category": 20,
+		"number": 1541,
+		"text": "Zubní dřeň - pulpa:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je vazivová tkáň s větvením cév a nervů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je krvetvorná",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vytváří dentin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je jen v mléčném chrupu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1542,
+		"category": 20,
+		"number": 1542,
+		"text": "Axony motorických neuronů:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "odstupují předními míšními kořeny",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "odstupují zadními míšními kořeny",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vedou k příčně pruhovaným svalům",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se podílí na tvorbě míšních nervů",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1543,
+		"category": 20,
+		"number": 1543,
+		"text": "Nejvýznamnějším parasympatickým nervem je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "X. hlavový nerv",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "XII. hlavový nerv",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "VIII. hlavový nerv",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "V. hlavový nerv",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1544,
+		"category": 20,
+		"number": 1544,
+		"text": "Dřeň nadledvin:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "produkuje adrenalin a noradrenalin",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "svým původem patří k vegetativní nervové soustavě",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "produkuje aldosteron",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "svým původem patří k trávicí soustavě",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1545,
+		"category": 20,
+		"number": 1545,
+		"text": "Mezi plodové obaly patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "amnion",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "placenta",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "chorion",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "alantois",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1546,
+		"category": 20,
+		"number": 1546,
+		"text": "Součástí kolenního kloubu nejsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "disky",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "menisky",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zkřížené vazy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "postranní vazy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1547,
+		"category": 20,
+		"number": 1547,
+		"text": "Součástí koncového mozku je/jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "bazální ganglia",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mozková kůra",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "thalamus",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "hypofýza",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1548,
+		"category": 20,
+		"number": 1548,
+		"text": "Primární moč se tvoří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "resorpcí v proximálním tubulu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ultrafiltrací v glomerulech",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "resorpcí v glomerulech",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ultrafiltrací v proximálních tubulech",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1549,
+		"category": 20,
+		"number": 1549,
+		"text": "Kostěnný hlemýžď je uložen v:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kosti čelní",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kosti skalní",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kosti klínové",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kosti bubínkové",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1550,
+		"category": 20,
+		"number": 1550,
+		"text": "Čípky sítnice:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "slouží k rozlišování barev",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jejich největší koncentrace je ve žluté skvrně",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jejich největší koncentrace je ve slepé skvrně",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zaznamenávají odstíny šedi",
+				"correct": true
+			}
+		]
+	}
+]

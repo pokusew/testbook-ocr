@@ -1,0 +1,578 @@
+[
+	{
+		"id": 454,
+		"category": 5,
+		"number": 454,
+		"text": "Zásobní látkou hub je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "škrob a glykogen",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "glykogen a olej",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "olej a škrob",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "škrob, olej a glykogen",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 455,
+		"category": 5,
+		"number": 455,
+		"text": "Spojováním buněk hub (Fungi) vznikají:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nepravá pletiva",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hyfy",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mycelium",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pseudoparenchym",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 456,
+		"category": 5,
+		"number": 456,
+		"text": "Retroviry:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "obsahují jednořetězcovou RNA",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "obsahují dvouřetězcovou DNA",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "obsahují rRNA",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pomocí zpětné transkriptázy syntetizují komplementární DNA v infikovaných buňkách",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 457,
+		"category": 5,
+		"number": 457,
+		"text": "Algologie je vědní obor zabývající se studiem:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "lišejníků",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "trav",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "řas",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mechorostů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 458,
+		"category": 5,
+		"number": 458,
+		"text": "Jako grampozitivní se označují bakterie, které:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mají v barvení podle Grama modrofialovou barvu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mají v barvení podle Grama červenou barvu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "netvoří spory",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "obsahují silnou vrstvu peptidoglykanu v buněčné stěně",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 459,
+		"category": 5,
+		"number": 459,
+		"text": "Kvasinky:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou jednobuněčné eukaryotní organismy",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou jednobuněčné prokaryotní organismy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se množí vegetativně pučením",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se řadí mezi houby",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 460,
+		"category": 5,
+		"number": 460,
+		"text": "Buněčná stěna je tvořena především:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "peptidoglykanem u grampozitivních bakterií",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "glukanem a mananem u kvasinek",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "chitinem u kvasinek",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "celulózou u rostlin",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 461,
+		"category": 5,
+		"number": 461,
+		"text": "Při klonování DNA lze jako vektor využít:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "plazmid",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "bakteriofág lambda",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kosmid",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kvasinkový umělý chromosom",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 462,
+		"category": 5,
+		"number": 462,
+		"text": "Rezistence bakterií k antibiotikům:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "umožňuje léčebný účinek antibiotik",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "brání léčebnému účinku antibiotik",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je podmíněna přítomností R-plazmidu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je podmíněna přítomností F-plazmidu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 463,
+		"category": 5,
+		"number": 463,
+		"text": "Adenoviry:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou řazeny mezi RNA viry",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou řazeny mezi DNA viry",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "některé jsou onkogenní",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mohou vyvolávat katary dýchacích cest u člověka",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 464,
+		"category": 5,
+		"number": 464,
+		"text": "Mezi parasexuální děje u bakterií řadíme:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "konjugaci a transformaci",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "transformaci a transdukci",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "transdukci a transkripci",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná odpověd z ostatních není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 465,
+		"category": 5,
+		"number": 465,
+		"text": "Rozmnožování u řas je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vegetativní",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pohlavní",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nepohlavní",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "možné pomocí výtrusů",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 466,
+		"category": 5,
+		"number": 466,
+		"text": "Diplokoky tvoří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hrozny",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "řetízky",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dvojice",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "spirály",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 467,
+		"category": 5,
+		"number": 467,
+		"text": "K pohybu u prvoků slouží:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "bičíky",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "panožky",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "řasinky",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná odpověď z ostatních není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 468,
+		"category": 5,
+		"number": 468,
+		"text": "Prvoci žijí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ve slané vodě",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ve sladké vodě",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jako paraziti mnohobuněčných organismů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jako symbionti mnohobuněčných organismů",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 469,
+		"category": 5,
+		"number": 469,
+		"text": "Virus HIV:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "patří mezi DNA viry",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "patří mezi RNA viry",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "patří mezi retroviry",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "způsobuje imunodeficienci",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 470,
+		"category": 5,
+		"number": 470,
+		"text": "Při transformaci u bakterií dochází:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "k přenosu volné DNA z donorové do recipientní buňky bez jejich vzájemného kontaktu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "k přenosu volné DNA z donorové do recipientní buňky vyžadujícímu jejich vzájemn kontakt",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "k přenosu DNA z donorové do recipientní buňky prostřednictvím bakteriofága",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "k včlenění volné DNA do genomu recipientní buňky",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 471,
+		"category": 5,
+		"number": 471,
+		"text": "Hlízkové bakterie:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žijí v symbióze s kořeny lesních stromů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "žijí v symbióze s kořeny bobovitých rostlin",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "využívají vzdušný dusík jako zdroj výživy",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "obohacují půdu o dusičnany",
+				"correct": true
+			}
+		]
+	}
+]

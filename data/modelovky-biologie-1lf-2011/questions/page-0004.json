@@ -1,0 +1,578 @@
+[
+	{
+		"id": 10,
+		"category": 1,
+		"number": 10,
+		"text": "Koeficient dědivosti (h%):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "udává podíl dědičné složky na celkové fenotypové proměnlivosti znaku",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je vždy u dědičných znaků větší než 1",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "může se pohybovat od -1 do +1",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "není závislý na prostředí",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 11,
+		"category": 1,
+		"number": 11,
+		"text": "Genofondem rozumíme:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "všechny geny určitého jedince",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "soubor všech alel všech členů populace",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "genetickou výbavu určité rodiny",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 12,
+		"category": 1,
+		"number": 12,
+		"text": "Kvalitativní znaky:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou např. tělesná výška a hmotnost",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou výrazně ovlivňovány vnějším prostředím",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou často podmíněny jediným genem",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou obvykle mimochromosomálně dědičné",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 13,
+		"category": 1,
+		"number": 13,
+		"text": "Genofond je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "soubor genů buňky",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "soubor všech alel v populaci",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "soubor všech fenotypů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "soubor jedinců, kteří se mohou navzájem křížit",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 14,
+		"category": 1,
+		"number": 14,
+		"text": "Kvantitativní znaky jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "málo závislé na vnějším prostředí",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "podmíněny geny velkého účinku",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "u organismů vzácné",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 15,
+		"category": 1,
+		"number": 15,
+		"text": "Geny malého účinku:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "obvykle podmiňují jen monogenní znaky",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou málo závislé na vnějším prostředí",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se vyskytují pouze na X chromosomu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 16,
+		"category": 1,
+		"number": 16,
+		"text": "Kvantitativní znaky jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "obvykle podmíněny malým počtem genů malého účinku",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "obvykle podmíněny genem velkého účinku",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "málo závislé na faktorech prostředí",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 17,
+		"category": 1,
+		"number": 17,
+		"text": "Pojem aktivní alela:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je synonymem pro alelu dominantní u monogenní dědičnosti",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "znamená minor gen, který se projeví ve fenotypu při polygenní determinaci znaku",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vyjadřuje působení alel u recesivního homozygota",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "označuje alelu, na kterou nepůsobí selekce",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 18,
+		"category": 1,
+		"number": 18,
+		"text": "Koeficient dědivosti (h?):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "udává podíl genetické složky na celkové variabilitě znaku",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je vždy u dědičných znaků větší než 1",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "může se pohybovat od -1 do +1",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je nezávislý na působení prostředí",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 19,
+		"category": 1,
+		"number": 19,
+		"text": "Genofondem rozumíme:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "všechny geny určitého jedince",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "všechny geny jedné buňky",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "genetickou výbavu určité rodiny",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 20,
+		"category": 1,
+		"number": 20,
+		"text": "Autogamická populace:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je tvořena všemi jedinci hermafroditickými",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je tvořena jedinci, kteří se rozmnožují samoopylením",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je ve všech znacích panmiktická",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je např. populace lidská",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 21,
+		"category": 1,
+		"number": 21,
+		"text": "Alogamická populace:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je obvykle tvořena organismy s odděleným pohlavím",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je např. populace lidská",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je tvořena organismy, které se rozmnožují samoopylením",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je tvořena vždy dvěma čistými liniemi",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 22,
+		"category": 1,
+		"number": 22,
+		"text": "Soubor genů celé populace se nazývá:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "genofond",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "genotyp",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "karyotyp",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "haplotyp",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 23,
+		"category": 1,
+		"number": 23,
+		"text": "Chromosomové genétické mapy:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou založeny na relativní vzdálenosti genů téže vazebné skupiny",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ukazují polohu chromosomů v karyotypu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "měří vzdálenost genů mezi nehomologními chromosomy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ukazují rozdílnou polohu chromosomů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 24,
+		"category": 1,
+		"number": 24,
+		"text": "Strukturní gen:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "obsahuje informaci pro konkrétní formu příslušného polypeptidu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je synonymum pro znak jedince",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "má vždy pouze jednu formu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "může kódovat i RNA",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 25,
+		"category": 1,
+		"number": 25,
+		"text": "Mutace:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je synonymum pro modifikaci",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou vždy pro organismy nevýhodné",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "způsobují genetický posun",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "podmiňují proměnlivost genotypů",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 26,
+		"category": 1,
+		"number": 26,
+		"text": "Strukturní geny:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mohou kódovat bílkoviny",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mohou kódovat RNA",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se aktivují prostřednictvím své promotorové oblasti",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mají v lidském genomu vzájemně odlišnou délku",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 27,
+		"category": 1,
+		"number": 27,
+		"text": "Teorii vzniku živých forem samoplozením vyslovil:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "L. Pasteur",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Hippokrates",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Aristoteles",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "A. I. Oparin",
+				"correct": false
+			}
+		]
+	}
+]

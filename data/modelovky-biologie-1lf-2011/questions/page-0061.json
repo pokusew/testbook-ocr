@@ -1,0 +1,578 @@
+[
+	{
+		"id": 1008,
+		"category": 8,
+		"number": 1017,
+		"text": "Z organických látek je v krevní plazmě nejvíce:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "cukrů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "tuků",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "bílkovin",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "močoviny",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1009,
+		"category": 8,
+		"number": 1008,
+		"text": "Červené krvinky krevní skupiny B se shlukují:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "aglutininy antiA",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "aglutininy antiB",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "aglutinogeny antiA",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "aglutinogeny antiB",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1010,
+		"category": 8,
+		"number": 1009,
+		"text": "Krevní skupina B je charakterizována:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "aglutinogenem B",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "aglutinogenem antiB",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "aglutininem B",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "aglutininem antiB",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1011,
+		"category": 8,
+		"number": 1010,
+		"text": "Imunokompetentní buňky jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "T lymfocyty",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "B lymfocyty",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "granulocyty",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "erytrocyty",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1012,
+		"category": 8,
+		"number": 1011,
+		"text": "Primární imunitní reakci zajišťují zejména protilátky:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "IgA",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "IgG",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "IgM",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "IgE",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1013,
+		"category": 8,
+		"number": 1012,
+		"text": "Při alergických stavech jsou zmnoženy protilátky:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "IgE",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "IgM",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "IgA",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "IgG",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1014,
+		"category": 8,
+		"number": 1013,
+		"text": "Při sekundární imunitní reakci je odpověd' organismu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "účinnější",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "rychlejší",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zpomalená",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nespecifická",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1015,
+		"category": 8,
+		"number": 1014,
+		"text": "Schopnost fagocytosy mají:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "neutrofilní granulocyty",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "makrofágy",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "lymfocyty",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "bazofilní granulocyty",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1016,
+		"category": 8,
+		"number": 1015,
+		"text": "pH krve je udržováno:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kyselým uhličitanem sodným",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "plasmatickými bílkovinami",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "hemoglobinovým systémem",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kyselým fosforečnanem vápenatým",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1017,
+		"category": 8,
+		"number": 1016,
+		"text": "Vyšetření krevních skupin má význam:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "při posuzování otcovství",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v průběhu těhotenství",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "při krevní transfusi",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "při posuzování sportovní zdatnosti",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1018,
+		"category": 8,
+		"number": 1018,
+		"text": "Albuminy se podílejí na:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "udržování pH krve",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "onkotickém tlaku krve",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "transportu nejrůznější látek krví (např. hormonů)",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "tvorbě imunoglobulinů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1019,
+		"category": 8,
+		"number": 1019,
+		"text": "Hlavním regulátorem tvorby červených krvinek:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nedostatek kyslíku",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nadbytek oxidu uhličitého",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "erytropoetin",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "proces stárnutí červených krvinek",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1020,
+		"category": 8,
+		"number": 1020,
+		"text": "Kyslík se krví transportuje ve vazbě na:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "na globinovou složku hemoglobinu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "na albuminy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "na hemovou složku hemoglobinu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "na erytropoetin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1021,
+		"category": 8,
+		"number": 1021,
+		"text": "Homeostaza znamená:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "udržování určitého složení přijímaných tekutin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zástavu krvácení",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "udržování stálého vnitřního prostředí",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "schopnost udržet vzpřímenou polohu těla",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1022,
+		"category": 8,
+		"number": 1022,
+		"text": "V krvi je nejvýkonnějším nárazníkovým systémem systém:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "bikarbonátový",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hemoglobinový",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "proteinový",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "fosfátový",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1023,
+		"category": 8,
+		"number": 1023,
+		"text": "Sedimentace je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "usazování červených krvinek v nesrážlivé krvi",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "závislá na množství fibrinogenu a globulinů v plazmě",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "závislá na množství erytrocytů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vyšší u žen než u mužů",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1024,
+		"category": 8,
+		"number": 1024,
+		"text": "Hemostaza je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "stálost vnitřního prostředí",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zástava krvácení",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "schopnost člověka udržet vzpřímený postoj",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zástava toku krve srdcem",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1025,
+		"category": 8,
+		"number": 1025,
+		"text": "Na zástavě krvácení z malých cév se podílí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "konstrikce cév",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "činnost krevních destiček",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "srážení krve",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vliv antitrombinu",
+				"correct": false
+			}
+		]
+	}
+]

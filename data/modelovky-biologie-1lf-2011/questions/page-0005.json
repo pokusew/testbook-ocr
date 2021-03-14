@@ -1,0 +1,578 @@
+[
+	{
+		"id": 28,
+		"category": 1,
+		"number": 28,
+		"text": "Prvé systémy živé přírody byly sestaveny:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v 18. století",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "koncem 17. století",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "počátkem 19. století",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "počátkem 20. století",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 29,
+		"category": 1,
+		"number": 29,
+		"text": "Studiem bakterií se zabýval:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Louis Pasteur",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Carl Linné",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "R. Koch",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "I. P. Pavlov",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 30,
+		"category": 1,
+		"number": 30,
+		"text": "První veřejnou anatomickou pitvu v Praze provedl:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "J. Procháska",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "J. E. Purkyně",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "J. Jesenský",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Arnošt z Pardubic",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 31,
+		"category": 1,
+		"number": 31,
+		"text": "Původce tuberkulózy objevil:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Robert Koch",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Louis Pasteur",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "I. I. Mečnikov",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "S. N. Vinogradskij",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 32,
+		"category": 1,
+		"number": 32,
+		"text": "Význam molekulární struktury DNK pro přenos dědičné informace objasnil:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "A. I. Oparin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Ch. Darwin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "J. G. Mendel",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 33,
+		"category": 1,
+		"number": 33,
+		"text": "Hippokrates žil v:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Egyptě",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Indii",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Řecku",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Itálii",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 34,
+		"category": 1,
+		"number": 34,
+		"text": "Buněčnou hmotu nazval protoplazmou jako první:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Aristoteles",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Andreas Vesalius",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Jesenius",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "J. E. Purkyně",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 35,
+		"category": 1,
+		"number": 35,
+		"text": "William Harvey:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "sestrojil mikroskop",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "objasnil krevní oběh člověka",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "odmítl teorii samoplození",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "objevil krevní skupiny",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 36,
+		"category": 1,
+		"number": 36,
+		"text": "Jedním ze zakladatelů paleontologie jako vědního oboru na přelom 18. a 19. století byl:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "německý zoolog E. Haeckel",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "švédský přírodovědec C. Linné",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "anglický přírodovědec Ch. R. Darwin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "francouzský přírodovědec G. Cuvier",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 37,
+		"category": 1,
+		"number": 37,
+		"text": "Tzv. základní biogenetický zákon stanovil:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "francouzský přírodovědec G. Cuvier",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "německý zoolog E. Haeckel",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "švédský přírodovědec C. Linné",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "anglický přírodovědec Ch. R. Darwin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 38,
+		"category": 1,
+		"number": 38,
+		"text": "Myšlenku o kataklyzmatech (obrovských katastrofách) vyslovil:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "francouzský přírodovědec G. Cuvier",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "švédský přírodovědec C. Linné",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "německý zoolog E. Haeckel",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "anglický přírodovědec Ch. R. Darwin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 39,
+		"category": 1,
+		"number": 39,
+		"text": "Průkaz určité alely u skupiny pacientů s určitým znakem častěji než b odpovídalo náhodě:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je označován jako asociace",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je hodnocen jako genová vazba",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je obvyklý u polygenní dědičnosti",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je typický pro izoláty",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 40,
+		"category": 1,
+		"number": 40,
+		"text": "Označení autosomální dědičnost značí, že znak:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je podmíněn trisomií autosomů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je podmíněn autoreprodukcí",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je podmíněn geny na autosomech",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je podmíněn mutacemi genů na autozomu X",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 41,
+		"category": 1,
+		"number": 41,
+		"text": "Matroklinní dědičnost:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "znamená vliv matky na vývoj plodu v průběhu těhotenství",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je podmíněna lokalizací genů na X chromosomu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je podmíněna lokalizací genů na chromosomech mitochondrií",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 42,
+		"category": 1,
+		"number": 42,
+		"text": "Výběrová manželství:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je pojem pro panmiktický výběr partnera",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "značí volbu partnera dle určitého znaku (např. výšky, IQ)",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mění frekvenci alel v genofondu populace",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mění rovnovážné zastoupení genotypů v populaci",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 43,
+		"category": 1,
+		"number": 43,
+		"text": "Dominantní dědičnost znaku:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "popsal J. E. Purkyně",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se manifestuje přenosem znaku z generace na generaci (tzv. vertikální dědičnost)",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je u člověka vzácným jevem",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se manifestuje vždy již po narození",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 44,
+		"category": 1,
+		"number": 44,
+		"text": "Kodominantní dědičnost:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nebyla u člověka popsána",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je typická např. pro alely A a B systému ABO",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je pojem pro vyjádření obou alel heterozygotů ve fenotypu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je typická pro dědičnosti antigenů",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 45,
+		"category": 1,
+		"number": 45,
+		"text": "Recesivní dědičnost:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je v lidské genetice výjimečná",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je pojem pro vyjádření znaku pouze u recesivních homozygotů",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je nejčastější typ dědičnosti monogenních chorob člověka",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je charakterizována genotypovým štěpným poměrem 1:2:1 v F2 generaci",
+				"correct": true
+			}
+		]
+	}
+]

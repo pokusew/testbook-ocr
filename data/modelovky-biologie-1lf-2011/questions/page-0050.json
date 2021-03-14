@@ -1,0 +1,578 @@
+[
+	{
+		"id": 812,
+		"category": 7,
+		"number": 812,
+		"text": "Blechy (Siphonaptera):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "patří mezi hmyz s proměnou dokonalou",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou druhotně bezkřídlé",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "sají krev savců a ptáků",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zahrnují druhy přenášející původce moru",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 813,
+		"category": 7,
+		"number": 813,
+		"text": "Nervová soustava u ploštěnců (Plathelminthes):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ještě neexistuje",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je difúzní",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je trubicová",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je tvořena objícnovým gangliem a podélnými pruhy bez ganglií",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 814,
+		"category": 7,
+		"number": 814,
+		"text": "U ploštěnců (Plathelminthes) nacházíme:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "trávicí soustavu s jediným otvorem pro příjem i vyvrhování",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "protonefridie",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "coelom",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "většinou oba typy pohlavních orgánů (hermafroditi)",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 815,
+		"category": 7,
+		"number": 815,
+		"text": "Vylučovací soustava ploštěnců je tvořena:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "malpighickými trubicemi",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "soustavou centralizovaných pulzujících vakuol",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kanálky ústícími na povrch těla, s plaménkovou buňkou na vnitřním konci",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "orgány typu protonefridií",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 816,
+		"category": 7,
+		"number": 816,
+		"text": "Mezi organely nálevníků (Ciliophora) patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "buněčná ústa, potravní vakuola a buněčná čiť",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "apikální komplex",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pulzující vakuola",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "makronukleus a mikronukleus",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 817,
+		"category": 7,
+		"number": 821,
+		"text": "Vyšší rostliny (Cormophytae) zahrnují:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kaprad'orosty",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nahosemenné rostliny",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "krytosemenné rostliny",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 818,
+		"category": 7,
+		"number": 822,
+		"text": "Žížala (Lumbricus):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "patří mezi máloštětinatce (Oligochaeta)",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je odděleného pohlaví (gonochorista)",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "cévní soustava je tvořena hřbetní a břišní cévou a spojkami",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "má jako krevní barvivo hemoglobin",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 819,
+		"category": 7,
+		"number": 823,
+		"text": "Měkkýši (Mollusca):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mají coelom",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vylučují nefridiemi",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mají všichni uzavřenou cévní soustavu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "množí se pohlavně i nepohlavně",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 820,
+		"category": 7,
+		"number": 824,
+		"text": "škeble rybničná (Anodonta cygnea):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "má na začátku trávicího ústrojí radulu sloužící ke strouhání potravy",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vyvíjí se přes larvu, která parazituje na rybách",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dýchá žábrami",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je v dospělosti připevněná k podkladu byssovými vlákny",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 821,
+		"category": 7,
+		"number": 825,
+		"text": "Plži (Gastropoda):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dýchají žábrami nebo plicním vakem",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mají všichni vytvořenou schránku (ulitu)",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jejich noha je tvořena hladkou svalovinou",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nervová soustava je tvořena několika páry ganglií",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 822,
+		"category": 7,
+		"number": 826,
+		"text": "Hlemýžď zahradní (Helix pomatia):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "má vytvořenou radulu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "má jeden pár tykadel",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "má pohárkové oči",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je hermafrodit s nepřímým vývojem",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 823,
+		"category": 7,
+		"number": 827,
+		"text": "Hlavonožci (Cephalopoda):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou odděleného pohlaví",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mají trubicovou nervovou soustavu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dýchají žábrami",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mají komorové oči podobné očím obratlovců",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 824,
+		"category": 7,
+		"number": 828,
+		"text": "Končetiny členovců (Arthropoda) jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "článkované",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "celistvé",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v podobě párovitých nečlánkovaných výrůstků (parapodií)",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "panožky (pseudopodie)",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 825,
+		"category": 7,
+		"number": 829,
+		"text": "Členovci (Arthropoda) mají:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "homonomní segmentaci",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "heteronomní segmentaci",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "článkované končetiny",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nečlánkované končetiny",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 826,
+		"category": 7,
+		"number": 817,
+		"text": "Mezoglea živočišný hub (Porifera) obsahuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jehlice tvořené CaCO3, SiO2, nebo sponginovou síť",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nervové buňky",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "archeocyty",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "svalové buňky",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 827,
+		"category": 7,
+		"number": 818,
+		"text": "Nervová soustava žahavců (Cnidaria):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "má jednu centrální nervovou uzlinu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "má difúzní charakter se dvěma centrálními nervovými uzlinami u přijímacíh a vyvrhovacího otvoru",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je typem difúzní – rozptýlené nervové soustavy",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je radiální",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 828,
+		"category": 7,
+		"number": 819,
+		"text": "Cévní soustava u kroužkovců (Annelida):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "není vytvořena",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je otevřená",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je uzavřená",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je propojena s tělní dutinou",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 829,
+		"category": 7,
+		"number": 820,
+		"text": "Máloštětinatci (Oligochaeta) dýchají:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žábrami",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "plícemi",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "celým povrchem těla",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "parapodiemi",
+				"correct": false
+			}
+		]
+	}
+]

@@ -1,0 +1,578 @@
+[
+	{
+		"id": 543,
+		"category": 6,
+		"number": 552,
+		"text": "Hemolymfa se vyskytuje u:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "obratlovců",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kroužkovců",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "měkkýšů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ostnokožců",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 544,
+		"category": 6,
+		"number": 553,
+		"text": "Bezjaderné erytrocyty nacházíme u:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ryb",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ptáků",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "savců",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "plazů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 545,
+		"category": 6,
+		"number": 554,
+		"text": "Okysličená krev se u savců nachází:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ve všech tepnách",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v pravé komoře",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v plicnici",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v levé předsíni srdce",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 546,
+		"category": 6,
+		"number": 555,
+		"text": "Odkysličená krev se u savců nachází:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v plicnici",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v plicních žilách",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v levé komoře srdce",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ve všech žilách",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 547,
+		"category": 6,
+		"number": 543,
+		"text": "Respirační kvocient je poměr mezi:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "množstvím vzduchu při maximálním vdechu a výdechu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "množstvím přijatého CO2 a vydaného 02",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "množstvím vydaného CO2 a přijatého 02",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "množství vzduchu při vdechu a výdechu v klidu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 548,
+		"category": 6,
+		"number": 544,
+		"text": "Při svalové práci na „kyslíkový dluh\":",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se oxiduje glukóza na kyselinu mléčnou",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se glukóza oxiduje na CO2 a H20",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se oxidují tuky na CO2 a H20",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se oxiduje glykogen na kyselinu máselnou",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 549,
+		"category": 6,
+		"number": 545,
+		"text": "Bazální metabolismus je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nejmenší množství energie potřebné k udržení života za přesně definovaných podmínek",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "výdej energie po přijetí potravy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "výdej energie při námaze",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "množství energie potřebné pro přeměnu tuků",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 550,
+		"category": 6,
+		"number": 546,
+		"text": "Mezi ektotermní živočichy patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "bezobratlí živočichové",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "živočichové s proměnlivou teplotou těla",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ptáci",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "netopýři",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 551,
+		"category": 6,
+		"number": 547,
+		"text": "U endotermních živočichů:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "tělesná teplota udržována mechanismy termoregulace",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "může teplota těla v průběhu dne kolísat",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je tělesná teplota udržována na určité výši nezávisle na změnách teploty okolí",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "může teplota ovlivnit změnu chování",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 552,
+		"category": 6,
+		"number": 548,
+		"text": "Teplotní jádro savců tvoří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vnitřní orgány a část hlubokých svalů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "periferní cévy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kůže",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "srst",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 553,
+		"category": 6,
+		"number": 549,
+		"text": "Rovnováha mezi výdejem tepla z těla a tvorbou tepla uvnitř těla se uskutečňuj mimo jiné:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "změnou prokrvení kůže",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "svalovým třesem",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "působením hormonů štítné žlázy",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zvýšeným metabolismem v hnědém tuku",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 554,
+		"category": 6,
+		"number": 550,
+		"text": "Termoregulace:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "udržuje rovnováhu mezi tvorbou tepla uvnitř a výdejem tepla z těla",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "udržuje stálou tělesnou teplotu v průběhu dne",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "udržuje stálou tělesnou teplotu v průběhu menstruačního cyklu žen",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "při snížení teploty okolního prostředí aktivuje produkci tepla ve svalech neb v hnědém tuku",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 555,
+		"category": 6,
+		"number": 556,
+		"text": "Protonefridie (plaménkové buňky):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se poprvé objevují u žahavců",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nalézáme u kroužkovců",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se poprvé objevují u ploštěnců",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nalézáme u měkkýšů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 556,
+		"category": 6,
+		"number": 557,
+		"text": "Do střeva vyúsťují:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Malpighiho žlázy",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "protonefridie",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nefridie",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "tykadlové žlázy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 557,
+		"category": 6,
+		"number": 558,
+		"text": "V kanálcích vylučovacích orgánů obratlovců je tekutina:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "z níž se nazpět vstřebávají některé látky",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "která se dále sytí bílkovinami",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "která se dále ředí vodou a je vyloučena jako moč",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "do níž se postupně aktivně filtruje glukóza a pasivně (osmoticky) též voda",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 558,
+		"category": 6,
+		"number": 559,
+		"text": "Hormonální regulace:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se poprvé objevuje u obratlovců",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se uplatňuje již u bezobratlých",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je u bezobratlých nahrazena nervovou regulací",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 559,
+		"category": 6,
+		"number": 560,
+		"text": "Štítná žláza se poprvé objevuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "u ptáků a savců",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "u obojživelníků",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "u plazů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "u ryb",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 560,
+		"category": 6,
+		"number": 551,
+		"text": "Vzdušnice:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "fungují bez oběhové soustavy",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "fungují v součinnosti s oběhovou soustavou",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zajišťují příjem kyslíku, ale ne jeho přenos k orgánům",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou pomocným dýchacím orgánem u ptáků",
+				"correct": false
+			}
+		]
+	}
+]

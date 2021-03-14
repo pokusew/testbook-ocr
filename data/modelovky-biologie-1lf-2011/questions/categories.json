@@ -1,0 +1,117 @@
+[
+	{
+		"id": 1,
+		"name": "ZÁKLADNÍ GENETICKÉ POJMY",
+		"numQuestions": 67
+	},
+	{
+		"id": 2,
+		"name": "GENETIKA",
+		"numQuestions": 81
+	},
+	{
+		"id": 3,
+		"name": "CYTOGENETIKA",
+		"numQuestions": 69
+	},
+	{
+		"id": 4,
+		"name": "MOLEKULÁRNÍ GENETIKA",
+		"numQuestions": 133
+	},
+	{
+		"id": 5,
+		"name": "POPULAČNÍ GENETIKA",
+		"numQuestions": 124
+	},
+	{
+		"id": 6,
+		"name": "OBECNÁ BIOLOGIE",
+		"numQuestions": 249
+	},
+	{
+		"id": 7,
+		"name": "SYSTEMATICKÁ BIOLOGIE",
+		"numQuestions": 230
+	},
+	{
+		"id": 8,
+		"name": "FYZIOLOGIE - KREV",
+		"numQuestions": 111
+	},
+	{
+		"id": 9,
+		"name": "FYZIOLOGIE - KREVNÍ OBĚH",
+		"numQuestions": 50
+	},
+	{
+		"id": 10,
+		"name": "FYZIOLOGIE - DÝCHACÍ SYSTÉM",
+		"numQuestions": 38
+	},
+	{
+		"id": 11,
+		"name": "FYZIOLOGIE - VÝŽIVA A METABOLISMUS",
+		"numQuestions": 26
+	},
+	{
+		"id": 12,
+		"name": "FYZIOLOGIE - TRÁVICÍ SYSTÉM",
+		"numQuestions": 40
+	},
+	{
+		"id": 13,
+		"name": "FYZIOLOGIE - VYLUČOVACÍ SOUSTAVA",
+		"numQuestions": 19
+	},
+	{
+		"id": 14,
+		"name": "FYZIOLOGIE - CENTRÁLNÍ NERVOVÝ SYSTÉM",
+		"numQuestions": 73
+	},
+	{
+		"id": 15,
+		"name": "FYZIOLOGIE - SMYSLY",
+		"numQuestions": 48
+	},
+	{
+		"id": 16,
+		"name": "FYZIOLOGIE - ŽLÁZY S VNITŘNÍ SEKRECÍ A REPRODUKČNÍ SYSTÉM",
+		"numQuestions": 88
+	},
+	{
+		"id": 17,
+		"name": "FYZIOLOGIE - TERMOREGULACE",
+		"numQuestions": 6
+	},
+	{
+		"id": 18,
+		"name": "FYZIOLOGIE - POJIVOVÝ SYSTÉM",
+		"numQuestions": 43
+	},
+	{
+		"id": 19,
+		"name": "FYZIOLOGIE - KŮŽE",
+		"numQuestions": 2
+	},
+	{
+		"id": 20,
+		"name": "ANATOMIE",
+		"numQuestions": 67
+	},
+	{
+		"id": 21,
+		"name": "LIDSKÉ CHOROBY A ZNAKY",
+		"numQuestions": 54
+	},
+	{
+		"id": 22,
+		"name": "EKOLOGIE",
+		"numQuestions": 67
+	},
+	{
+		"id": 23,
+		"name": "EVOLUCE",
+		"numQuestions": 45
+	}
+]

@@ -1,0 +1,578 @@
+[
+	{
+		"id": 866,
+		"category": 7,
+		"number": 866,
+		"text": "Mezi bezlebečné (Cephalochordata) patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "salpy",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "sumky",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kopinatci",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mihule",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 867,
+		"category": 7,
+		"number": 867,
+		"text": "Bezlebeční (Cephalochordata) mají:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "po celý život chordu dorsalis",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "po celý život trubicovou nervovou soustavu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "chordu dorsalis pouze v embryonálním období",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "uzavřený krevní oběh bez srdce",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 868,
+		"category": 7,
+		"number": 868,
+		"text": "Bezčelistnatci (Agnatha)patří mezi:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "druhoústé",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "bezlebečné",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "obratlovce",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "prvoústé",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 869,
+		"category": 7,
+		"number": 869,
+		"text": "Mihule potoční:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "má chordu dorsalis zachovanou po celý život",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "má párové končetiny",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "má nepřímý vývoj",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "patří mezi bezčelistnatce (Agnatha)",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 870,
+		"category": 7,
+		"number": 870,
+		"text": "Žraloci mají vnitřní kostru:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kostěnou",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "chrupavčitou",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "tvořenou chitinem",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "tvořenou dentinem",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 871,
+		"category": 7,
+		"number": 871,
+		"text": "Kapr obecný (Cyprinus carpio) má:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "srdce s jednou komorou a dvěma předsíněmi",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "srdce s jednou komorou a jednou předsíní",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "plakoidní šupiny",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "cykloidní šupiny",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 872,
+		"category": 7,
+		"number": 872,
+		"text": "Mezi bezčelistnatce (Agnatha) patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "rejnok",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mihule",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kopinatec",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vršenka",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 873,
+		"category": 7,
+		"number": 873,
+		"text": "Mezi paryby (Chondrichthyes) patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žralok",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "rejnok",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jeseter",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "úhoř",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 874,
+		"category": 7,
+		"number": 875,
+		"text": "Dýchání obojživelníků (Amphibia):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se děje u larev žábrami",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se děje u larev plícemi",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se děje u dospělých většinou plícemi",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "má ve všech vývojových stádiích významný podíl kožního dýchání",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 875,
+		"category": 7,
+		"number": 876,
+		"text": "Ocasatí obojživelníci (Caudata) jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mloci",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ještěrky",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "krokodýli",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "želvy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 876,
+		"category": 7,
+		"number": 877,
+		"text": "Plazi (Reptilia):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "neudržují stálou tělesnou teplotu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mají srdce složené ze dvou částí",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "udržují stálou tělesnou teplotu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "patří mezi prvoústé",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 877,
+		"category": 7,
+		"number": 878,
+		"text": "Žáby (Anura) mají:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "lebku připojenou k páteři dvěma kloubními hrboly",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "lebku připojenou k páteří jedním kloubním hrbolem",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "hrudní kost",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "střední ucho s jednou sluchovou kůstkou",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 878,
+		"category": 7,
+		"number": 879,
+		"text": "Krevní oběh obojživelníků (Amphibia) je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dvojí – tělní a plicní",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pouze velký",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pouze malý",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jednoduchý",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 879,
+		"category": 7,
+		"number": 180,
+		"text": "Plazi (Reptilia):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mají lebku připojenou k páteři jedním kloubem",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "všichni dýchají plícemi",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mají jednu srdeční komoru obsahující pouze odkysličenou krev",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "někteří kladou vejce do vody",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 880,
+		"category": 7,
+		"number": 881,
+		"text": "Do třídy plazi (Reptilia) patří řád:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mloci (Salamandridae)",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "haterie (Rhynchocephalia)",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "šupinati (Squamata)",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "želvy (Testudines)",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 881,
+		"category": 7,
+		"number": 882,
+		"text": "Hadi (Serpentes):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mají žebra na většině obratlů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mají redukované oba páry končetin",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mají významné kožní dýchání",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou u nás zastoupeni např. zmijí obecnou, užovkou obojkatou a slepýšem křehkým",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 882,
+		"category": 7,
+		"number": 883,
+		"text": "Krokodýli (Crocodilia):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nemají bránici",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mají zuby vklíněny v jamkách (alveolách)",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mají temenní oko",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mají srdce rozděleno na jednu předsíň a dvě komory",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 883,
+		"category": 7,
+		"number": 874,
+		"text": "V srdci ryby:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je krev okysličená",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je krev odkysličená",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se mísí krev odkysličená a okysličená",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je krev teplejší než je tělesná teplota",
+				"correct": false
+			}
+		]
+	}
+]

@@ -1,0 +1,578 @@
+[
+	{
+		"id": 1639,
+		"category": 22,
+		"number": 1639,
+		"text": "Ekosystém:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je soubor živočichů a neživé složky prostředí",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "může být malou částí biosféry, například les",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je systém otevřený z hlediska energie",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je vzájemný vztah živé složky s neživými faktory prostředí",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1640,
+		"category": 22,
+		"number": 1640,
+		"text": "Rozmezí podmínek prostředí, jimž se organismus může přizpůsobit stanov ekologickou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "sukcesi",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "expanzi organismu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "valenci (přizpůsobivost)",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "bilanci",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1641,
+		"category": 22,
+		"number": 1641,
+		"text": "Na vlastnosti prostředí můžeme usuzovat podle výskytu typických organism označovaných jako:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "predikátory",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "predátoři",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "bioindikátory",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kosmopolitní indikátorové organismy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1642,
+		"category": 22,
+		"number": 1642,
+		"text": "Bioindikátory mají:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "úzkou ekologickou valenci k některé podmínce prostředí",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zvýšenou rozpustnost v pitné vodě",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se dovedou přizpůsobovat velkému rozpětí podmínek prostředí",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "největší areál výskytu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1643,
+		"category": 22,
+		"number": 1643,
+		"text": "Příkladem glaciálních reliktů mohou být:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zmrzlé zbytky těl mamutů na Sibiři",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "některé druhy ještěrů na Jávě",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zbytky některých druhů rostlin v Krkonoších",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "některé druhy přesliček a plavuní ve stepích Afriky",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1644,
+		"category": 22,
+		"number": 1644,
+		"text": "Aktivita živočichů s proměnlivou teplotou těla je přímo závislá:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "na teplotě jejich okolí",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "na obsahu vody v buňkách",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "na nitrobuněčné přeměně škrobu v tuk",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "obsahu tuku v buňkách",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1645,
+		"category": 22,
+		"number": 1645,
+		"text": "V atmosféře rozlišujeme (směrem od zemského povrchu) tyto vrstvy:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "troposféra, stratosféra, ionosféra a exosféra",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "troposféra, stratosféra, endosféra a exosféra",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pedosféra, endosféra, stratosféra, ionosféra a exosféra",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "troposféra, ionosféra a stratosféra",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1646,
+		"category": 22,
+		"number": 1646,
+		"text": "Hustota populací organismů, které jsou na sobě potravně závislé:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kolísá ve vzájemné návaznosti s určitým časovým zpožděním",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je chráněna zákonem",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je bez kolísání",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je dána rozptylem",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1647,
+		"category": 22,
+		"number": 1647,
+		"text": "Biotický potenciál populace je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "regulován v tzv. červené knize",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "maximální reprodukční schopnost za nepříznivých podmínek",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "přirozené kolísání v hustotě populace",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "maximální reprodukční rychlost neomezená podmínkami prostředí",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1648,
+		"category": 22,
+		"number": 1648,
+		"text": "Jako kompetici označujeme vztah, kdy:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jeden druh zabydluje dvě niky",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mají dva druhy společného predátora",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dvě populace žijí souběžně a navzájem se neovlivňují",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se dva druhy vzájemně omezují",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1649,
+		"category": 22,
+		"number": 1649,
+		"text": "Ekologická nika je kromě prostoru, ve kterém druh žije, dána:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "preferencí heterozygotů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "exponenciálním růstem abiotických složek prostředí",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "postavením druhu vůči ostatním organismům",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "počtem druhů v ní žijící",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1650,
+		"category": 22,
+		"number": 1650,
+		"text": "Predátoři:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zmenšují celkovou velikost populace kořisti",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "likvidují celou populaci jiného druhu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "a jejich kořisti si navzájem konkurují",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žijí v symbióze s druhem, který je jejich kořistí",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1651,
+		"category": 22,
+		"number": 1651,
+		"text": "Člověk má v přírodě mezidruhový vztah:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "producenta",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "parazita",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "biotického potenciálu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "predátora",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1652,
+		"category": 22,
+		"number": 1652,
+		"text": "Uměle vytvořená společenstva jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "stabilní",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "druhově chudá",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "označovaná jako ekotony",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "příkladem ekologické sukcese",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1653,
+		"category": 22,
+		"number": 1653,
+		"text": "Rozlišujeme tři základní typy potravních řetězců:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pastevně kořistnický, rozkladný a parazitický",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "suchozemské, vodní a vzdušné",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "producenti, konzumenti a predátoři",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kořistný, pastevný a symbiotický",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1654,
+		"category": 22,
+		"number": 1654,
+		"text": "Mezi 6 makrobiogenních prvků patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "C,O, N, H, P, S",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Cu, 0, Pb, H, S",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "C,O, N, H, Ca, Na",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "C, O, N, H, Na, K",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1655,
+		"category": 22,
+		"number": 1655,
+		"text": "Neživotné (abiotické) faktory zevního prostředí jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "sluneční záření",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "teplota",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vlhkost ovzduší",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kyselost půdy",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1656,
+		"category": 22,
+		"number": 1656,
+		"text": "Životné (biotické) faktory zevního prostředí jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "trofické vztahy",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "působení organismů na sebe",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "teplota ovzduší",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "intensita slunečního záření",
+				"correct": false
+			}
+		]
+	}
+]

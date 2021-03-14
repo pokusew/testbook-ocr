@@ -1,0 +1,546 @@
+[
+	{
+		"id": 1675,
+		"category": 22,
+		"number": 1675,
+		"text": "Při koloběhu kyslíku:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se kyslík při fotosyntéze uvolňuje",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dýcháním se kyslík spotřebovává",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "obsah kyslíku ve vzduchu se spalováním látek snižuje",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná odpověď z ostatních není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1676,
+		"category": 22,
+		"number": 1676,
+		"text": "Při radioaktivním zamoření biosféry jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nejcitlivější savci včetně člověka",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nejméně citliví savci",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "rostliny odolnější než člověk",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "bakterie odolnější než rostliny",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1677,
+		"category": 22,
+		"number": 1677,
+		"text": "Blešivec (Gammarus pulex) funguje v přírodě jako:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "bioindikátor čistých vod",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "bioindikátor vod dobře okysličených",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "lapač radioaktivního záření",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná odpověď z ostatních není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1678,
+		"category": 22,
+		"number": 1678,
+		"text": "Jedinci tvořící populaci jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "stejně staří",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou na stejném ontogenetickém stupni",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou jedinci stejného druhu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "rozmístěni náhodně, rovnoměrně nebo shlukovitě",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1679,
+		"category": 22,
+		"number": 1679,
+		"text": "Mezi rozkladače (dekompozitory) v ekosystému patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "autotrofní organismy",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "bakterie, houby, plísně",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Lidé",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kvasinky",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1680,
+		"category": 22,
+		"number": 1683,
+		"text": "Mykorhiza je příkladem:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kooperace",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mutualismu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "komensalismu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "amensalismu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1681,
+		"category": 22,
+		"number": 1684,
+		"text": "Geologický útvar zvaný oligocén je částí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "třetihor",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "čtvrtohor",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "prvohor",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "druhohor",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1682,
+		"category": 22,
+		"number": 1685,
+		"text": "Geologický útvar pleistocén je částí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "čtvrtohor",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "prvohor",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "druhohor",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "třetihor",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1683,
+		"category": 22,
+		"number": 1686,
+		"text": "Geologický útvar křída je částí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "čtvrtohor",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "prvohor",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "druhohor",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "třetihor",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1684,
+		"category": 22,
+		"number": 1687,
+		"text": "V prvotní atmosféře Země chyběl:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kyslík",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dusík",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "oxid uhličitý",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "amoniak",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1685,
+		"category": 22,
+		"number": 1688,
+		"text": "Mitochondrie v eukaryotických buňkách vznikly:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "neogenezí",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "formováním protoplazmy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "symbiosou bakterií s předkem eukaryotní buňky",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "koacervací",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1686,
+		"category": 23,
+		"number": 1680,
+		"text": "Mikroevoluce:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zahrnuje změny probíhající v populacích patřících k témuž druhu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se projevuje i v relativně krátkém časovém úseku",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je vznik nových, většinou geneticky izolovaných druhů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je vznik taxonů vyšších než druh",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1687,
+		"category": 23,
+		"number": 1681,
+		"text": "Mutualismus jako mezidruhový vztah:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je zvyšování počtu mutací jednoho druhu jiným druhem",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se jinak nazývá amenzalismus",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je např. mykorrhiza",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se označuje jako symbiosa",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1688,
+		"category": 23,
+		"number": 1682,
+		"text": "Kompetice jako mezidruhový vztah:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je případem kooperace",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je příkladem komenzalismu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je např. mykorrhiza",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kdy oba druhy si vzájemně škodí",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1689,
+		"category": 23,
+		"number": 1689,
+		"text": "Chloroplasty v eukaryotických buňkách vznikly:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "symbiosou sinic při evoluci buňky",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "formováním protoplazmy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "neogenezí",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "koacervaci",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1690,
+		"category": 23,
+		"number": 1690,
+		"text": "Ch. Darwin považoval za hlavní faktor ovlivňující evoluci života:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mutace",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "přirozený výběr",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vývojové skoky",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "aktualistický princip",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1691,
+		"category": 23,
+		"number": 1691,
+		"text": "Zmlazení ekosystému je vyvoláno:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zhroucením staršího ekosystému",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vymřením jednoho druhu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "cyklickými změnami počasí",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "adaptivní radiací druhů",
+				"correct": false
+			}
+		]
+	}
+]

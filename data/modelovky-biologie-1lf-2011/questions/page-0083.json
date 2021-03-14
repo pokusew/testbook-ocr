@@ -1,0 +1,578 @@
+[
+	{
+		"id": 1395,
+		"category": 16,
+		"number": 1404,
+		"text": "Neurokrinie je schopnost:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "některých nervových buněk tvořit hormony",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nervových buněk vytvářet vzruchy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nervových buněk vytvářet vzájemná spojení",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nervových buněk metabolizovat lipidy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1396,
+		"category": 16,
+		"number": 1405,
+		"text": "Somatotropin se tvoří v:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "neurohypofýze",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hypotalamu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "adenohypofýze",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "buňkách kosterních svalů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1397,
+		"category": 16,
+		"number": 1406,
+		"text": "Prolaktin se tvoří v:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "adenohypofýze",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "neurohypofýze",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "hypotalamu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mléčné žláze",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1398,
+		"category": 16,
+		"number": 1407,
+		"text": "Kortikotropin se tvoří v:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "neurohypofýze",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hypotalamu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "adenohypofýze",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kůře nadledvin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1399,
+		"category": 16,
+		"number": 1395,
+		"text": "Hormony dřeně nadledvin:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mění průsvit cév a zvyšují činnost srdce",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mají vliv na hospodaření s vápníkem",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zasahují do přeměny živin, zejména bílkovin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou uvolňovány při stresové reakci",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1400,
+		"category": 16,
+		"number": 1396,
+		"text": "Varlata produkují:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "spermie",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "testosteron",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "aldosteron",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "humulín",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1401,
+		"category": 16,
+		"number": 1397,
+		"text": "Graafův folikl produkuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "estrogeny",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "progesteron",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "prolaktin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "oxytocin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1402,
+		"category": 16,
+		"number": 1398,
+		"text": "Žluté tělísko produkuje především:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "progesteron",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "estrogeny",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "prolaktin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "oxytocin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1403,
+		"category": 16,
+		"number": 1399,
+		"text": "Dospělý člověk má ochlupení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "druhotné (sekundární)",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "terciární",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "prvotní (primární)",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kvartérní",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1404,
+		"category": 16,
+		"number": 1400,
+		"text": "Ústředím hormonální regulace je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hypotalamus",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "přední lalok hypofýzy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zadní lalok hypofýzy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "epifýza",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1405,
+		"category": 16,
+		"number": 1401,
+		"text": "Přední lalok hypofýzy secernuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "somatotropin (STH)",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "lutropin (LTH)",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "progesteron",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "glukagon",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1406,
+		"category": 16,
+		"number": 1402,
+		"text": "Šišinka (epifýza) je součástí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mezimozku",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zadního mozku",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "podhrbolí",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mozečku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1407,
+		"category": 16,
+		"number": 1403,
+		"text": "Činnost většiny žláz s vnitřní sekrecí je řízena z:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "thalamu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hypotalamu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "bazálních ganglií",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mozečku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1408,
+		"category": 16,
+		"number": 1408,
+		"text": "Tyrotropin se tvoří v:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hypotalamu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "neurohypofýze",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "štítné žláze",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "adenohypofýze",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1409,
+		"category": 16,
+		"number": 1409,
+		"text": "Folitropin se tvoří v:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "neurohypofýze",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hypotalamu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "adenohypofýze",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ovariích",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1410,
+		"category": 16,
+		"number": 1410,
+		"text": "Prolaktin:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je tvořen mléčnou žlázou",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zastavuje laktaci",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zahajuje a udržuje laktaci",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "podporuje růst mléčné žlázy",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1411,
+		"category": 16,
+		"number": 1411,
+		"text": "Tyrotropin:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se tvoří ve štítné žláze",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "stimuluje tvorbu hormonů štítné žlázy",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "stimuluje růst buněk štítné žlázy",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "tlumí tvorbu hormonů ve štítné žláze",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1412,
+		"category": 16,
+		"number": 1412,
+		"text": "Oxytocin:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zesiluje stahy hladké svaloviny dělohy",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vyvolává kontrakci svaloviny ve stěně mlékovodů",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vyvolává kontrakce ve stěně aorty",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zvyšuje kontrakce kosterní svaloviny",
+				"correct": false
+			}
+		]
+	}
+]

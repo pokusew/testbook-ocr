@@ -1,0 +1,578 @@
+[
+	{
+		"id": 597,
+		"category": 6,
+		"number": 597,
+		"text": "Z hlediska vývoje značíme jako:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "monofyletické taxony prvoky",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "polyfyletické taxony ptáky a savce",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "monofyletické taxony ptáky a savce",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "polyfyletické taxony plazy a ptáky",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 598,
+		"category": 6,
+		"number": 598,
+		"text": "Homologické znaky (orgány) mají:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "stejný fylogenetický původ, ale funkce může být odlišná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "různý fylogenetický původ, ale funkce je stejná",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "stejný fylogenetický původ i funkci",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "stejný fylogenetický původ, ale funkce musí být odlišná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 599,
+		"category": 6,
+		"number": 599,
+		"text": "Analogické znaky:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mají různý původ, ale plní stejnou funkci u různých taxonů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou např. podobné chemické složení cytochromu u různých obratlovců",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou např. modifikace končetin u různých savců",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou pouze morfologické znaky",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 600,
+		"category": 6,
+		"number": 600,
+		"text": "Embryonální indukce je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "produkce jiných hormonů v těle matky v těhotenství",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vzájemné působení dvojvaječných dvojčat",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zprostředkována signálními molekulami; např. růstovými faktory",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jeden z mechanismů vyvolávající diferenciační genovou aktivitu buněk",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 601,
+		"category": 6,
+		"number": 601,
+		"text": "Embryonální indukce:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je vzájemné působení různých částí vyvíjejícího se zárodku na sebe",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vzájemné působení dvojčat na sebe",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "závisí na aktivaci membránových a jaderných receptorů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vzájemné působení plodu a matky",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 602,
+		"category": 6,
+		"number": 602,
+		"text": "Induktivní interakce:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je vzájemné ovlivňování buněk svými povrchovými molekulami",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "určuje časový sled vývojových dějů",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "závisí na aktivaci membránových a jaderných receptorů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "určují podélnou a hřbetní orientaci těla",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 603,
+		"category": 6,
+		"number": 603,
+		"text": "Homeotické geny:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou geny dávané do souvislosti s nádorovým bujením",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "u člověka stabilizují počty čtyř hlavních typů buněk v periferní krvi",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou u člověka soustředěny do čtyř homeoboxů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "hrají významnou roli v embryonálním vývoji (ontogenetickém) mnohobuněčnýc živočichů",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 604,
+		"category": 6,
+		"number": 606,
+		"text": "Nedostatek nezbytných aminokyselin v potravě u živočichů:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vyvolá chorobné změny, chybí-li úplně – smrt",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je neohrožuje, protože si je dovedou sami syntetizovat",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vyvolá změnu potravních návyků s přebytkem tuků, ze kterých mohou bý aminokyseliny nahrazeny",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zvýšenou sexuální aktivitu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 605,
+		"category": 6,
+		"number": 607,
+		"text": "Slokomocí živočichů na rozdíl od rostlin souvisí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "velká intenzita anabolických dějů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "velká intenzita katabolických dějů",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "snížená schopnost autotrofního způsobu výživy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zvýšená schopnost autotrofního způsobu výživy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 606,
+		"category": 6,
+		"number": 608,
+		"text": "Menší živočichové mají metabolismus (při přepočtu na jednotku hmotnosti těla relativně:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vyšší než větší živočichové",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nižší než větší živočichové",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "stejný jako větší živočichové",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nelze jednoznačně určit",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 607,
+		"category": 6,
+		"number": 609,
+		"text": "Závislost intenzity metabolismu na velikosti těla u živočichů se projevuje tak, že:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "menší živočichové mají relativně pomalejší růst",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "větší živočichové mají metabolismus relativně vyšší než živočichové menší",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "menší živočichové mají relativně nižší spotřebu potravy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "menší živočichové mají metabolismus relativně vyšší než živočichové větší",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 608,
+		"category": 6,
+		"number": 610,
+		"text": "Živočichové získávají energii:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "s naprostou převahou při anaerobních dějích",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "s naprostou převahou při aerobních dějích",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "především s využitím autotrofní výživy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "především s využitím CO2 jako dodavatele kyslíku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 609,
+		"category": 6,
+		"number": 611,
+		"text": "U býložravců je střevo v poměru k délce těla:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kratší než u masožravců",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "delší než u masožravců",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "přibližně ve stejném poměru jako u masožravců",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "přibližně ve stejném poměru jako u člověka",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 610,
+		"category": 6,
+		"number": 612,
+		"text": "Mezi obecné vlastnosti živých soustav patří schopnost:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "přeměny látek a energií (metabolismus)",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "odpovídat na podněty (dráždivost)",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "rozmnožování (reprodukce)",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vývoje (evoluce)",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 611,
+		"category": 6,
+		"number": 613,
+		"text": "Přímý zdroj energie pro svalový stah představuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "glukóza",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mastné kyseliny",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ATP",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kyselina mléčná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 612,
+		"category": 6,
+		"number": 614,
+		"text": "Nepostradatelné aminokyseliny:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "si organismus nedokáže sám vytvořit",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou přítomny jen v rostlinných bílkovinách",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "tvoří většinu z přijímaných aminokyselin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 613,
+		"category": 6,
+		"number": 604,
+		"text": "Prostorové uspořádání těla:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je řízeno aktivitou specifických proteinů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "určuje rotace vnější cytoplasmy proti vnitřnímu obsahu buňky",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "určuje místo vniknutí spermie do vajíčka",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "může být ovlivněno prostředím, v němž se genetický program uskutečňuje",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 614,
+		"category": 6,
+		"number": 605,
+		"text": "Neurální indukce:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "závisí na aktivitě hřbetního mesodermu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je řízena maternálními mRNA",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vyvolá vychlípení ektodermu a vznik podélných lišt",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "následně ovlivňuje přeměnu ektodermu na rohovku",
+				"correct": true
+			}
+		]
+	}
+]

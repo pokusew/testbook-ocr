@@ -1,0 +1,578 @@
+[
+	{
+		"id": 1463,
+		"category": 18,
+		"number": 1463,
+		"text": "Buňky hladké svaloviny nacházíme na příklad:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ve stěně dělohy",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v srdečním svalu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ve stěně žaludku",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ve stěně průdušek",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1464,
+		"category": 18,
+		"number": 1464,
+		"text": "Celkový počet hrudních obratlů je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "9",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "12",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "15",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "11",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1465,
+		"category": 18,
+		"number": 1465,
+		"text": "Celkový počet krčních obratlů je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "6",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "7",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "8",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "9",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1466,
+		"category": 18,
+		"number": 1466,
+		"text": "Společným znakem pro všechny dospělé savce je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "stejný počet krčních obratlů, tj. 7",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "stejný počet prstů na dolních končetinách",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "stejný počet zubů v horním zubním oblouku",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "stejný počet srdečních dutin, tj. 4",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1467,
+		"category": 18,
+		"number": 1467,
+		"text": "Okostice (periost):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pokrývá povrch kosti kromě kloubních ploch",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pokrývá povrch kosti včetně kloubních ploch",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "má významnou úlohu při hojení zlomenin",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je tvořena chrupavkou",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1468,
+		"category": 18,
+		"number": 1468,
+		"text": "Primární osifikační centrum dlouhých kostí se nachází v:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "metafýze",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "epifýze",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "apofýze",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "diafýze",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1469,
+		"category": 18,
+		"number": 1469,
+		"text": "Povrch kostí je pokryt:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kompaktou",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "okosticí",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "tuhým vazivovým obalem",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vazy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1470,
+		"category": 18,
+		"number": 1472,
+		"text": "Břišní svaly patří mezi pomocné svaly:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vdechové",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "výdechové",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "neúčastní se při dýchání",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vdechové, ale pouze v dětství",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1471,
+		"category": 18,
+		"number": 1473,
+		"text": "Sekundární osifikační centra dlouhých kostí se nachází:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v diafýze",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v epifýze",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v metafýze",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v apofýze",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1472,
+		"category": 18,
+		"number": 1474,
+		"text": "Achillova šlacha připojuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "trojhlavý lýtkový sval k hlezenní kosti",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "trojhlavý lýtkový sval k pánvi",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "čtyřhlavý stehenní sval k patní kosti",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "trojhlavý lýtkový sval k patní kosti",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1473,
+		"category": 18,
+		"number": 1475,
+		"text": "Kost radličná (vomer):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je součástí pánve",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je jednou z kostí zápěstí",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je součástí přepážky nosní",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je jednou z kostí nártu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1474,
+		"category": 18,
+		"number": 1476,
+		"text": "Kompaktní kost se skládá z různých typů:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "houbovité kostní tkáně",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "lamel",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kostních trámců",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "spirálně probíhajících cév",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1475,
+		"category": 18,
+		"number": 1477,
+		"text": "Styčné (kloubní) plochy kostí pokrývá:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "okostice",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "chrupavka",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vazivová membrána",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "hladká svalovina",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1476,
+		"category": 18,
+		"number": 1478,
+		"text": "Kloubní pouzdra jsou zesílena:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "chrupavkami",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "buňkami hladkého svalstva",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vazy",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pruhy tuhého vaziva",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1477,
+		"category": 18,
+		"number": 1470,
+		"text": "Dutiny dlouhých kostí vyplňuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nervová pleteň",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "chrupavčitá tkáň",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kostní dřeň",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "tkáňová tekutina",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1478,
+		"category": 18,
+		"number": 1471,
+		"text": "Čtyřhlavý sval stehenní (m. quadriceps femoris):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ohýbá kolenní kloub",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "natahuje kolenní kloub",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "natahuje kolení kloub, pomáhá při ohnutí v kyčli",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ohýbá koleno, natahuje kyčel",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1479,
+		"category": 18,
+		"number": 1479,
+		"text": "Uvnitř kloubní dutiny je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kloubní maz",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "tekutina sloužící výživě chrupavek",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "tekutina zmírňující tření",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "krevní plazma",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1480,
+		"category": 18,
+		"number": 1480,
+		"text": "Křížová kost vzniká srůstem:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pěti až šesti obratlů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "křížové a sedací kosti",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "křížové a kyčelní kosti",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "dvou kostí pánevních",
+				"correct": false
+			}
+		]
+	}
+]

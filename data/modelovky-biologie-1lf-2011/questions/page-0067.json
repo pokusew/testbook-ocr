@@ -1,0 +1,514 @@
+[
+	{
+		"id": 1115,
+		"category": 10,
+		"number": 1115,
+		"text": "Věnčité (koronární) tepny jsou větvemi:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "plicního kmene",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "aorty",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "hrudní aorty",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "společné krkavice",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1116,
+		"category": 10,
+		"number": 1116,
+		"text": "Vrátnice (v. portae) sbírá krev:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "z párových i nepárových orgánů dutiny břišní",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "z nepárových orgánů dutiny břišní",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "z párových orgánů dutiny břišní a z jater",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1117,
+		"category": 10,
+		"number": 1117,
+		"text": "Plicní žíly:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vedou krev ze srdce do plic",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vedou krev z plic do levé předsíně",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou zpravidla 4",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vedou krev z plic do levé komory",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1118,
+		"category": 10,
+		"number": 1118,
+		"text": "Krev z nepárových břišních orgánů odvádí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "horní dutá žíla",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dolní dutá žíla",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vrátnicová žíla",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "bederní žíla",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1119,
+		"category": 10,
+		"number": 1119,
+		"text": "Srdečnice (aorta) je céva začínající v:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "levé síni",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pravé komoře",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "levé komoře",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pravé síni",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1120,
+		"category": 10,
+		"number": 1120,
+		"text": "Aorta vede:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "okysličenou krev z pravé komory",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "neokysličenou krev z pravé komory",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "okysličenou krev z levé komory",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "neokysličenou krev z levé komory",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1121,
+		"category": 10,
+		"number": 1121,
+		"text": "Během fetálního vývoje jsou v krevním oběhu tyto zkraty:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ductus venosus (spojka mezi pupečníkovou žilou a dolní dutou žilou)",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ductus arteriosus (spojka mezi plicnicí a aortou)",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "foramen ovale, kterým proudí krev z levé do pravé síně",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "foramen ovale, kterým proudí krev z pravé do levé síně",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1122,
+		"category": 10,
+		"number": 1122,
+		"text": "Vrátnicová žíla je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "céva vyživující část tlustého střeva",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "céva odvádějící krev do jater výhradně ze střeva",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jaterní žíla drénující břišní úsek trávicí trubice",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "součást vrátníku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1123,
+		"category": 10,
+		"number": 1123,
+		"text": "U mužů převládá typ dýchání:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "břišní (abdominální)",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "žeberní (kostální)",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zevní",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vnitřní",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1124,
+		"category": 10,
+		"number": 1124,
+		"text": "Levá plíce má:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "3 laloky",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "4 laloky",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "2 laloky",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "5 laloků",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1125,
+		"category": 10,
+		"number": 1125,
+		"text": "Při klidném dýchání se vymění v plicích dospělého člověka za minutu přibližně.. litrů vzduchu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "7-8",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1,5-2",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "15-20",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1126,
+		"category": 10,
+		"number": 1126,
+		"text": "Spotřeba kyslíku v klidu za minutu u dospělého člověka je asi:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "250 ml",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "21",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "20 ml",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "81",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1127,
+		"category": 10,
+		"number": 1127,
+		"text": "Ve vzduchu v plicních sklípcích je ve srovnání s atmosférickým vzduchem:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "více CO2",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "množství CO2 nezměněno",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "méně CO2",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1128,
+		"category": 10,
+		"number": 1128,
+		"text": "Vnitřní dýchání:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je výměna 02 a CO2 mezi krví a tkáněmi difúzí",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se u savců uskutečňuje mezi alveolárním vzduchem a hustou sítí plicních vlásečnic",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je rozvádění dýchacích plynů mezi dýchacím ústrojím a tkáněmi",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je pravidelné střídání vdechů a výdechů, které není ovlivnitelné vůli",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1129,
+		"category": 10,
+		"number": 1129,
+		"text": "Ve vzduchu v plicních sklípcích je ve srovnání s atmosférickým vzduchem:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "méně O2",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "množství Oz nezměněno",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "stejně 02 a CO2",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1130,
+		"category": 10,
+		"number": 1130,
+		"text": "Ve vzduchu v plicních sklípcích je ve srovnání s atmosférickým vzduchem:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "množství CO2 nezměněno",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "méně CO2",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "stejně O2 a CO2",
+				"correct": false
+			}
+		]
+	}
+]

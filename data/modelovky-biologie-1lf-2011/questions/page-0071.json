@@ -1,0 +1,578 @@
+[
+	{
+		"id": 1183,
+		"category": 12,
+		"number": 1183,
+		"text": "Kompletní chrup dospělého člověka má celkem:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "36 zubů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "28 zubů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "32 zubů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "30 zubů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1184,
+		"category": 12,
+		"number": 1184,
+		"text": "Mezi hlavní součásti žaludeční šťávy patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "enzym trypsin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kyselina sírová",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "enzym amyláza",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kyselina chlorovodíková",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1185,
+		"category": 12,
+		"number": 1185,
+		"text": "Kyselina chlorovodíková v žaludku způsobuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "polymeraci aminokyselin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "depolymeraci aminokyselin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "koagulaci bílkovin",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "koagulaci lipidů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1186,
+		"category": 12,
+		"number": 1186,
+		"text": "Chymus je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "trávicí šťáva tvořená slinivkou břišní",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "trávicí šťáva tvořená v játrech",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "trávenina vznikající v tenkém střevě",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "trávenina vznikající v žaludku",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1187,
+		"category": 12,
+		"number": 1187,
+		"text": "Podstatou trávení je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zvyšování energie živin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "přeměna jednotlivých složek živin na tělu vlastní látky",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "polymerace bílkovinných řetězců",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1188,
+		"category": 12,
+		"number": 1188,
+		"text": "Lipidy jsou při trávení štěpeny na:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "micely",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "žlučové kyseliny",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "triacylglyceroly",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1189,
+		"category": 12,
+		"number": 1189,
+		"text": "Sliny obsahují enzym štěpící:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "bílkoviny",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "sacharózu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "glukózu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1190,
+		"category": 12,
+		"number": 1190,
+		"text": "Mléčný (dočasný) chrup se skládá:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "z řezáků, špičáků a stoliček",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "z řezáků, třenových zubů a stoliček",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pouze z řezáků a špičáků",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pouze z řezáků a třenových zubů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1191,
+		"category": 12,
+		"number": 1191,
+		"text": "Prořezávání mléčného chrupu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je ukončeno v 1. roce věku",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je ukončeno v 18. měsíci věku",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je ukončeno ve 24. měsíci věku",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pokračuje do konce 4. roku věku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1192,
+		"category": 12,
+		"number": 1192,
+		"text": "První zuby mléčného chrupu začínají prořezávat:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zpravidla ve 3. měsíci věku",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mezi 6.-8. měsícem věku",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kolem 12. měsíce věku",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kolem 10. měsíce věku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1193,
+		"category": 12,
+		"number": 1193,
+		"text": "Žaludeční šťáva obsahuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "gastrin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pepsinogen",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "glukagon",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ptyalin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1194,
+		"category": 12,
+		"number": 1194,
+		"text": "V játrech se tvoří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žluč",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "glykogen",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "insulin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pepsin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1195,
+		"category": 12,
+		"number": 1195,
+		"text": "Sliny jsou produkovány v dutině ústní:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pouze velkými slinnými žlázami",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "stále",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jejich aktuální rychlost tvorby se může výrazně měnit",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pouze při vyvolání podmíněného reflexu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1196,
+		"category": 12,
+		"number": 1196,
+		"text": "Vyhledejte odpověd'(i) obsahující alespoň dva pravdivé výroky:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "při polykání dochází k posunu sousta na kořen jazyka a také se zvedá měkké patro",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "při polykání dochází k posunu sousta na kořen jazyka a také se zvedá hrtan",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "polykání je reflexní děj během kterého pokračuje nádech (nebo výdech)",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "polykání je reflexní děj a od určitého okamžiku jej nelze vůlí zastavit",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1197,
+		"category": 12,
+		"number": 1197,
+		"text": "Sliny:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mohou štěpit všechny tuky",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mohou štěpit všechny bílkoviny",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mohou štěpit všechny polysacharidy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná z uvedených možností není správná",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1198,
+		"category": 12,
+		"number": 1198,
+		"text": "Žaludeční šťáva zajišťuje u dospělého člověka hlavně rozklad:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "sacharidů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "bílkovin",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "tuků",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vitamínů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1199,
+		"category": 12,
+		"number": 1199,
+		"text": "pH žaludeční šťávy:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "závisí na koncentraci H* v žaludeční šťávě",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "závisí na činnosti pankreatu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se může pohybovat pod hodnotou 2",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se může pohybovat nad hodnotou 7,5",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1200,
+		"category": 12,
+		"number": 1200,
+		"text": "Podněty pro tvorbu žaludeční šťávy jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nervové (bloudivým nervem)",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "chemické (přímým působením potravy)",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "podmíněně reflexní",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nepodmíněně reflexní",
+				"correct": true
+			}
+		]
+	}
+]

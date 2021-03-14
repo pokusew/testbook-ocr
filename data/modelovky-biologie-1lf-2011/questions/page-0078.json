@@ -1,0 +1,546 @@
+[
+	{
+		"id": 1307,
+		"category": 14,
+		"number": 1307,
+		"text": "Nervová tkáň člověka je složena pouze z:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nervů a jejich výběžků",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "neuroglie",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nervových a podpůrných buněk",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nervů a vazivových buněk",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1308,
+		"category": 14,
+		"number": 1308,
+		"text": "Čichový mozek je uložen v:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mezimozku",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "předním mozku",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "hypothalamu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "prodloužené míše",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1309,
+		"category": 14,
+		"number": 1309,
+		"text": "Zraková kůra je lokalizována:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ve frontálním laloku",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ve spánkovém laloku",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "na temeni hlavy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v okcipitálním laloku",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1310,
+		"category": 14,
+		"number": 1310,
+		"text": "Sluchová kůra je lokalizovaná:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v okcipitálním laloku",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ve spánkovém laloku",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "na temeni",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ve frontálním laloku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1311,
+		"category": 15,
+		"number": 1315,
+		"text": "Změna šíře zornice při osvitu oka umožňuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zaostřit obraz na sítnici",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "usměrnit dopad paprsků za sítnici",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "řídit úroveň osvětlení sítnice",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "usměrnit dopad paprsků před sítnici",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1312,
+		"category": 15,
+		"number": 1316,
+		"text": "Jestliže se obrázek předmětu tvoří před sítnicí, jde o:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "krátkozrakost",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dalekozrakost",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "astigmatismus",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "hypermetropii",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1313,
+		"category": 15,
+		"number": 1317,
+		"text": "Jestliže se obrázek předmětu tvoří až za sítnicí, jde o:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dalekozrakost",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "krátkozrakost",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "astigmatismus",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "myopii",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1314,
+		"category": 15,
+		"number": 1318,
+		"text": "Barevné vidění umožňují:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "čípky",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "tyčinky",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "slepá skvrna",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "sklivec",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1315,
+		"category": 15,
+		"number": 1319,
+		"text": "Barevné vidění umožňuje existence tří druhů čípků reagujících na barvu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "červenou, zelenou a modrou",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "červenou, zelenou a žlutou",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "modrou, zelenou a žlutou",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "červenou, modrou a bílou",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1316,
+		"category": 15,
+		"number": 1320,
+		"text": "Pod pojmem mióza rozumíme:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "rozšíření zornice",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "akomodaci čočky",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zúžení zornice",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zúžení čočky",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1317,
+		"category": 15,
+		"number": 1321,
+		"text": "Pod pojmem mydriáza rozumíme:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "rozšíření zornice",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "akomodaci čočky",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zúžení zornice",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zúžení čočky",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1318,
+		"category": 15,
+		"number": 1322,
+		"text": "Člověk slyší zvuk v rozsahu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "16 až 20 000 Hz",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "do 100 000 Hz",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "méně než 16 Hz",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "více než 20 000 Hz",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1319,
+		"category": 15,
+		"number": 1323,
+		"text": "Pro zrak má význam především vitamin:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "A",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "B",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "C",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "D",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1320,
+		"category": 15,
+		"number": 1311,
+		"text": "Mezi dálkové (distanční) receptory patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "smyslové buňky sítnice",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mechanoreceptory",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nociceptory",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vláskové buňky Cortiho orgánu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1321,
+		"category": 15,
+		"number": 1312,
+		"text": "Nejdůležitější informace pro udržení rovnováhy vycházejí ze:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "sluchového čidla",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zrakového čidla",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "čidel umístěných v kůži",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "statokinetického čidla",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1322,
+		"category": 15,
+		"number": 1313,
+		"text": "Na sítnici komorového oka se promítá obrázek:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "převrácený, zmenšený",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "přímý, zmenšený",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "převrácený, zvětšený",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "přímý, zvětšený",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1323,
+		"category": 15,
+		"number": 1314,
+		"text": "Sítnice v embryogenezi vzniká z:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "neuroektodermu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "entodermu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mezodermu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "čtvrtého zárodečného listu",
+				"correct": false
+			}
+		]
+	}
+]

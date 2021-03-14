@@ -1,0 +1,578 @@
+[
+	{
+		"id": 1097,
+		"category": 9,
+		"number": 1097,
+		"text": "Do pravé srdeční síně přitéká krev:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mající více oxidu uhličitého než je v krvi v levé síni",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mající méně kyslíku než je v krvi v levé síni",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mající více kyslíku než je v krvi v levé síni",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mající méně oxidu uhličitého než je v krvi v levé síni",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1098,
+		"category": 9,
+		"number": 1098,
+		"text": "Poloměsíčitá chlopeň brání zpětnému toku krve:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "do pravé síně",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "do pravé horní duté žíly",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "z aorty do levé komory",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "z plicnice do pravé komory",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1099,
+		"category": 9,
+		"number": 1099,
+		"text": "Trojcípá chlopeň je mezi:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "levou síní a levou komorou",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pravou síní a pravou komorou",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jpravou komorou a plicnicí",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "levou komorou a aortou",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1100,
+		"category": 9,
+		"number": 1100,
+		"text": "Dvojcípá chlopeň je mezi:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "levou síní a levou komorou",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pravou síní a pravou komorou",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "levou komorou a aortou",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pravou komorou a plicnicí",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1101,
+		"category": 9,
+		"number": 1101,
+		"text": "Součástí převodního systému srdce je (jsou):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "sinoatriální uzel",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "atrioventrikulární uzel",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "síñokomorový svazek (Hisův)",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Purkyňova vlákna",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1102,
+		"category": 9,
+		"number": 1102,
+		"text": "Činnost převodního systému lze charakterizovat:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "tvorbou vzruchů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "převodem vzruchů",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vyšším stupněm kontrakce než ostatní buňky srdce",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "převodem vzruchů z motorického nervového systému",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1103,
+		"category": 9,
+		"number": 1103,
+		"text": "Srdeční revoluce je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "systola levé a pravé síně",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "systola pravé síně a pravé komory",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "diastola levé síně a levé komory",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "cyklus systoly a diastoly síní a komor",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1104,
+		"category": 9,
+		"number": 1104,
+		"text": "Tepový objem u dospělého člověka v klidu je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "60-80 ml",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "51",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "500 ml",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "401",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1105,
+		"category": 9,
+		"number": 1106,
+		"text": "Na diastolické ozvě se podílí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "uzavření poloměsíčitých chlopní",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "uzavření cípatých chlopní",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "otevření cípatých chlopní",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "uzavření chlopní mezi pravou síní a horní dutou žilou",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1106,
+		"category": 9,
+		"number": 1107,
+		"text": "Kolaterální oběh dostatečně zásobí krví:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mozkovou tkáň",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "srdeční sval",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kosterní svaly",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "oční sítnici",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1107,
+		"category": 9,
+		"number": 1108,
+		"text": "U člověka je nejvyšší tlak krve v:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pravé síni",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kapilárách",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dolní duté žíle",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "aortë",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1108,
+		"category": 9,
+		"number": 1109,
+		"text": "Na návratu krve z dolních končetin do srdce se podílí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "činnost srdce",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "záporný nitrohrudní tlak",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kontrakce kosterního svalstva",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "přítomnost žilních chlopní",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1109,
+		"category": 9,
+		"number": 1110,
+		"text": "Snadnost přestupu látek přes kapilární stěnu je dána hlavně:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vysokým tlakem krve",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "rychlým proudem krve",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "velkým průsvitem kapilár",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "stavbou stěny kapilár",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1110,
+		"category": 9,
+		"number": 1111,
+		"text": "V srdci jsou poloměsíčité chlopně:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v místě odstupu srdečnice (aorty) a plicního kmene",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mezi síněmi a komorami",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v ústí horní a dolní duté žíly",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v ústí plicních žil",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1111,
+		"category": 9,
+		"number": 1112,
+		"text": "Okysličená krev přítéká z plic do:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "levé síně",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "levé komory",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pravé komory",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pravé síně",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1112,
+		"category": 9,
+		"number": 1113,
+		"text": "V srdci jsou cípaté chlopně:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v komorové přepážce",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mezi síněmi a komorami",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v místě odstupu věnčitých tepen",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v ústí dolní duté žíly",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1113,
+		"category": 9,
+		"number": 1114,
+		"text": "Srdeční chlopně:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zabraňují zpětnému toku krve",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "přivádějí elektrické vzruchy do svaloviny komor",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zabraňují zpětnému toku pouze odkysličené krve",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zabraňují zpětnému toku pouze okysličené krve",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1114,
+		"category": 9,
+		"number": 1105,
+		"text": "Na systolické ozvě se podílí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "uzávěr poloměsíčitých chlopní",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "otevření cípatých chlopní",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "uzavření cípatých chlopní",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "uzavření chlopní mezi pravou síní a horní dutou žilou",
+				"correct": false
+			}
+		]
+	}
+]

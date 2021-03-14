@@ -1,0 +1,578 @@
+[
+	{
+		"id": 1377,
+		"category": 16,
+		"number": 1386,
+		"text": "Tvorba hormonů štítné žlázy je závislá na přívodu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jódu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "železa",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kobaltu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "draslíku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1378,
+		"category": 16,
+		"number": 1377,
+		"text": "Která z uvedených tkání se nepodílí na řízení plazmatické hladiny vápníku:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ledviny",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "slezina",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "střevo",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "plíce",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1379,
+		"category": 16,
+		"number": 1378,
+		"text": "Uvolnění vajíčka (ovulace) nastává u ženy zpravidla:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "14. den po začátku menstruačního krvácení",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "24. den po začátku menstruačního krvácení",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "28. den po začátku menstruačního krvácení",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ihned po skončení menstruačního krvácení",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1380,
+		"category": 16,
+		"number": 1379,
+		"text": "Placenta:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je zdrojem hormonů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "není zdrojem hormonů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ovlivňuje činnost semenných váčků",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1381,
+		"category": 16,
+		"number": 1380,
+		"text": "Hormony estrogeny se tvoří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ve zrajícím folikulu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v semenných váčcích",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v předním laloku hypofýzy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v děložní sliznici",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1382,
+		"category": 16,
+		"number": 1381,
+		"text": "Testosteron je hormon:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "varlat",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vaječníků",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "předního laloku hypofýzy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "dřeně nadledvin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1383,
+		"category": 16,
+		"number": 1382,
+		"text": "Výměna vápníku v lidském organismu je řízena hormonem:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "příštítných tělísek",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "předního laloku hypofýzy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kůry nadledvin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "prolaktinem",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1384,
+		"category": 16,
+		"number": 1383,
+		"text": "Vývoj lidského jedince v děloze trvá průměrně:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "270 dní",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "250 dní",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "300 dní",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "290 dní",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1385,
+		"category": 16,
+		"number": 1387,
+		"text": "Žluté tělísko vznika:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "z prasklého folikulu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v klimakteriu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "účinkem prolaktinu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1386,
+		"category": 16,
+		"number": 1388,
+		"text": "Ovulační cyklus probíhá v:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "adenohypofýze",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hypotalamu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "děložní sliznici",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ovariích",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1387,
+		"category": 16,
+		"number": 1389,
+		"text": "Mezi druhotné pohlavní znaky ženy patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "rozvoj mléčných žláz",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "růst dělohy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "růst vejcovodů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vývoj folikulu ve vaječnících",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1388,
+		"category": 16,
+		"number": 1390,
+		"text": "Při stresových stavech se nejprve mobilizují hormony:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nadledvin",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zadního laloku hypofýzy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "štítné žlázy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Langerhansových ostrůvků",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1389,
+		"category": 16,
+		"number": 1391,
+		"text": "Přední lalok hypofýzy podléhá řídícímu vlivu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hypothalamu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "středního mozku",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "thalamu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1390,
+		"category": 16,
+		"number": 1392,
+		"text": "Hormony dřeně nadledvin:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mají vliv na hospodaření s vápníkem",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zasahují do přeměny živin, zejména bílkovin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ovlivňují hospodaření se sodíkem a draslíkem",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1391,
+		"category": 16,
+		"number": 1393,
+		"text": "Tvorba hormonů štítné žlázy je závislá na přívodu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "železa",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kobaltu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "draslíku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1392,
+		"category": 16,
+		"number": 1394,
+		"text": "Žluté tělísko vzniká:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v klimakteriu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "účinkem prolaktinu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "z buněk středu oční sítnice",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1393,
+		"category": 16,
+		"number": 1384,
+		"text": "Růstový hormon se u člověka tvoří v:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "předním laloku hypofýzy",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mezimozku",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "hypothalamu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zadním laloku hypofýzy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1394,
+		"category": 16,
+		"number": 1385,
+		"text": "Mezi druhotné pohlavní znaky muže patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "růst vousů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "rozvoj prostaty",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "rozvoj semenných váčků",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "růst vazivových buněk varlat",
+				"correct": false
+			}
+		]
+	}
+]

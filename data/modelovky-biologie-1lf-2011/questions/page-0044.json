@@ -1,0 +1,578 @@
+[
+	{
+		"id": 705,
+		"category": 6,
+		"number": 705,
+		"text": "Mezi makroergické sloučeniny patří především:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "glukózo-6-fosfát",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "glykogen",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ATP",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nukleové kyseliny",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 706,
+		"category": 6,
+		"number": 706,
+		"text": "Při úplné oxidaci 1 molekuly glukózy může vzniknout přibližně",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "3 molekuly ATP",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "30 molekul ATP",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "300 molekul ATP",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "více než 300 molekul ATP",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 707,
+		"category": 6,
+		"number": 707,
+		"text": "Přenašeče elektronů při aerobní respiraci jsou v buňkách eukaryot vestavěny do:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "membrány mitochondrií",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "cytoplasmatické membrány",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jaderné membrány",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "membrány endoplasmatického retikula",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 708,
+		"category": 6,
+		"number": 708,
+		"text": "Malé ionty a molekuly mohou být transportovány přes lipoproteinov membrány:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "prostou difúzí",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zprostředkovanou difúzí",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pomocí přenašečů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "i proti koncentračnímu spádu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 709,
+		"category": 6,
+		"number": 709,
+		"text": "Buňky se vzájemně rozeznávají na základě:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "protilátek buněčné membrány",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "antigenních vlastností buněčné membrány",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vlastností lipidové dvojvrstvy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "receptorů buněčného jádra",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 710,
+		"category": 6,
+		"number": 710,
+		"text": "Mikrotubuly a mikrofilamenta v eukaryotní buňce:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou složeny z bílkovinných molekul",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou souborem vláknitých struktur glykoproteinových a lipoproteinových",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se podílejí na průběhu mitózy",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se podílejí na průběhu meiózy",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 711,
+		"category": 6,
+		"number": 711,
+		"text": "Lyzogenní cyklus bakteriofága:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je typický pro mírné fágy",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je typický pro virulentní fágy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je charakterizován vznikem profága",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 712,
+		"category": 6,
+		"number": 712,
+		"text": "V genetice bakterií označujeme pojmem:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "transformace vniknutí volné samostatné DNA do recipientní buňky",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "transformace přestup plazmidu nesoucího informaci o resistenci k antibiotiků z buňky donorové do recipientní",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "transdukce vniknutí volné samostatné molekuly DNA do recipientní buňky",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "transdukce přestup konjugativního plazmidu z buňky donorové do recipientní",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 713,
+		"category": 6,
+		"number": 713,
+		"text": "Při transdukci u bakterií může být přenesen(a):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jak fragment chromosomální tak plazmidové DNA",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pouze plazmidové DNA a nikoliv chromosomální",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pouze chromosomální DNA a nikoliv plazmidové",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pouze plazmidové RNA",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 714,
+		"category": 6,
+		"number": 714,
+		"text": "Kmeny bakterií produkující lidský inzulín:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "byly získány genetickou modifikací",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "byly vyšlechtěny řízenými mutacemi",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "byly získány z přírodních mutant",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vznikly vnesením lidského genu, který byl naklonován v expresním vektoru",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 715,
+		"category": 6,
+		"number": 715,
+		"text": "Opakovaným příbuzenským křížením rostlin vznikají:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "klony",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "čisté linie",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kultivary",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pouze dominantní homozygoti",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 716,
+		"category": 6,
+		"number": 716,
+		"text": "Regenerace:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je obnova některých typů buněk množením",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je změna jednoho buněčného typu v jiný",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je schopnost oddělit část těla",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se účastní tkáňové kmenové buňky",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 717,
+		"category": 6,
+		"number": 717,
+		"text": "U bakterií existuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "parasexuální rekombinace",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "rekombinace DNA obdobná crossing-overu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "přenos molekuly DNA bez kontaktu dvou bakterií",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pouze nepohlavní způsoby rozmnožování",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 718,
+		"category": 6,
+		"number": 718,
+		"text": "Plazmidy:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou vhodnými vektory při klonování lidské DNA",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mohou podmiňovat vznik odolnosti současně k několika různým antibiotikům",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mohou obsahovat cizorodou DNA",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zajišťují matroklinitu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 719,
+		"category": 6,
+		"number": 719,
+		"text": "Plazmidy:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mohou být využity pro syntézu produktů cizích genů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou využívány jako klonovací vektory",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "izolovaná DNA plasmidu může být linearizovaná",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mají zásadní význam pro existenci bakterie",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 720,
+		"category": 6,
+		"number": 720,
+		"text": "Chromosomy prokaryot:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "tvoří jedna molekula kruhové dvouvláknové DNA",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "tvoří jedna molekula kruhové jednovláknové DNA",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou uloženy v prokaryotickém jádře (nukleoidu)",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou tvořeny cDNA",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 721,
+		"category": 6,
+		"number": 721,
+		"text": "Kmeny bakterií, produkující lidský růstový hormon:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mají rekombinantní plasmidovou DNA",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "obsahují primární strukturu lidské DNA",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vznikly samovolně v bakteriálních koloniích",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou příkladem transformace bakteriální buňky lidskou DNA",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 722,
+		"category": 6,
+		"number": 722,
+		"text": "Diferenciace buněk:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "souvisí s naprogramováním jaderného genomu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "závisí na postupné aktivaci nebo blokádě skupin genů",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je zahájena v zygotě",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je v dané buněčné linii stálá a dědičná",
+				"correct": true
+			}
+		]
+	}
+]

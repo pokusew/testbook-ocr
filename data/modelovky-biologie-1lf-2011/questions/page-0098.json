@@ -1,0 +1,578 @@
+[
+	{
+		"id": 1657,
+		"category": 22,
+		"number": 1666,
+		"text": "Příkladem parazitů jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "motolice jaterní",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "podbílek šupinatý",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "lidé",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "rzi",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1658,
+		"category": 22,
+		"number": 1657,
+		"text": "Přímé biotické vlivy zevního prostředí se projevují např.:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jako změna intensity slunečního záření",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "přímými, cílenými zásahy člověka do přírody",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "okusováním rostlin býložravci",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "požíráním jednoho organismu druhým",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1659,
+		"category": 22,
+		"number": 1658,
+		"text": "Ekologická valence je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dána rozsahem podmínek, kterým se organismus dokáže přizpůsobit",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pro různé druhy daného biotopu stejná",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "široká pro stenoekní druhy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "široká pro euryekní druhy",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1660,
+		"category": 22,
+		"number": 1659,
+		"text": "Euryekní druhy:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mají širokou přizpůsobivost podmínkám biotopu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou málo přizpůsobeny podmínkám biotopu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mají menší plochu rozšíření než stenoekní druhy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mají větší plochu rozšíření než stenoekní druhy",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1661,
+		"category": 22,
+		"number": 1660,
+		"text": "Koncentrace oxidu uhličitého ve vzduchu je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "stálá",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "asi 0,034 %",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v současné době stoupá",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je vyšší než koncentrace kyslíku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1662,
+		"category": 22,
+		"number": 1661,
+		"text": "U živočichů se voda vylučuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pouze pocením a dýcháním",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pouze pocením",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "také močí a výkaly",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pocením, dýcháním, močí a výkaly",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1663,
+		"category": 22,
+		"number": 1662,
+		"text": "Růst populace je ovlivňován:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "natalitou",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mortalitou",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "stěhováním",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná odpověď z ostatních není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1664,
+		"category": 22,
+		"number": 1663,
+		"text": "Mortalita (úmrtnost) je ovlivněna:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nepříznivými abiotickými faktory",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "biotickými vztahy mezi organismy",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vnitrodruhovou konkurencí mezi jedinci téže populace",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná odpověď z ostatních není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1665,
+		"category": 22,
+		"number": 1664,
+		"text": "Migralita (stěhování):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mění hustotu populace",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se může projevovat jako imigrace",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se může projevovat jako emigrace",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "může mít sezónní variabilitu v intenzitě",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1666,
+		"category": 22,
+		"number": 1665,
+		"text": "Mezidruhové vztahy (interakce) mohou být:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "výsledkem společné evoluce v jedné biocenoze",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vzájemně prospěšné",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vzájemně neutrální",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jednostranně výhodné pro jednu populaci",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1667,
+		"category": 22,
+		"number": 1667,
+		"text": "Příkladem symbiózy je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "predace",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "parazitizmus",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vztah mezi rakem poustevníkem a sasankou",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vztah hlízkovitých bakterií a kořenů bobovitých rostlin",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1668,
+		"category": 22,
+		"number": 1668,
+		"text": "Ekosystém:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je základní funkční jednotkou v přírodě",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je otevřený systém",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je např. biosféra Země",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná odpověď z ostatních není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1669,
+		"category": 22,
+		"number": 1669,
+		"text": "Ekosystémem je např.:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "tropický deštný les",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "rašeliniště",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pole, městský park",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "halda",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1670,
+		"category": 22,
+		"number": 1670,
+		"text": "Mezi složky ekosystému patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "prostředí ekosystému",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "konsumenti",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "producenti",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "dekompositoři",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1671,
+		"category": 22,
+		"number": 1671,
+		"text": "V ekosystému představují konsumenty např.:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "autotrofní organismy",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "heterotrofni organismy",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "býložravci",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "masožravci",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1672,
+		"category": 22,
+		"number": 1672,
+		"text": "Do pastevně kořistnického potravního řetězce patří např.:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zelené autotrofní rostliny",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "býložravci",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "masožravci",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "všežravci",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1673,
+		"category": 22,
+		"number": 1673,
+		"text": "V potravních řetězcích ekosystému:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je tok energie jednosměrný",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "koloběh látek probíhá v kruhu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "přibývá organické hmoty dýcháním",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je organická hmota odbourávána při látkové výměně",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1674,
+		"category": 22,
+		"number": 1674,
+		"text": "Při koloběhu uhlíku:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je uhlík ve formě CO2 zpracován zelenými rostlinami při fotosyntéze",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je organicky vázaný CO2 prodýchán organismy",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "výměna CO2 mezi vodou a ovzduším se děje difúzí",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "CO2 uniká do ovzduší ze siřičitanů",
+				"correct": false
+			}
+		]
+	}
+]

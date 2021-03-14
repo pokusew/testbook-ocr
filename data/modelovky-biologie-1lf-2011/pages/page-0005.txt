@@ -1,5 +1,5 @@
 28. Prvé systémy živé přírody byly sestaveny:
-A v 18. století
+A) v 18. století
 b) koncem 17. století
 c) počátkem 19. století
 d) počátkem 20. století
@@ -29,7 +29,7 @@ b) Indii
 C) Řecku
 d) Itálii
 34. Buněčnou hmotu nazval protoplazmou jako první:
-a Aristoteles
+a) Aristoteles
 b) Andreas Vesalius
 c) Jesenius
 D) J. E. Purkyně
@@ -39,7 +39,8 @@ B) objasnil krevní oběh člověka
 C) odmítl teorii samoplození
 d) objevil krevní skupiny
 36. Jedním ze zakladatelů paleontologie jako vědního oboru na přelomu
-18. a 19. století byl:
+### the spaces fix parsing
+    18. a 19. století byl:
 a) německý zoolog E. Haeckel
 b) švédský přírodovědec C. Linné
 c) anglický přírodovědec Ch. R. Darwin

@@ -1,0 +1,578 @@
+[
+	{
+		"id": 130,
+		"category": 2,
+		"number": 139,
+		"text": "Má-li matka krevní skupinu 0 a otec rovněž 0, mohou mít děti krevní skupinu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "O",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "OaA",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "0, A, AB",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "0, A, AB, B",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 131,
+		"category": 2,
+		"number": 130,
+		"text": "Při úplné dominanci odhadujeme relativní četnost recesivní alely v populaci:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "odmocněním relativní četnosti heterozygotů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "odmocněním relativní četnosti dominantních homozygotů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "odmocněním relativní četnosti recesivních homozygotů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "výpočtem kubickou rovnicí",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 132,
+		"category": 2,
+		"number": 131,
+		"text": "Příbuzenské křížení v populaci má za následek:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "změnu genových frekvencí",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vzestup počtu heterozygotů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pokles četnosti heterozygotů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "snížení počtu recesivních homozygotů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 133,
+		"category": 2,
+		"number": 132,
+		"text": "Genetické riziko příbuzenských sňatků spočívá:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v efektu heterosy",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ve zvýšené pravděpodobnosti narození recesivních homozygotů",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ve zvyšování počtu dominantních alel v populaci",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ve zvýšené pravděpodobnosti narození heterozygotů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 134,
+		"category": 2,
+		"number": 133,
+		"text": "Heterosa:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se používá ve šlechtitelství",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je značně nebezpečná pro chovy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se uplatňuje u příbuzenských sňatků",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zvyšuje počet dominantních homozygotů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 135,
+		"category": 2,
+		"number": 134,
+		"text": "Polyploidizace:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se uplatňuje u příbuzenských sňatků",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je ve šlechtitelství značně nebezpečná",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se používá v rostlinném šlechtitelství",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zvyšuje počet dominantních homozygotů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 136,
+		"category": 2,
+		"number": 135,
+		"text": "Mozaika je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "organismus tvořený směsí buněk téhož druhu s různou genetickou výbavou",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jedinec s karyotypem 45,X",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "buňka se dvěma jádry",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "organismus, který má jak mužské tak ženské pohlavní orgány",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 137,
+		"category": 2,
+		"number": 136,
+		"text": "Eugenika:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je snaha o zrovnoprávnění genetiky",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je věda o zlepšení genetického složení lidské populace",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se opírá o léčení dědičných chorob",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "přináší zlepšení fenotypu jedinců",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 138,
+		"category": 2,
+		"number": 137,
+		"text": "Léčení osob postižených dědičnými chorobami:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zlepšuje genofond populace",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zmenšuje frekvenci mutantních alele",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ovlivňuje positivně genotyp léčených osob",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ovlivňuje positivně fenotyp léčených osob",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 139,
+		"category": 2,
+		"number": 138,
+		"text": "Vnitrodruhová variabilita:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je zakódována v genotypu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je podmíněna pouze vlivem prostředí",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je vyvolána pouze indukovanými mutacemi",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je též nazývána modifikace",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 140,
+		"category": 2,
+		"number": 140,
+		"text": "Má-li matka krevní skupinu AB a otec AB:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mohou mít děti krevní skupinu A",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mohou mít děti krevní skupinu B",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mohou mít děti krevní skupinu AB",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pravděpodobnost narození dítěte s krevní skupinou A i B je stejná",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 141,
+		"category": 2,
+		"number": 141,
+		"text": "Má-li dítě krevní skupinu A, mohl otec mít:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "krevní skupinu 0",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "krevní skupinu B",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "krevní skupinu AB",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "krevní skupinu A",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 142,
+		"category": 2,
+		"number": 142,
+		"text": "Vztah alel A a B pro krevní skupinu systému ABO je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kodominance",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dominance",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "recesivita",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "superdominance",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 143,
+		"category": 2,
+		"number": 143,
+		"text": "V případě lokalizace genů A a B na různých chromosomech, tvoří jedine s genotypem AaBb:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "gametu nesoucí gen A i B",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "gamety nesoucí gen Aia",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "gametu nesoucí gen A i b",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "gametu nesoucí gen a i B",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 144,
+		"category": 2,
+		"number": 144,
+		"text": "Vazba genů může změnit:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "funkci genů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "poměr fenotypů při zpětném křížení u monohybridizmu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "poměr fenotypů při zpětném křížení u dihybridizmu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "poměry fenotypů v F2 generaci i u monohybridizmu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 145,
+		"category": 2,
+		"number": 145,
+		"text": "Vazbová skupina genů je tvořena pouze geny:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se společnou funkcí",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "původu mateřského",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se společnou regulací",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 146,
+		"category": 2,
+		"number": 146,
+		"text": "Pří křížení bělookého samečka octomilky s červenookou homozygotní samičko dostaneme:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "všechno potomstvo červenooké",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "červenooké samečky a bělooké samičky",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "bělooké samičky a červenooké samečky",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "polovinu potomků bělookých a polovinu červenookých bez ohledu na pohlaví",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 147,
+		"category": 2,
+		"number": 147,
+		"text": "Při křížení červenookého samečka octomilky s bělookou samičkou dostaneme:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "všechno potomstvo červenooké",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "bělooké samečky a červenooké samičky",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "červenooké samečky a bělooké samičky",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "polovinu potomků bělookých a polovinu červenookých",
+				"correct": true
+			}
+		]
+	}
+]

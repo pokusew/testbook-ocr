@@ -1,0 +1,514 @@
+[
+	{
+		"id": 288,
+		"category": 4,
+		"number": 288,
+		"text": "V genetickém kódu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "61 tripletů kóduje celkem 20 aminokyselin nutných pro výstavbu proteinů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zúčastněné báze vytvářejí celkem 20 různých trojic, nutných pro zařazení aminokyseli do vznikajícího peptidového řetězce",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "tři trojice nukleotidů (UAG, UAA nebo UGA) ukončují translaci peptidového řetězce",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná z uvedených alternativ není správná.",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 289,
+		"category": 4,
+		"number": 289,
+		"text": "Kodon UUU kóduje aminokyselinu fenylalanin u člověka, drosofily, kukuřice E. coli a ředkvičky. To dokládá, že genetický kód je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "degenerovaný",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nepřesahující",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "universální",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nespecifický",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 290,
+		"category": 4,
+		"number": 290,
+		"text": "Degenerace genetického kódu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vzniká v důsledku znehodnocení genetické informace",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "znamená, že jeden kodon může určovat zařazení několika různých aminokyselin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je chybný přepis genetické informace z DNA do mRNA",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "znamená, že zařazení některých aminokyselin je určováno větším počtem různýc kodonů",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 291,
+		"category": 4,
+		"number": 291,
+		"text": "Které tvrzení nejlépe charakterizuje genetický kód:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je identický pro syntézu proteinů v jádře i mitochondriích",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je překládán do aminokyselinových sekvencí pomocí RNA polymerasy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "počet kodonů a aminokyselin si odpovídá",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je tvořen triplety o třech nukleotidových bazích",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 292,
+		"category": 4,
+		"number": 292,
+		"text": "V genetickém kódu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je řada aminokyselin alternativně kódována více než jedním tripletem (dvěma až šesti).",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jednotlivých savčích druhů jsou určité významové odchylky.",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kvasinek a v tom, který používají obratlovci, jsou zásadní významové odchylky.",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mitochondriální DNA jsou určité významové odchylky od kódu jaderné DNA.",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 293,
+		"category": 4,
+		"number": 293,
+		"text": "Iniciační kodon molekuly mRNA je v buňkách eukaryot:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "AUG",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "GUG",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "GGU",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ACA",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 294,
+		"category": 4,
+		"number": 294,
+		"text": "Iniciační aminokyselina je u eukaryotických organismů:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "formylmetionin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "methionin",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "fenylalanin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "glutamin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 295,
+		"category": 4,
+		"number": 295,
+		"text": "Jestliže se do místa A na ribosomu posune kodon UUU mRNA, bude se s n komplentárně párovat tRNA s antikodonem:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "UUU",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "AAA",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "TTT",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "GGG",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 296,
+		"category": 4,
+		"number": 296,
+		"text": "Modifikace kvantitativního znaku:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "trvá vždy jen potud, pokud na organismus působí dané prostředí",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nezasahuje do genotypu buněk, orgánů či organismů",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je určena polygenně",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "podstata modifikace je vždy metabolická; vlivem určitého faktoru prostředí proběhno v síti alternativních metabolických dějů jen některé.",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 297,
+		"category": 4,
+		"number": 297,
+		"text": "Modifikace a adaptace:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se řídí pravidly mendelismu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se týkají jen fenotypu buněk, orgánů či organismů; do jejich genotypů nezasahují",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou určeny polygenně",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jejich podstatou jsou vždy mutace; vlivem těchto mutací proběhnou v síti alternativníc metabolických dějů jen některé.",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 298,
+		"category": 4,
+		"number": 298,
+		"text": "Nové alely vznikají z dosavadních:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "reparacemi",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mutacemi",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "prakticky vždy změnou DNA",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nenáhodně, podle specifického genetického programu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 299,
+		"category": 4,
+		"number": 299,
+		"text": "Při mutaci, kdy je zaměněn v DNA jeden nukleotid jiným:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "může být zařazena do polypeptidu jiná aminokyselina",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "může být zařazena do polypeptidu stejná aminokyselina",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "může být syntéza polypeptidu ukončena",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mohou být zařazeny do polypeptidu dvě aminokyseliny",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 300,
+		"category": 4,
+		"number": 300,
+		"text": "Zařazení nadpočetného nukleotidu do DNA má obvykle:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "obdobný důsledek jako jeho ztráta",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "žádná z ostatních odpovědí není správná",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "za následek vznik změněného polypeptidického řetězce",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "za následek genomovou mutaci",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 301,
+		"category": 4,
+		"number": 301,
+		"text": "Mutace:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v genech se označují jako genové",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je prakticky vždy změna v DNA",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "chromosomové se označují nověji jako strukturní aberace chromosomu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "genomové se nověji označují jako numerické aberace chromosomů",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 302,
+		"category": 4,
+		"number": 302,
+		"text": "Mutace:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Ize charakterizovat jako změny neprogramované (náhodné), vznikají spontánně s určito statistickou pravděpodobností",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "postihují jadernou i mitochondriální DNA",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "představují zpravidla změny trvalé pro celý další život buňky, resp. organismu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou podle příslušných pravidel přenosné na další generace, postihnou-li gametu neb jsou-li do ní přeneseny buněčným dělením",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 303,
+		"category": 4,
+		"number": 303,
+		"text": "Mutace:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "lze charakterizovat jako změny nenáhodné (programované)",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mohou postihovat geny (obecně sekvence DNA) všech typů; podle toho mají rozmanit důsledky",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se v haploidních gametách nevyskytují, nejsou přenosné na další generace",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "znamenají ve většině případů poškození buňky či organismu, ztrátu či patologicko změnu genové funkce",
+				"correct": true
+			}
+		]
+	}
+]

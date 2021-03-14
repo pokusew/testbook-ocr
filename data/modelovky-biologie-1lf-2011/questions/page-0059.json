@@ -1,0 +1,578 @@
+[
+	{
+		"id": 972,
+		"category": 8,
+		"number": 972,
+		"text": "V naší populaci se vyskytuje přibližně Rh osob:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "15 %",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "85 %",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "60 %",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "40 %",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 973,
+		"category": 8,
+		"number": 973,
+		"text": "Většina kyslíku v krvi je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "rozpuštěna",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vázána na bílkovinu feritin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vázána na atomy Fe krevního barviva",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vázána na atomy železa plazmatických bílkovin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 974,
+		"category": 8,
+		"number": 974,
+		"text": "pH krevní plazmy je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "7,4",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "7,2",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "4,7",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "4,2",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 975,
+		"category": 8,
+		"number": 975,
+		"text": "Pojem homeostaza vyjadřuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zástavu krvácení",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "srážení krve",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "stálost vnitřního prostředí",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "schopnost člověka udržovat vzpřímený stoj",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 976,
+		"category": 8,
+		"number": 976,
+		"text": "Životnost lidských erytrocytů je přibližně:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "120 dní",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1 rok",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "3-5 dní",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 977,
+		"category": 8,
+		"number": 981,
+		"text": "Miza (lymfa):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se vyskytuje jen u nižších živočichů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "obíhá v uzavřeném mízním řečišti",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vzniká filtrací v mízních uzlinách",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "odvádí část tkáňového moku zpět do krve",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 978,
+		"category": 8,
+		"number": 982,
+		"text": "Aglutininy:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou antigeny červených krvinek",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou protilátky v krevní plazmě, které shlukují červené krvinky jiné krevní skupiny",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vznikají při srážení krve přeměnou rozpustných aglutinogenů krevní plazmy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se uvolňují z granul",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 979,
+		"category": 8,
+		"number": 983,
+		"text": "Lymfocyty T zprostředkovávají:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "buněčnou specifickou imunitní reakci",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "silnější imunitní reakci",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "specifickou protilátkovou imunitní reakci",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 980,
+		"category": 8,
+		"number": 984,
+		"text": "Výměna látek mezi krví a tkáňovým mokem probíhá v:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mízních cévách",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "tepénkách",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vlásečnicích",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 981,
+		"category": 8,
+		"number": 985,
+		"text": "Na plazmatické buňky se mění lymfocyty:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "B",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "K",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "T",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 982,
+		"category": 8,
+		"number": 986,
+		"text": "Aglutinogeny jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v membráně červených krvinek",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v krevní plazmě",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "protilátky v séru",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "srážlivé látky v červených krvinkách",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 983,
+		"category": 8,
+		"number": 987,
+		"text": "Bílých krvinek u člověka je průměrně v 1 litru krve:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "10^6",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "5*10^9",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "10^12",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 984,
+		"category": 8,
+		"number": 977,
+		"text": "Funkcí červených krvinek je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "přenos kyslíku",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "účast na obraně proti infekci",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "účast na srážení krve a zástavy krvácení",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "transport železa",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 985,
+		"category": 8,
+		"number": 978,
+		"text": "Krevní skupiny jsou podmíněny:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "schopností tvořit protilátky",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "druhem hemoglobinu v červených krvinkách",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "typem přítomných plazmatických bílkovin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "typem antigenu na červených krvinkách",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 986,
+		"category": 8,
+		"number": 979,
+		"text": "Podstatou srážení krve je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "shlukování a rozpad bílých krvinek",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "shlukování červených krvinek při smíšení krve různých krevních skupin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "shlukování červených krvinek v místě poranění cévy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "změna rozpustného fibrinogenu na nerozpustný fibrin",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 987,
+		"category": 8,
+		"number": 980,
+		"text": "K projevům nespecifické buněčné imunity patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "tvorba protilátek",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "fagocytóza",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "alergie",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "imunizace",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 988,
+		"category": 8,
+		"number": 988,
+		"text": "V ČR je nejvíce rozšířena krevní skupina:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "AB",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "B",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "A",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "0",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 989,
+		"category": 8,
+		"number": 989,
+		"text": "Podstatou srážení krve je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "přeměna fibrinu ve fibrinogen",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "přeměna fibrinogenu ve fibrin",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vzájemná reakce látek uvolněných z červených krvinek",
+				"correct": false
+			}
+		]
+	}
+]

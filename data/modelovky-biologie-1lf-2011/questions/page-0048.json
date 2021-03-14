@@ -1,0 +1,578 @@
+[
+	{
+		"id": 776,
+		"category": 7,
+		"number": 776,
+		"text": "Námel:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vzniká přeměnou semeníku druhů lipnicovitých působením podhoubí paličkovic nachové",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "obsahuje jedovaté alkaloidy",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vyžaduje mezihostitele",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jeho původce patří mezi houby stopkovýtrusé (Basidiomycota)",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 777,
+		"category": 7,
+		"number": 777,
+		"text": "Lišejníky (Lichenes) mohou vznikat symbiózou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "houby a řasy",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "houby a sinice",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "houby a mechorostu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "houby a vyšší rostliny",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 778,
+		"category": 7,
+		"number": 778,
+		"text": "Mikrosporidie (Microsporidia):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou jednobuněčné",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou nitrobuněčnými parazity hmyzu, ryb i člověka",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "tvoří spory s chitinózní stěnou a pólovým vláknem",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "podle současných vědomostí patří mezi houby (Fungi)",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 779,
+		"category": 7,
+		"number": 779,
+		"text": "Houby působí v přírodě jako:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "destruenti",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "saprofyti",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "paraziti",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "symbionti",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 780,
+		"category": 7,
+		"number": 780,
+		"text": "Jako mykorhiza se označuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "symbióza houby s řasou",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "symbióza houby se sinicí",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "symbióza houby s cévnatou rostlinou",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "napadení kořenů cévnaté rostliny parazitickou houbou",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 781,
+		"category": 7,
+		"number": 781,
+		"text": "Kvasinka pivní:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "patří mezi vřeckovýtrusé houby (Ascomycota)",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "množí se výhradně nepohlavně, a to pučením",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "obsahuje vitamíny skupiny B",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "rozkládá cukry na alkohol a oxid uhličitý",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 782,
+		"category": 7,
+		"number": 782,
+		"text": "Rez travní:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "patří mezi Basidiomycota",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nemůže vytvářet podhoubí mimo tělo hostitele",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "potřebuje k vývoji dva hostitele",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vytváří plodnice",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 783,
+		"category": 7,
+		"number": 783,
+		"text": "Vyšší rostliny (Cormophytae):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou až na výjimky fotoautotrofní",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mají chlorofyl a i b",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mají otevřenou mitozu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v životním cyklu převládá diploidní fáze s tělem rozlišeným na kořen, stonek a listy",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 784,
+		"category": 7,
+		"number": 784,
+		"text": "Výtrusovci (Sporozoa):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zahrnují volně žijící druhy i parazity",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou výhradně paraziti",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "životní cyklus se často vyznačuje metagenezí",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "u některých druhů dochází ke střídání hostitele",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 785,
+		"category": 7,
+		"number": 785,
+		"text": "Měňavka úplavičná (Entamoeba histolytica):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "způsobuje těžké střevní onemocnění",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je přenášena krev sajícím hmyzem",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "šíří se cystami odcházejícími se stolicí",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "rozrušuje enzymaticky střevní sliznici",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 786,
+		"category": 7,
+		"number": 786,
+		"text": "Původce malárie - zimnička (Plasmodium):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je prvok, jehož nepohlavní část rozmnožování probíhá v trávicím traktu komár Anopheles a pohlavní část rozmnožování se děje v lidských krvinkách",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je prvok, jehož pohlavní rozmnožování je podmíněno přítomností lidskéh hemoglobinu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se rozmnožuje pouze nepohlavně",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je cizopasný prvok množící se pohlavně i nepohlavně",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 787,
+		"category": 7,
+		"number": 787,
+		"text": "U krvinkovek (Plasmodium):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "část jejich vývoje probíhá mimo hostitele (volně)",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nacházíme metagenesu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je pouze jeden hostitel",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se vytvářejí panožky",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 788,
+		"category": 7,
+		"number": 788,
+		"text": "Krvinkovka (Plasmodium) se rozmnožuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "střídá nepohlavní způsob rozmnožování s pohlavním",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pouze pohlavně",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pouze nepohlavně",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pučením",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 789,
+		"category": 7,
+		"number": 789,
+		"text": "Krvinkovky (Plasmodium) prodělávají vývoj:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v červených krvinkách člověka a v těle komára rodu Anopheles",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v červených krvinkách člověka a v těle mouchy tsetse",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pouze v červených krvinkách člověka",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pouze v bílých krvinkách člověka",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 790,
+		"category": 7,
+		"number": 790,
+		"text": "Kokcidie (Coccidia):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "cizopasí uvnitř buněk obratlovců",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mají pohybové orgány",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "přenáší komár rodu Anopheles",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žijí v symbiose s obratlovci",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 791,
+		"category": 7,
+		"number": 791,
+		"text": "Tasemnice bezbranná (Taeniarhynchus saginatus):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "cizopasí jako dospělec ve střevě člověka",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "množí se nepohlavně",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jejím mezihostitelem je hovězí dobytek",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mezihostitelem je prase domácí",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 792,
+		"category": 7,
+		"number": 792,
+		"text": "Měchožil zhoubný (Echinoccoocus granulosus):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "patří mezi prvoky",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "patří mezi ploštěnce",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jako dospělec žije ve střevě např. psa nebo kočky",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jako boubel se může vyvíjet v různých orgánech člověka a vážně ohrozit jeho život",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 793,
+		"category": 7,
+		"number": 793,
+		"text": "Členovci (Arthropoda):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se liší od kroužkovců (Annelida) heteronomním článkováním",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zahrnují podkmeny trojlaločnatci, klepítkatci, korýši a vzdušnicovci",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mají cévní soustavu uzavřenou",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mají povrch těla krytý kutikulou",
+				"correct": true
+			}
+		]
+	}
+]

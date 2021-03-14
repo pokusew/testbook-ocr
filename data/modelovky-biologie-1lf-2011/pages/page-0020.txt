@@ -1,4 +1,3 @@
-6
 288. V genetickém kódu:
 A) 61 tripletů kóduje celkem 20 aminokyselin nutných pro výstavbu proteinů
 b) zúčastněné báze vytvářejí celkem 20 různých trojic, nutných pro zařazení aminokyselin

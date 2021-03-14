@@ -1,0 +1,450 @@
+[
+	{
+		"id": 351,
+		"category": 5,
+		"number": 351,
+		"text": "V populaci, která je v Hardy-Weinbergově rovnováze, nacházíme recesivn homozygoty s relativní četností 4 %. Relativní četnost heterozygotů v tét populaci je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "64 %",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "96 %",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "32 %",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "0,6",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 352,
+		"category": 5,
+		"number": 352,
+		"text": "V populaci, která je v Hardy-Weinbergově rovnováze, nacházíme recesivn homozygoty s relativní četností 0,04. Relativní četnost dominantníc homozygotů v této populaci je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,64",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,96",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "80 %",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "0,6",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 353,
+		"category": 5,
+		"number": 353,
+		"text": "V populaci, která je v Hardy-Weinbergově rovnováze, nacházíme jedinc s dominantním fenotypem (předpoklad úplné dominance) s relativní četnost 51 %. Relativní četnost heterozygotů v této populaci je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "50 %",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,21",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "49 %",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "0,42",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 354,
+		"category": 5,
+		"number": 354,
+		"text": "V populaci, která je v Hardy-Weinbergově rovnováze, nacházíme jedinc s dominantním fenotypem (předpoklad úplné dominance) s relativní četnost 0,64. Relativní četnost heterozygotů v této populaci je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,36",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,42",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "48 %",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "64 %",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 355,
+		"category": 5,
+		"number": 355,
+		"text": "V populaci, která je v Hardy-Weinbergově rovnováze, nacházíme jedinc s dominantním fenotypem (předpoklad úplné dominance) s relativní četnost 75 %. Relativní četnost dominantních homozygotů v této populaci je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,5",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,25",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "50 %",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "30 %",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 356,
+		"category": 5,
+		"number": 356,
+		"text": "V populaci, která je v Hardy-Weinbergově rovnováze, nacházíme jedinc s recesivním fenotypem (předpoklad úplné dominance) s relativní četností 0,01 Frekvence dominantní alely v této populaci je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1%",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "90 %",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "10 %",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "99 %",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 357,
+		"category": 5,
+		"number": 357,
+		"text": "V populaci, která je v Hardy-Weinbergově rovnováze, nacházíme jedinc s recesivním fenotypem (předpoklad úplné dominance) s relativní četnost 0,01 %. Frekvence heterozygotů v této populacije:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "99 %",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "18 %",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "2 %",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "36 %",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 358,
+		"category": 5,
+		"number": 358,
+		"text": "Vyberte rovnici, která platí v rovnovážné populaci:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "q2 = 1 - 2pq - p?",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "p + q + 2pq = 1",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "p2 + q2 = 2pq",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 359,
+		"category": 5,
+		"number": 359,
+		"text": "V mendelovské populaci je frekvence recesivních homozygotů 0,01. Na základ Hardy-Weinbergovy rovnováhy určete frekvenci recesivní alely:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,3",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "10 %",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1%",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "0,1",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 360,
+		"category": 5,
+		"number": 360,
+		"text": "V mendelovské populaci je frekvence recesivních homozygotů 0,01. Na základ Hardy-Weinbergovy rovnováhy určete frekvenci dominantní alely:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,7",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "10 %",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "0,9",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "50 %",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 361,
+		"category": 5,
+		"number": 361,
+		"text": "V mendelovské populaci je frekvence recesivních homozygotů 0,01. Na základ Hardy-Weinbergovy rovnováhy určete frekvenci dominantních homozygotů:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,81",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,9",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "0,5",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nelze určit",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 362,
+		"category": 5,
+		"number": 362,
+		"text": "V mendelovské populaci je frekvence recesivní alely 0,01. Na základě Hardy-Weinbergov rovnováhy určete frekvenci dominantních homozygotů:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,1",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,06",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "0,98",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "0,99",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 363,
+		"category": 5,
+		"number": 363,
+		"text": "V mendelovské populaci je frekvence recesivní alely 0,1. Na základě Hardy-Weinbergov rovnováhy určete frekvenci heterozygotů:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,1",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,18",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "0,5",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "0,82",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 364,
+		"category": 5,
+		"number": 364,
+		"text": "Vyberte rovnici, která platí v rovnovážné populaci:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "p3 + q? - 1 = 0",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "p² + q2 = 1 - 2pq",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "p² + 2pq + q2 = 1",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			}
+		]
+	}
+]

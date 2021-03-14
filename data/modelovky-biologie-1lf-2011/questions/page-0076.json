@@ -1,0 +1,578 @@
+[
+	{
+		"id": 1271,
+		"category": 14,
+		"number": 1271,
+		"text": "Mícha obsahuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nervové buňky",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nervová vlákna odstředivá",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nervová vlákna dostředivá",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "specializované buňky receptorů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1272,
+		"category": 14,
+		"number": 1272,
+		"text": "Mozeček je uložen:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v zadní jámě lební",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ve střední jámě lební",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v zadní jámě lební pod prodlouženou míchou",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v zadní jámě lební nad prodlouženou míchou",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1273,
+		"category": 14,
+		"number": 1273,
+		"text": "Mezimozek (diencephalon) je tvořen:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "prodlouženou míchou a mozečkem",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "především talamem a hypotalamem a hipokampem",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "talamem, hypotalamem, hypofýzou a epifýzou",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mostem a hypotalamem",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1274,
+		"category": 14,
+		"number": 1274,
+		"text": "Bazální ganglia jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v míše",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v mozečku",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v nitru mozkových hemisfér",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ve středním mozku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1275,
+		"category": 14,
+		"number": 1275,
+		"text": "Střední mozek leží mezi:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mozkovými hemisférami",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mostem a mozečkem",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mostem a mezimozkem",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "míchou a prodlouženou míchou",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1276,
+		"category": 14,
+		"number": 1276,
+		"text": "Motorické centrum řeči je uloženo v:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mozkové kůře",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mozečku",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "prodloužené míše",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "talamu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1277,
+		"category": 14,
+		"number": 1277,
+		"text": "Ganglia autonomních nervů jsou uložena:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v kmeni mozkovém",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v míše",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v páteřním kanálu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mimo centrální nervstvo",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1278,
+		"category": 14,
+		"number": 1278,
+		"text": "Vegetativní (autonomní) nervy se dělí na:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "spinální a sympatické",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "parasympatické a sympatické",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "motorické a sensitivní",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "sympatické a sensitivní",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1279,
+		"category": 14,
+		"number": 1279,
+		"text": "Parasympatikus má své nervové buňky:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v hrudní míše",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "u všech jader hlavových nervů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "u některých hlavových nervů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "u některých hlavových nervů a v sakrální části míchy",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1280,
+		"category": 14,
+		"number": 1280,
+		"text": "Sympatikus má své nervové buňky:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v kmeni mozkovém",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v hrudní míše",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v hrudní a části bederní míchy",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v sakrální míše",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1281,
+		"category": 14,
+		"number": 1281,
+		"text": "Zrakové informace jsou zpracovávány:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "temenním lalokem mozku",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "týlním lalokem mozku",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "hypotalamem",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "prodlouženou míchou",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1282,
+		"category": 14,
+		"number": 1282,
+		"text": "Spojení nervových buněk a jejich výběžků nazýváme:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "synapse",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "syndesmosis",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "symbióza",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "systola",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1283,
+		"category": 14,
+		"number": 1283,
+		"text": "K obvodové (periferní) nervové soustavě patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "autonomní a motorické nervy",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mozek a mícha",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "prodloužená mícha",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "bederní mícha",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1284,
+		"category": 14,
+		"number": 1284,
+		"text": "Z páteřní míchy člověka vystupuje následující počet párů míšních nervů:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "31",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "21",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "12",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "13",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1285,
+		"category": 14,
+		"number": 1285,
+		"text": "Hladká svalovina je ovládána:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jen sympatikem",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "buňkami předních rohů míchy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "autonomním nervstvem",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jen parasympatikem",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1286,
+		"category": 14,
+		"number": 1286,
+		"text": "Prodloužená mícha je centrem řízení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dýchání",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "činnosti srdeční",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "svalového napětí",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pohybů hlavy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1287,
+		"category": 14,
+		"number": 1287,
+		"text": "Nervosvalová ploténka:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "patří mezi čidla svalové tkáně",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je zvláštním typem synapse",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "uplatňuje se při přenosu vzruchu z nervu na sval",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je zakončením dostředivých nervových vláken",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1288,
+		"category": 14,
+		"number": 1288,
+		"text": "Nervosvalové ploténky jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v okohybných svalech",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v branici",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ve svalovině jazyka",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ve svalovině dělohy",
+				"correct": false
+			}
+		]
+	}
+]

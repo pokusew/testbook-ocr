@@ -1,0 +1,578 @@
+[
+	{
+		"id": 1324,
+		"category": 15,
+		"number": 1324,
+		"text": "V membránách tyčinek je zrakové barvivo:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "rhodopsin",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "metanol",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kalciferol",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "hemocyanin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1325,
+		"category": 15,
+		"number": 1325,
+		"text": "Krátkozrakost se koriguje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "rozptylkami",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "spojkami",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "cylindrickými čočkami",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "lupou",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1326,
+		"category": 15,
+		"number": 1326,
+		"text": "Vidění za šera umožňují:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "tyčinky",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "čípky",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "slepá skyrna",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "komorová voda",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1327,
+		"category": 15,
+		"number": 1327,
+		"text": "Polokruhovité kanálky vnitřního ucha slouží k:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vnímání rotačních pohybů hlavy",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vnímání polohy hlavy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "analýze výšky tónu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vnímání zvukových vln",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1328,
+		"category": 15,
+		"number": 1328,
+		"text": "Statické čidlo se nachází v:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kulovitém a vejčitém váčku",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "polokruhovitých kanálcích",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "středním mozku",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "hlemýždi vnitřního ucha",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1329,
+		"category": 15,
+		"number": 1329,
+		"text": "Statické čidlo reaguje na pohyb hlavy:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dozadu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dopředu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ke straně",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kolem osy otáčení",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1330,
+		"category": 15,
+		"number": 1330,
+		"text": "Kinetické čidlo reaguje na pohyb hlavy:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dozadu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dopředu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ke straně",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kolem osy otáčení",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1331,
+		"category": 15,
+		"number": 1331,
+		"text": "Podnětem pro zrakové čidlo člověka jsou světelné vlny v rozsahu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "500 až 750 nm",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "40 až 70 nm",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "400 až 600um",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "40 až 60 um",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1332,
+		"category": 15,
+		"number": 1332,
+		"text": "Refrakční vady oka spočívají v:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "poruchách optického aparátu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zvýšené lomivosti kostí",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nedostatku vitaminu D",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1333,
+		"category": 15,
+		"number": 1333,
+		"text": "Receptorové buňky statického čidla se nacházejí v:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kulovitém a vejčitém váčku",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "polokruhovitých kanálcích",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "středním mozku",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "hlemýždi vnitřního ucha",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1334,
+		"category": 15,
+		"number": 1334,
+		"text": "Chemické receptory zprostředkovávají:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vjemy z polokruhovitých kanálků vnitřního ucha",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "chutové vjemy",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "čichové vjemy",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zrakový vjem",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1335,
+		"category": 15,
+		"number": 1335,
+		"text": "Směr přicházejícího zvuku dokáže člověk odhadnout podle:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "časového rozdílu vjemu z pravého a levého ucha",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "intensity vjemu z pravého a levého ucha",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "rozdílné výšky tónů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "rozdílného směru pohybu bubínků obou uší",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1336,
+		"category": 15,
+		"number": 1336,
+		"text": "Zvuk o frekvenci 10 000 Hz:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "leží nad horní hranicí slyšitelných frekvencí zdravého ucha",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "slyšíme jako vysoký tón",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "slyším jako hluboký tón",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "leží pod hranicí slyšitelných frekvencí zdravého ucha",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1337,
+		"category": 15,
+		"number": 1337,
+		"text": "Slepá skvrna sítnice:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "neobsahuje tyčinky",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "představuje část sítnice, kam nedopadají světelné paprsky",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "není u člověka normálně přítomna",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "neobsahuje čípky",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1338,
+		"category": 15,
+		"number": 1338,
+		"text": "Receptory jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "speciální útvary s vysokou dráždivostí",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "všechny buňky kožní",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "buňky v centr. nervstvu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "součástí zakončení všech nervů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1339,
+		"category": 15,
+		"number": 1339,
+		"text": "Proprioreceptory jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "svalové",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "šlachové",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kožní",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mozkové",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1340,
+		"category": 15,
+		"number": 1340,
+		"text": "Čichové buňky jsou uloženy:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v horní části dutiny nosní",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v celé sliznici nosního septa",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "na spodině čichového mozku",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "na spodině měkkého patra",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1341,
+		"category": 15,
+		"number": 1341,
+		"text": "Největší nakupení receptorů pro dotyk a tlak máme na:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dlaňové straně konečků prstů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "špičce jazyka",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kořeni jazyka",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zevním pohlavním ústrojí",
+				"correct": true
+			}
+		]
+	}
+]

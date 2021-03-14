@@ -1,0 +1,546 @@
+[
+	{
+		"id": 1166,
+		"category": 11,
+		"number": 1175,
+		"text": "3 Centrum řízení příjmu potravy je lokalizováno v:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dutině ústní",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "krční míše",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "hypotalamu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mozkové kůře",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1167,
+		"category": 11,
+		"number": 1176,
+		"text": "Příjem tekutin je řízen centrem lokalizovaným v:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "krční míše",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dutině ústní",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "hypotalamu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mozkové kůře",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1168,
+		"category": 11,
+		"number": 1177,
+		"text": "Základní energetická přeměna je nutná k udržení činnosti:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žaludku",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "srdce",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "sleziny",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mozku",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1169,
+		"category": 11,
+		"number": 1166,
+		"text": "Nepostradatelné aminokyseliny",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "si člověk nedokáže sám vytvořit",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou přítomny jen v rostlinných bílkovinách",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou zdrojem energie pro specifické buněčné reakce",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou přítomny v bílkovinách mléka",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1170,
+		"category": 11,
+		"number": 1167,
+		"text": "Mezi nezbytné stopové prvky patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kadmium",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kobalt",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vápník",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "stroncium",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1171,
+		"category": 11,
+		"number": 1168,
+		"text": "Energie se v lidském organismu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "všechna přeměňuje na teplo",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "používá pouze pro zajištění pohybu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "skladuje pouze v podobě tepla",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná z uvedených odpovědí není správná",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1172,
+		"category": 11,
+		"number": 1169,
+		"text": "Mezi metabolické děje v organismu patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "katabolické děje",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "anabolické děje",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "tvorba bílkovin",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "odbourávání bílkovin",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1173,
+		"category": 11,
+		"number": 1170,
+		"text": "Vitaminy rozpustné v tucích se nevstřebávají, když chybí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kyselina chlorovodíková",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pankreatická šťávu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "žluč",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pepsin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1174,
+		"category": 11,
+		"number": 1171,
+		"text": "Vitamín D je obsažen nejvíce v:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "obilovinách",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kvasnicích",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "rybím tuku",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mrkvi",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1175,
+		"category": 11,
+		"number": 1172,
+		"text": "Nedostatek vitamínu D v dětství vede k:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "křivici",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kurdějím",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "trpasličímu vzrůstu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "debilitě",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1176,
+		"category": 11,
+		"number": 1173,
+		"text": "Šeroslepost je důsledkem nedostatku vitaminu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "B",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "A",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Ꭰ",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "K",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1177,
+		"category": 11,
+		"number": 1178,
+		"text": "Na optimálním složení potravy se mají nejvíce podílet:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "sacharidy",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "proteiny",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "tuky",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "lipoproteiny",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1178,
+		"category": 11,
+		"number": 1179,
+		"text": "Mezi hlavní sacharidy nacházející se v živočišných buňkách patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "manóza a fruktóza",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "laktózza a a arbinóza",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "celulóza a laktóza",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "glykogen a glukóza",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1179,
+		"category": 12,
+		"number": 1180,
+		"text": "Bílkoviny se štěpí na:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "aminokyseliny",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mastné kyseliny",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dusíkaté base",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "polypeptidy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1180,
+		"category": 12,
+		"number": 1181,
+		"text": "Žluč:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se tvoří ve žlučníku",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je tvořena jaterními buňkami a ve žlučníku je jen skladována",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je tvořena ve slinivce břišní (pankreas) a ve žlučníku je jen skladována",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je důležitá pro trávení cukrů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1181,
+		"category": 12,
+		"number": 1182,
+		"text": "Dětský chrup má:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "20 zubů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "22 zubů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "24 zubů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "18 zubů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1182,
+		"category": 12,
+		"number": 1174,
+		"text": "Křivice je důsledkem nedostatku vitaminu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "B",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "A",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "D",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "K",
+				"correct": false
+			}
+		]
+	}
+]

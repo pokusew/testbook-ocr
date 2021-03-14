@@ -1,0 +1,578 @@
+[
+	{
+		"id": 1568,
+		"category": 21,
+		"number": 1568,
+		"text": "Blechy přenášejí původce:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "skvrnitého tyfu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "černých neštovic",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zarděnek",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "moru",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1569,
+		"category": 21,
+		"number": 1569,
+		"text": "Původce spavé nemoci přenáší:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "komár rodu Anofeles",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "blecha",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "veš",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "moucha tse-tse",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1570,
+		"category": 21,
+		"number": 1570,
+		"text": "Komáři rodu Anofeles přenášejí původce:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "spavé nemoci",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "malárie",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "moru",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žloutenky",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1571,
+		"category": 21,
+		"number": 1571,
+		"text": "Veš šatní je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "přenašečem původce moru",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "původcem moru",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "původcem skvrnitého tyfu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "přenašečem původce skvrnitého tyfu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1572,
+		"category": 21,
+		"number": 1572,
+		"text": "Blecha je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "přenašečem původce moru",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "přenašečem původce skvrnitého tyfu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "přenašečem původce malárie",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "přenašečem původce spavé nemoci",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1573,
+		"category": 21,
+		"number": 1573,
+		"text": "Krevní skupina Rh je znak:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se dvěma fenotypovými projevy",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "gonosomálně recesivně dědičný",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "s neúplnou dominancí",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "s vysokou dědivostí",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1574,
+		"category": 21,
+		"number": 1574,
+		"text": "Při dědičnosti tělesné výšky člověka:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dochází k aditivnímu působení genů malého účinku",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "děti musí být větší než rodiče",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se uplatňuje pouze vliv zevního prostředí",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se uplatňuje pouze dědičná proměnlivost",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1575,
+		"category": 21,
+		"number": 1575,
+		"text": "Příkladem dědičné (molekulární) choroby je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "neuróza",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "galaktosémie",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "esenciální hypertenze",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "skupinový systém ABO",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1576,
+		"category": 21,
+		"number": 1576,
+		"text": "Příkladem heterochromosomálně recesivní choroby je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Downův syndrom",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "galaktosémie",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "senná (alergická) rýma",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "barvoslepost (daltonismus)",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1577,
+		"category": 21,
+		"number": 1577,
+		"text": "Turnerův syndrom je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "autosomálně dominantní onemocnění",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dědičné onemocnění",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "podmíněn odchylkou v počtu gonosomů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "polygenně podmíněn",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1578,
+		"category": 21,
+		"number": 1578,
+		"text": "Pro dědičnost znaků u lidí platí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "že nejsou ovlivnitelné prostředím",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "žádná z uvedených aleternativ není správná",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "že žádný není děděn podle Mendelových pravidel",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pro všechny polygenní typ dědičnosti",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1579,
+		"category": 21,
+		"number": 1579,
+		"text": "Dědičnost znaků u člověka lze zkoumat:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "za použití genealogické metody, tj. v několika generacích",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "u obou členů manželského páru, tzv. gemelogický výzkum",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "cestou pokusného křížení",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1580,
+		"category": 21,
+		"number": 1580,
+		"text": "Dědičnost krevních skupin systému ABO je příkladem:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "polygenní dědičnosti",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mendelovské (monogenní) dědičnosti",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "heterochromosomální dědičnosti",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1581,
+		"category": 21,
+		"number": 1581,
+		"text": "Tělesná výška je příkladem znaku:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kodominantního",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "monogenního",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "polygenně dědičného",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "úplně dominantního",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1582,
+		"category": 21,
+		"number": 1582,
+		"text": "Na X chromosomu jsou uloženy vlohy pro:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "fenylketonurii",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "galaktosemii",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Downův syndrom",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "barvoslepost",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1583,
+		"category": 21,
+		"number": 1583,
+		"text": "Mezi lidské choroby s polygenně determinovanou dědičnou dispozicí patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vysoký krevní tlak",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dědičná krvácivost",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "galaktosemie",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mongolismus",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1584,
+		"category": 21,
+		"number": 1584,
+		"text": "Dědičná dispozice pro vysoký krevní tlak se dědí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jako dominantní alela naY chromosomu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jako dominantní alela na X chromosomu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jako soubor genů malého účinku",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "polygenně",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1585,
+		"category": 21,
+		"number": 1585,
+		"text": "Kvantitativním znakem je u člověka např.:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Downův syndrom",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "inteligence",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pigmentace",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "trpaslictví (achondroplasie)",
+				"correct": false
+			}
+		]
+	}
+]

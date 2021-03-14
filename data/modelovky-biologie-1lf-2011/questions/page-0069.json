@@ -1,0 +1,546 @@
+[
+	{
+		"id": 1149,
+		"category": 10,
+		"number": 1149,
+		"text": "Dýchání je řízeno z:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "plicních sklípků",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dýchacího ústředí v hrudní míše",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "receptorů v postranních mozkových komorách",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "dýchacího ústředí v prodloužené míše",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1150,
+		"category": 10,
+		"number": 1150,
+		"text": "Reflexní zástava dechu nastává:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "při kašlání a kýchání",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "během spánku",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mluvení",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "při polykání a silném čichovém podráždění",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1151,
+		"category": 10,
+		"number": 1151,
+		"text": "Na transportu dýchacích plynů mezi zevním prostředím a buňkami se podílí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pouze dýchací systém",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pouze oběhový systém",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kůže",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "dýchací a oběhový systém",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1152,
+		"category": 10,
+		"number": 1152,
+		"text": "Příčinou vzniku kesonové nemoci může být:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "rychlý vzestup tlaku vzduchu při výstupu potapěče ke hladině",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "rychlý pokles tlaku při rychlém ponoření pod hladinu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "rychlý pokles tlaku vzduchu při výstupu ke hladině",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "rychlé ponoření hlavy plavce pod hladinu vody",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1153,
+		"category": 11,
+		"number": 1157,
+		"text": "Hlavním zdrojem energie v naší potravě jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "sacharidy",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "tuky",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "bílkoviny",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mastné kyseliny",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1154,
+		"category": 11,
+		"number": 1158,
+		"text": "Optimální denní přívod bílkovin ve výživě je u dospělého člověka:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,5 g/kg tělesné hmotnosti",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "5 g/kg tělesné hmotnosti",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1g/kg tělesné hmotnosti",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "250 g celkem",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1155,
+		"category": 11,
+		"number": 1159,
+		"text": "Typickým příznakem nedostatku vitaminu B2 je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "šeroslepost",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "praskání ústních koutků",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "porucha srážení krve",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1156,
+		"category": 11,
+		"number": 1160,
+		"text": "Vitamin A je nezbytný pro:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "tvorbu zrakového purpuru",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ukládání vápníku v kostech",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "tvorbu srážlivých látek",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1157,
+		"category": 11,
+		"number": 1161,
+		"text": "Nepostradatelné aminokyseliny:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou přítomny jen v rostlinných bílkovinách",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou zdrojem energie pro specifické buněčné reakce",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "tvoří většinu z přijímaných aminokyselin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1158,
+		"category": 11,
+		"number": 1162,
+		"text": "Vláknina potravy:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se vstřebává v tenkém střevě",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je nezbytná pro štěpení mastných kyselin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "představuje nestravitelnou část potravy",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je zdrojem lipidů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1159,
+		"category": 11,
+		"number": 1163,
+		"text": "Typickým příznakem nedostatku vitaminu B2 je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "šeroslepost",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vypadávání zubů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "porucha srážení krve",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1160,
+		"category": 11,
+		"number": 1164,
+		"text": "Při uvolňování energie v organismu",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mohou být použity všechny živiny",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je využitelná jen chemická energie cukrů a tuků",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou využívány i jiné druhy energie než je chemická",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "uplatňují se enzymatické systémy tochondrií",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1161,
+		"category": 11,
+		"number": 1165,
+		"text": "Při uvolňování energie v organismu",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je nejvýznamnější chemická energie bílkovin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je využitelná jen chemická energie cukrů a tuků",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou využívány i jiné druhy energie než je chemická",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1162,
+		"category": 11,
+		"number": 1153,
+		"text": "Nejdůležitějším okamžitým zdrojem energie pro člověka jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "cukry",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "tuky",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "bílkoviny",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "aminokyseliny",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1163,
+		"category": 11,
+		"number": 1154,
+		"text": "Glykogen je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zásobní formou sacharidů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "součástí molekuly tuků",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "hormon řídící hladinu glukózy v krvi",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "rostlinný polysacharid",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1164,
+		"category": 11,
+		"number": 1155,
+		"text": "Při odbourávání (katabolismu) bílkovin se uvolněný dusík vylučuje u savc v podobě:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "amoniaku",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "močoviny",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kyseliny močové",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vydechovaného molekulárního dusíku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1165,
+		"category": 11,
+		"number": 1156,
+		"text": "Energeticky nejbohatší složkou potravy (na jednotku hmotnosti) jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "cukry",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "bílkoviny",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "tuky",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "některé aminokyseliny",
+				"correct": false
+			}
+		]
+	}
+]

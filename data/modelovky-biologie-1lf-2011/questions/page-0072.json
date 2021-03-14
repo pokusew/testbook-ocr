@@ -1,0 +1,578 @@
+[
+	{
+		"id": 1201,
+		"category": 12,
+		"number": 1210,
+		"text": "Jícen ústí do oddílu žaludku, který se nazývá:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vrátník (pylorus)",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Česlo (kardie)",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dvanáctník (duodenum)",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "slez",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1202,
+		"category": 12,
+		"number": 1201,
+		"text": "V žaludku se vstřebávají:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "aminokyseliny",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "bílkoviny",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "monosacharidy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná z uvedených odpovědí není správná",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1203,
+		"category": 12,
+		"number": 1202,
+		"text": "Společné vyústění žlučových a pankreatických cest se nalézá v:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žaludku",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "lačníku (jejunum)",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kyčelníku (ileum)",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "dvanáctníku (duodenum)",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1204,
+		"category": 12,
+		"number": 1203,
+		"text": "Označte, kde jsou oba výroky pravdivé:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žaludek slouží jako zásobárna a tvoří se v něm žaludeční šťáva",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v žaludku vznikají peristaltické vlny, které se normálně pohybují od vrátníku k česlu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v žaludku se rozkládají bílkoviny působením HCl a jejím působením se též rozvolňuj vazivo",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "působení bloudivého nervu zvyšuje sekreci žaludeční šťávy a zvyšuje napětí stěn žaludku",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1205,
+		"category": 12,
+		"number": 1204,
+		"text": "V tenkém střevu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se živiny definitivně rozkládají",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se vstřebávají bílkoviny, tuky a polysacharidy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se vstřebávají aminokyseliny",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "bakterie tvoří některé vitamíny",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1206,
+		"category": 12,
+		"number": 1205,
+		"text": "Pankreas (slinivka břišní):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "produkuje kyselou šťávu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "produkuje zásaditou šťávu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "má část s vnitřní sekreci",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "produkuje žluč",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1207,
+		"category": 12,
+		"number": 1206,
+		"text": "Slinivka břišní:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je párový orgán",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "produkuje HCI",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "produkuje insulin",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "produkuje glukagon",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1208,
+		"category": 12,
+		"number": 1207,
+		"text": "Červovitý výběžek (appendix vermiformis) je výchlipkou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "slepého střeva",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vzestupného tračníku",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "sestupného tračníku",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kyčelníku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1209,
+		"category": 12,
+		"number": 1208,
+		"text": "Játra:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou párový orgán",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "produkují glukagon",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "leží pod pravou klenbou brániční",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "produkují žluč",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1210,
+		"category": 12,
+		"number": 1209,
+		"text": "Žluč:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je tvořena játry a pankreatem",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je nezbytná pro trávení tuků",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "obsahuje také některé odpadní látky",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je nezbytná pro trávení bílkovin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1211,
+		"category": 12,
+		"number": 1211,
+		"text": "Tenké střevo se skládá z těchto úseků:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dvanáctníku, lačníku a tračníku",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dvanáctníku, lačníku a kyčelníku",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dvanáctníku a vzestupného tračníku",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "dvanáctníku, esovité kličky a příčného tračníku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1212,
+		"category": 12,
+		"number": 1212,
+		"text": "Žlučovod ústí do:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žaludku",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dvanáctníku",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "tračníku",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "slepého střeva",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1213,
+		"category": 12,
+		"number": 1213,
+		"text": "Vývody slinivky břišní ústí do:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kyčelníku",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vzestupného tračníku",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dvanáctníku",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žlučníku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1214,
+		"category": 12,
+		"number": 1214,
+		"text": "Mezi žlučové cesty patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pouze žlučník",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "žlučovod a žlučník",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pouze žlučník, žlučovod a portální žíla",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "játra a portální žíla",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1215,
+		"category": 12,
+		"number": 1215,
+		"text": "Játra jsou svou stavbou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jen endokrinní žláza",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "exokrinní žláza produkující žluč",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "žláza s vnitřní sekrecí produkující žluč",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jen endokrinní žláza produkující žluč",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1216,
+		"category": 12,
+		"number": 1216,
+		"text": "Žlučník se za normálních podmínek nalézá:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "uvnitř jaterní tkáně",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "na spodní ploše jater",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "na horní ploše jater",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pod žaludkem",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1217,
+		"category": 12,
+		"number": 1217,
+		"text": "Sliznice žaludku je pokryta:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hlenem",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "škrobem",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "myelinem",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vazivem",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1218,
+		"category": 12,
+		"number": 1218,
+		"text": "Žlučové cesty jsou napojeny:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "na Langerhansovy ostrůvky",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "na tračník",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "na střední úsek tenkého střeva",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pouze na dvanáctník",
+				"correct": true
+			}
+		]
+	}
+]

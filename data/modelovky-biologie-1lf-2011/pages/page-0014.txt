@@ -1,6 +1,6 @@
 191. U většiny eukaryotických organismů nacházíme v tělových buňkách následující
 počet chromosomů:
-A) žádná odpověd' z ostatních není správná
+A) žádná odpověď z ostatních není správná
 b) n
 c) 3n
 d) 4n
@@ -50,7 +50,8 @@ B) počet chromosomů stejný jako u nezralé gametogonie
 c) počet chromosomů stejný jako u zralé gamety
 d) počet chromosomů poloviční než u spermie
 192. Během meiózy dochází nejčastěji k rozchodu chromosomů otcovského
-a mateřského původu do gamet tak, že:
+### the spaces fix parsing
+     a mateřského původu do gamet tak, že:
 A) žádná odpověď z ostatních není správná
 b) jedna gameta má chromosomy otcovské, druhá mateřské
 c) gameta má vždy polovinu otcovských a polovinu mateřských chromosomů

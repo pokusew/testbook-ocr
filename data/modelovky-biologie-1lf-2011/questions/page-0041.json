@@ -1,0 +1,578 @@
+[
+	{
+		"id": 651,
+		"category": 6,
+		"number": 651,
+		"text": "Mezi vezikulární útvary buňky řadíme:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "váčky vznikající z endoplasmatického retikula a Golgiho útvarů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "lyzosomy",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mitochondrie",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vakuoly",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 652,
+		"category": 6,
+		"number": 652,
+		"text": "Lyzosomy:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "obsahují oxidázy a katalázy, které přeměňují tuky na cukry",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou vezikulární útvary buněk, které obsahují katalázy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "obsahují hydrolytické enzymy (hydrolázy)",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou místem rozkladu látek přijatých do buňky zvnějšku, ale též vlastních hmo (autolýzy)",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 653,
+		"category": 6,
+		"number": 653,
+		"text": "Semiautonomní organely:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mají obal tvořený jednou membránou",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "probíhá v nich energetický metabolismus",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "obsahují Golgiho aparát",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "obsahují inkluze",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 654,
+		"category": 6,
+		"number": 654,
+		"text": "Mitochondrie:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "obsahují DNA podobnou prokaryotické",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mají stěnu složenou ze dvou membrán",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou místem anaerobní fosforylace",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "obsahují enzymy Krebsova cyklu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 655,
+		"category": 6,
+		"number": 655,
+		"text": "Řetězce mastných kyselin molekul fosfolipidů buněčné membrán (hydrofobní části molekul) směřují:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "k sobě, dovnitř dvojvrstvy",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "od sebe, vně dvojvrstvy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou odděleny souvislou vrstvou bílkovin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "do okolního vodného prostředí",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 656,
+		"category": 6,
+		"number": 656,
+		"text": "Endoplasmatické retikulum je součástí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "prokaryotických buněk",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mezibuněčné hmoty pojivové tkáně",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "eukaryotických buněk",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "plasmatických faktorů srážení krve",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 657,
+		"category": 6,
+		"number": 657,
+		"text": "Mikrotubuly jsou stavební prvky:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "centriolů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "bičíků",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "centromer",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vlákna dělícího vřeténka",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 658,
+		"category": 6,
+		"number": 658,
+		"text": "Polární lipidy mohou vytvářet:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "bimolekulární membrány",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "micely",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pravé roztoky",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "gely",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 659,
+		"category": 6,
+		"number": 659,
+		"text": "Příjem a výdej látek živočišné buňky:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "reguluje plazmatická membrána",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "reguluje buněčná stěna a plazmatická membrána",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "závisí pouze na koncentračním spádu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se uskutečňuje pouze endocytózou",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 660,
+		"category": 6,
+		"number": 660,
+		"text": "Plazmatická membrána je tvořena:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dvouvrstvou fosfolipidů a bílkovinami",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pouze vrstvou glykokalyx",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jednou vrstvou fosfolipidů a jednou vrstvou glycidů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pouze asymetrickými bílkovinami a cukry",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 661,
+		"category": 6,
+		"number": 661,
+		"text": "Rychlost difúze přes plazmatickou membránu závisí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "na množství energie",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "na aktivitě transportních proteinů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "na koncentračním spádu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "na enzymatické aktivitě membrány",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 662,
+		"category": 6,
+		"number": 662,
+		"text": "Transportní proteiny plazmatické membrány:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou univerzální přenašeči všech látek",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou nezávislé na energetické výbavě buňky",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "specificky přenášejí některé látky do buňky",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se podílejí na lokomoci eukaryotních buněk",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 663,
+		"category": 6,
+		"number": 663,
+		"text": "Transport látek pomocí přenašečů se na membráně uskutečňuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v závislosti na koncentračním spádu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "prostřednictvím fosfolipidů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "prostřednictvím bílkovin",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "prostřednictvím glykolipidů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 664,
+		"category": 6,
+		"number": 664,
+		"text": "Vnikání kapének tekutin do buňky se nazývá:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "fagocytóza",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pinocytóza",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "exocytóza",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "endocytóza",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 665,
+		"category": 6,
+		"number": 665,
+		"text": "Endocytóza je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "aktivní příjem látek buňkou",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pasivní příjem látek buňkou",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zprostředkována endozomem",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zprostředkována membránovými receptory",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 666,
+		"category": 6,
+		"number": 666,
+		"text": "Proces endocytózy se uskutečňuje pomocí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "iontových kanálů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "plazmatické membrány a cytoskeletální soustavy",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "undulující membrány",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "membránových receptorů",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 667,
+		"category": 6,
+		"number": 667,
+		"text": "Schopnost fagocytózy mají:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "leukocyty",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "erytrocyty",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "monocyty",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "buňky epidermis",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 668,
+		"category": 6,
+		"number": 668,
+		"text": "Pinocytóza:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "umožňuje transport živočišných virů do buňky",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je typ endocytózy",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se podílí na recyklaci membránových receptorů do plasmatické membrány",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je provázena změnou koncentrace iontů vápníku v mezibuněčné tekutině",
+				"correct": false
+			}
+		]
+	}
+]

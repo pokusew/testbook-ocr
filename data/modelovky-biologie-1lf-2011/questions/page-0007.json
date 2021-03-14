@@ -1,0 +1,546 @@
+[
+	{
+		"id": 64,
+		"category": 1,
+		"number": 64,
+		"text": "Z multifaktoriálně dědičných znaků člověka má nejvyšší dědivost:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "výška postavy",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "inteligenčni kvocient",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "hmotnost postavy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "krevní tlak",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 65,
+		"category": 1,
+		"number": 65,
+		"text": "Aditivní interakce alel:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vyjadřuje jejich přídavný efekt ve fenotypu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je typická pro polygenní dědičnost",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je interakce při které se sčítá účinek alel ve fenotypu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je typická pro multifaktoriální dědičnost",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 66,
+		"category": 1,
+		"number": 66,
+		"text": "Model polygenní dědičnosti s prahovým efektem:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vysvětluje mechanismus dědičnosti alternativních znaků s polygenní disposicí",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "předpokládá normální rozložení frekvence genotypů v souboru",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vysvětluje dědičnost většiny vrozených vad",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vysvětluje částečně i dědičnost některých civilizačních chorob",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 67,
+		"category": 1,
+		"number": 67,
+		"text": "Znaky s multifaktoriální dědičností jsou ovlivněny:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "aditivním účinkem alel",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "interakcí genotypu a prostředí",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dominantním efektem alel",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vlivy prostředí.",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 68,
+		"category": 2,
+		"number": 72,
+		"text": "Haploidní počet chromosomů je obvykle přítomen v:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "gametě",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jaterní buňce",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "spermii",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zygotě",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 69,
+		"category": 2,
+		"number": 73,
+		"text": "Gamety obratlovců:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vznikají z haploidních somatických buněk meiózou",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vznikají z diploidních somatických buněk mitózou",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou haploidní (mají jednu sadu chromosomů)",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se dělí mitózou na haploidní somatické buňky",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 70,
+		"category": 2,
+		"number": 74,
+		"text": "Izogamie znamená, že:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "existují mikro a makrogamety",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "splývající gamety jsou geneticky stejné",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "splývají gamety téhož jedince",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "splývající gamety jsou morfologicky stejné",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 71,
+		"category": 2,
+		"number": 75,
+		"text": "Pokud jsou samčí a samičí gonády na jednom jedinci hovoříme o:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hermafroditismu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "gonochorismu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kryptorchismu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "oogonii",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 72,
+		"category": 2,
+		"number": 76,
+		"text": "Gamety jednoho jedince při pohlavním rozmnožování:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mají z každého chromosomálního páru vždy po jednom chromosomu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vznikají z diploidních somatických buněk procesem meiózy",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mají diploidní počet chromosomů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mají všechny stejnou genetickou výbavu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 73,
+		"category": 2,
+		"number": 77,
+		"text": "Pólová buňka:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "polarizuje membrány v místě synapse nerv-sval",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vzniká v procesu oogeneze",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je buňka zadního pólu očního bulbu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je tetraploidní",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 74,
+		"category": 2,
+		"number": 78,
+		"text": "Vniknutí spermie do vajíčka je impulsem k dokončení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "druhého zracího dělení (meiózy II)",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "prvního zracího dělení (meiózy I)",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "heterotypického dělení",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "homeotypického dělení",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 75,
+		"category": 2,
+		"number": 79,
+		"text": "Gamety jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zralé pohlavní buňky",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "buňky s diploidním počtem chromosomů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "buňky vzniklé amitózou",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "buňky vzniklé rozdělením zygoty",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 76,
+		"category": 2,
+		"number": 80,
+		"text": "Zygoty jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "oplozená vajíčka",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pohlavní buňky",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "buňky s polovičním počtem chromosomů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "buňky s diploidním počtem chromozomů",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 77,
+		"category": 2,
+		"number": 68,
+		"text": "Při nepohlavním rozmnožování:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mají potomci polovinu znaků totožnou s původním organismem",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou potomci geneticky totožní jako dvojvaječná dvojčata",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou potomci geneticky odlišní od původních organismů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou potomci geneticky totožní s původním organismem",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 78,
+		"category": 2,
+		"number": 69,
+		"text": "Cytogenetickým mechanismem při nepohlavním rozmnožování je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "amitóza",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "meióza",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mitóza",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "crossing over",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 79,
+		"category": 2,
+		"number": 70,
+		"text": "Genotypová variabilita je předpokladem:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "adaptace k měnícím se životním podmínkám",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "potlačení mechanismu přírodního výběru",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "klonování buněk",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "uniformity potomstva",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 80,
+		"category": 2,
+		"number": 71,
+		"text": "Gamety mají:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "3r chromosomů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "diploidní počet chromosomů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dvě sady chromosomů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "haploidní počet chromosomů",
+				"correct": true
+			}
+		]
+	}
+]

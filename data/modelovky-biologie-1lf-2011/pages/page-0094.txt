@@ -1,4 +1,3 @@
-with
 1586. Krevní skupina Rh je znak:
 A) žádná z uvedených alternativ není správná
 b) gonosomálně recesivně dědičný

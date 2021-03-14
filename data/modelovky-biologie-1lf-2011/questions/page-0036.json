@@ -1,0 +1,578 @@
+[
+	{
+		"id": 561,
+		"category": 6,
+		"number": 561,
+		"text": "Páry ganglií spojené příčně i podélně tvoří nervovou soustavu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žebříčkovou",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kruhovou",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "difúzní",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "trubicovou",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 562,
+		"category": 6,
+		"number": 562,
+		"text": "Fotoreceptory můžeme v živočišné říši nalézt:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "soustředěné ve statocystě, např. u korýšů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "roztroušené v pokožce",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "roztroušené na vousech okolo úst, např. u ryb",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v postranní čáře u ryb",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 563,
+		"category": 6,
+		"number": 563,
+		"text": "Zrakovým orgánem jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "u členovců složené oči",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "u hlavonožců miskovité oči",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "u kroužkovců komorové oči",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v larválním stadiu hmyzu složené oči",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 564,
+		"category": 6,
+		"number": 564,
+		"text": "Zrakovým orgánem jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "u členovců složené oči",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "u hlavonožců komorové oči",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kroužkovců miskovité oči",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "u měkkýšů teleskopické oči",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 565,
+		"category": 6,
+		"number": 565,
+		"text": "Morfologickou a funkční jednotkou hladkého svalu je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "buněčné syncitium",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mnohojaderné svalové vlákno",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "svalový snopec",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "svalové vlákno tvořené jednou buňkou",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 566,
+		"category": 6,
+		"number": 566,
+		"text": "Zárodečné obaly a plodová voda se poprvé v evoluci vyvinuly:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "u obojživelníků",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "u plazů",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "u ptáků",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "u savců",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 567,
+		"category": 6,
+		"number": 567,
+		"text": "Energetická autonomie jednobuněčných organismů znamená, že:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "všechnu energii, kterou spotřebují, uvolňují samy v metabolismu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "některé děje, např. pohyb mohou vykonávat bez spotřeby energie",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mohou bez spotřeby energie vykonávat např. transport látek",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "některé děje, např. tvorba bílkovin, jsou energeticky nenáročné",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 568,
+		"category": 6,
+		"number": 568,
+		"text": "Heterotrofní buňky:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "získávají energii pouze anabolismem",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou buňky většiny bakterií, hub a živočichů",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou buňky zelených rostlin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "využívají energii organických sloučenin",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 569,
+		"category": 6,
+		"number": 569,
+		"text": "Na oxidačně redukčních reakcích je založen metabolismus:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jak aerobní tak anaerobní",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pouze aerobní",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pouze anaerobní",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pouze u živočichů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 570,
+		"category": 6,
+		"number": 570,
+		"text": "Aerobní děje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou vlastní pouze živočichům",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v podstatě znamenají získávání energie dýcháním",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou vlastní pouze rostlinám",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou typické pro všechny bakterie",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 571,
+		"category": 6,
+		"number": 571,
+		"text": "Alkoholové kvašení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "probíhá v anaerobních podmínkách",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "probíhá v aerobních podmínkách",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je zpracování alkoholu kvasinkami",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je proces, při němž vzniká CO2",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 572,
+		"category": 6,
+		"number": 572,
+		"text": "Při alkoholickém kvašení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kyselina pyrohroznová vzniká dekarboxylací acetaldehydu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "acetaldehyd vzniká redukcí alkoholu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vzniká z kyseliny pyrohroznové dekarboxylací acetaldehyd",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "CH3CHO vzniká z CH3CH2OH",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 573,
+		"category": 6,
+		"number": 573,
+		"text": "Rozdíl mezi dýcháním a fotosyntézou je v tom, že:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "při fotosyntéze se energie spotřebovává, při dýchání uvolňuje",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "při dýchání se Oz uvolňuje a energie spotřebovává",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "při fotosyntéze se energie uvolňuje, při dýchání spotřebuje",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "při fotosyntéze vznikají z CO2 anorganické látky",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 574,
+		"category": 6,
+		"number": 574,
+		"text": "Soustava přenašečů při cyklické fotofosforylaci:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "přenáší elektrony ve směru stoupajícího oxidačně redukčního potenciálu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "přenáší elektrony proti směru stoupajícího oxidačně redukčního potenciálu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pomáhá vytvářet O2 z H20",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "spotřebovává jednoduché organické látky",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 575,
+		"category": 6,
+		"number": 575,
+		"text": "Ze srovnání potravy rostlinného a živočišného původu vyplývá, že:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "živočišná potrava má vyšší obsah glycidů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "živočišná potrava má vyšší obsah živin, hlavně bílkovin",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "živočišná potrava je hůř stravitelná",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "rostlinná potrava má jako charakteristickou složku celulózu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 576,
+		"category": 6,
+		"number": 576,
+		"text": "Krvomíza (hemolymfa):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "obsahuje chemoproteiny (např. hemoglobin a hemocyanin)",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "přenáší kyslík u létavého hmyzu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "obsahuje méně anorganických látek než hydrolymfa",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se vyskytuje u ploštěnců a ostnokožců",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 577,
+		"category": 6,
+		"number": 577,
+		"text": "V oběhové soustavě otevřené:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je oběh hemolymfy poměrně pomalý",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se u vodních korýšů hemolymfa nejdříve soustřed’uje do žaber, odtud přichází do srdce",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se hemolymfa proudící od srdce vylévá do prostorů mezi orgány",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou žíly často velmi krátké nebo chybějí",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 578,
+		"category": 6,
+		"number": 578,
+		"text": "Hemocyanin obsahuje v molekule:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "železo",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "měď",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zinek",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kobalt",
+				"correct": false
+			}
+		]
+	}
+]

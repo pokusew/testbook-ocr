@@ -1,0 +1,546 @@
+[
+	{
+		"id": 472,
+		"category": 5,
+		"number": 472,
+		"text": "Gramnegativní bakterie mají tvar:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kulovitý (koky)",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "tyčinkovitý",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vláknitý (mycelium)",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "spirální",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 473,
+		"category": 5,
+		"number": 480,
+		"text": "Výsledkem primárních procesů fotosyntézy je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "NADPH*, H*, ATP a 02",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "C6H1206, H20 a O2",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ribulóza-1,5-bifosfát",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "oxalacetát",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 474,
+		"category": 5,
+		"number": 481,
+		"text": "Pro fotosyntézu se ukázala jako nejvýhodnější kombinace chlorofylu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "a + b",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "a + c",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "a + d",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "a + e",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 475,
+		"category": 6,
+		"number": 482,
+		"text": "Pro fotosyntézu je využíváno:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "viditelné světlo",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ultrafialové záření",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "infračervené záření",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "záření všech vlnových délek",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 476,
+		"category": 6,
+		"number": 483,
+		"text": "Při malém zvýšení koncentrace CO2 v atmosféře se intenzita fotosyntézy:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zvyšuje",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "snižuje",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nemění",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kolísá",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 477,
+		"category": 6,
+		"number": 473,
+		"text": "Mykorrhiza je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "plísňové onemocnění brambor",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "symbióza vláken hub s kořeny vyšších rostlin",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "typická pro vodní rostliny",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "útvar na drobných koříncích lesních stromů",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 478,
+		"category": 6,
+		"number": 474,
+		"text": "Chlorofyl:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "obsahuje hořčík",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se nachází v thylakoidech",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je přítomen pouze v buňkách vyšších rostlin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je asimilační barvivo",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 479,
+		"category": 6,
+		"number": 475,
+		"text": "Mezi primární procesy fotosyntézy patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "fotolýza vody",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "redukce CO2 na sacharidy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "fotorespirace",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "změna energie světelného záření na energii chemických vazeb",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 480,
+		"category": 6,
+		"number": 476,
+		"text": "Mezi sekundární procesy fotosyntézy patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "redukce CO2 na sacharidy",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "fotofosforylace",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "první světelná reakce",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "druhá světelná reakce",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 481,
+		"category": 6,
+		"number": 477,
+		"text": "V primárních procesech fotosyntézy se:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mění energie světelná na energii chemickou",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "uvolňuje energie vázaná v ATP",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "využívá energie k tvorbě kyseliny 3-fosfoglycerové",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "využívá energie k tvorbě oxalacetátu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 482,
+		"category": 6,
+		"number": 478,
+		"text": "Kyslík uvolňovaný při fotosyntéze do vzduchu pochází:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "z vody",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "z CO2",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "z glukózy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "z NADP",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 483,
+		"category": 6,
+		"number": 479,
+		"text": "Fotofosforylace je proces vzniku ATP pomocí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "absorpce fotonu chlorofylem",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "štěpení glukózy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "oxidace vodíku organických látek",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "dehydrogenace organických látek",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 484,
+		"category": 6,
+		"number": 484,
+		"text": "Rozdíl mezi dýcháním a fotosyntézou je v tom, že:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "při fotosyntéze se energie spotřebovává, při dýchání uvolňuje",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "při dýchání se Oz uvolňuje",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "při fotosyntéze se energie uvolňuje, při dýchání spotřebuje",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "při fotosyntéze vznikají z CO2 anorganické látky",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 485,
+		"category": 6,
+		"number": 485,
+		"text": "Při fotosyntéze:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vzniká O2",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vzniká CO2",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vznikají anorganické látky z 02 a H20",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "dochází k přenosu elektronů ze soustavy voda/kyslík na soustavu koenzym NADP/NADPH2",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 486,
+		"category": 6,
+		"number": 486,
+		"text": "Soustava přenašečů při cyklické fotofosforylaci:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "přenáší elektrony ve směru stoupajícího oxidačně redukčního potenciálu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "přenáší elektrony proti směru stoupajícího oxidačně redukčního potenciálu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pomáhá vytvářet O2 z H20",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "spotřebovává jednoduché organické látky",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 487,
+		"category": 6,
+		"number": 487,
+		"text": "Fotosyntézu ovlivňuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "spektrální složení a intenzita světla",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "množství CO2",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "teplota",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "dostatek vody",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 488,
+		"category": 6,
+		"number": 488,
+		"text": "Mezi asimilační barviva patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "chlorofyl",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "fykocyan",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "fykoerytrin",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "bakteriochlorofyl",
+				"correct": true
+			}
+		]
+	}
+]

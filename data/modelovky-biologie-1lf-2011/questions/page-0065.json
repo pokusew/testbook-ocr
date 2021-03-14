@@ -1,0 +1,578 @@
+[
+	{
+		"id": 1079,
+		"category": 9,
+		"number": 1079,
+		"text": "Podněty pro srdeční stahy vznikají:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v míše",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ve specializované části srdeční svaloviny",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v gangliích útrobního nervstva",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1080,
+		"category": 9,
+		"number": 1080,
+		"text": "Srdeční chlopně:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zabraňují míšení okysličené a odkysličené krve",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "podílejí se na vypuzení krve ze srdce",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zabraňují zpětnému toku krve",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1081,
+		"category": 9,
+		"number": 1081,
+		"text": "Absolutně nejnižší hodnoty tlaku dosahuje krev:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v pravé síni",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ve vlásečnicích",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v žilách dolních končetin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v dutých žilách",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1082,
+		"category": 9,
+		"number": 1082,
+		"text": "Srdeční cyklus je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "celý proces od naplnění síní a komor krvi (diastola) až po vypuzení krve z komor d oběhu (systola)",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "proces postupného šíření podnětů vodivou tkání srdeční během diastoly",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je počet stahů srdce za jednu minutu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je celkové množství krve, které srdce přečerpá za jednu minutu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1083,
+		"category": 9,
+		"number": 1083,
+		"text": "Elektrokardiogram je záznam:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mechanické činnosti srdce",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "činnosti kosterního svalu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "bioelektrické aktivity srdce",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "bioelektrické činnosti mozku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1084,
+		"category": 9,
+		"number": 1084,
+		"text": "Cípaté chlopně jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mezi velkými žilami a síněmi",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "při ústí velkých tepen",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "při ústí plicních žil",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mezi síněmi a komorami",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1085,
+		"category": 9,
+		"number": 1085,
+		"text": "Věnčité tepny zásobují:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mozek",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ledviny",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "játra",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "srdeční sval",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1086,
+		"category": 9,
+		"number": 1086,
+		"text": "Věnčité (koronární) tepny:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zásobují krví kosterní svalovinu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zásobují krví svalovinu srdce (myokard)",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou 3",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou 2",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1087,
+		"category": 9,
+		"number": 1087,
+		"text": "Z uvedených oblastí může krevní tlak u stojícího člověka dosáhnout nejnižš hodnoty:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v pravé síni",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ve vlásečnicích kosterních svalů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v žilách dolních končetin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v dutých žilách",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1088,
+		"category": 9,
+		"number": 1088,
+		"text": "V období diastoly komor:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je vypuzována krev do plícnice",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "uzavírají se cípaté chlopně",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "otevírají se poloměsíčité chlopně",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1089,
+		"category": 9,
+		"number": 1089,
+		"text": "V období systoly komor:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je vypuzována krev do aorty",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je vypuzována krev do plícnice",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou otevřené poloměsíčité chlopně",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1090,
+		"category": 9,
+		"number": 1090,
+		"text": "V klidu u dospělého člověka přečerpá srdce do plicního oběhu za minutu asi:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "5 litrů krve",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "15 litrů krve",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "stejné množství krve jako do velkého oběhu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1091,
+		"category": 9,
+		"number": 1091,
+		"text": "Podněty pro jednotlivé srdeční stahy vznikají:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v míše",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v mozkovém kmeni",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v gangliích útrobního nervstva",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1092,
+		"category": 9,
+		"number": 1092,
+		"text": "Chlopně usměrňují tok krve v:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "srdci",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "žilách",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "cévicích",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "tepnách komor srdečních",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1093,
+		"category": 9,
+		"number": 1093,
+		"text": "Při diastole srdce je uzavřena chlopeň:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dvojcípá",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "trojcípá",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "poloměsíčitá",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "čtyřcípá",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1094,
+		"category": 9,
+		"number": 1094,
+		"text": "Převodní systém srdeční začíná:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "uzlíkem síňovým",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "uzlíkem sinusovým",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "uzlíkem komorovým",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Purkyňovými vlákny",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1095,
+		"category": 9,
+		"number": 1095,
+		"text": "Kvzniku aterosklerosy přispívá:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "obesita",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dědičná disposice",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nadměrný pohyb",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "konsumace i malých dávek alkoholu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1096,
+		"category": 9,
+		"number": 1096,
+		"text": "V mízních uzlinách:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se zachycují mikroorganismy",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se odbourávají erytrocyty",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se tvoří T lymfocyty",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se tvoří míza",
+				"correct": false
+			}
+		]
+	}
+]

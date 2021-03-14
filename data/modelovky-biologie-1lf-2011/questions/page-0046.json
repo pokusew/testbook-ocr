@@ -1,0 +1,578 @@
+[
+	{
+		"id": 740,
+		"category": 7,
+		"number": 749,
+		"text": "Vločkovci (Placozoa):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mají paprsčitě souměrné tělo",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mají nesouměrné tělo",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mají dvě vrstvy buněk",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou nejjednodušším typem skupiny Metazoa",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 741,
+		"category": 7,
+		"number": 750,
+		"text": "Nadřazenou kategorií je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "rod nad čeledí",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "řád nad třídou",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "čeled nad rodem",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "třída nad řádem",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 742,
+		"category": 7,
+		"number": 740,
+		"text": "Archea na rozdíl od bakterií:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mají eukaryotní buňky",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mají odlišné složení buněčné stěny",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nejsou nikdy fototrofní",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "některé rysy replikace, transkripce a translace jsou společné s doménou Eukarya",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 743,
+		"category": 7,
+		"number": 741,
+		"text": "Doména Eukarya:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "má buňky s jádrem ohraničeným jadernou membránou",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "má jádro dělící se mitoticky",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "má v buňkách mitochondrie a u některých zástupců plastidy",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "podle současných poznatků se dělí na 5 říší (prvoci, chromista, rostliny, houby živočichové)",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 744,
+		"category": 7,
+		"number": 742,
+		"text": "Mezi výtrusovce (Sporozoa) patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Toxoplasma",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Kokcidie jaterní",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Zimnička (Plasmodium)",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Měňavka úplavičná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 745,
+		"category": 7,
+		"number": 743,
+		"text": "Krásnoočka (Euglenozoa):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mají všichni chloroplasty",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mají chloroplasty získané sekundární endosymbiozou",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mají světločivnou organelu (stigma)",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zahrnují významné parazity člověka",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 746,
+		"category": 7,
+		"number": 744,
+		"text": "Bičíkovci (Mastigophora):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "živí se heterotrofně",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mohou příjmat potravu osmoticky",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "někteří jsou schopni fagocytózy",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou mezi nimi paraziti a symbionti",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 747,
+		"category": 7,
+		"number": 745,
+		"text": "Kořenonožci (Rhizopoda):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "tvoří panožky sloužící k pohybu a fagocytóze",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "někteří mají schránky",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "žijí všichni volně",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "někteří žijí paraziticky",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 748,
+		"category": 7,
+		"number": 746,
+		"text": "Nálevníci (Ciliophora):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pohybují se pomocí brv",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou všichni volně pohybliví, nepřisedlí",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nejsou mezi nimi paraziti ani symbionti",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "množí se pohlavně i nepohlavně",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 749,
+		"category": 7,
+		"number": 747,
+		"text": "Mezi bičíkovce (Mastigophora) patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "měňavka úplavičná",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "lamblie střevní",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "trypanosoma spavičná",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "krásnoočko (Euglena)",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 750,
+		"category": 7,
+		"number": 748,
+		"text": "Lamblie střevní:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "patří mezi kořenonožce",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "patří mezi bičíkovce",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vyvolává střevní onemocnění u dětí",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "střevním symbiontem",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 751,
+		"category": 7,
+		"number": 751,
+		"text": "Mezi prvoústé (Protostomia) patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ploštěnci (Plathelminthes)",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "měkkýši (Mollusca)",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "strunatci (Chordata)",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "členovci (Arthropoda)",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 752,
+		"category": 7,
+		"number": 752,
+		"text": "Mezi prvoústé (Protostomia) patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ploštěnci (Plathelminthes)",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ostnokožci (Echinodermata)",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "hmyz (Insecta)",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kroužkovci (Annelida)",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 753,
+		"category": 7,
+		"number": 753,
+		"text": "Mezi hlístice (Nematoda) patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "motolice",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hádátko řepné",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "škrkavka",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "tasemnice",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 754,
+		"category": 7,
+		"number": 754,
+		"text": "Mezi hlísty (Nemathelminthes) patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "škrkavka",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "roup",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "krevnička močová",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vlasovec mízní",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 755,
+		"category": 7,
+		"number": 755,
+		"text": "Houby (Porifera):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se živí mikroskopickou potravou",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zabíjejí kořist žahavými buňkami",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pohlcují potravu pomocí límečkových buněk",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mají difúzní nervovou soustavu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 756,
+		"category": 7,
+		"number": 756,
+		"text": "Tasemnice (Cestoda):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "přijímají potravu celým povrchem těla",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mají gastrovaskulární soustavu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nemají trávicí soustavu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mají coelom",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 757,
+		"category": 7,
+		"number": 757,
+		"text": "Krevnička močová (Schistosoma haematobium):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "patří mezi motolice",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "patří mezi tasemnice",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vyvolává u člověka bilharziózu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vyskytuje se i na našem území",
+				"correct": false
+			}
+		]
+	}
+]

@@ -1,0 +1,578 @@
+[
+	{
+		"id": 525,
+		"category": 6,
+		"number": 525,
+		"text": "Autogamie znamená:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "druh redukčního dělení",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "sprášení pylem z téhož květu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "samoopylení",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vznik nového jedince bez splynutí pohlavních buněk",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 526,
+		"category": 6,
+		"number": 526,
+		"text": "Vytrvalé rostliny:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žijí několik vegetačních sezón (desítky až stovky let)",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "po dosažení určitého věku pravidelně kvetou",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "plodí jen jednou za život",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "netvoří semena",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 527,
+		"category": 6,
+		"number": 527,
+		"text": "Víceleté rostliny (plurieny):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "plodí jen jednou za život (monokarpie)",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "po vyklíčení žijí několik vegetačních sezón ve vegetativním klidu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jednou vykvetou, vytvoří semena a uhynou",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná z alternativ není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 528,
+		"category": 6,
+		"number": 528,
+		"text": "Dvouleté rostliny (bieny):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "první rok na jaře vyklíčí, vytvoří vegetativní orgány a přezimují",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "druhý rok vytvoří semena a hynou",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "plodí jednou za život",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "na podzim vyklíčí, následující rok vytvoří semena a hynou",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 529,
+		"category": 6,
+		"number": 529,
+		"text": "Schizocoel:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je prvotní tělní dutina prvoústých vyplněná parenchymem",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je vylučovací systém ploštěnců",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "obsahuje plaménkové buňky",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "dutina uvnitř entodermu (archenteron)",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 530,
+		"category": 6,
+		"number": 530,
+		"text": "Anabolismus:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vede k syntéze a ukládání bílkovin, glykogenu a triacylglycerolů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou procesy, při nichž v buňce převládají syntézy",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je stav anaerobního metabolismu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou procesy, kdy se složitější molekuly rozkládají na jednodušší",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 531,
+		"category": 6,
+		"number": 531,
+		"text": "Katabolismus:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou procesy, při nichž v buňce převládá rozklad zásobních látek",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je proces, kdy organismus získává ATP",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou procesy, kdy z jednodušších molekul vznikají složitější",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je výraz pro katalytickou schopnost enzymů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 532,
+		"category": 6,
+		"number": 532,
+		"text": "Anabolismus:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je typ buněčného metabolismu, kdy energii poskytují oxidoredukční děje",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je rozklad aminokyselin a basí nukleových kyselin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou procesy převládající v buňkách, které hynou",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou procesy, kdy se složitější molekuly rozkládají na jednodušší",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 533,
+		"category": 6,
+		"number": 533,
+		"text": "Katabolické dráhy:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou biochemické procesy, kdy energii poskytují oxidoredukční děje",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou procesy převládající v buňkách, které se reprodukují",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou procesy, kdy z jednodušších molekul vznikají složitější",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zahrnují reakci, kdy NAD je akceptorem vodíku",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 534,
+		"category": 6,
+		"number": 534,
+		"text": "Aktivní centrum enzymu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je oblast ve struktuře enzymu pro vazbu látek vstupujících do reakce (substrátů)",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je specifickým aktivátorem enzymu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je inhibitorem funkce enzymu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "určuje jeho katalytickou funkci a specifitu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 535,
+		"category": 6,
+		"number": 535,
+		"text": "Aktivní centrum enzymu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je část peptidového řetězce s přesnou architekturou",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mění proenzym na enzym",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vytváří vazby mezi molekulou enzymu a substrátu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "umožní přeměnu substrátu na produkt enzymové reakce",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 536,
+		"category": 6,
+		"number": 536,
+		"text": "Syntéza enzymů je řízena:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "geneticky",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pomocí aktivačního centra enzymu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pomocí represivního centra enzymu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "prostřednictvím struktury enzymu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 537,
+		"category": 6,
+		"number": 537,
+		"text": "Saprofyti:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou autotrofní organismy",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mineralizují organické zbytky odumřelých organismů",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mají schopnost chemosyntézy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "přijímají uhlík z organických látek",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 538,
+		"category": 6,
+		"number": 538,
+		"text": "Paraziti:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "získávají organické látky z živých organismů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "získávají organické látky z mrtvých organismů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "většinou zabíjejí hostitele",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "napadají jedince téhož druhu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 539,
+		"category": 6,
+		"number": 539,
+		"text": "Nitrobuněčné trávení se vyskytuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "u jednobuněčných živočichů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "u kroužkovců",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "u členovců",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "u strunatců",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 540,
+		"category": 6,
+		"number": 540,
+		"text": "Klky a mikroklky střeva se vyvinuly u:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "obratlovců",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "členovců",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "měkkýšů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ploštěnců",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 541,
+		"category": 6,
+		"number": 541,
+		"text": "Význam klků a mikroklků spočívá v tom, že:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "umožňují rychlý průchod potravy střevem",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v nich probíhá nitrobuněčné trávení",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "napomáhají vstřebávání živin",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zvětšují vstřebávací povrch střeva",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 542,
+		"category": 6,
+		"number": 542,
+		"text": "Hepatopankreas se vyskytuje u:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "u ptáků",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "měkkýšů",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vačnatců",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "u kroužkovců",
+				"correct": false
+			}
+		]
+	}
+]

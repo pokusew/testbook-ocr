@@ -1,0 +1,578 @@
+[
+	{
+		"id": 920,
+		"category": 7,
+		"number": 920,
+		"text": "Mezi běžce (Palaeognathae) patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "chocholouš",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kivi",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kasuár",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kormorán",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 921,
+		"category": 7,
+		"number": 929,
+		"text": "Hnízdní parazitizmus je typický pro:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "straku",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kukačku",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "slepici",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "havrana",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 922,
+		"category": 7,
+		"number": 930,
+		"text": "Paryby (Chondrichthyes)mají:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "plakoidní šupiny",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "žábry kryté skřelemi",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "plynový měchýř",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kloaku",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 923,
+		"category": 7,
+		"number": 921,
+		"text": "Ptáci (Aves) postrádají tyto orgány:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "játra",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kloaku",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "močový měchýř",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zuby",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 924,
+		"category": 7,
+		"number": 922,
+		"text": "Peří ptáků (Aves):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se vyvinulo z plazích šupin",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je tvořeno chitinem",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je tvořeno z rohoviny",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je derivátem pokožky",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 925,
+		"category": 7,
+		"number": 923,
+		"text": "Obojživelníci (Amphibia):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mají přímý vývoj",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dospělí jsou masožraví",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mají výrazný podíl kožního dýchání",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mají stálou tělesnou teplotu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 926,
+		"category": 7,
+		"number": 924,
+		"text": "Ptáci (Aves) mají:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "srdce rozděleno na levou polovinu s okysličenou krví a pravou polovinu s odkysličeno krví",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "červené krvinky obsahující jádro",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "tělesnou teplotu 41-44 °C",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "tělesnou teplotu 36-37 °C",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 927,
+		"category": 7,
+		"number": 925,
+		"text": "U ptáků (Aves):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se vylučování děje ledvinami",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se vylučování děje kostrční žlázou",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je produktem vylučování močovina",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je produktem vylučování kyselina močová",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 928,
+		"category": 7,
+		"number": 926,
+		"text": "Zvrásnění (gyrifikace) kůry koncového mozku se objevuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "u všech savců",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pouze u vývojově pokročilejších savců",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pouze u primátů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "u některých ptáků",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 929,
+		"category": 7,
+		"number": 927,
+		"text": "Mžurka je orgánem vyvinutým:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "u plazů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "u ptáků",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "u všech savců",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "u vejcorodých savců",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 930,
+		"category": 7,
+		"number": 928,
+		"text": "Čelistnatci (Gnathostomata):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mají párové končetiny",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mají párový čichový orgán",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "tradičně se dělí na 6 tříd (paryby, ryby, obojživelníci, plazi, ptáci, savci)",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "patří mezi obratlovce",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 931,
+		"category": 7,
+		"number": 931,
+		"text": "Vejcorodí savci (Prototheria):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mají nedokonalou placentu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nemají plodové obaly",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mají mléčné žlázy končící na bradavkách",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mají plně vyvinutou kloaku",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 932,
+		"category": 7,
+		"number": 932,
+		"text": "Kmen strunatců (Chordata) se dělí do podkmenů:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pláštěnci (Tunicata), bezlebeční (Cephalochordata) a obratlovci (Vertebrata)",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "bezčelistnatci (Agnatha), čelistnatci (Gnathostomia)",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "blanatí (Amniota) a bezblanní (Anamnia)",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "prvoústí (Protostomia) a druhoústí (Deuterostomia)",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 933,
+		"category": 7,
+		"number": 933,
+		"text": "Savci (Mammalia) mají:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "téměř vždy 7 krčních obratlů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jeden kloubní hrbol, kterým nasedá lebka na páteř",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "krkavčí kost dobře vyvinutou",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vždy dobře vyvinutou klíční kost",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 934,
+		"category": 7,
+		"number": 934,
+		"text": "Do říše Chromista patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "rozsivky (Diatomae)",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hnědé řasy (Phaeophyceae)",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "oomycety (Oomycota)",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "krásnoočka (Euglenophyta)",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 935,
+		"category": 7,
+		"number": 935,
+		"text": "U zástupců říše Chromista nacházíme:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "chloroplasty s dvojitou membránou volně v cytoplazmě",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "chloroplasty získané sekundární endosymbiózou",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "asimilační pigment fukoxanthin",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "buněčnou stěnu tvořenou chitinem",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 936,
+		"category": 7,
+		"number": 936,
+		"text": "Oomycety (Oomycota):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "patří mezi Chromista",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "druhotně ztratily plastidy",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zahrnují parazity vyšších rostlin",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "patří mezi ně plíseň bramborová a vřetenatka révová",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 937,
+		"category": 7,
+		"number": 937,
+		"text": "Mezi homoiotermní živočichy patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hmyz",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "obojživelníci",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kruhoústí",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ptáci a savci",
+				"correct": true
+			}
+		]
+	}
+]

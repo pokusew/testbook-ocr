@@ -1,0 +1,546 @@
+[
+	{
+		"id": 320,
+		"category": 4,
+		"number": 320,
+		"text": "Mutace mohou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "úplně změnit protein, který je podle informace v genu syntetizován",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "způsobit změnu fenotypového projevu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "být bez změny fenotypu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "měnit onkogeny na protonkogeny",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 321,
+		"category": 4,
+		"number": 321,
+		"text": "Různé formy jednoho a téhož genu se nazývají:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "alely",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "lokusy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "karyotyp",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "fenotyp",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 322,
+		"category": 4,
+		"number": 322,
+		"text": "Strukturní aberace chromosomů:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je spojena se změnou pořadí nebo počtu genů v chromosomu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je výsledkem drastického poškození DNA příslušného chromosomu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je často překážkou normálního průběhu meiózy",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "spočívá ve změně standardního počtu chromosomů (2n) v buňce",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 323,
+		"category": 4,
+		"number": 323,
+		"text": "Translokace je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ztráta genetického materiálu, ke které dochází během anafáze",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "typ chromosomální mutace",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v některých případech příčinou vzniku gamet, ve kterých je duplikována čás genetického materiálu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vždy důsledek chromosomálního zlomu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 324,
+		"category": 4,
+		"number": 324,
+		"text": "Chromosomové mutace:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vznikají v důsledku zlomů chromatid",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou podmíněny záměnou jednoho nukleotidu jiným",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mohou ohrožovat životaschopnost plodu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mohou zvyšovat počet chromosomálních sad",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 325,
+		"category": 4,
+		"number": 325,
+		"text": "Chromosomové mutace:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se nověji označují jako strukturální aberace chromosomů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mění genetický kód",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mohou měnit strukturu chromosomu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "lze nalézt až u 5 % lidí",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 326,
+		"category": 4,
+		"number": 326,
+		"text": "Chromosomové mutace:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou u člověka neslučitelné se životem",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mění počet sad chromosomů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mohou měnit počet chromosomů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "můžeme u člověka odhalit i před narozením",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 327,
+		"category": 4,
+		"number": 327,
+		"text": "Polyploidie:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se u rostlin nevyskytuje",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je u vyšších savců běžná",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je totéž jako polyzomie",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 328,
+		"category": 4,
+		"number": 328,
+		"text": "Polyploidie:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vzniká z nefunkčních gamet na začátku meiózy",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je u řady rostlinných druhů běžná",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je u většiny živočišných druhů neobvyklá",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je příkladem aneuploidie",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 329,
+		"category": 4,
+		"number": 329,
+		"text": "Polyploidizace:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se uplatňuje u příbuzenských sňatků",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je značně nebezpečná pro chovy domácích zvířat",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se používá v rostlinném šlechtitelství",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zvyšuje počet dominantních homozygotů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 330,
+		"category": 4,
+		"number": 330,
+		"text": "Genomové mutace:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mění genetický kód",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vyvolávají zlomy chromatid",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mění strukturu chromosomů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "násobí počet úplných chromosomových sad",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 331,
+		"category": 4,
+		"number": 331,
+		"text": "Alkaptonurie:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je způsobena nefunkčností (mutací) genu pro určitý enzym",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "byla geneticky popsána už před 100 lety",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je příkladem nemoci s autosomálně dominantní dědičností",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je příkladem nemoci s poruchou metabolismu lipidů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 332,
+		"category": 4,
+		"number": 332,
+		"text": "Cystická fibróza:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je vývojová vada prstů a skeletu končetin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "patří mezi tzv. molekulární choroby",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je nejčastější autosomálně recesivní chorobou",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je příkladem nemoci s poruchou metabolismu aminokyselin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 333,
+		"category": 4,
+		"number": 333,
+		"text": "Downův syndrom:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Ize prokázat prenatálně z plodové vody",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je podmíněn autosomálně recesivně",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "za jeho příznaky odpovídají geny na delším (q) ramenu 18. chromosomu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se přenáší z matek (zejména starších 21 let) na syny",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 334,
+		"category": 4,
+		"number": 334,
+		"text": "Downův syndrom:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je typicky onemocněním chlapců, dívky jsou postiženy krajně vzácně",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je nejčastěji podmíněn trizomií 21. chromosomu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "za jeho příznaky odpovídají geny na delším (q) ramenu 21. chromosomu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "riziko narození dítěte s D. sy vzrůstá s věkem matky, proto se v ČR těhotným po 35. rok věku navrhuje chromosomální vyšetření plodu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 335,
+		"category": 4,
+		"number": 335,
+		"text": "Sonda DNA:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je množina stejných kopií řetězce DNA, komplementárního k dané genové sekvenci",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v praxi se užívají obvykle kratší sondy - oligonukleotidy",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je přímé vyšetření nukleotidové sekvence",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "může být využita pro konstrukci diagnostických DNA-čipů",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 336,
+		"category": 4,
+		"number": 336,
+		"text": "Přímé vyšetření nukleotidové sekvence genové DNA:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je princip, který se používá ke konstrukci diagnostických DNA-čipů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "lze použít k vyšetření všech genů, pro něž je nukleotidová sekvence standardn (normální) alely známa",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je založeno na principu hybridizace až několik desítek tisíc nukleotidů dlouhých son DNA s genovou DNA pacienta",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "lze odečítat v elektronovém mikroskopu",
+				"correct": false
+			}
+		]
+	}
+]

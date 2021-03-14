@@ -1,0 +1,578 @@
+[
+	{
+		"id": 1131,
+		"category": 10,
+		"number": 1140,
+		"text": "Ve vzduchu v plicních sklípcích je ve srovnání s atmosférickým vzduchem:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "více CO2",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "stejně CO2",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "méně CO2",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "není CO2",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1132,
+		"category": 10,
+		"number": 1141,
+		"text": "Kolik % CO2 obsahuje atmosférický vzduch:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,03 %",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1%",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "5%",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "0%",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1133,
+		"category": 10,
+		"number": 1142,
+		"text": "V atmosférickém vzduchu je obsah kyslíku v %:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "21",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "12",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "25",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "18",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1134,
+		"category": 10,
+		"number": 1131,
+		"text": "Výdech vzduchu z plic při klidném dýchání je dán činností:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádné z uvedených tvrzení není správné",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "bránice",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mezižeberních svalů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pomocných dýchacích svalů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1135,
+		"category": 10,
+		"number": 1132,
+		"text": "Ve vydechovaném vzduchu je ve srovnání se vzduchem vdechovaným:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "stejně N2",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "více CO2",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "méně CO2",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "méně N2",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1136,
+		"category": 10,
+		"number": 1133,
+		"text": "Ve vydechovaném vzduchu je ve srovnání se vzduchem vdechovaným:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "méně Oz",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "stejně CO2",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "stejně 02",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "více 02",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1137,
+		"category": 10,
+		"number": 1134,
+		"text": "Ve vydechovaném vzduchu je ve srovnání se vzduchem vdechovaným:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádné z uvedených tvrzení není správné",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "více N2",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "stejně 02",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "více 02",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1138,
+		"category": 10,
+		"number": 1135,
+		"text": "Kyslíku spotřebuje průměrný dospělý člověk v klidu za minutu asi:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádné z uvedených tvrzení není správné",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "100 ml",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "11",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "81",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1139,
+		"category": 10,
+		"number": 1136,
+		"text": "CO2 vydýchá průměrný dospělý člověk v klidu za minutu asi:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "200 ml",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "50 ml",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "100 ml",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "11",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1140,
+		"category": 10,
+		"number": 1137,
+		"text": "Při klidném dýchání je u průměrného dospělého člověka dechový objem asi:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "500 ml",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "100 ml",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "200 ml",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1000 ml",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1141,
+		"category": 10,
+		"number": 1138,
+		"text": "Mrtvý prostor dýchacího systému je u průměrného dospělého člověka asi:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "50 ml",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "150 ml",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "500 ml",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "800 ml",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1142,
+		"category": 10,
+		"number": 1139,
+		"text": "Příčinou hypoxie může být:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nedostatek hemoglobinu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "obsazení hemoglobinu CO",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zpomalení cirkulace krve",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nedostatek kyslíku ve vzduchu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1143,
+		"category": 10,
+		"number": 1143,
+		"text": "Hlasové vazy jsou rozepjaty:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v nosohltanu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v hrtanu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v průdušnici",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v pravé průdušce",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1144,
+		"category": 10,
+		"number": 1144,
+		"text": "V pohrudniční štěrbině je v klidu tlak:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nižší než atmosférický",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vyšší než atmosférický",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "stejný jako atmosférický",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "60 kPa",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1145,
+		"category": 10,
+		"number": 1145,
+		"text": "Hlavním vdechovým svalem je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "trapézový sval",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "bránice",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "přímý břišní sval",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "malý prsní sval",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1146,
+		"category": 10,
+		"number": 1146,
+		"text": "Vstup do hrtanu uzavírá:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hltanová příklopka",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hrtanová příklopka",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "čípek",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kruhový svěrač",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1147,
+		"category": 10,
+		"number": 1147,
+		"text": "Při smrštění bránice se objem pohrudniční štěrbiny:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zmenšuje",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nemění se",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zvětšuje se",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zvětšuje se a klesá v ní tlak",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1148,
+		"category": 10,
+		"number": 1148,
+		"text": "K výměně dýchacích plynů dochází v:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "plicních sklípcích",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "průdušnici",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dýchacích úsecích průdušek",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mízních cévách plic",
+				"correct": false
+			}
+		]
+	}
+]

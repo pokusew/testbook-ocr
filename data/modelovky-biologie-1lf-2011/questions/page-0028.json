@@ -1,0 +1,578 @@
+[
+	{
+		"id": 418,
+		"category": 5,
+		"number": 418,
+		"text": "Onkogenní transformaci hostitelské buňky může vyvolat:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "lytický cyklus některých DNA a RNA virů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "začlenění virové nukleové kyseliny do DNA hostitelské buňky",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Onkovirus",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "retrovirus",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 419,
+		"category": 5,
+		"number": 419,
+		"text": "Proteiny kapsidu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou kódovány virovými geny",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou kódovány geny hostitelské buňky",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou kódovány virovými geny i geny hostitelské buňky",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou syntetizovány na ribosomech hostitelské buňky",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 420,
+		"category": 5,
+		"number": 420,
+		"text": "Genom viru může obsahovat:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jednovláknovou DNA",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dvouvláknovou DNA",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jednovláknovou RNA",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "dvouvláknovou RNA",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 421,
+		"category": 5,
+		"number": 421,
+		"text": "Kapsid se skládá z:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "telomer",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "fosfolipidů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "proteinu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kapsomer",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 422,
+		"category": 5,
+		"number": 422,
+		"text": "Interakce virus-buňka může způsobit:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "lýzu buňky",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nádorovou transformaci buňky",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nekrotické ložisko",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "latentní infekci",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 423,
+		"category": 5,
+		"number": 423,
+		"text": "Neobalené viry obsahují:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pouze nukleové kyseliny",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "bílkoviny a nukleové kyseliny",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "lipidy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "bud DNA nebo RNA",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 424,
+		"category": 5,
+		"number": 424,
+		"text": "Provirus:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vyvolává progresivní paralýzu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je totéž jako virion",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je virová nukleová kyselina včleněná do DNA hostitelské buňky",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "někdy může vyvolat maligni transformaci",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 425,
+		"category": 5,
+		"number": 425,
+		"text": "Virus:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se může množit v kterékoliv buňce",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se váže na buňku prostřednictvím receptoru",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "obsahuje DNA a všechny typy RNA",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "může v buňce přetrvávat, aniž by se plikoval",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 426,
+		"category": 5,
+		"number": 426,
+		"text": "Viroidy:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je jiný název pro viriony",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nemají kapsid",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "neobsahují nukleovou kyselinu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vyvolávají choroby u rostlin",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 427,
+		"category": 5,
+		"number": 427,
+		"text": "Viry:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "obsahují jen jeden druh nukleové kyseliny (pouze DNA nebo RNA)",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "obsahují oba typy nukleových kyselin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se mohou za extrémních podmínek množit mimo hostitelskou buňku",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mají schopnost přetrvávat mimo hostitelskou buňku",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 428,
+		"category": 5,
+		"number": 428,
+		"text": "Rostlinné viry:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "obsahují obvykle RNA",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mohou být přenášeny hmyzem",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mohou být přenášeny semeny",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mohou být přenášeny parazitickými houbami",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 429,
+		"category": 5,
+		"number": 429,
+		"text": "Viroid:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je jednořetězcová molekula RNA",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vyvolává chorobu u rostlin",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je větší než virus",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "není infekční",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 430,
+		"category": 5,
+		"number": 430,
+		"text": "Přenos živočišných virů je možný:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vzduchem",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "potravinami",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "hmyzími vektory",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "přímými kontakty",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 431,
+		"category": 5,
+		"number": 431,
+		"text": "Herpesviry:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "některé vyvolávají opary",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "některé jsou onkogenní",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "patří mezi ně cytomegalovirus",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou řazeny mezi neobalené DNA viry",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 432,
+		"category": 5,
+		"number": 432,
+		"text": "Mírně zahnutý tvar (buňky bakterií) nacházíme u:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vibrií",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "spirochet",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "bacilů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "streptokoků",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 433,
+		"category": 5,
+		"number": 433,
+		"text": "Bakteriální chromosom:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je kruhový",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "obsahuje dvouřetězcovou molekulu DNA",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "obsahuje bílkoviny typu histonů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je od cytoplasmy oddělen jadernou membránou",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 434,
+		"category": 5,
+		"number": 434,
+		"text": "Retroviry:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mívají gen pro reversní transkriptázu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mohou vyvolávat zhoubné nádory",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "patří mezi ně polyoma virus SV40",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou původcem AIDS",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 435,
+		"category": 5,
+		"number": 435,
+		"text": "Chemoorganotrofní bakterie:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "získávají energii oxidací redukovaných organických látek, např. glukózy",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "získávají energii redukcí organických látek, např. glukózy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "využívají vždy kyslík jako oxidační látku",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nemohou žít bez kyslíku",
+				"correct": false
+			}
+		]
+	}
+]

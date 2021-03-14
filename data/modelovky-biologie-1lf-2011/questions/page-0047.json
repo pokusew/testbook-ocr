@@ -1,0 +1,578 @@
+[
+	{
+		"id": 758,
+		"category": 7,
+		"number": 758,
+		"text": "Trypanozoma spavičná (Trypanosoma gambiense):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "způsobuje rozpad červených krvinek savců",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je parazitující prvok přenášený na člověka hmyzem",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vyvolává spavou nemoc často končící smrtí",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "patří mezi bičíkovce (Mastigophora)",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 759,
+		"category": 7,
+		"number": 759,
+		"text": "Bičenka poševní (Trichomonas vaginalis):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "má výraznou rodozměnu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je lidským parazitem",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "má mezihostitele několika živočišných druhů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "infekce může u těhotných vyvolat potrat",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 760,
+		"category": 7,
+		"number": 760,
+		"text": "Toxoplasma:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "patří mezi bičíkovce",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je parazitem střídajícím hostitele",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je nebezpečná pro vývoj lidského plodu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vyvolává spavou nemoc",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 761,
+		"category": 7,
+		"number": 761,
+		"text": "Žahavci:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mají tělo tvořené ektodermem a entodermem, mezi nimiž je mezoglea",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mají trávicí dutinu typu láčky",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "někteří mají komorové oči",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "u některých skupin se v životním cyklu střídá stádium polypa a medúzy",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 762,
+		"category": 7,
+		"number": 762,
+		"text": "Nezmar:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nemá stádium medúzy",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "má žahavé buňky",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "množí se pučením",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "množí se pouze nepohlavně",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 763,
+		"category": 7,
+		"number": 763,
+		"text": "Houby (Porifera) se mohou rozmnožovat:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "výhradně nepohlavně",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pučením",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "přes stádium pohyblivé larvy",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "tvorbou gemulí",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 764,
+		"category": 7,
+		"number": 764,
+		"text": "Medúzovci (Scyphozoa):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žijí dravě",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mají gastrovaskulární soustavu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mají statokinetické a světločivné smyslové orgány",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "některé druhy mají toxiny smrtelně nebezpečné pro člověka",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 765,
+		"category": 7,
+		"number": 765,
+		"text": "Korálnatci (Anthozoa):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mají v životním cyklu stádium medúzy",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou všichni trvale přisedlí",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "žijí pouze v moři",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zahrnují korály a sasanky",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 766,
+		"category": 7,
+		"number": 766,
+		"text": "Houby (Porifera):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "netvoří pravé tkáně",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nemají pevnou symetrii",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "žijí po celý život přisedle",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou výlučně mořští živočichové",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 767,
+		"category": 7,
+		"number": 767,
+		"text": "Tělo hub (Porifera) je tvořeno:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "povrchovou a vnitřní vrstvou buněk, mezi nimiž je vrstva mezogley",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ektodermem, entodermem a mezodermem",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jednou vrstvou buněk různě diferencovaných",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "křemičitou schránkou vyplněnou nediferencovanými buňkami",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 768,
+		"category": 7,
+		"number": 768,
+		"text": "Žahavci (Cnidaria) mají tělní organizaci na úrovni:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "moruly",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "gastruly",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "blastuly",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "gemuly",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 769,
+		"category": 7,
+		"number": 769,
+		"text": "Říše rostliny (Plantae):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou převážně fotoautotrofní",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mají chloroplasty s dvojitou membránou uložené volně v cytoplazmě",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zásobní látkou je škrob",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "všichni zástupci mají tělo rozčleněné na kořen, stonek a listy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 770,
+		"category": 7,
+		"number": 770,
+		"text": "Sinice (Cyanobakteria):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mají prokaryotní buňky",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "patří mezi gramnegativní bakterie",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou vždy jednobuněčné",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mohou tvořit vícebuněčná vlákna",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 771,
+		"category": 7,
+		"number": 771,
+		"text": "Sinice (Cyanobakteria):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou fotoautotrofní",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "obsahují stejné asymilační pigmenty jako zelené rostliny",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "obsahují chlorofyl a a fykobiliproteiny",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "některé druhy tvoří při přemnožení tzv. vodní květ",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 772,
+		"category": 7,
+		"number": 772,
+		"text": "Houby vřeckovýtrusé (Ascomycetes):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se rozmnožují pohlavně askosporami",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se rozmnožují nepohlavně konidiemi",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou po celý život diploidní",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zástupcem je štětičkovec (Penicillium), kropidlák (Aspergillus) a paličkovice nachov (Claviceps purpurea)",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 773,
+		"category": 7,
+		"number": 773,
+		"text": "Zygomycety (Zygomycetes):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou většinou saprofytní",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zástupcem je např. plíseň hlavičková (Mucor mucedo)",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "množí se jen pohlavně",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pohlavní rozmnožování zahrnuje splývání haploidních mycelií dvou různých jedinců",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 774,
+		"category": 7,
+		"number": 774,
+		"text": "Mezi houby stopkovýtrusé (Basidiomycota) patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "holubinka trávozelená",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "rez travní obilná",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "hřib smrkový",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "plíseň hlavičková",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 775,
+		"category": 7,
+		"number": 775,
+		"text": "Štětičkovec (Penicillium notatum):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je houba vřeckovýtrusa (Ascomycetes)",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se může množit konidiemi",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je důležitý pro výrobu antibiotik",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je důležitý pro výrobu alkaloidů",
+				"correct": false
+			}
+		]
+	}
+]

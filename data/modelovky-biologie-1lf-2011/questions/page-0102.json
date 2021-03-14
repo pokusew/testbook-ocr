@@ -1,0 +1,162 @@
+[
+	{
+		"id": 1726,
+		"category": 23,
+		"number": 1726,
+		"text": "Sobecký gen:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je gen, který určuje sobecké chování jednotlivce",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je alela, která potlačuje fenotypovou expresi všech ostatních alel daného genu (lokusu) které se v dané populaci aktuálně vyskytují, pokud se jakákoli z těchto alel ocitn v jednom genotypu se sobeckým genem.",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je alela, která zvyšuje biologickou zdatnost jedince, který ji nese, tím, že škodí ostatní jedincům v populaci",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je alela, která zvyšuje pravděpodobnost svého předání do genofondu další generace aniž by zvyšovala biologickou zdatnost jedince, který ji nese",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1727,
+		"category": 23,
+		"number": 1727,
+		"text": "Při koevoluci parazita a hostitele:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je parazit v nevýhodě oproti složitému hostilteli, disponujícímu sofistikovaný imunitním systémem",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je parazit ve výhodě díky kratší generační době",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je parazit ve výhodě díky většímu množství potomků",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "má hostitel dostatek času, aby se vyvinuly mechanismy účinně likvidující parazita",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1728,
+		"category": 23,
+		"number": 1728,
+		"text": "Jediným zdrojem evolučních novinek na molekulární úrovni jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nezávislá segregace vloh v další generaci",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "rekombinace chromosomů (crossing-over)",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mutace",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nezávislá segregace chromosomů v meióze a vznik nových kombinací splýváním gamet",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1729,
+		"category": 23,
+		"number": 1729,
+		"text": "Evoluční historii člověka lze rekonstruovat:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "z kosterních pozůstatků",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "porovnáním lidského genomu s genomem jeho předků",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "porovnáním lidského genomu s příbuznými druhy primátů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "porovnáním kultur různých etnik",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1730,
+		"category": 23,
+		"number": 1730,
+		"text": "Paleontologický (kosterní) záznam často neobsahuje tzv. vývojové mezičlánk např. kvůli: (označte jako správné od všechny možné hypotézy):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mimořádně malému procentu zachovalých pozůstatků (méně než 1 kostra na druh)",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "saltatorní evoluci (krátká období změn a dlouhá období stagnace vývoje)",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "snadnějšímu vzniku nových druhů v malých, okrajových populacích",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pravidelnému masívnímu vymírání nedokonale přizpůsobených „mezičlánků“",
+				"correct": false
+			}
+		]
+	}
+]

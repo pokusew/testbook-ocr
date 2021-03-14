@@ -1,0 +1,578 @@
+[
+	{
+		"id": 1253,
+		"category": 14,
+		"number": 1253,
+		"text": "Novorozenec spí denně cca:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "8 hodin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "10 hodin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "15 hodin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "20 hodin",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1254,
+		"category": 14,
+		"number": 1254,
+		"text": "Mozkomíšní mok se nachází v:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mozkových komorách",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "prostoru mezi kostí a tvrdou plenou mozkovou",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "prostoru mezi tvrdou plenou a pavučnici",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "prostoru mezi omozečnicí a pavučnici",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1255,
+		"category": 14,
+		"number": 1255,
+		"text": "Bílá hmota míšní je tvořena:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "výběžky nervových buněk",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "těly nervových buněk",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "tukovou tkání",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "krvetvornou tkání",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1256,
+		"category": 14,
+		"number": 1256,
+		"text": "Na povrchu mozku člověka je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "šedá hmota mozková",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "bílá hmota mozková",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vrstva tvořená nervovými vlákny",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Schwannova pochva",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1257,
+		"category": 14,
+		"number": 1257,
+		"text": "Na povrchu míchy člověka je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "šedá hmota",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "bílá hmota",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vrstva tvořená těly neuronů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vrstva holých jader neuronů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1258,
+		"category": 14,
+		"number": 1258,
+		"text": "Mediátorem na nervosvalové ploténce obratlovců je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dopamin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "adrenalin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "acetylcholin",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "noradrenalin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1259,
+		"category": 14,
+		"number": 1262,
+		"text": "Ústředí životně důležitých autonomních funkcí se nachází v:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "páteřní míše",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "prodloužené míše",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "talamu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mozečku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1260,
+		"category": 14,
+		"number": 1263,
+		"text": "Pro udržování rovnováhy těla a koordinaci pohybů je důležitý:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mozeček",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "prodloužená mícha",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "talamus",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mozková kůra",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1261,
+		"category": 14,
+		"number": 1264,
+		"text": "Mozeček se uplatňuje při:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vyšší nervové činnosti",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "řízení vegetativních funkcí",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "řízení rovnováhy a koordinaci pohybů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "analýze podnětů zrakových, sluchových, čichových a chutových",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1262,
+		"category": 14,
+		"number": 1265,
+		"text": "Činnost vnitřních orgánů a žláz s vnitřní sekrecí je řízená z:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hypotalamu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "talamu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "prodloužené míchy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mozečku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1263,
+		"category": 14,
+		"number": 1266,
+		"text": "Nepodmíněné reflexy jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "naučené reakce na určité smyslové podněty",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vrozené reakce, druhově specifické",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "všechny vrozené reakce organismu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "běžné změny chování",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1264,
+		"category": 14,
+		"number": 1267,
+		"text": "Centrum řeči je uloženo v:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "talamu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mozečku",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "prodloužené míše",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mozkové kůře",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1265,
+		"category": 14,
+		"number": 1259,
+		"text": "Chemická synapse (zápoj):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "umožňuje jednosměrný přenos vzruchu mezi neurony",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je místem vzniku nervového vzruchu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "slouží k zesílení převáděného vzruchu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "umožňuje oboustranný přenos elektrických signálů mezi neurony.",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1266,
+		"category": 14,
+		"number": 1260,
+		"text": "Podstatou vzruchu nervových buněk je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "změna propustnosti a náboje membrány",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "chemické změny membrány",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "změna aktivity iontů v cytoplazmě",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1267,
+		"category": 14,
+		"number": 1261,
+		"text": "Mozek dospělého člověka má průměrnou hmotnost:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "300 g",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "500 g",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1300 g",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "2500 g",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1268,
+		"category": 14,
+		"number": 1268,
+		"text": "Prvkem vyšší nervové činnosti jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "podmíněné reflexy",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "bdění a spánek",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "instinktivní chování",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "emoce",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1269,
+		"category": 14,
+		"number": 1269,
+		"text": "Hlavní ústředí pro řízení tělesné teploty je v:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hrbolu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hypotalamu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "středním mozku",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "prodloužené míše",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1270,
+		"category": 14,
+		"number": 1270,
+		"text": "Mícha leží:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v celém páteřním kanálu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jen v krční a hrudní části páteřního kanálu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v páteřním kanálu až po druhý bederní obratel",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v dutině lebeční",
+				"correct": false
+			}
+		]
+	}
+]

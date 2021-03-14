@@ -1,0 +1,578 @@
+[
+	{
+		"id": 1044,
+		"category": 8,
+		"number": 1044,
+		"text": "Pokles množství krevního barviva pod normu je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hemosideróza",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "hemolýza",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "sedimentace",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1045,
+		"category": 8,
+		"number": 1045,
+		"text": "Krevní sérum získáme:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z dále uvedených alternativ není správná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jako tekutou složku nesrážlivé krve",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "centrifugací po přidání citronanu sodného",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "po sedimentaci buněk v nesrážlivé krvi",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1046,
+		"category": 8,
+		"number": 1046,
+		"text": "Rh inkompatibilita (nesnášenlivost) může nastat když je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "matka Rh-, otec Rh-",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "matka Rh+, dítě Rh (druhé a další těhotenství)",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "matka Rh+, otec Rh+ (druhé a další těhotenství)",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1047,
+		"category": 8,
+		"number": 1047,
+		"text": "Protilátky produkují:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "T lymfocyty",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "monocyty",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "P lymfocyty",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1048,
+		"category": 8,
+		"number": 1048,
+		"text": "Za buněčnou imunitní reakci např. proti transplantátům odpovídají:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "B lymfocyty",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "erytrocyty",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "trombocyty",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1049,
+		"category": 8,
+		"number": 1049,
+		"text": "Granulocyty jsou bílé krvinky:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zodpovědné za humorální imunitu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "imunologicky kompetentní buňky, které vytvářejí protilátky",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mající schopnost fagocytózy",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "schopné vytvářet proteolytické enzymy",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1050,
+		"category": 8,
+		"number": 1050,
+		"text": "Albuminy jsou krevní bílkoviny:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vážící vodu a látky ve vodě nerozpustné",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "tvořící se v játrech",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "tvořící se v ledvinách",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jejichž zvýšené množství v krvi vede ke hromadění vody ve tkáních a tak ke vznik otoků",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1051,
+		"category": 8,
+		"number": 1053,
+		"text": "Serotonin a Ca2+,",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou důležité pro zástavu krvácení",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou obsaženy v trombocytech, na srážení krve se však nepodílejí",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se chovají jako antigeny, proto dochází ke shlukování krvinek",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou důležité pro přenos CO2",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1052,
+		"category": 8,
+		"number": 1054,
+		"text": "Při obraně organismu proti infekci se uplatňují zejména:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "leukocyty",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "trombocyty",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "erytrocyty",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "erytroblasty",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1053,
+		"category": 8,
+		"number": 1055,
+		"text": "Aglutinogeny jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "protilátky erytrocytů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "antigeny erytrocytů",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "protilátky krevní plazmy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "geny kódující antigeny",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1054,
+		"category": 8,
+		"number": 1056,
+		"text": "Aglutininy jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "antigeny erytrocytů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "protilátky v krevní plazmě",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "produkty aglutinogenů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "antigeny shlukující erytrocyty",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1055,
+		"category": 8,
+		"number": 1057,
+		"text": "Podstatou procesu srážení krve u obratlovců je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "přeměna rozpustného fibrinogenu na nerozpustný fibrin",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "přeměna rozpustného fibrinu na nerozpustný fibrinogen",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "stah svaloviny kolem poranění",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "řada dějů vyžadujících přítomnost Ca2+",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1056,
+		"category": 8,
+		"number": 1058,
+		"text": "Červená kostní dřeň:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v dospělosti se nachází ve všech kostech",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v dospělosti se nachází v plochých kostech a obratlových tělech",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v dospělosti se nachází pouze v diafýzách dlouhých kostí",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "obsahuje kmenové buňky",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1057,
+		"category": 8,
+		"number": 1059,
+		"text": "Slezina:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "není za normálních okolností hmatná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou zde vychytávány nefunkční červené krvinky",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "leží v levé klenbě brániční",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pokud se odstraní, lze bez ní žít",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1058,
+		"category": 8,
+		"number": 1060,
+		"text": "Thymus:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se nachází v dutině hrudní",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se nachází v dutině břišní",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "s postupujícím věkem je nahrazován tukovou tkání",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "dozrávají zde T-lymfocyty",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1059,
+		"category": 8,
+		"number": 1061,
+		"text": "Žlutá kostní dřeň:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "obsahuje již minimum krvetvorných buněk, převažují buňky tukové",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se v dospělosti nachází v tělech dlouhých kostí",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se v dospělosti nachází v plochých kostech",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "neexistuje",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1060,
+		"category": 8,
+		"number": 1051,
+		"text": "Imunoglobuliny jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jednou ze tří frakcí globulinů v krevní plazmě",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "gama globuliny",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "krevní bílkoviny vznikající v mízní tkáni",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "součástí krevního barviva",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1061,
+		"category": 8,
+		"number": 1052,
+		"text": "Fibrinogen:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se nachází v trombocytech",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je součástí krevního séra",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se tvoří v kostní dřeni",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je součástí krevní plazmy",
+				"correct": true
+			}
+		]
+	}
+]

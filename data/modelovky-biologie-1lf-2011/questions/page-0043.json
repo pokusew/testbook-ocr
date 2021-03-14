@@ -1,0 +1,578 @@
+[
+	{
+		"id": 687,
+		"category": 6,
+		"number": 696,
+		"text": "Makroergní vazby jsou vytvořeny:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "V ATP",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "VAMP",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v GTP",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v adenosinu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 688,
+		"category": 6,
+		"number": 687,
+		"text": "Autotrofní způsob získávání energie:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je nezávislý na organických produktech jiných organismů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "závisí na organických produktech jiných organismů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "závisí pouze na množství kyslíku v okolí",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "závisí na množství glukózy v okolí",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 689,
+		"category": 6,
+		"number": 688,
+		"text": "Je-li zdrojem energie H2S, jedná se o:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "heterotrofii",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "fotoautotrofii",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "chemoautotrofii",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mixotrofii",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 690,
+		"category": 6,
+		"number": 689,
+		"text": "Uvolněná energie se v buňce ukládá:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "V ATP",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v AMP",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v adenosinu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v GDP",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 691,
+		"category": 6,
+		"number": 690,
+		"text": "Anaerobní glykolýza je proces:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "štěpení glukózy",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "štěpení kyseliny pyrohroznové",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "oxidace anorganických látek",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "dehydrogenace anorganických látek",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 692,
+		"category": 6,
+		"number": 691,
+		"text": "Enzymy anaerobní glykolýzy jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "uloženy volně v cytoplazmě",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vázány na mitochondrie",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vázány na endoplasmatické retikulum",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vázány v buněčné membráně",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 693,
+		"category": 6,
+		"number": 692,
+		"text": "Enzymy oxidativní fosforylace:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou vázány na mitochondrie",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou uloženy volně v cytosolu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou uloženy v Golgiho aparátu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou vázány na plazmatickou membránu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 694,
+		"category": 6,
+		"number": 693,
+		"text": "Chemická oxidace obecně je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "odebrání elektronu látce často spolu s protonem",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hydrogenace organických sloučenin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "přijímání elektronů s protony",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "přijímání atomů vodíku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 695,
+		"category": 6,
+		"number": 694,
+		"text": "Buněčné oxidace:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou postupné dehydrogenace organických látek",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou postupné hydrogenace organických látek",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "probíhají jako oxygenace",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou postupné dehydratace",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 696,
+		"category": 6,
+		"number": 695,
+		"text": "Oxidativní fosforylace je proces:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "na kterém se podílejí mitochondrie",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "anaerobní oxidace organických látek a fosforylace ADP",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "aerobní oxidace organických látek a fosforylace ADP",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "dekarboxylace kyseliny pyrohroznové",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 697,
+		"category": 6,
+		"number": 697,
+		"text": "CAMP:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je molekula, která se uplatní pouze při hormonální regulaci",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je univerzální regulační molekula",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vzniká působením adenylylcyklázy na ADP",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "aktivuje tvorbu hormonů v endokrinních žlázách.",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 698,
+		"category": 6,
+		"number": 698,
+		"text": "Regulace buněčné aktivity:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "může probíhat na základě vazby receptoru se signálními molekulami, které produkuj jiné buňky organismu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "většinou zahrnuje několik enzymatických reakcí",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se účastní malé molekuly zvané druhý posel",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se účastní G proteiny",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 699,
+		"category": 6,
+		"number": 699,
+		"text": "Buňka v klidu je uvnitř oproti venku nabita:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vždy stejně jako vně, tedy kladně nebo záporně",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kladně",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "obě strany jsou nabity kladně",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "záporně",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 700,
+		"category": 6,
+		"number": 700,
+		"text": "Membránový potenciál:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "může dosáhnout opačné polarity pouze u prokaryot",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nemůže dosáhnout opačné polarity",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "může dosáhnout opačné polarity",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "může dosáhnout opačné polarity pouze u vyšších živočichů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 701,
+		"category": 6,
+		"number": 701,
+		"text": "Membránovým potenciálem rozumíme:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "schopnost buněčné membrány vázat antigen",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "rozdíl elektrického náboje na zevní a vnitřní straně buněčné membrány",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "schopnost buněčné membrány vázat protilátky",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "malou převahu záporně nabitých iontů uvnitř buňky; zevně malou převahu kladnýc iontů",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 702,
+		"category": 6,
+		"number": 702,
+		"text": "Podstatou podráždění buňky na podnět z venku je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "změna propustnosti cytoplasmatické membrány pro ionty",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zvýšení propustnosti plasmatické membrány neuronu pro ionty sodíku",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zvýšení průchodu vody cytoplasmatickou membránou",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "změna směru hydrofilní a hydrofóbní strany cytoplasmatické membrány",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 703,
+		"category": 6,
+		"number": 703,
+		"text": "K* je typickým iontem:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "extracelulárním",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "intracelulárním",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nemá v buňce prakticky význam",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "intra i extracelulárním",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 704,
+		"category": 6,
+		"number": 704,
+		"text": "Na je iontem:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "extracelulárním",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "intracelulárním",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "který uvnitř neuronu vyvolá akční potenciál",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "intra i extracelulárním",
+				"correct": false
+			}
+		]
+	}
+]

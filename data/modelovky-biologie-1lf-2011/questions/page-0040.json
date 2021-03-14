@@ -1,0 +1,578 @@
+[
+	{
+		"id": 633,
+		"category": 6,
+		"number": 633,
+		"text": "Pronephros (předledviny) jsou vytvořeny u:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "larev sliznatek",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "larev hmyzu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "larev obojživelníků",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "embryí vyšších obratlovců",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 634,
+		"category": 6,
+		"number": 634,
+		"text": "Močovody mohou vyúsťovat:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "do kloaky",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "do pronephros",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "do močového měchýře",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "přímo z těla ven",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 635,
+		"category": 6,
+		"number": 635,
+		"text": "Jako primární pohlavní znak označujeme:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "přítomnost vlastních pohlavních orgánů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pohlavní dimorfismus",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "u mužů vousy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "dělohu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 636,
+		"category": 6,
+		"number": 636,
+		"text": "Coelom je vytvořen u:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "obratlovců",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hlístic",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kroužkovců",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ploštěnců",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 637,
+		"category": 6,
+		"number": 637,
+		"text": "Diaphragma se vyskytuje u:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "savců",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "krokodýlů",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ryb",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "obojživelníků",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 638,
+		"category": 6,
+		"number": 638,
+		"text": "Nádorový růst:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je vždy provázen metastazováním",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je nekontrolované množení buněk vlastního těla",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "může být vyvolán chemickými sloučeninami",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vyvolávají mutace v genech, které kódují různé signální molekuly",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 639,
+		"category": 6,
+		"number": 639,
+		"text": "Onkogenní transformaci hostitelské buňky může vyvolat:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "lytický cyklus některých DNA a RNA virů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "virogenní cyklus některých virů",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "onkovirus",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "retrovirus",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 640,
+		"category": 6,
+		"number": 640,
+		"text": "Buněčná proliferace:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "závisí na okolních buňkách ve tkáni",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je stimulována růstovým hormonem hypofýzy",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je řízena nádorovými supresorovými geny",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je v časné embryonální fázi provázena zmenšováním buněk",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 641,
+		"category": 6,
+		"number": 641,
+		"text": "Apotóza:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vzniká vždy po poškození mitochondriální DNA kyslíkovými radikály",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je řízena genetickým programem",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se uplatňuje zejména během vývoje zárodku",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je typická pro buňky imunitního systému",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 642,
+		"category": 6,
+		"number": 642,
+		"text": "Kontrola buněčné proliferace může být narušena:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "lytickým cyklem některých DNA a RNA virů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ionizujícím zářením",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "stárnutím organismu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "retroviry",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 643,
+		"category": 6,
+		"number": 643,
+		"text": "Nucleolus je buněčná organela, která se nachází:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v cytoplazmě, je složen z proteinů a DNA",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v cytoplazmě, je složen z proteinů, DNA a RNA",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v jádře, je složen z proteinů a DNA",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 644,
+		"category": 6,
+		"number": 644,
+		"text": "Biomembrány eukaryotické buňky:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou tvořeny lipoproteinovou dvojvrstvou",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Ize považovat za tekuté mozaiky",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mají symetrickou strukturu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou na povrchu buňky součástí peptidoglykanové buněčné stěny",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 645,
+		"category": 6,
+		"number": 645,
+		"text": "Mezi semiautonomní organely řadíme:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Golgiho aparát",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ribosomy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mitochondrie",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "plastidy",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 646,
+		"category": 6,
+		"number": 646,
+		"text": "Semiautonomní organely:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mají vlastní proteosyntetický aparát",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kódují všechny svoje bílkoviny",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mají vlastní DNA",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou závislé na jádru",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 647,
+		"category": 6,
+		"number": 647,
+		"text": "Glykokalyx:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se nachází na vnitřní straně plasmatické membrány",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je vrstva ochranných glykoproteinů",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je tvořena celulózovými mikrofibrilami",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se skládá z mikrosomů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 648,
+		"category": 6,
+		"number": 648,
+		"text": "Živočišná buňka má na svém povrchu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "primární buněčnou stěnu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "plasmatickou membránu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "receptory",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "plasmodesmy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 649,
+		"category": 6,
+		"number": 649,
+		"text": "Golgiho aparát je místem:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "syntézy bílkovin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "syntézy materiálu buněčných stěn",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "postsyntetické úpravy bílkovin",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "aerobní fosforylace",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 650,
+		"category": 6,
+		"number": 650,
+		"text": "Endomembránový systém buňky tvoří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Golgiho aparát",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "endoplasmatické retikulum",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ribosomy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vezikulární útvary",
+				"correct": true
+			}
+		]
+	}
+]

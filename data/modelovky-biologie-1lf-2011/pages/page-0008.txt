@@ -7,7 +7,7 @@ d) homozygoti jsou shodní pouze s jedním z rodičů
 A) čtyři typy gamet
 b) 75 % gamet jednoho typu a 25 % druhého typu
 c) gamety Aa, Bb
-D gamety se shodnou frekvencí
+D) gamety se shodnou frekvencí
 83. Dihybrid AaBb tvoří za podmínek nezávislé kombinace obou genů:
 a) 2 typy gamet
 b) v F2 generaci 3 fenotypy
@@ -37,7 +37,7 @@ b) dvou dvojnásobných heterozygotů
 c) dvou homozygotů při neúplné dominanci
 d) dominantního homozygota s heterozygotem
 88. U autosomálně lokalizovaných genů jsou výsledky recipročního křížení:
-a různé
+a) různé
 B) shodné
 c) závislé na matce
 d) závislé na otci

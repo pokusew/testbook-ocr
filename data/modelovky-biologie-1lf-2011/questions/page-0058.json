@@ -1,0 +1,578 @@
+[
+	{
+		"id": 954,
+		"category": 8,
+		"number": 954,
+		"text": "V dospělosti se krvinky u člověka tvoří prakticky jen v:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "játrech",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kostech stehenních a holeních",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "hrudní kosti, žebrech a tělech obratlů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "slezině",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 955,
+		"category": 8,
+		"number": 963,
+		"text": "Podíl vody na celkové hmotnosti lidského těla je asi:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "20 %",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "60 %",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "10 %",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "30 %",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 956,
+		"category": 8,
+		"number": 964,
+		"text": "Celkové množství krve v organismu tvoří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "až 20 % tělesné hmotnosti",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1/12 až 1/13 tělesné hmotnosti",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "méně než 3 litry u žen a méně než 3,5 litru u mužů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 957,
+		"category": 8,
+		"number": 965,
+		"text": "Pokles množství krevního barviva pod normu je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hemosideróza",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "hemolýza",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "anémie",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 958,
+		"category": 8,
+		"number": 966,
+		"text": "Krevní destičky se uplatňují při:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zastavování krvácení",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "obraně organismu před infekcí",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "regulaci krevního tlaku",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "určování hematokritu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 959,
+		"category": 8,
+		"number": 967,
+		"text": "Krevní sérum získáme:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jako tekutou složku nesrážlivé krve",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jako tekutou složku krve po jejím sražení",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "centrifugací po přidání citronanu sodného",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "po sedimentaci buněk v nesrážlivé krvi",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 960,
+		"category": 8,
+		"number": 955,
+		"text": "Hematokrit je termín pro:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "poměr mezi objemem červených krvinek a krevní plazmy",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "množství hemoglobinu v jednotce objemu krve",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kritické množství kyslíku, které ještě zaručí dýchání tkání",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kritické minimální množství krve v oběhu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 961,
+		"category": 8,
+		"number": 956,
+		"text": "Srážení krve vyjadřuje termín:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "homeostáza",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "trombóza",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "hemokoagulace",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "hemostaza",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 962,
+		"category": 8,
+		"number": 957,
+		"text": "Odborný termín pro zástavu krvácení zní:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "homeostaza",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hemokoagulace",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "hemophysis",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "hemostaza",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 963,
+		"category": 8,
+		"number": 958,
+		"text": "Červené krvinky přítomné v krvi jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "schopny fagocytózy",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "bezjaderné",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "schopny aktivně přestupovat stěnu kapilár",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "přenašečem kyslíku a oxidu uhličitého",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 964,
+		"category": 8,
+		"number": 959,
+		"text": "Fagocytóza vyjadřuje schopnost:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "přestupovat stěnu kapilár",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "přilnout k povrchu cévy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pohltit označené či inertní částice",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "shlukovat červené krvinky",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 965,
+		"category": 8,
+		"number": 960,
+		"text": "Vytvořené látky se z buněk uvolňují:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "fagocytózou",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "endocytózou",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "diapedezou",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "exocytózou",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 966,
+		"category": 8,
+		"number": 961,
+		"text": "Vstup látek do buněk je umožněn:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "fagocytózou",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "exocytózou",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "migrací",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Golgiho aparátem",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 967,
+		"category": 8,
+		"number": 962,
+		"text": "Na hmotnosti těla se nejvíce podílejí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "tuky",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "bílkoviny",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "voda",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "sacharidy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 968,
+		"category": 8,
+		"number": 968,
+		"text": "Krevní plazmu získáme:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jako tekutou složku nesrážlivé krve",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jako tekutou složku krve po jejím sražení",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "centrifugací krve po přidání Ca2+",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "plasmolýzou",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 969,
+		"category": 8,
+		"number": 969,
+		"text": "Protilátky produkují:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "T lymfocyty",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "B lymfocyty",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "monocyty",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "P lymfocyty",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 970,
+		"category": 8,
+		"number": 970,
+		"text": "Za buněčnou imunitní reakci (např. proti transplantátům) odpovídají:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "T lymfocyty",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "B lymfocyty",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "trombocyty",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 971,
+		"category": 8,
+		"number": 971,
+		"text": "Mezi buněčné elementy nepatří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "makrofágy",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "B lymfocyty",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "trombocyty",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "plazmatické buňky",
+				"correct": false
+			}
+		]
+	}
+]

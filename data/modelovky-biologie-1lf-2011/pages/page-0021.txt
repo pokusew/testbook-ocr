@@ -64,7 +64,8 @@ C) většina mutagenů působí současně karcinogenně
 D) zvrhnutí buněk v rakovinné buňky může být doprovázeno změnou buněčné morfologie
 315. Vyberte správný/é výrok/y:
 A) opakované diagnostické rentgenování v lékařství může zvyšovat mutagenní
-a karcinogenní zátěž organismu
+### the spaces fix parsing
+   a karcinogenní zátěž organismu
 b) závislost vzestupu úmrtí na rakovinu plic a kouřením cigaret v posledním století nebyla
 nikdy prokázána
 C) příkladem mutagenů jsou průmyslové emise, výfukové plyny a látky k ochraně

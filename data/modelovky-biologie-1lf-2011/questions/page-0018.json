@@ -1,0 +1,578 @@
+[
+	{
+		"id": 253,
+		"category": 4,
+		"number": 253,
+		"text": "Transkripce:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je zprostředkována reverzní transkriptázou",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "postupuje po kódujícím (sense) řetězci ve směru od 5'k 3'",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "na stejném genu může probíhat odlišně v různých tkáních",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vede k produkci identické molekuly DNA",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 254,
+		"category": 4,
+		"number": 254,
+		"text": "Při transkripci je k bázi G v DNA komplementární v mRNA:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "C",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "A",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "U",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "G",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 255,
+		"category": 4,
+		"number": 255,
+		"text": "Při transkripci je k DNA bázi A komplementární v mRNA:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "U",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "T",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "A",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "C",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 256,
+		"category": 4,
+		"number": 256,
+		"text": "Mediátorová RNA (mRNA) vzniká:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "transkripcí",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "translací",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "replikací",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "proteosyntézou",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 257,
+		"category": 4,
+		"number": 257,
+		"text": "Mediátorová RNA (mRNA):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se aktivně uplatňuje v transkripci",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vzniká translací",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se replikuje v anafázi",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se aktivně uplatňuje při proteosyntéze",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 258,
+		"category": 4,
+		"number": 258,
+		"text": "mRNA slouží:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "k přenosu aminokyselin na ribosomy",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jako matrice pro tvorbu bílkovin",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jako matrice pro tvorbu tRNA",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "k přenosu rRNA z jádra na ribosom",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 259,
+		"category": 4,
+		"number": 259,
+		"text": "Ribosomální RNA (rRNA) vzniká:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "transkripcí",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "translací",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "replikací",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "proteosyntézou",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 260,
+		"category": 4,
+		"number": 260,
+		"text": "Ribosomální RNA (TRNA):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se aktivně uplatňuje při translaci",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vzniká replikací",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se aktivně uplatňuje při proteosyntese",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 261,
+		"category": 4,
+		"number": 261,
+		"text": "rRNA se syntetizuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vendoplasmatickém retikulu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v ribosomech",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v cytoplazmě",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v jadérku, které je uloženo v jádře",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 262,
+		"category": 4,
+		"number": 262,
+		"text": "Transferová RNA (TRNA) vzniká:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "transkripcí",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "translací",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "replikací",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "proteosyntézou",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 263,
+		"category": 4,
+		"number": 263,
+		"text": "Transferová RNA (TRNA):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se aktivně uplatňuje při čtení informace zapsané do mRNA",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se přepisuje v ribosomech",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vzniká replikací",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je iniciačních faktorem reversní transkripce",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 264,
+		"category": 4,
+		"number": 264,
+		"text": "tRNA:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "představuje soubor nejméně dvaceti různých typů molekul",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "má jednořetězcové i dvouřetězcové oblasti",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "přenáší informaci z jádra na ribosomy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "přenáší specificky navázanou aminokyselinu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 265,
+		"category": 4,
+		"number": 265,
+		"text": "Minoritní dusíkaté báze se nejčastěji vyskytují v:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "tRNA",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mRNA",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "rRNA",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "DNA",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 266,
+		"category": 4,
+		"number": 266,
+		"text": "Transferová RNA (TRNA):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "umožňuje správné řazení aminokyselin do polypeptidu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vzniká translací",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je překládána při replikaci",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "obsahuje triplet nukleotidů, který je komplementární kodonu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 267,
+		"category": 4,
+		"number": 267,
+		"text": "Translace je proces:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "překládání informace uložené v mRNA do pořadí aminokyselin vznikající bílkoviny",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "přepisu mRNA do pořadí aminokyselin vznikajícího polypeptidového řetezce",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "překládání informace uložené v mRNA do pořadí dusíkatých bází v rRNA",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "přepisu strukturních genů do mediátorové RNA",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 268,
+		"category": 4,
+		"number": 268,
+		"text": "Translaci zahajuje tRNA:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dvouvláknová a vysokomolekulární",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "konjugovaná s glutamovou kyselinou",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nesoucí methionin",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "translace je zahajována kteroukoli tRNA",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 269,
+		"category": 4,
+		"number": 269,
+		"text": "Translací rozumíme překlad genetické informace z:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná z uvedených alternativ není správná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "DNA do mRNA",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "DNA do rRNA",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "peptidu do tRNA",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 270,
+		"category": 4,
+		"number": 270,
+		"text": "Jedna určitá tRNA molekula:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se může vázat s různými aminokyselinami",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "obsahuje čtyřnukleotidový antikodon",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se podílí na translačním procesu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se přechodně se váže s mRNA",
+				"correct": true
+			}
+		]
+	}
+]

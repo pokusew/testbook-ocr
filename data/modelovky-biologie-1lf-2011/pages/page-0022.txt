@@ -1,4 +1,3 @@
-€
 320. Mutace mohou:
 A) úplně změnit protein, který je podle informace v genu syntetizován
 B) způsobit změnu fenotypového projevu
@@ -33,7 +32,7 @@ d) lze nalézt až u 5 % lidí
 326. Chromosomové mutace:
 a) jsou u člověka neslučitelné se životem
 b) mění počet sad chromosomů
-mohou měnit počet chromosomů
+C) mohou měnit počet chromosomů
 D) můžeme u člověka odhalit i před narozením
 327. Polyploidie:
 a) se u rostlin nevyskytuje
