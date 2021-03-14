@@ -1,0 +1,90 @@
+€
+320. Mutace mohou:
+A) úplně změnit protein, který je podle informace v genu syntetizován
+B) způsobit změnu fenotypového projevu
+C) být bez změny fenotypu
+d) měnit onkogeny na protonkogeny
+321. Různé formy jednoho a téhož genu se nazývají:
+A) alely
+b) lokusy
+c) karyotyp
+d) fenotyp
+322. Strukturní aberace chromosomů:
+A) je spojena se změnou pořadí nebo počtu genů v chromosomu
+B) je výsledkem drastického poškození DNA příslušného chromosomu
+C) je často překážkou normálního průběhu meiózy
+d) spočívá ve změně standardního počtu chromosomů (2n) v buňce
+323. Translokace je:
+a) ztráta genetického materiálu, ke které dochází během anafáze
+B) typ chromosomální mutace
+C) v některých případech příčinou vzniku gamet, ve kterých je duplikována část
+genetického materiálu
+D) vždy důsledek chromosomálního zlomu
+324. Chromosomové mutace:
+A) vznikají v důsledku zlomů chromatid
+b) jsou podmíněny záměnou jednoho nukleotidu jiným
+C) mohou ohrožovat životaschopnost plodu
+d) mohou zvyšovat počet chromosomálních sad
+325. Chromosomové mutace:
+A) se nověji označují jako strukturální aberace chromosomů
+b) mění genetický kód
+C) mohou měnit strukturu chromosomu
+d) lze nalézt až u 5 % lidí
+326. Chromosomové mutace:
+a) jsou u člověka neslučitelné se životem
+b) mění počet sad chromosomů
+mohou měnit počet chromosomů
+D) můžeme u člověka odhalit i před narozením
+327. Polyploidie:
+a) se u rostlin nevyskytuje
+B) žádná z uvedených alternativ není správná
+c) je u vyšších savců běžná
+d) je totéž jako polyzomie
+328. Polyploidie:
+a) vzniká z nefunkčních gamet na začátku meiózy
+B) je u řady rostlinných druhů běžná
+C) je u většiny živočišných druhů neobvyklá
+d) je příkladem aneuploidie
+329. Polyploidizace:
+a) se uplatňuje u příbuzenských sňatků
+b) je značně nebezpečná pro chovy domácích zvířat
+C) se používá v rostlinném šlechtitelství
+d) zvyšuje počet dominantních homozygotů
+330. Genomové mutace:
+a) mění genetický kód
+b) vyvolávají zlomy chromatid
+c) mění strukturu chromosomů
+D) násobí počet úplných chromosomových sad
+331. Alkaptonurie:
+A) je způsobena nefunkčností (mutací) genu pro určitý enzym
+B) byla geneticky popsána už před 100 lety
+c) je příkladem nemoci s autosomálně dominantní dědičností
+d) je příkladem nemoci s poruchou metabolismu lipidů
+332. Cystická fibróza:
+a) je vývojová vada prstů a skeletu končetin
+B) patří mezi tzv. molekulární choroby
+C) je nejčastější autosomálně recesivní chorobou
+d) je příkladem nemoci s poruchou metabolismu aminokyselin
+333. Downův syndrom:
+A) Ize prokázat prenatálně z plodové vody
+b) je podmíněn autosomálně recesivně
+c) za jeho příznaky odpovídají geny na delším (q) ramenu 18. chromosomu
+d) se přenáší z matek (zejména starších 21 let) na syny
+334. Downův syndrom:
+a) je typicky onemocněním chlapců, dívky jsou postiženy krajně vzácně
+B) je nejčastěji podmíněn trizomií 21. chromosomu
+C) za jeho příznaky odpovídají geny na delším (q) ramenu 21. chromosomu
+D) riziko narození dítěte s D. sy vzrůstá s věkem matky, proto se v ČR těhotným po 35. roku
+věku navrhuje chromosomální vyšetření plodu
+335. Sonda DNA:
+A) je množina stejných kopií řetězce DNA, komplementárního k dané genové sekvenci
+B) v praxi se užívají obvykle kratší sondy - oligonukleotidy
+c) je přímé vyšetření nukleotidové sekvence
+D) může být využita pro konstrukci diagnostických DNA-čipů
+336. Přímé vyšetření nukleotidové sekvence genové DNA:
+a) je princip, který se používá ke konstrukci diagnostických DNA-čipů
+B) lze použít k vyšetření všech genů, pro něž je nukleotidová sekvence standardní
+(normální) alely známa
+c) je založeno na principu hybridizace až několik desítek tisíc nukleotidů dlouhých sond
+DNA s genovou DNA pacienta
+d) lze odečítat v elektronovém mikroskopu

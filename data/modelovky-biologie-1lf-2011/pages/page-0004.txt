@@ -1,0 +1,90 @@
+10. Koeficient dědivosti (h%):
+A) udává podíl dědičné složky na celkové fenotypové proměnlivosti znaku
+b) je vždy u dědičných znaků větší než 1
+c) může se pohybovat od -1 do +1
+d) není závislý na prostředí
+11. Genofondem rozumíme:
+a) všechny geny určitého jedince
+B) soubor všech alel všech členů populace
+c) žádná z uvedených alternativ není správná
+d) genetickou výbavu určité rodiny
+12. Kvalitativní znaky:
+a) jsou např. tělesná výška a hmotnost
+b) jsou výrazně ovlivňovány vnějším prostředím
+C) jsou často podmíněny jediným genem
+d) jsou obvykle mimochromosomálně dědičné
+13. Genofond je:
+a) soubor genů buňky
+B) soubor všech alel v populaci
+c) soubor všech fenotypů
+d) soubor jedinců, kteří se mohou navzájem křížit
+14. Kvantitativní znaky jsou:
+A) žádná z uvedených alternativ není správná
+b) málo závislé na vnějším prostředí
+c) podmíněny geny velkého účinku
+d) u organismů vzácné
+15. Geny malého účinku:
+A) žádná z uvedených alternativ není správná
+b) obvykle podmiňují jen monogenní znaky
+c) jsou málo závislé na vnějším prostředí
+d) se vyskytují pouze na X chromosomu
+16. Kvantitativní znaky jsou:
+A) žádná z uvedených alternativ není správná
+b) obvykle podmíněny malým počtem genů malého účinku
+c) obvykle podmíněny genem velkého účinku
+d) málo závislé na faktorech prostředí
+17. Pojem aktivní alela:
+a) je synonymem pro alelu dominantní u monogenní dědičnosti
+B) znamená minor gen, který se projeví ve fenotypu při polygenní determinaci znaku
+c) vyjadřuje působení alel u recesivního homozygota
+d) označuje alelu, na kterou nepůsobí selekce
+18. Koeficient dědivosti (h?):
+A) udává podíl genetické složky na celkové variabilitě znaku
+b) je vždy u dědičných znaků větší než 1
+c) může se pohybovat od -1 do +1
+d) je nezávislý na působení prostředí
+19. Genofondem rozumíme:
+a) všechny geny určitého jedince
+B) žádná z uvedených alternativ není správná
+c) všechny geny jedné buňky
+d) genetickou výbavu určité rodiny
+20. Autogamická populace:
+A) je tvořena všemi jedinci hermafroditickými
+B) je tvořena jedinci, kteří se rozmnožují samoopylením
+c) je ve všech znacích panmiktická
+d) je např. populace lidská
+21. Alogamická populace:
+A) je obvykle tvořena organismy s odděleným pohlavím
+B) je např. populace lidská
+c) je tvořena organismy, které se rozmnožují samoopylením
+d) je tvořena vždy dvěma čistými liniemi
+22. Soubor genů celé populace se nazývá:
+A) genofond
+b) genotyp
+c) karyotyp
+d) haplotyp
+23. Chromosomové genétické mapy:
+A) jsou založeny na relativní vzdálenosti genů téže vazebné skupiny
+b) ukazují polohu chromosomů v karyotypu
+c) měří vzdálenost genů mezi nehomologními chromosomy
+d) ukazují rozdílnou polohu chromosomů
+24. Strukturní gen:
+A) obsahuje informaci pro konkrétní formu příslušného polypeptidu
+b) je synonymum pro znak jedince
+c) má vždy pouze jednu formu
+D) může kódovat i RNA
+25. Mutace:
+a) je synonymum pro modifikaci
+b) jsou vždy pro organismy nevýhodné
+c) způsobují genetický posun
+D) podmiňují proměnlivost genotypů
+26. Strukturní geny:
+A) mohou kódovat bílkoviny
+B) mohou kódovat RNA
+C) se aktivují prostřednictvím své promotorové oblasti
+D) mají v lidském genomu vzájemně odlišnou délku
+27. Teorii vzniku živých forem samoplozením vyslovil:
+a) L. Pasteur
+b) Hippokrates
+C) Aristoteles
+d) A. I. Oparin

@@ -1,0 +1,90 @@
+1140. Ve vzduchu v plicních sklípcích je ve srovnání s atmosférickým vzduchem:
+A) více CO2
+b) stejně CO2
+c) méně CO2
+d) není CO2
+1141. Kolik % CO2 obsahuje atmosférický vzduch:
+A) 0,03 %
+b) 1%
+c) 5%
+d) 0%
+1142. V atmosférickém vzduchu je obsah kyslíku v %:
+A) 21
+b) 12
+c) 25
+d) 18
+1131. Výdech vzduchu z plic při klidném dýchání je dán činností:
+A) žádné z uvedených tvrzení není správné
+b) bránice
+C) mezižeberních svalů
+d) pomocných dýchacích svalů
+1132. Ve vydechovaném vzduchu je ve srovnání se vzduchem vdechovaným:
+A) stejně N2
+B) více CO2
+c) méně CO2
+d) méně N2
+1133. Ve vydechovaném vzduchu je ve srovnání se vzduchem vdechovaným:
+A) méně Oz
+b) stejně CO2
+c) stejně 02
+d) více 02
+1134. Ve vydechovaném vzduchu je ve srovnání se vzduchem vdechovaným:
+A) žádné z uvedených tvrzení není správné
+b) více N2
+c) stejně 02
+d) více 02
+1135. Kyslíku spotřebuje průměrný dospělý člověk v klidu za minutu asi:
+A) žádné z uvedených tvrzení není správné
+b) 100 ml
+c) 11
+d) 81
+1136. CO2 vydýchá průměrný dospělý člověk v klidu za minutu asi:
+A) 200 ml
+b) 50 ml
+c) 100 ml
+d) 11
+1137. Při klidném dýchání je u průměrného dospělého člověka dechový objem asi:
+A) 500 ml
+b) 100 ml
+c) 200 ml
+d) 1000 ml
+1138. Mrtvý prostor dýchacího systému je u průměrného dospělého člověka asi:
+a) 50 ml
+B) 150 ml
+c) 500 ml
+d) 800 ml
+1139. Příčinou hypoxie může být:
+A) nedostatek hemoglobinu
+B) obsazení hemoglobinu CO
+C) zpomalení cirkulace krve
+D) nedostatek kyslíku ve vzduchu
+1143. Hlasové vazy jsou rozepjaty:
+a) v nosohltanu
+B) v hrtanu
+c) v průdušnici
+d) v pravé průdušce
+1144. V pohrudniční štěrbině je v klidu tlak:
+A) nižší než atmosférický
+b) vyšší než atmosférický
+c) stejný jako atmosférický
+d) 60 kPa
+1145. Hlavním vdechovým svalem je:
+a) trapézový sval
+B) bránice
+c) přímý břišní sval
+d) malý prsní sval
+1146. Vstup do hrtanu uzavírá:
+a) hltanová příklopka
+B) hrtanová příklopka
+c) čípek
+d) kruhový svěrač
+1147. Při smrštění bránice se objem pohrudniční štěrbiny:
+a) zmenšuje
+b) nemění se
+C) zvětšuje se
+D) zvětšuje se a klesá v ní tlak
+1148. K výměně dýchacích plynů dochází v:
+A) plicních sklípcích
+b) průdušnici
+c) dýchacích úsecích průdušek
+d) mízních cévách plic

@@ -1,0 +1,88 @@
+383. U příbuzenských sňatků hrozí:
+a) zvýšené riziko dominantně dědičných nemocí
+B) zvýšené riziko recesivně dědičných nemocí
+c) zvýšení frekvence škodlivých mutací
+d) neplodnost manželů
+384. Frekvence alel v populaci:
+a) je za normálních podmínek vždy 0,5
+b) se ve velké populaci mění rychle
+C) žádná z uvedených alternativ není správná
+d) je vždy stálá
+385. Genofond populace může být ovlivněn:
+A) selekcí
+b) příbuzenskými sňatky
+c) inbreedingem
+D) migrací
+386. Rovnovážná modelová populace je vymezena:
+A) dostatečnou velikostí (nad 1000 jedinců v reprodukčním věku)
+B) možností náhodné volby partnera (panmixie)
+c) sdíleným územím
+d) zastoupením všech generací
+387. Plodnost (fitness) genotypu v populaci je určována:
+a) délkou průměrného dožití potomků ve srovnání s ostatními genotypy
+b) poměrem pohlaví potomků ve srovnání s ostatními genotypy
+C) průměrným počtem potomků ve srovnání s ostatními genotypy
+d) frekvencí sterilních párů ve srovnání s ostatními genotypy
+388. Relativní biologická zdatnost (fitness) genotypu v populaci je určována:
+a) poměrem délky průměrného dožití potomků ku střední očekávané délce života
+B) poměrem průměrného množství potomků daného genotypu ku průměrnému množství
+potomků nejplodnějšího genotypu
+c) četností neplodnosti daného genotypu
+d) hmotností potomků při narození (hmotností vajec) ve srovnání s ostatními genotypy
+389. Selekce se může projevit:
+A) letálním efektem do reprodukčního věku
+B) spontánními potraty
+c) letálním efektem ve středním a vyšším věku
+D) neplodností
+390. Dynamika změn genofondu populace působením selekce závisí na:
+A) velikosti populace
+B) intenzitě selekce
+C) výchozí frekvenci selektovaného fenotypu
+D) na typu selektovaného fenotypu (dominantní, recesivní)
+391. Selekce proti dominantním i recesivním homozygotům v populaci člověka:
+a) vede k snižování zastoupení méně často zastoupených homozygotů
+B) vysvětluje relativně vysokou frekvenci některých chorob (např. cystické fibrózy)
+c) je v současné době nehodnotitelná vzhledem k úrovni léčebné péče
+d) nebyla popsána
+392. Prevence narození dětí s recesivně dědičnými letálními (smrtelnými) chorobami:
+a) může závažně zhoršit genofond populace již po několika generacích prevence
+b) může významně zlepšit genofond již za 100 let prevence
+c) může zlepšit genofond po několika desítkách generací prevence
+D) nemění strukturu genofondu
+393. Úkolem lékařské genetiky je:
+a) péče o kvalitu genofondu
+b) realizace eugenických opatření
+c) sledování frekvence mutací
+D) pomoc při realizaci reprodukčních záměrů rodičů
+394. V malých populacích se uplatňuje náhodná změna frekvence alel genů,
+označovaná:
+a) genový tok
+B) genový drift
+c) efekt zakladatele
+D) genový posun
+395. Fixace alely v malé populaci znamená:
+a) upevnění rovnovážného zastoupení alel v populaci
+B) ztrátu druhé alely genu v populaci
+C) že genofond populace obsahuje právě jen tuto alelu
+D) ochuzení genofondu populace
+396. Efekt zakladatele:
+a) vysvětluje vznik populace
+B) vysvětluje rozdíly ve frekvenci onemocnění v různých populacích
+c) je důsledkem jednosměrné selekce
+D) patří mezi náhodné změny genofondu
+397. Populace se může vychýlit z Hardy-Weinbergovy rovnováhy působením:
+A selekce
+B) mutací
+C) genovým tokem (migrací)
+d) rekombinací
+398. U populace v Hardy-Weinbergově rovnováze je frekvence heterozygotů po deseti
+generacích pozorování:
+a) 4p?q?
+b) p² + q?
+c) p
+D) 2pg
+399. Působením genetického driftu se v populaci:
+a) snižuje podíl homozygotů
+B) zvyšuje podíl homozygotů
+C) snižuje podíl heterozygotů
+d) zvyšuje podíl heterozygotů

@@ -1,0 +1,90 @@
+507. Taxe jsou:
+A) pohyby rostlin, při nichž buňky nebo organely mění místo
+b) pohyby rostlin, při nichž se část rostliny zakřiví
+c) orientované ohyby
+d) hygroskopické a kohezní pohyby
+508. Tropismus je:
+A) orientovaný pohyb rostliny
+b) neorientovaný pohyb rostliny
+C positivní nebo negativní
+D) pohyb rostlin vyvolaný světlem
+509. Nastie je:
+A) neorientovaný pohyb rostliny
+B) spánkový pohyb rostliny
+c) pasivní přenášení částí rostlin na jiné místo
+d) kohezní pohyb rostlin
+510. Při pohybu vody v rostlinách se uplatňuje:
+A) transpirační proud
+B) kořenový vztlak
+C) koheze vody
+D) adheze vody
+511. Mezi fytohormony růst povzbuzující (stimulátory) patří:
+A) auxiny
+B) gibereliny
+C) cytokininy
+d) kyselina abscisová
+512. Mezi inhibitory růstu patří:
+A) kyselina abscisová
+B) etylen
+c) cytokininy
+d) auxiny
+513. Gibereliny:
+A) podporují prodlužovací růst lodyh
+B) tvoří se hlavně v nejmladších listech a kořenech
+C) přerušují dormaci
+d) zastavují transkripci DNA
+514. Cytokininy:
+A) jsou deriváty adeninu
+B) podporují vznik pupenů
+C) tvoří se v nejmladších kořenech
+D) podněcují buněčné dělení
+515. Gametofyt:
+A) je vždy haploidní
+b) je diploidní
+C) může být oboupohlavní
+D) může být tvořen lodyžkou a lístky
+516. Sporofyt:
+A) je diploidní stélka nebo kormus
+b) je vždy haploidní
+C) tvoří výtrusnice
+D) může být samostatný jedinec
+517. Izogamety jsou:
+A) gamety stejného tvaru a velikosti
+b) gamety nestejného tvaru a velikosti
+c) haploidní nepohlavní výtrusy
+d) diploidní nepohlavní výtrusy
+518. Gametofyt vzniká:
+A) mitotickým dělením spor
+b) meiotickým dělením spor
+c) mitotickým dělením zygoty
+d) meiotickým dělením zygoty
+519. Rodozměna (metageneze):
+A) je střídání pohlavní a nepohlavní generace
+b) je tvorba spor
+C) je střídání gametofytu a sporofytu
+D) může být jak izomorfní, tak heteromorfní
+520. V životním cyklu semenných rostlin:
+A) je naprostá převaha sporofytu
+b) je naprostá převaha gametofytu
+C) gametofyt se vyvíjí jako součást sporofytu
+d) žádná z uvedených alternativ není správná
+521. Anemofilie je přenášení pylu:
+a) vodou
+b) hmyzem
+C) větrem
+d) člověkem
+522. Entomofilie je přenášení pylu:
+a) větrem
+B) hmyzem
+c) vodou
+d) člověkem
+523. Hydrofilie je přenášení pylu:
+A) vodou
+b) hmyzem
+c) člověkem
+d) větrem
+524. Alogamie znamená:
+a) samoopylení
+B) cizosprašnost
+C) sprášení pylem z květu jiné rostliny téhož druhu
+d) vznik somatického embrya

@@ -1,0 +1,90 @@
+418. Onkogenní transformaci hostitelské buňky může vyvolat:
+a) lytický cyklus některých DNA a RNA virů
+B) začlenění virové nukleové kyseliny do DNA hostitelské buňky
+C) Onkovirus
+D) retrovirus
+419. Proteiny kapsidu:
+A) jsou kódovány virovými geny
+b) jsou kódovány geny hostitelské buňky
+c) jsou kódovány virovými geny i geny hostitelské buňky
+D) jsou syntetizovány na ribosomech hostitelské buňky
+420. Genom viru může obsahovat:
+A) jednovláknovou DNA
+B) dvouvláknovou DNA
+C) jednovláknovou RNA
+D) dvouvláknovou RNA
+421. Kapsid se skládá z:
+a) telomer
+b) fosfolipidů
+C) proteinu
+D) kapsomer
+422. Interakce virus-buňka může způsobit:
+A) lýzu buňky
+B) nádorovou transformaci buňky
+C) nekrotické ložisko
+D) latentní infekci
+423. Neobalené viry obsahují:
+a) pouze nukleové kyseliny
+B) bílkoviny a nukleové kyseliny
+c) lipidy
+D) bud DNA nebo RNA
+424. Provirus:
+a) vyvolává progresivní paralýzu
+b) je totéž jako virion
+C) je virová nukleová kyselina včleněná do DNA hostitelské buňky
+D) někdy může vyvolat maligni transformaci
+425. Virus:
+a) se může množit v kterékoliv buňce
+B) se váže na buňku prostřednictvím receptoru
+c) obsahuje DNA a všechny typy RNA
+D) může v buňce přetrvávat, aniž by se plikoval
+426. Viroidy:
+a) je jiný název pro viriony
+B) nemají kapsid
+c) neobsahují nukleovou kyselinu
+D) vyvolávají choroby u rostlin
+427. Viry:
+A) obsahují jen jeden druh nukleové kyseliny (pouze DNA nebo RNA)
+b) obsahují oba typy nukleových kyselin
+c) se mohou za extrémních podmínek množit mimo hostitelskou buňku
+D) mají schopnost přetrvávat mimo hostitelskou buňku
+428. Rostlinné viry:
+A) obsahují obvykle RNA
+B) mohou být přenášeny hmyzem
+C) mohou být přenášeny semeny
+D) mohou být přenášeny parazitickými houbami
+429. Viroid:
+A) je jednořetězcová molekula RNA
+B) vyvolává chorobu u rostlin
+c) je větší než virus
+d) není infekční
+430. Přenos živočišných virů je možný:
+A) vzduchem
+B) potravinami
+C) hmyzími vektory
+D) přímými kontakty
+431. Herpesviry:
+A) některé vyvolávají opary
+B) některé jsou onkogenní
+c) patří mezi ně cytomegalovirus
+d) jsou řazeny mezi neobalené DNA viry
+432. Mírně zahnutý tvar (buňky bakterií) nacházíme u:
+A) vibrií
+b) spirochet
+c) bacilů
+d) streptokoků
+433. Bakteriální chromosom:
+A) je kruhový
+B) obsahuje dvouřetězcovou molekulu DNA
+c) obsahuje bílkoviny typu histonů
+d) je od cytoplasmy oddělen jadernou membránou
+434. Retroviry:
+A) mívají gen pro reversní transkriptázu
+B) mohou vyvolávat zhoubné nádory
+c) patří mezi ně polyoma virus SV40
+D) jsou původcem AIDS
+435. Chemoorganotrofní bakterie:
+A) získávají energii oxidací redukovaných organických látek, např. glukózy
+b) získávají energii redukcí organických látek, např. glukózy
+c) využívají vždy kyslík jako oxidační látku
+d) nemohou žít bez kyslíku

@@ -1,0 +1,94 @@
+271. Transferová RNA (TRNA) se aktivně uplatňuje při:
+A) translaci
+b) transkripci
+c) replikaci
+D) proteosyntese
+272. Pořadí aminokyselin v polypeptidovém řetězci je dáno:
+A) pořadím tripletů v mRNA
+B) přepisem informace z DNA do mRNA
+c) pořadím tripletů v rRNA
+d) pořadím aminokyselin v původní molekule bílkoviny
+273. Úsek určitého genu má tento sled nukleotidů ...ATGCGCCGCTCAAGACTT....
+a) žádná z uvedených alternativ není správná
+b) pořadí nukleotidů v mRNA, která vznikla jeho transkripcí je ATGCGCCGCTCAAGACTT
+C) jeho transkripce a translace povede ke vzniku polypeptidu o 6 aminokyselinách
+d) pořadí dusíkatých bází v jeho tRNA transkriptu je TACGCGGCGAGTTCTGAA
+274. Peptidový řetězec o 333 aminokyselinách je:
+A) zakódován v sekvenci o 333 tripletech nukleotidů
+b) kódován strukturním genem o sekvenci 111 nukleotidů
+c) kódován sekvencí, jejích příslušná dvouřetězcová DNA má molekulovou hmotnost asi
+6,6x105
+d) žádná z uvedených alternativ není správná
+275. Peptidový řetězec 0 666 aminokyselinách je:
+a) zakódován v sekvenci o 222 tripletech nukleotidů
+b) kódován strukturním genem o sekvenci 666 nukleotidů
+c) kódován sekvencí, jejích příslušná dvouřetězcová DNA má molekulovou hmotnost asi
+3,3x105
+D) žádná z uvedených alternativ není správná
+276. Introny jsou:
+A) přepisovány, ale nikoli translatovány
+b) transkribovány a tudíž i překládány
+c) příkladem DNA, která nemá
+genovou funkci
+d) kódující sekvence genu
+277. Vyštěpování intronů:
+A) umožňuje větší variabilitu syntézy proteinů
+b) je typické pro cytoplasmatickou DNA
+c) probíhá před transkripcí
+d) probíhá po translaci
+278. Které tvrzení je správné pro exony:
+A) obsahují sekvence kódující start a stop translace
+b) ve všech protein kódujících genech je jejich počet stejný
+c) kódují sekvence, které jsou během postranskripčních úprav odstraněny
+d) jsou obecně delší než introny
+279. Exony jsou:
+A) kódující sekvence
+genu
+b) příkladem DNA, která nemá genovou funkci
+c) z primárního transkriptu (pre-mRNA) strukturních genů velmi přesně vystřiženy
+D) nejen transkribovány, ale i překládány
+280. Introny:
+A) nalézáme uvnitř strukturních genů v eukaryontních buňkách
+b) jsou hojně roztroušené v genomech prokaryontních buněk
+c) resp. jejich přepisy jsou přítomny v sekundární RNA po sestřihu eukaryontní pre-
+mRNA, kdy exony jsou již vystříhány a introny opět sceleny a připraveny k translaci
+D) resp. transkripty intronů jsou z primární formy RNA po transkripci eukaryontních
+strukturních genů (pre-mRNA) sekundárně velmi přesně vystřiženy
+281. Jsou tyto poznatky o fungování genomu pravdivé:
+A) jen asi 7 % až 28 % jaderné DNA v savčích buňkách je přepisováno do RNA (všech typů)
+b) 93% až 99 % savčí genomové DNA funguje jako geny
+c) v jaderném genomu člověka je asi 3 000 000 genů
+D) část jaderné DNA má funkce regulačních genů, užívá se též termínu regulační (signální)
+sekvence
+282. Jsou tyto poznatky o fungování genomu pravdivé:
+a) většina (72 % až 93 %) jaderné DNA savců je přepisována do RNA (všech typů)
+b) 93 % až 99 % savčí genomové DNA funguje jako geny
+c) v jaderném genomu člověka je asi 3 000 000 genů
+D) žádný z uvedených výroků není pravdivý
+283. Kodon:
+A) je trojice nukleotidů v DNA a (po transkripci) v mRNA
+b) specifikuje v primární struktuře DNA peptidové zařazení tří sousedních aminokyselin
+c) tvoří čtveřice dusíkatých bází (T, resp. U, dále A, C a G)
+D) je jednotkou genetického kódu
+284. Kodon mRNA:
+a) AUG ukončuje translaci peptidového řetěžce
+B) je komplementární kodonu DNA, jehož je transkriptem
+c) UAG (podobně jako UAA či UGA) kóduje zařazení aminokyseliny methionin; současně
+slouží k označení začátku translace
+D) nese takové množství informace, jaké je nutné pro zařazení jedné aminokyseliny do
+syntetizovaného peptidového řetězce.
+285. Počet různých kodonů je:
+a) 4
+b) 16
+c) 32
+D) 64
+286. Kodon je:
+A) trojice nukleotidů určující začlenění aminokyselin do vznikajícího polypeptidu
+b) pořadí nukleotidů v DNA nesoucí informaci o primární struktuře tRNA
+c) strukturní gen
+d) gen pro tvorbu rRNA
+287. Genetický kód:
+A) určuje syntézu proteinu
+B) je degenerovaný
+c) kóduje 64 aminokyselin
+D) je čten v tripletech

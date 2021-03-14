@@ -1,0 +1,31 @@
+1726. Sobecký gen:
+a) je gen, který určuje sobecké chování jednotlivce
+b) je alela, která potlačuje fenotypovou expresi všech ostatních alel daného genu (lokusu),
+které se v dané populaci aktuálně vyskytují, pokud se jakákoli z těchto alel ocitne
+v jednom genotypu se sobeckým genem.
+c) je alela, která zvyšuje biologickou zdatnost jedince, který ji nese, tím, že škodí ostatním
+jedincům v populaci
+D) je alela, která zvyšuje pravděpodobnost svého předání do genofondu další generace,
+aniž by zvyšovala biologickou zdatnost jedince, který ji nese
+1727. Při koevoluci parazita a hostitele:
+a) je parazit v nevýhodě oproti složitému hostilteli, disponujícímu sofistikovaným
+imunitním systémem
+B) je parazit ve výhodě díky kratší generační době
+C) je parazit ve výhodě díky většímu množství potomků
+d) má hostitel dostatek času, aby se vyvinuly mechanismy účinně likvidující parazita
+1728. Jediným zdrojem evolučních novinek na molekulární úrovni jsou:
+a) nezávislá segregace vloh v další generaci
+b) rekombinace chromosomů (crossing-over)
+C mutace
+d) nezávislá segregace chromosomů v meióze a vznik nových kombinací splýváním gamet
+1729. Evoluční historii člověka lze rekonstruovat:
+A) z kosterních pozůstatků
+b) porovnáním lidského genomu s genomem jeho předků
+C) porovnáním lidského genomu s příbuznými druhy primátů
+d) porovnáním kultur různých etnik
+1730. Paleontologický (kosterní) záznam často neobsahuje tzv. vývojové mezičlánky
+např. kvůli: (označte jako správné od všechny možné hypotézy):
+A) mimořádně malému procentu zachovalých pozůstatků (méně než 1 kostra na druh)
+B) saltatorní evoluci (krátká období změn a dlouhá období stagnace vývoje)
+C) snadnějšímu vzniku nových druhů v malých, okrajových populacích
+d) pravidelnému masívnímu vymírání nedokonale přizpůsobených „mezičlánků“

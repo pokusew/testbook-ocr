@@ -1,0 +1,86 @@
+81. Při dihybridizmu:
+A) v F2 generaci nacházíme 4 typy homozygotů
+b) v F2 generaci je %16 dominantních homozygotů
+c) vznikají pouze heterozygotní jedinci
+d) homozygoti jsou shodní pouze s jedním z rodičů
+82. Jedinec s genotypem AaBb tvoří při nezávislé kombinaci obou genů:
+A) čtyři typy gamet
+b) 75 % gamet jednoho typu a 25 % druhého typu
+c) gamety Aa, Bb
+D gamety se shodnou frekvencí
+83. Dihybrid AaBb tvoří za podmínek nezávislé kombinace obou genů:
+a) 2 typy gamet
+b) v F2 generaci 3 fenotypy
+c) gamety AA, BB, aa, bb
+D) v F2 generaci 9 genotypů
+84. Fenotypový štěpný poměr 1:1:1:1 platí pro křížení:
+a) dvou dvojnásobných heterozygotů
+B) dvojnásobného heterozygota s recesivním homozygotem při nezávislé segregaci obou
+genů
+c) dvou homozygotů při neúplné dominanci
+D) recesivního homozygota s heterozygotem při dihybridizmu a nezávislé segregaci obou
+genů
+85. Při dihybridizmu za podmínek volné kombinovatelnosti obou genů:
+A) vzniká 9 rozdílných genotypů v F2
+b) v F2 generaci je %16 dominantních homozygotů
+c) v F2 generaci vznikají pouze heterozygotní jedinci
+d) homozygoti jsou shodní pouze s jedním z rodičů
+86. Jedinec s genotypem AABb tvoří:
+a) gamety A, B, b
+b) 75 % gamet jednoho typu a 25 % druhého typu
+C) 50 % gamet s oběma dominantními alelami
+D) dva typy gamet
+87. Fenotypový štěpný poměr 1:1:1:1 platí za podmínek volné kombinovatelnosti
+pro křížení:
+A) žádná z uvedených alternativ není správná
+b) dvou dvojnásobných heterozygotů
+c) dvou homozygotů při neúplné dominanci
+d) dominantního homozygota s heterozygotem
+88. U autosomálně lokalizovaných genů jsou výsledky recipročního křížení:
+a různé
+B) shodné
+c) závislé na matce
+d) závislé na otci
+89. Stav, kdy je fenotyp heterozygotního jedince odlišný od fenotypu dominantního
+i recesivního homozygota, nacházíme při následujícím vztahu mezi alelami téhož
+genu:
+a) úplná dominance
+B) neúplná dominance
+C kodominance
+d) úplná recesivita
+90. Při úplné dominanci A nad a je heterozygot Aa fenotypově:
+A) neodlišitelný od dominantního homozygota
+b) shodný s aa
+c) mezi AA a aa
+d) odlišný od obou rodičů (AA, aa)
+91. Při neúplné dominanci A nad a je heterozygot Aa fenotypově:
+A) odlišný od obou homozygotů
+b) shodný s AA
+c) shodný s aa
+D) v rozmezí fenotypů AA a aa
+92. Při křížení dvou různých homozygotů (AA x aa):
+A) žádná z uvedených alternativ není správná
+b) nacházíme štěpení 1:1
+c) dochází ke štěpení 1:2:1
+d) nacházíme štěpení 3:1
+93. Při neúplné dominanci při křížení dvou různých homozygotů:
+A) heterozygotní genotyp potomků vede ke vzniku vlastního fenotypu
+b) jsou potomci stejní jako jeden z rodičů
+c) nacházíme štěpení 1:1
+D) dochází v F1 generaci ke vzniku nového fenotypu
+94. Při křížení recesivního homozygota s heterozygotem (aa * Aa):
+A) žádná z uvedených alternativ není správná
+b) jsou všichni potomci stejní
+c) jsou všichni potomci stejní jako jeden z rodičů
+d) dochází ke štěpení 1:2:1
+95. Při úplné dominanci při křížení dominantního homozygota s heterozygotem
+(AA * Aa):
+A) je polovina potomků homozygotních
+b) nacházíme ve fenotypu štěpení 1:1
+c) dochází ke štěpení 3:1
+d) dochází ke štěpení1:2:1
+96. Při úplné dominanci a křížení dvou heterozygotů (Aa * Aa):
+A) má 44 potomků fenotyp, který odpovídá recesivnímu homozygotovi
+b) jsou všichni potomci stejní
+C) jsou 24 potomků heterozygoti
+d) převládají mateřské znaky

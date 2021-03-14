@@ -1,0 +1,90 @@
+436. Rozmnožování u bakterií:
+A) je nepohlavní (vegetativní)
+b) spočívá ve vzniku 2 nebo 4 diploidních bakterií z 1 mateřské bakterie
+c) spočívá ve výměně bakteriálních chromosomů dvou bakterií
+d) je vždy spojeno se změnou genomu bakterie
+437. V genetice bakterií označujeme pojmem:
+A) transformace vniknutí volné samostatné DNA do recipientní buňky
+b) transformace přestup nekonjugativního plasmidu z buňky donorové do recipientní
+c) transdukce vniknutí volné samostatné molekuly DNA do recipientní buňky
+d) transdukce přestup konjugativního plasmidu z buňky donorové do recipientní
+438. Při transdukci u bakterií může být přenesen(a):
+A) jak fragment chromosomální tak plasmidové DNA
+b) pouze plasmidové DNA a nikoliv chromosomální
+c) pouze chromosomální DNA a nikoliv plasmidové
+d) pouze plasmidové RNA
+439. Grampozitivní bakterie:
+a) má na povrchu buněčnou stěnu tvořenou dvěma lipidovými membránami
+b) má větší hmotnost než bakterie gramneutrální
+C) má buněčnou stěnu tvořenou peptidoglykanem
+D) může tvořit spory
+440. Gramnegativní bakterie:
+a) má nižší hmotnost než bakterie gramneutrální
+b) obsahuje silnou buněčnou stěnu s peptidoglykanem
+C) má vnější membránu obsahující lipoproteiny
+D) může mít pohyblivé bičíky
+441. Mezi základní znaky eubakterií patří:
+A) nukleoid není ohraničen jaderným obalem
+B) ribosomy jsou volně v cytoplasmě
+C) buněčná stěna obsahuje peptidoglykan (murein)
+d) centrosom má zjednodušenou stavbu
+442. Bakterie:
+A) se množí nepohlavně
+b) se dělí mitoticky
+C) mohou získat novou kombinaci genů transformací
+D) mohou vytvářet spory odolné k extrémním podmínkám
+443. Plazmidy:
+A) obsahují kruhovou DNA
+b) obsahuje kruhovou RNA
+C) se replikují nezávisle na bakteriálním chromosomu
+D) obsahují například geny pro rezistenci k antibiotikům
+444. První prokaryotické buňky pravděpodobně byly:
+A) anaerobně heterotrofni
+b) aerobně heterotrofni
+c) anaerobně autotrofni
+d) aerobně autotrofní
+445. Stromatolity jsou:
+A) produktem prokaryot
+b) produktem eukaryot
+c) součástí orgánu vnímání polohy
+d) součástí orgánu vnímání pohybu
+446. Při konjugaci u bakterií dochází:
+A) k přechodu části chromosomu z jedné buňky do druhé
+b) k jejich celkovému splynutí
+c) k jejich rozštěpení
+d) k jejich rozmnožení
+447. Streptokoky tvoří:
+a) hrozny
+B) řetízky
+c) dvojice
+d) spirály
+448. Stafylokoky tvoří:
+A) hrozny
+b) řetízky
+c) dvojice
+d) spirály
+449. Ve vnitřní části buněk sinic:
+A) se nachází DNA
+b) se nenachází DNA
+c) se nachází lignin
+d) se nachází celulóza
+450. Některé druhy sinic žijí v symbióze:
+A) s houbami
+b) s lišejníky
+c) s mechy
+d) se stromy z čeledi břízovité
+451. Obligátně (striktně) aerobní prokaryota:
+A) rostou jen za přítomnosti kyslíku
+B) získávají energii aerobní respirací
+c) rostou jen bez přístupu kyslíku
+d) mohou růst za přístupu nebo i bez přístupu kyslíku
+452. Obligátně (striktně) anaerobní prokaryota:
+A) rostou jen bez přístupu kyslíku
+B) získávají energii bud' kvašením nebo anaerobní respirací
+c) mohou růst za přístupu nebo i bez přístupu kyslíku
+d) rostou jen za přítomnosti kyslíku
+453. V buněčné stěně hub (Fungi) se může nacházet:
+A) chitin
+b) lignin
+C) celulóza
+d) škrob

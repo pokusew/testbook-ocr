@@ -1,0 +1,95 @@
+365. Vyberte rovnici, která platí v rovnovážné populaci:
+A) q2 = 1 - 2pq-p
+B) p² + q2 = 1 - 2pq
+C) p2 + 2pq + q2 = 1
+d) žádná z uvedených alternativ není správná
+366. Vyberte rovnici, která platí v rovnovážné populaci:
+a) 2p - 1 = q?
+B) p+ q2 = 1 - 2pq
+c) pq + 2pq = 0
+d) žádná z uvedených alternativ není správná
+367. Panmixie:
+a) je příznačná pro samooplození
+b) se vyskytuje zejména u autogamie
+C) je náhodný výběr partnerů při křížení
+d) je typická pro samosprašné rostliny
+368. Panmiktická populace:
+a) se vyznačuje nepohlavním rozmnožováním
+b) nemůže vznikat u hermafroditů
+c) je populace o více než miliónu jedinců
+D) se vyznačuje náhodným výběrem sexuálního partnera
+369. V malých populacích, na rozdíl od populací velkých, se na změnách genových
+frekvencí význačně uplatňuje:
+A) genetický posun (drift)
+b) mutace
+c) selekce
+d) vnější ostředí
+370. V Genové frekvence v malých populacích jsou na rozdíl od populací velkých
+výrazně ovlivněny:
+a) změnami prostředí
+b) selekcí
+C) genetickým driftem
+d) mutagenními látkami
+371. HardyWeinbergův zákon:
+A) platí pro velkou panmiktickou populaci
+b) Ize vyjádřit rovnicí p? + pq + q² = 1
+c) platí jen pro alely autosomálních genů
+d) vysvětluje úbytek heterozygotů v populaci
+372. HardyWeinbergův zákon:
+a) platí pouze pro malé populace cca do 1000 jedinců
+B) platí pro panmiktické populace
+C) platí pro velké populace
+d) neplatí pro dědičnost genů na chromozomu X
+373. Frekvence alel v populaci:
+a) je vždy stálá
+b) se ve velké populaci mění rychle
+c) je za normálních podmínek vždy 0,5
+D) se mění vlivem selekce
+374. Frekvence alel v populaci:
+A) jsou ovlivněny selekcí
+b) se mění tím rychleji, čím je populace větší
+C) jsou ovlivněny mutacemi
+d) piq jsou vždy konstantní
+375. V malé populaci vlivem genetického posunu se může po velkém počtu generací:
+A) žádná z uvedených alternativ není správná
+b) genofond stát variabilní, frekvence všech alel stoupá a klesá, přibývá heterozygotů
+v důsledku inbridingu
+c) měnit genofond populace ve smyslu vymizení některých alel, zvýšení frekvence jiných,
+zvýšení frekvence heterozygotů
+d) genofond stát variabilní, frekvence všech alel stoupá a klesá, přibývá heterozygotů
+376. V malé populaci (se) může vlivem genetického driftu:
+A) některá z alel z populace vymizet
+b) zvýšit frekvence heterozygotů
+C) některá alela převládnout (tzv. fixovat se)
+d) zvýšit množství alel daného
+genu
+377. Malé populace:
+a) zachovávají stálou frekvenci alel
+b) mají snížený počet homozygotů
+c) ve shodných podmínkách jsou shodné
+D) mění četnost alel vlivem náhody
+378. V malých populacích:
+a) se zvyšuje genetická variabilita
+b) se postupně snižuje počet homozygotů
+C) se frekvence alel náhodně mění
+D) se frejvence alel mění působením genetického driftu
+379. Malé populace:
+A) žádná z uvedených alternativ není správná
+b) mají snížený počet homozygotů
+c) mají stejné frekvence týchž alel
+d) zachovávají stálou frekvenci alel
+380. V malých populacích:
+a) se postupně zvyšuje počet heterozygotů
+B) může jedna z alel nakonec zcela převládnout
+c) dochází k účinnějšímu přírodnímu výběru výhodných vlastností
+d) se frejvence alel na rozdíl od velkých populací nemění
+381. Příbuzenské křížení v populaci má za následek:
+A) žádná z uvedených alternativ není správná
+b) vzestup počtu heterozygotů
+c) změnu genových frekvencí
+d) snížení počtu recesivních homozygotů
+382. Genetické riziko příbuzenských sňatků spočívá:
+A) žádná z uvedených alternativ není správná
+b) v efektu heterosy
+c) ve zvyšování počtu mutací
+d) ve zvýšené pravděpodobnosti narození heterozygotů

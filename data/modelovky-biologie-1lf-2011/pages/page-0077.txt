@@ -1,0 +1,90 @@
+1289. Nervový vzruch se u člověka může po nervovém vláknu šířit maximálně rychlostí:
+a) 120 km/s
+B) 120 m/s
+c) 120 mm/s
+d) 120 m/s
+1290. U člověka mohou mít výběžky nervových buněk maximální délku:
+A) kolem jednoho metru
+b) několik centimetrů
+c) několik milimetrů
+d) několik mikrometrů
+1291. Senzitivní nervová vlákna:
+a) řídí činnost hladkého svalstva
+B) vedou vzruchy dostředivě
+C) přenášejí informace z čidel
+D) jsou součástí reflexního oblouku
+1292. Motorická nervová vlákna:
+A) vedou vzruchy k příčně pruhovaným svalům
+b) vedou vzruchy dostředivě
+C) vedou vzruchy odstředivě
+d) řídí činnost hladkého svalstva
+1293. Autonomní nervový systém:
+A) řídí činnost žláz
+B) řídí činnost hladkého svalstva
+c) řídí pohyby očních bulbů
+d) zahajuje polykací reflex
+1294. Páteřní mícha dospělého muže je přibližně dlouhá:
+a 45 mm
+b 12 cm
+C) 45 cm
+D) 450 mm
+1298. Hematoencefalická bariéra zajišťuje:
+A) stálost vnitřního prostředí mozku
+b) ochranu mozku před úrazem
+c) ochranu mozku před průnikem oxidu uhličitého
+d) oddělení mozku od míchy
+1299. Signály pro cílené pohyby rukou vycházejí z:
+a) hypotalamu
+b) mozečku
+C) mozkové kůry
+d) hrudní míchy
+1300. Podněty ve 2. signální soustavě člověka jsou:
+A) abstraktní
+b) konkrétní
+c) jakékoliv
+d) jen nepodmíněné
+1301. Vnitřní stav usměrňující reakci organismu nazýváme:
+a) signální soustava
+B) motivace
+c) habituace
+d) adaptace
+1302. Chemická synapse (zápoj):
+A) žádná z uvedených alternativ není správná
+b) je místem vzniku nervového vzruchu
+c) slouží k zesílení převáděného vzruchu
+d) umožňuje oboustranný přenos elektrických signálů mezi neurony
+1303. Tkáňový mok vzniká:
+a) selekcí
+b) konvekcí
+C filtrací
+d) difúzí
+1304. Hlavní řídící ústrojí pro autonomní (vegetativní) funkce je v:
+A) žádná z uvedených alternativ není správná
+b) prodloužené míše
+c) středním mozku
+d) talamu
+1305. Z páteřní míchy člověka vystupuje párů míšních nervů:
+A) žádná z uvedených alternativ není správná
+b) 21
+c) 12
+d) 13
+1306. Hladká svalovina je ovládána:
+A) žádná z uvedených alternativ není správná
+b) buňkami předních rohů míchy
+c) jen sympatikem
+d) jen parasympatikem
+1295. Reflexní oblouk se skládá z:
+A) dostředivé dráhy
+B) výkonného orgánu
+C) čidla
+D) odstředivé dráhy
+1296. Nejjednodušší reflexní oblouk tvoří:
+a) jeden neuron
+B) dva neurony
+c) tři neurony
+d) čtyři neurony
+1297. Bloudivý nerv:
+a) vede vzruchy ke svalům bránice
+B) obsahuje vlákna autonomního nervstva
+c) vstupuje do míchy v oblasti krční páteře
+D) je desátým hlavovým nervem

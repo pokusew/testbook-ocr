@@ -1,0 +1,87 @@
+337. Evoluční význam mohou mít:
+A) obecně jen ty mutace, které mají pro své nositele v daném prostředí pozitivní selekční
+význam
+b) delece částí či celých genů
+c) obecně jen znevýhodňující, škodlivé či dokonce letální mutace genů
+D) tandemové duplikace genů
+338. Evoluční historii druhů můžeme rekonstruovat:
+A) srovnáváním nukleotidových sekvencí DNA
+B) srovnáváním aminokyselinových sekvencí proteinů
+C) přibližným výpočtem, kolik času bylo třeba, aby se dva dnešní druhy evolučně vzdálíly
+od posledního společného předka
+D) pomocí tzv. molekulárních hodin, tj. sekvencí (nukleotidových i aminokyselinových),
+kde mutace probíhají poměrně stálým rytmem.
+339. Celková délka DNA v haploidní chromosomové sadě vyjádřená počtem
+nukleotidů v genomu:
+A) je u savců a korýšů srovnatelná.
+b) je hlístů větší než u měkkýšů.
+C) je v taxonomických skupinách některých eukaryontů (např. hmyz, obojživelníci) široce
+variabilní.
+d) je u savců řádově 106 (jednotky miliónů).
+340. Rekombinované molekuly DNA:
+A) žádná z uvedených alternativ není správná
+b) vznikají procesem crossingover v meióze.
+c) brzdí průběh meiózy
+d) jsou produktem mutací
+341. Rekombinantní molekuly DNA:
+A) jsou nové, záměrně uměle konstruované sestavy genů v živé buňce
+b) vznikají přirozenými procesy spojenými s rozmnožováním nebo mutacemi
+C) lze vnést do buněčného jádra příjemce, kde je trvale udržována jako součást jeho
+genomu
+d) jsou produktem heteroze
+342. Základní postup genového inženýrství zahrnuje použití:
+A) vektorové DNA
+B) izolované a vyčištěné donorové (dárcovské) DNA
+C) restrikčních endonukleáz
+D) selekce a pomnožení hostitelské buňky
+343. Jako vektory dopravující genový fragment donorové DNA se užívají:
+A) do buněk bakterií - nejčastěji vhodné plazmidy
+b) do savčích buněk – reverzní transkripty izolovanných a selektovaných mRNA
+c) do buněk prokaryontních - restrikčních endonukleázy
+D) do buněk eukaryontních - vhodné, předem upravené a neškodné viry
+344. Genové inženýrství umožnilo výrobu např.:
+A) čistého lidského inzulínu
+B) vysoce čistých interferonů
+C) mimořádně čistých enzymů
+d) žádná z uvedených alternativ není správná
+345. Transgenní rostliny mohou:
+a) obsahovat látky toxické pro člověka
+b) být uvolněny k distribuci bez předchozího testování důsledků pro lidské zdraví
+C) být odolné proti mikrobiálním škůdcům
+D) být odolné vůči hmyzím škůdcům
+346. Transgenoze u hospodářských živočichů:
+a) je metodicky snazší než u rostlin
+b) má za cíl vyšlechtit druhy s přímou asimilací atmosférického dusíku či schopných
+fotosyntézy
+C) DNA žádoucího genu se vpravuje přímo do buněčného jádra zygoty
+D) DNA žádoucího genu se vpravuje přímo do buněčného jádra vajíčka izolovaného
+z vaječníku
+347. Který/é z následujících pro ktů lze připravit biote
+A) modifikovaný enzym
+B) DNA sondu
+C) proteinový hormon
+d) steroidní hormon
+348. Genová terapie:
+A) je přímá náprava genových mutací v genomu člověka
+B) otvírá cestu ke příčinnému léčení molekulárních dědičných chorob u lidí
+C) napravuje nefunkčnost mutovaného genu v buňkách určité tkáně tím, že se do nich
+vpraví příslušná funkční alela, která zajistí syntézu chybějícího genového produktu
+d) žádná z uvedených alternativ není správná
+349. Genová terapie:
+A) využívá transgenoze především kmenových krvetvorných buněk kostní dřeně
+B) otvírá cestu ke příčinnému léčení např. cystické fibrózy a některých nádorových
+onemocnění
+C) byla poprvé úspěšně použita u těžké (smrtelné) kombinované imunodeficience (SCID),
+způsobené neschopností T-lymfocytů vytvářet enzym adenosin deaminasu (ADA)
+d) se typicky zaměřuje na cílové buňky, které se v dospělém organismu již dále nemnoží
+(nedělí)
+350. Které z následujících tvrzení nejlépe popisuje základní rozdíl mezi somatickou
+genovou terapií a zárodečnou genovou terapií:
+a) somatická genová terapie je nahrazení abnormálního genu normálním, zárodečná
+genová terapie je přidání normálního genu
+B) somatická genová terapie neovlivňuje genom dětí léčeného pacienta, zárodečná genová
+terapie může ovlivňovat budoucí generace
+c) somatická genová terapie je prováděna postnatálně, zárodečná genová terapie je
+prováděna prenatálně
+D) somatická genová terapie potřebuje celoživotní imunosupresi, zárodečná genová
+terapie nikoli

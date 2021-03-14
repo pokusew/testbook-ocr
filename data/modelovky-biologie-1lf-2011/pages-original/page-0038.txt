@@ -1,0 +1,93 @@
+597. Z hlediska vývoje značíme jako:
+a) monofyletické taxony prvoky
+b) polyfyletické taxony ptáky a savce
+C) monofyletické taxony ptáky a savce
+d) polyfyletické taxony plazy a ptáky
+598. Homologické znaky (orgány) mají:
+A) stejný fylogenetický původ, ale funkce může být odlišná
+b) různý fylogenetický původ, ale funkce je stejná
+c) stejný fylogenetický původ i funkci
+d) stejný fylogenetický původ, ale funkce musí být odlišná
+599. Analogické znaky:
+A) mají různý původ, ale plní stejnou funkci u různých taxonů
+b) jsou např. podobné chemické složení cytochromu u různých obratlovců
+c) jsou např. modifikace končetin u různých savců
+d) jsou pouze morfologické znaky
+600. Embryonální indukce je:
+a) produkce jiných hormonů v těle matky v těhotenství
+b) vzájemné působení dvojvaječných dvojčat
+C) zprostředkována signálními molekulami; např. růstovými faktory
+D) jeden z mechanismů vyvolávající diferenciační genovou aktivitu buněk
+601. Embryonální indukce:
+A) je vzájemné působení různých částí vyvíjejícího se zárodku na sebe
+b) vzájemné působení dvojčat na sebe
+C) závisí na aktivaci membránových a jaderných receptorů
+d) vzájemné působení plodu a matky
+602. Induktivní interakce:
+A) je vzájemné ovlivňování buněk svými povrchovými molekulami
+B) určuje časový sled vývojových dějů
+C) závisí na aktivaci membránových a jaderných receptorů
+D) určují podélnou a hřbetní orientaci těla
+603. Homeotické geny:
+a) jsou geny dávané do souvislosti s nádorovým bujením
+b) u člověka stabilizují počty čtyř hlavních typů buněk v periferní krvi
+c) jsou u člověka soustředěny do čtyř homeoboxů
+D) hrají významnou roli v embryonálním vývoji (ontogenetickém) mnohobuněčných
+živočichů
+606. Nedostatek nezbytných aminokyselin v potravě u živočichů:
+A) vyvolá chorobné změny, chybí-li úplně – smrt
+b) je neohrožuje, protože si je dovedou sami syntetizovat
+c) vyvolá změnu potravních návyků s přebytkem tuků, ze kterých mohou být
+aminokyseliny nahrazeny
+d) zvýšenou sexuální aktivitu
+607. Slokomocí živočichů na rozdíl od rostlin souvisí:
+a) velká intenzita anabolických dějů
+B) velká intenzita katabolických dějů
+c) snížená schopnost autotrofního způsobu výživy
+d) zvýšená schopnost autotrofního způsobu výživy
+608. Menší živočichové mají metabolismus (při přepočtu na jednotku hmotnosti těla)
+relativně:
+A) vyšší než větší živočichové
+b) nižší než větší živočichové
+c) stejný jako větší živočichové
+d) nelze jednoznačně určit
+609. Závislost intenzity metabolismu na velikosti těla u živočichů se projevuje tak, že:
+a) menší živočichové mají relativně pomalejší růst
+b) větší živočichové mají metabolismus relativně vyšší než živočichové menší
+c) menší živočichové mají relativně nižší spotřebu potravy
+D) menší živočichové mají metabolismus relativně vyšší než živočichové větší
+610. Živočichové získávají energii:
+a) s naprostou převahou při anaerobních dějích
+B) s naprostou převahou při aerobních dějích
+c) především s využitím autotrofní výživy
+d) především s využitím CO2 jako dodavatele kyslíku
+611. U býložravců je střevo v poměru k délce těla:
+a) kratší než u masožravců
+B) delší než u masožravců
+c) přibližně ve stejném poměru jako u masožravců
+d) přibližně ve stejném poměru jako u člověka
+612. Mezi obecné vlastnosti živých soustav patří schopnost:
+A) přeměny látek a energií (metabolismus)
+B) odpovídat na podněty (dráždivost)
+C) rozmnožování (reprodukce)
+D) vývoje (evoluce)
+613. Přímý zdroj energie pro svalový stah představuje:
+a) glukóza
+b) mastné kyseliny
+C) ATP
+d) kyselina mléčná
+614. Nepostradatelné aminokyseliny:
+A) si organismus nedokáže sám vytvořit
+b) jsou přítomny jen v rostlinných bílkovinách
+c) žádná z uvedených alternativ není správná
+d) tvoří většinu z přijímaných aminokyselin
+604. Prostorové uspořádání těla:
+A) je řízeno aktivitou specifických proteinů
+B) určuje rotace vnější cytoplasmy proti vnitřnímu obsahu buňky
+C) určuje místo vniknutí spermie do vajíčka
+D) může být ovlivněno prostředím, v němž se genetický program uskutečňuje
+605. Neurální indukce:
+A) závisí na aktivitě hřbetního mesodermu
+b) je řízena maternálními mRNA
+C) vyvolá vychlípení ektodermu a vznik podélných lišt
+D) následně ovlivňuje přeměnu ektodermu na rohovku

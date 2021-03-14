@@ -1,0 +1,87 @@
+MOLEKULÁRNÍ GENETIKA
+218. Objev molekulární struktury DNA uveřejnili:
+a) Watson a Holmes v r. 1905
+b) Griffith v r. 1924
+c) Avery, McLeod a McCarthy v r. 1944
+D) Watson a Crick v r. 1953
+219. Který/é kolektiv/y výzkumných pracovníků podal/y průkaz DNA jako nositele
+genetické informace:
+a) Griffith a spolupracovníci
+B) Avery a spolupracovníci
+c) Watson a Crick
+d) Hershey a Chase
+220. Že je DNA substrátem dědičnosti, objevil/i:
+a) Miescher v r. 1869
+b) Griffith v r. 1924
+C) Avery, McLeod a McCarthy v r. 1944
+d) Watson a Crick v r. 1953
+221. Genetická informace:
+A) je zapsána v molekulách nukleových kyselin
+b) je zapsána v molekulách bílkovin
+C) umožňuje buňce realizaci určitého znaku
+D) je zapsána podle biologicky téměř univerzálního klíče - genetického kódu
+222. Genetické informace:
+A) řídí celý život buňky
+B) rozhodují o tom, jakých funkcí je buňka schopna
+C) určují, jaké budou biochemické a morfologické znaky buňky
+d) žádná z ostatních odpovědí není správná
+223. Specifická primární struktura molekul DNA:
+A) zůstává nezměněna po celý život buňky
+B) je v dceřiných buňkách totožná s buňkou mateřskou
+C) se v průběhu buněčného cyklu zdvojuje - replikuje
+D) určuje, jaké budou morfologické a funkční znaky celého mnohobuněčného organismu
+224. Ústředním dogmatem molekulární biologie je přenos genetické informace z:
+A) nukleové kyseliny do nukleové kyseliny
+B) nukleové kyseliny do bílkoviny
+c) bílkoviny do bílkoviny
+d) bílkoviny do nukleové kyseliny
+225. Dceřinné tělové buňky organismu obsahují:
+a) ve srovnání s mateřskou buňkou haploidní sadu všech genů
+b) polovinu všech genů rodičovských gamet
+c) zdvojenou - replikovanou genetickou informaci buňky mateřské
+D) nezměněné genetické informace buňky mateřské
+226. Dceřinné tělové buňky organismu obsahují:
+a) ve srovnání s mateřskou buňkou haploidní sadu všech genů
+b) polovinu všech genů rodičovských gamet
+c) zdvojenou - replikovanou genetickou informaci buňky mateřské
+D) žádná z ostatních odpovědí není správná
+227. DNA:
+A) je typickým biopolymerem
+B) je téměř univerzálně látkovým nosičem genetických informací
+C) není signálem genetické informace RNA-virů
+d) je dobře rozpustná ve vodě
+228. DNA je obsažena kromě jádra také v:
+A) mitochondriích
+B) plastidech
+c) ribosomech
+d) tukových vakuolách
+229. Které z následujících tvrzení je správné pro eukaryotickou DNA:
+a) veškerá DNA kóduje proteiny
+B) různé oblasti DNA jsou transkribovány v různých buněčných typech
+C) množství DNA je proporcionelní k vývojovému stupni organismu
+d) žádné tvrzení není správné
+230. Gen je úsek polynukleotidového řetezce, jehož funkcí je:
+A) kódovat primární strukturu polypeptidu
+b) kódovat primární strukturu polysacharidů
+C) kódovat primární strukturu RNA, která nepodléhá translaci
+d) kódovat strukturu primárních aminokyselin
+231. Které tvrzení platí pro dvouřetězcovou DNA:
+a) oba řetězce jsou spolu spojeny fosfodiesterickými vazbami
+b) vodíkové můstky spojují purin-purin, pyrimidin-pyrimidin
+c) vždy obsahuje stejné množství adeninových a guaninových bazi
+D) replikuje se semikonzervativním způsobem
+232. Které společné vlastnosti mají DNA a RNA molekuly:
+a) v eukaryotických buňkách jsou vázány na histony
+B) obsahují fosfodiesterické vazby
+c) obsahují adenin, thymin, guanin a cytosin
+d) nacházejí se pouze v jádře
+233. DNA obsahuje:
+a) dvouřetězce nukleotidů párované kovalentními vazbami
+B) dusíkaté baze párované vodíkovými můstky
+c) paralelní řetězce bílkovin nesoucí shodnou genetickou informaci
+d) nukleotidy adenin, cytosin, guaninu a uracil
+234. Které z následujících sloučenin jsou pyrimidiny:
+a) adenin, guanin, cytosin
+b) cytosin , guanin, uracil
+c) cytosin a thymin, adenin
+D) cytosin, thymin, uracil

@@ -1,0 +1,92 @@
+705. Mezi makroergické sloučeniny patří především:
+a) glukózo-6-fosfát
+b) glykogen
+C) ATP
+d) nukleové kyseliny
+706. Při úplné oxidaci 1 molekuly glukózy může vzniknout přibližně
+a) 3 molekuly ATP
+B) 30 molekul ATP
+c) 300 molekul ATP
+d) více než 300 molekul ATP
+707. Přenašeče elektronů při aerobní respiraci jsou v buňkách eukaryot vestavěny do:
+A) membrány mitochondrií
+b) cytoplasmatické membrány
+c) jaderné membrány
+d) membrány endoplasmatického retikula
+708. Malé ionty a molekuly mohou být transportovány přes lipoproteinové
+membrány:
+A) prostou difúzí
+B) zprostředkovanou difúzí
+C) pomocí přenašečů
+D) i proti koncentračnímu spádu
+709. Buňky se vzájemně rozeznávají na základě:
+a) protilátek buněčné membrány
+B) antigenních vlastností buněčné membrány
+c) vlastností lipidové dvojvrstvy
+d) receptorů buněčného jádra
+710. Mikrotubuly a mikrofilamenta v eukaryotní buňce:
+A) jsou složeny z bílkovinných molekul
+b) jsou souborem vláknitých struktur glykoproteinových a lipoproteinových
+C) se podílejí na průběhu mitózy
+D) se podílejí na průběhu meiózy
+711. Lyzogenní cyklus bakteriofága:
+A) je typický pro mírné fágy
+b) je typický pro virulentní fágy
+C) je charakterizován vznikem profága
+d) žádná z uvedených alternativ není správná
+712. V genetice bakterií označujeme pojmem:
+A) transformace vniknutí volné samostatné DNA do recipientní buňky
+b) transformace přestup plazmidu nesoucího informaci o resistenci k antibiotikům
+z buňky donorové do recipientní
+c) transdukce vniknutí volné samostatné molekuly DNA do recipientní buňky
+d) transdukce přestup konjugativního plazmidu z buňky donorové do recipientní
+713. Při transdukci u bakterií může být přenesen(a):
+A) jak fragment chromosomální tak plazmidové DNA
+b) pouze plazmidové DNA a nikoliv chromosomální
+c) pouze chromosomální DNA a nikoliv plazmidové
+d) pouze plazmidové RNA
+714. Kmeny bakterií produkující lidský inzulín:
+A) byly získány genetickou modifikací
+b) byly vyšlechtěny řízenými mutacemi
+c) byly získány z přírodních mutant
+D) vznikly vnesením lidského genu, který byl naklonován v expresním vektoru
+715. Opakovaným příbuzenským křížením rostlin vznikají:
+a) klony
+B) čisté linie
+c) kultivary
+d) pouze dominantní homozygoti
+716. Regenerace:
+A) je obnova některých typů buněk množením
+B) je změna jednoho buněčného typu v jiný
+c) je schopnost oddělit část těla
+D) se účastní tkáňové kmenové buňky
+717. U bakterií existuje:
+A) parasexuální rekombinace
+B) rekombinace DNA obdobná crossing-overu
+C) přenos molekuly DNA bez kontaktu dvou bakterií
+d) pouze nepohlavní způsoby rozmnožování
+718. Plazmidy:
+A) jsou vhodnými vektory při klonování lidské DNA
+B) mohou podmiňovat vznik odolnosti současně k několika různým antibiotikům
+C) mohou obsahovat cizorodou DNA
+d) zajišťují matroklinitu
+719. Plazmidy:
+A) mohou být využity pro syntézu produktů cizích genů
+B) jsou využívány jako klonovací vektory
+C) izolovaná DNA plasmidu může být linearizovaná
+d) mají zásadní význam pro existenci bakterie
+720. Chromosomy prokaryot:
+A) tvoří jedna molekula kruhové dvouvláknové DNA
+b) tvoří jedna molekula kruhové jednovláknové DNA
+C) jsou uloženy v prokaryotickém jádře (nukleoidu)
+d) jsou tvořeny cDNA
+721. Kmeny bakterií, produkující lidský růstový hormon:
+A) mají rekombinantní plasmidovou DNA
+B) obsahují primární strukturu lidské DNA
+c) vznikly samovolně v bakteriálních koloniích
+D) jsou příkladem transformace bakteriální buňky lidskou DNA
+722. Diferenciace buněk:
+A) souvisí s naprogramováním jaderného genomu
+B) závisí na postupné aktivaci nebo blokádě skupin genů
+c) je zahájena v zygotě
+D) je v dané buněčné linii stálá a dědičná

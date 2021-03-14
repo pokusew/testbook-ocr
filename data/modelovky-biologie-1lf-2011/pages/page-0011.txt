@@ -1,0 +1,92 @@
+139. Má-li matka krevní skupinu 0 a otec rovněž 0, mohou mít děti krevní skupinu:
+A) O
+b) OaA
+c) 0, A, AB
+d) 0, A, AB, B
+130. Při úplné dominanci odhadujeme relativní četnost recesivní alely v populaci:
+a) odmocněním relativní četnosti heterozygotů
+b) odmocněním relativní četnosti dominantních homozygotů
+C) odmocněním relativní četnosti recesivních homozygotů
+d) výpočtem kubickou rovnicí
+131. Příbuzenské křížení v populaci má za následek:
+a) změnu genových frekvencí
+b) vzestup počtu heterozygotů
+C) pokles četnosti heterozygotů
+d) snížení počtu recesivních homozygotů
+132. Genetické riziko příbuzenských sňatků spočívá:
+a) v efektu heterosy
+B) ve zvýšené pravděpodobnosti narození recesivních homozygotů
+c) ve zvyšování počtu dominantních alel v populaci
+d) ve zvýšené pravděpodobnosti narození heterozygotů
+133. Heterosa:
+A) se používá ve šlechtitelství
+b) je značně nebezpečná pro chovy
+c) se uplatňuje u příbuzenských sňatků
+d) zvyšuje počet dominantních homozygotů
+134. Polyploidizace:
+a) se uplatňuje u příbuzenských sňatků
+b) je ve šlechtitelství značně nebezpečná
+C) se používá v rostlinném šlechtitelství
+d) zvyšuje počet dominantních homozygotů
+135. Mozaika je:
+A) organismus tvořený směsí buněk téhož druhu s různou genetickou výbavou
+b) jedinec s karyotypem 45,X
+c) buňka se dvěma jádry
+d) organismus, který má jak mužské tak ženské pohlavní orgány
+136. Eugenika:
+a) je snaha o zrovnoprávnění genetiky
+B) je věda o zlepšení genetického složení lidské populace
+c) se opírá o léčení dědičných chorob
+d) přináší zlepšení fenotypu jedinců
+137. Léčení osob postižených dědičnými chorobami:
+a) zlepšuje genofond populace
+b) zmenšuje frekvenci mutantních alele
+c) ovlivňuje positivně genotyp léčených osob
+D) ovlivňuje positivně fenotyp léčených osob
+138. Vnitrodruhová variabilita:
+A) je zakódována v genotypu
+b) je podmíněna pouze vlivem prostředí
+c) je vyvolána pouze indukovanými mutacemi
+d) je též nazývána modifikace
+140. Má-li matka krevní skupinu AB a otec AB:
+A) mohou mít děti krevní skupinu A
+B) mohou mít děti krevní skupinu B
+C) mohou mít děti krevní skupinu AB
+D) pravděpodobnost narození dítěte s krevní skupinou A i B je stejná
+141. Má-li dítě krevní skupinu A, mohl otec mít:
+A) krevní skupinu 0
+B) krevní skupinu B
+C) krevní skupinu AB
+D) krevní skupinu A
+142. Vztah alel A a B pro krevní skupinu systému ABO je:
+A) kodominance
+b) dominance
+c) recesivita
+d) superdominance
+143. V případě lokalizace genů A a B na různých chromosomech, tvoří jedinec
+s genotypem AaBb:
+A) gametu nesoucí gen A i B
+b) gamety nesoucí gen Aia
+C) gametu nesoucí gen A i b
+D) gametu nesoucí gen a i B
+144. Vazba genů může změnit:
+a) funkci genů
+b) poměr fenotypů při zpětném křížení u monohybridizmu
+C) poměr fenotypů při zpětném křížení u dihybridizmu
+d) poměry fenotypů v F2 generaci i u monohybridizmu
+145. Vazbová skupina genů je tvořena pouze geny:
+A) žádná z uvedených alternativ není správná
+b) se společnou funkcí
+c) původu mateřského
+d) se společnou regulací
+146. Pří křížení bělookého samečka octomilky s červenookou homozygotní samičkou
+dostaneme:
+A) všechno potomstvo červenooké
+b) červenooké samečky a bělooké samičky
+c) bělooké samičky a červenooké samečky
+d) polovinu potomků bělookých a polovinu červenookých bez ohledu na pohlaví
+147. Při křížení červenookého samečka octomilky s bělookou samičkou dostaneme:
+a) všechno potomstvo červenooké
+B) bělooké samečky a červenooké samičky
+c) červenooké samečky a bělooké samičky
+D) polovinu potomků bělookých a polovinu červenookých

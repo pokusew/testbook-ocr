@@ -1,0 +1,91 @@
+235. V nukleových kyselinách jsou běžné následující komplementární dvojice bází:
+A) A-T
+b) T-U
+C) G-C
+d) A-C
+236. V nukleových kyselinách jsou běžné následující komplementární dvojice bází:
+A) A-T
+b) T-C
+C) C-G
+D) U-A
+237. Thymin se v DNA páruje:
+A) sadeninem
+b) s cytosinem
+c) s guaninem
+d) s uracilem
+238. Cytosin se v DNA páruje:
+A) s guaninem
+b) s adeninem
+c) s uracilem
+d) s thyminem
+239. K replikaci DNA v živočišné buňce dochází:
+A) v jádře a mitochondriích
+b) v jádře a chloroplastech
+c) v cytoplasmě
+d) v lyzosomech
+240. Replikací rozumíme přenos genetické informace z:
+a) mRNA do tRNA
+b) DNA do mRNA
+c) mRNA do DNA
+D) DNA do DNA
+241. Při replikaci DNA:
+A) se uplatňuje enzym DNA-polymeráza
+B) se uplatňuje komplementarita bází
+C) dochází ke zdvojení molekuly DNA
+d) se páruje adenin s guaninem
+242. Při replikaci DNA vznikají:
+a) molekuly mRNA
+b) molekuly rRNA
+c) dvě dceřinné buňky
+D) semikonzervativním procesem nové molekuly DNA
+243. Replikace DNA zajišťuje:
+A) identitu přenosu informace pomocí pořadí nukleotidů
+B) zdvojování molekuly DNA
+c) vznik gamet
+D) identitu genetické informace v dceřinných buňkách
+244. Replikace je proces, ve kterém dochází k:
+A) zdvojení DNA
+b) syntéze molekul RNA na molekulách DNA
+c) syntéze bílkovin dle genetické informace obsažené v mRNA
+d) přepisu genetické informace rRNA do mRNA
+245. Při replikaci dvouvláknové DNA slouží jako matrice:
+A) obě oddělená vlákna původní molekuly DNA
+b) pouze jedno vlákno původní molekuly DNA
+c) DNA polymeráza
+d) vlákno RNA
+246. DNA sekvence, na které se váže RNA polymerasa a iniciuje transkripci genu,
+se nazývají:
+a) introny
+B) promotory
+c) operátory
+d) enhancery
+247. Funkčním přepisem strukturních genů je :
+a) tRNA
+B) mRNA
+c) rRNA
+d) cDNA
+248. RNA se v živočišné buňce syntetizuje:
+A) v jádře
+b) v ribosomech
+v cytoplazmě
+d) vendoplasmatickém retikulu
+249. Průběh transkripce je závislý na působení:
+a) DNA-polymeráz
+B) RNA-polymeráz
+c) N-acetyl-d-galaktosamin transferázy
+d) aminoacil-tRNA-syntetázy
+250. Transkripcí se rozumí:
+A) přepis strukturních genů do mediátorové RNA
+b) přepis tRNA genů do informační RNA
+c) přepis rRNA genů do cDNA
+d) přepis strukturní RNA do mRNA
+251. Transkripcí rozumíme přepis genetické informace z:
+a) mRNA do peptidu
+b) DNA do DNA
+C DNA do mRNA
+d) tRNA do peptidu
+252. Transkripce:
+A) je založena na komplementaritě dusíkatých bazi
+b) je iniciována ribosomy
+C) probíhá v interfázi
+D) je enzymatický proces

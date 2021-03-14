@@ -1,0 +1,90 @@
+POPULAČNÍ GENETIKA
+351. V populaci, která je v Hardy-Weinbergově rovnováze, nacházíme recesivní
+homozygoty s relativní četností 4 %. Relativní četnost heterozygotů v této
+populaci je:
+a) 64 %
+b) 96 %
+C) 32 %
+d) 0,6
+352. V populaci, která je v Hardy-Weinbergově rovnováze, nacházíme recesivní
+homozygoty s relativní četností 0,04. Relativní četnost dominantních
+homozygotů v této populaci je:
+A) 0,64
+b) 0,96
+c) 80 %
+d) 0,6
+353. V populaci, která je v Hardy-Weinbergově rovnováze, nacházíme jedince
+s dominantním fenotypem (předpoklad úplné dominance) s relativní četností
+51 %. Relativní četnost heterozygotů v této populaci je:
+a) 50 %
+b) 0,21
+c) 49 %
+D) 0,42
+354. V populaci, která je v Hardy-Weinbergově rovnováze, nacházíme jedince
+s dominantním fenotypem (předpoklad úplné dominance) s relativní četností
+0,64. Relativní četnost heterozygotů v této populaci je:
+a) 0,36
+b) 0,42
+C 48 %
+d) 64 %
+355. V populaci, která je v Hardy-Weinbergově rovnováze, nacházíme jedince
+s dominantním fenotypem (předpoklad úplné dominance) s relativní četností
+75 %. Relativní četnost dominantních homozygotů v této populaci je:
+a) 0,5
+B) 0,25
+c) 50 %
+d) 30 %
+356. V populaci, která je v Hardy-Weinbergově rovnováze, nacházíme jedince
+s recesivním fenotypem (předpoklad úplné dominance) s relativní četností 0,01.
+Frekvence dominantní alely v této populaci je:
+a) 1%
+B) 90 %
+c) 10 %
+d) 99 %
+357. V populaci, která je v Hardy-Weinbergově rovnováze, nacházíme jedince
+s recesivním fenotypem (předpoklad úplné dominance) s relativní četnosti
+0,01 %. Frekvence heterozygotů v této populacije:
+a) 99 %
+b) 18 %
+C) 2 %
+d) 36 %
+358. Vyberte rovnici, která platí v rovnovážné populaci:
+A) q2 = 1 - 2pq - p?
+b) p + q + 2pq = 1
+c) p2 + q2 = 2pq
+d) žádná z uvedených alternativ není správná
+359. V mendelovské populaci je frekvence recesivních homozygotů 0,01. Na základě
+Hardy-Weinbergovy rovnováhy určete frekvenci recesivní alely:
+a) 0,3
+B) 10 %
+c) 1%
+D) 0,1
+360. V mendelovské populaci je frekvence recesivních homozygotů 0,01. Na základě
+Hardy-Weinbergovy rovnováhy určete frekvenci dominantní alely:
+a) 0,7
+b) 10 %
+C) 0,9
+d) 50 %
+361. V mendelovské populaci je frekvence recesivních homozygotů 0,01. Na základě
+Hardy-Weinbergovy rovnováhy určete frekvenci dominantních homozygotů:
+A 0,81
+b) 0,9
+c) 0,5
+d) nelze určit
+362. V mendelovské populaci je frekvence recesivní alely 0,01. Na základě Hardy-
+Weinbergovy rovnováhy určete frekvenci dominantních homozygotů:
+a) 0,1
+b) 0,06
+C) 0,98
+d) 0,99
+363. V mendelovské populaci je frekvence recesivní alely 0,1. Na základě Hardy-
+Weinbergovy rovnováhy určete frekvenci heterozygotů:
+a) 0,1
+B) 0,18
+c) 0,5
+d) 0,82
+364. Vyberte rovnici, která platí v rovnovážné populaci:
+a) p3 + q? - 1 = 0
+B) p² + q2 = 1 - 2pq
+C) p² + 2pq + q2 = 1
+d) žádná z uvedených alternativ není správná

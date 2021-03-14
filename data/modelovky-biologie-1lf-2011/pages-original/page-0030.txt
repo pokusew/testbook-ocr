@@ -1,0 +1,92 @@
+4
+454. Zásobní látkou hub je:
+a) škrob a glykogen
+B) glykogen a olej
+c) olej a škrob
+d) škrob, olej a glykogen
+455. Spojováním buněk hub (Fungi) vznikají:
+A) nepravá pletiva
+B) hyfy
+C) mycelium
+D) pseudoparenchym
+456. Retroviry:
+A) obsahují jednořetězcovou RNA
+b) obsahují dvouřetězcovou DNA
+c) obsahují rRNA
+D) pomocí zpětné transkriptázy syntetizují komplementární DNA v infikovaných buňkách
+457. Algologie je vědní obor zabývající se studiem:
+a) lišejníků
+b) trav
+C) řas
+d) mechorostů
+458. Jako grampozitivní se označují bakterie, které:
+A) mají v barvení podle Grama modrofialovou barvu
+b) mají v barvení podle Grama červenou barvu
+c) netvoří spory
+D) obsahují silnou vrstvu peptidoglykanu v buněčné stěně
+459. Kvasinky:
+A) jsou jednobuněčné eukaryotní organismy
+b) jsou jednobuněčné prokaryotní organismy
+C) se množí vegetativně pučením
+D) se řadí mezi houby
+460. Buněčná stěna je tvořena především:
+A) peptidoglykanem u grampozitivních bakterií
+B) glukanem a mananem u kvasinek
+c) chitinem u kvasinek
+D) celulózou u rostlin
+461. Při klonování DNA lze jako vektor využít:
+A) plazmid
+B) bakteriofág lambda
+C) kosmid
+D) kvasinkový umělý chromosom
+462. Rezistence bakterií k antibiotikům:
+a) umožňuje léčebný účinek antibiotik
+B) brání léčebnému účinku antibiotik
+C) je podmíněna přítomností R-plazmidu
+d) je podmíněna přítomností F-plazmidu
+463. Adenoviry:
+a) jsou řazeny mezi RNA viry
+B) jsou řazeny mezi DNA viry
+C) některé jsou onkogenní
+D) mohou vyvolávat katary dýchacích cest u člověka
+464. Mezi parasexuální děje u bakterií řadíme:
+A) konjugaci a transformaci
+B) transformaci a transdukci
+c) transdukci a transkripci
+d) žádná odpověd z ostatních není správná
+465. Rozmnožování u řas je:
+A) vegetativní
+B) pohlavní
+C) nepohlavní
+D) možné pomocí výtrusů
+466. Diplokoky tvoří:
+a) hrozny
+b) řetízky
+C) dvojice
+d) spirály
+467. K pohybu u prvoků slouží:
+A) bičíky
+B) panožky
+C) řasinky
+d) žádná odpověď z ostatních není správná
+468. Prvoci žijí:
+A) ve slané vodě
+B) ve sladké vodě
+C) jako paraziti mnohobuněčných organismů
+D) jako symbionti mnohobuněčných organismů
+469. Virus HIV:
+a) patří mezi DNA viry
+B) patří mezi RNA viry
+C) patří mezi retroviry
+D) způsobuje imunodeficienci
+470. Při transformaci u bakterií dochází:
+A) k přenosu volné DNA z donorové do recipientní buňky bez jejich vzájemného kontaktu
+b) k přenosu volné DNA z donorové do recipientní buňky vyžadujícímu jejich vzájemný
+kontakt
+c) k přenosu DNA z donorové do recipientní buňky prostřednictvím bakteriofága
+D) k včlenění volné DNA do genomu recipientní buňky
+471. Hlízkové bakterie:
+a) žijí v symbióze s kořeny lesních stromů
+B) žijí v symbióze s kořeny bobovitých rostlin
+C) využívají vzdušný dusík jako zdroj výživy
+D) obohacují půdu o dusičnany

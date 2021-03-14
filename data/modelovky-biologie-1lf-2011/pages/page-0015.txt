@@ -1,0 +1,91 @@
+200. Crossing-over:
+A) může nastat mezi homologickými chromosomy
+b) probíhá mezi nehomologickými chromosomy
+c) zajišťuje zdvojení molekuly DNA
+d) je způsob jakým se z DNA přepisuje informace do RNA
+201. U dědičnosti, kdy je gen vázán na X chromosom, jsou jedinci s chromosomy XY:
+A) žádná z uvedených možností není správná
+b) dominantní homozygoti
+c) heterozygoti
+d) recesivní homozygoti
+202. Mitóza je:
+A) rozdělení genetického materiálu buňky tak, aby byla zachována celistvost genetické
+informace u buněk dceřiných
+b) replikace DNA vedoucí ke zdvojení jejího obsahu v buňce
+c) despiralizace chromatinu
+D) jedna z fází buněčného cyklu
+203. Mitoza se sestává z těchto fází:
+a) S fáze, Go, Gia M fáze
+B) profáze, metafáze, anafáze a telofáze
+c) anafáze I, telofáze I, interkinesis
+d) diplotene, pachytene, zygotene, leptotene
+204. Chromosomy v interfázi:
+a) jsou viditelné jako tenká vlákna, která se postupně zkracují
+b) se postupně kondenzují do barvitelných struktur
+C) jsou v jádrech despiralizovány
+d) jsou přichyceny k dělícímu vřeténku v oblasti centromery
+205. Centromera na chromosomu má za úkol:
+A) udržet integritu jednotlivých chromosomů
+B) umožnit připojení chromosomů na dělící vřeténko v metafázi
+c) určit místo, které odděluje polovinu jeho genetické informace
+d) zabránit mitoze
+206. Telomery na chromosomu mají za úkol:
+a) umožnit připojení chromosomů na dělící vřeténko v mitose
+b) umožnit crossing over
+c) přichycení k endoplazmatickému retikulu
+D) žádná odpověď z ostatních není správná
+207. Pod pojem chromatin jsou zahrnuty:
+a) jaderné obaly
+B) nukleové kyseliny a proteiny
+C) DNA, RNA a komplex proteinů
+d) proteiny obalující RNA chromosomů
+208. Většina genetické informace je obsažena v:
+A) euchromatinu
+b) heterochromatinu
+C) kódující sekvenci DNA
+d) koncových částech chromosomu
+209. Profáze meiózy I sestává z těchto stádií:
+a) profáze I, metafáze I, anafáze I, telofáze I
+B) leptotene, zygotene, pachytene, diplotene, diakineze
+c) profáze I, metafáze I, anafáze I (telofáze I je identická s profází II)
+d) leptotene, zygotene, kiatene, duotene
+210. Meiotické dělení II probíhá:
+A) obdobně jako mitóza
+b) stejně jako meióza I
+c) amitoticky
+d) endoreduplikací
+211. Centriol je:
+A) mikrotubulární struktura
+b) část chromosomu
+C) důležitá při buněčném dělení
+d) žádná odpověď z ostatních není správná
+212. Chromosomy lze nejlépe studovat (vyšetřovat) v:
+a) profázi
+b) anafázi
+C) metafazi
+d) interfázi
+213. Pro mitózu platí:
+a) dělící vřeténko se začíná formovat v anafazi
+B) jadérko mizí v profázi
+C) interfáze nastává po skončení telofáze a končí se začátkem profáze
+d) jaderná membrána mizí v době telofáze
+214. Metacentrický chromosom má:
+a) jedno raménko chromosomu výrazně delší
+B) raménka stejně dlouhá
+C) centromeru umístěnou uprostřed chromosomální struktury
+d) centromeru na konci chromosomální struktury
+215. Dlouhá ramena chromosomů označujeme písmenem:
+a) d
+B) q
+c) p
+d) 1
+216. Mitóza zajišťuje:
+A) rovnoměrné (identické) rozmístění genetické informace mezi dceřinné buňky
+B) identickou genetickou výbavu u buňky rodičovské a dceřinné
+C) diploidní chromosomální výbavu u dceřinných buněk
+d) haploidní chromosomální výbavu u dceřinných buněk
+217. Downův syndrom:
+A) nemocní s tímto syndromem mají obvykle 47 chromosomů
+B) pravděpodobnost postižení se zvyšuje s věkem matky
+C) je způsoben trisomií chromosomu 21
+d) vzniká s četností 1:10 živě narozených dětí

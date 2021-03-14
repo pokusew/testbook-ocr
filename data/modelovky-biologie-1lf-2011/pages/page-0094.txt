@@ -1,0 +1,91 @@
+with
+1586. Krevní skupina Rh je znak:
+A) žádná z uvedených alternativ není správná
+b) gonosomálně recesivně dědičný
+c) s neúplnou dominancí
+d) s vysokou dědivostí
+1587. Příkladem dědičné (molekulární) choroby je:
+a) neuróza
+B) žádná z uvedených alternativ není správná
+c) esenciální hypertenze
+d) krevněskupinový systém ABO
+1588. Mezi lidské choroby s polygenně determinovanou dědičnou dispozicí patří:
+A) alergie
+b) dědičná krvácivost
+c) galaktosemie
+d) mongolismus
+1589. V lidské populaci můžeme za panmiktické považovat tyto znaky:
+a) inteligenční kvocient
+b) výšku
+c) váhu
+D) krevně skupinový systém ABO
+1590. Downův syndrom je podmíněn:
+a) autosomálně recesivně
+B) chromosomální aberací
+c) autochromosomálně dominantně
+d) heterochromosomálně
+1591. V karyotypu chlapce postiženého Downovým syndromem jsou:
+A) 3 autosomy 21. páru a heterochromosomy XY
+b) 3 heterochromosomy 21. páru
+c) žádná z uvedených alternativ není správná
+d) 45 autosomů a heterochromosomy XX
+1592. V karyotypu chlapce postiženého Downovým syndromem jsou:
+A) 3 chromosomy 21. a jeden X heterochromosom
+b) 3 heterochromosomy 21. páru
+c) 3 heterochromosomy XXX
+d) 45 autosomů a heterochromosomy XX
+1593. Hemofilie (dědičná krvácivost) je porucha tvorby:
+a) červených krvinek
+b) hemocyaninu
+C) faktorů srážení krve
+d) hemoglobinu
+1594. Hemofilie (dědičná krvácivost) se vyskytuje:
+a) u mužů, jejichž otec byl takto postižen
+b) stejně často u obou pohlaví
+c) častěji u žen
+D) častěji u mužů
+1595. Hemofilie (dědičná krvácivost) se vyskytuje:
+A) žádná z uvedených alternativ není správná
+b) stejně často u obou pohlaví
+c) častěji u žen
+d) u mužů, jejichž otec byl takto postižen
+1596. Barvoslepost se vyskytuje:
+A) častěji u mužů
+b) stejně často u obou pohlaví
+c) častěji u žen
+d) u mužů, jejichž otec byl takto postižen
+1597. Barvoslepost se vyskytuje:
+A) u žen homozygotních pro tento recesivní gen
+b) stejně často u obou pohlaví
+c) častěji u žen
+d) u mužů, jejichž otec byl takto postižen
+1598. Při sňatku zdravé ženy (přenašečky krvácivosti) a zdravého muže:
+a) všichni synové budou mít hemofilii
+B) se může narodit syn s hemofilií (krvácivostí)
+c) některé dcery budou nemocné
+d) všechny děti budou zdravé
+1599. Barvoslepý muž a žena s normálním barvocitem:
+A) mohou mít barvoslepé syny
+b) nemohou mít barvoslepé syny
+C) mohou mít barvoslepé dcery
+D) mohou mít barvoslepé dcery i syny
+1600. U X chromosomové dědičnosti je fenotypo projev alel závislý:
+a) na matroklinní dědičnosti
+B) jen na jediné alele u muže
+c) na symbióze pohlavních chromosomů
+D) na pohlaví jejich nositele
+1601. U X chromosomové dědičnosti u mužů:
+A) není ani jedno z uvedených tvrzení správné
+b) nacházíme dominantní homozygoty
+c) nacházíme heterozygoty
+d) nacházíme recesivní homozygoty
+1602. Příkladem choroby kódované recesivním genem na X chromosomu je:
+A) barvoslepost
+b) šeroslepost
+c) albinismus
+d) kretenismus
+1603. Přítomnost pohlavních chromosomů XXY určuje u člověka:
+A) Klinefelterův syndrom
+B) mužské pohlaví
+c) ženské pohlaví
+d) Turnerův syndrom

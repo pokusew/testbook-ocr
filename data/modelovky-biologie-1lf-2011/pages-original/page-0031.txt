@@ -1,0 +1,87 @@
+472. Gramnegativní bakterie mají tvar:
+A) kulovitý (koky)
+B) tyčinkovitý
+c) vláknitý (mycelium)
+D) spirální
+480. Výsledkem primárních procesů fotosyntézy je:
+A) NADPH*, H*, ATP a 02
+b) C6H1206, H20 a O2
+c) ribulóza-1,5-bifosfát
+d) oxalacetát
+481. Pro fotosyntézu se ukázala jako nejvýhodnější kombinace chlorofylu:
+A) a + b
+b) a + c
+c) a + d
+d) a + e
+OBECNÁ BIOLOGIE
+482. Pro fotosyntézu je využíváno:
+A) viditelné světlo
+b) ultrafialové záření
+c) infračervené záření
+d) záření všech vlnových délek
+483. Při malém zvýšení koncentrace CO2 v atmosféře se intenzita fotosyntézy:
+A) zvyšuje
+b) snižuje
+c) nemění
+d) kolísá
+473. Mykorrhiza je:
+a) plísňové onemocnění brambor
+B) symbióza vláken hub s kořeny vyšších rostlin
+c) typická pro vodní rostliny
+D) útvar na drobných koříncích lesních stromů
+474. Chlorofyl:
+A) obsahuje hořčík
+B) se nachází v thylakoidech
+c) je přítomen pouze v buňkách vyšších rostlin
+D) je asimilační barvivo
+475. Mezi primární procesy fotosyntézy patří:
+A) fotolýza vody
+b) redukce CO2 na sacharidy
+c) fotorespirace
+D) změna energie světelného záření na energii chemických vazeb
+476. Mezi sekundární procesy fotosyntézy patří:
+A) redukce CO2 na sacharidy
+b) fotofosforylace
+c) první světelná reakce
+d) druhá světelná reakce
+477. V primárních procesech fotosyntézy se:
+A) mění energie světelná na energii chemickou
+b) uvolňuje energie vázaná v ATP
+c) využívá energie k tvorbě kyseliny 3-fosfoglycerové
+d) využívá energie k tvorbě oxalacetátu
+478. Kyslík uvolňovaný při fotosyntéze do vzduchu pochází:
+A) z vody
+b) z CO2
+c) z glukózy
+d) z NADP
+479. Fotofosforylace je proces vzniku ATP pomocí:
+A) absorpce fotonu chlorofylem
+b) štěpení glukózy
+c) oxidace vodíku organických látek
+d) dehydrogenace organických látek
+484. Rozdíl mezi dýcháním a fotosyntézou je v tom, že:
+A) při fotosyntéze se energie spotřebovává, při dýchání uvolňuje
+b) při dýchání se Oz uvolňuje
+c) při fotosyntéze se energie uvolňuje, při dýchání spotřebuje
+d) při fotosyntéze vznikají z CO2 anorganické látky
+485. Při fotosyntéze:
+A) vzniká O2
+b) vzniká CO2
+c) vznikají anorganické látky z 02 a H20
+D) dochází k přenosu elektronů ze soustavy voda/kyslík na soustavu koenzymů
+NADP/NADPH2
+486. Soustava přenašečů při cyklické fotofosforylaci:
+A) přenáší elektrony ve směru stoupajícího oxidačně redukčního potenciálu
+b) přenáší elektrony proti směru stoupajícího oxidačně redukčního potenciálu
+c) pomáhá vytvářet O2 z H20
+d) spotřebovává jednoduché organické látky
+487. Fotosyntézu ovlivňuje:
+A) spektrální složení a intenzita světla
+B) množství CO2
+C) teplota
+D) dostatek vody
+488. Mezi asimilační barviva patří:
+A) chlorofyl
+B) fykocyan
+C) fykoerytrin
+D) bakteriochlorofyl

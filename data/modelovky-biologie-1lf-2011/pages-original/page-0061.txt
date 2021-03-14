@@ -1,0 +1,90 @@
+1017. Z organických látek je v krevní plazmě nejvíce:
+a) cukrů
+b) tuků
+C) bílkovin
+d) močoviny
+1008. Červené krvinky krevní skupiny B se shlukují:
+a) aglutininy antiA
+B) aglutininy antiB
+c) aglutinogeny antiA
+d) aglutinogeny antiB
+1009. Krevní skupina B je charakterizována:
+A) aglutinogenem B
+b) aglutinogenem antiB
+c) aglutininem B
+d) aglutininem antiB
+1010. Imunokompetentní buňky jsou:
+A) T lymfocyty
+B) B lymfocyty
+c) granulocyty
+d) erytrocyty
+1011. Primární imunitní reakci zajišťují zejména protilátky:
+a) IgA
+b) IgG
+C) IgM
+d) IgE
+1012. Při alergických stavech jsou zmnoženy protilátky:
+A) IgE
+b) IgM
+c) IgA
+d) IgG
+1013. Při sekundární imunitní reakci je odpověd' organismu:
+A) účinnější
+B) rychlejší
+c) zpomalená
+d) nespecifická
+1014. Schopnost fagocytosy mají:
+A) neutrofilní granulocyty
+B) makrofágy
+c) lymfocyty
+d) bazofilní granulocyty
+1015. pH krve je udržováno:
+A) kyselým uhličitanem sodným
+B) plasmatickými bílkovinami
+C) hemoglobinovým systémem
+d) kyselým fosforečnanem vápenatým
+1016. Vyšetření krevních skupin má význam:
+A) při posuzování otcovství
+B) v průběhu těhotenství
+C) při krevní transfusi
+d) při posuzování sportovní zdatnosti
+1018. Albuminy se podílejí na:
+A) udržování pH krve
+B) onkotickém tlaku krve
+C) transportu nejrůznější látek krví (např. hormonů)
+d) tvorbě imunoglobulinů
+1019. Hlavním regulátorem tvorby červených krvinek:
+a) nedostatek kyslíku
+b) nadbytek oxidu uhličitého
+C) erytropoetin
+d) proces stárnutí červených krvinek
+1020. Kyslík se krví transportuje ve vazbě na:
+a) na globinovou složku hemoglobinu
+b) na albuminy
+C) na hemovou složku hemoglobinu
+d) na erytropoetin
+1021. Homeostaza znamená:
+a) udržování určitého složení přijímaných tekutin
+b) zástavu krvácení
+C) udržování stálého vnitřního prostředí
+d) schopnost udržet vzpřímenou polohu těla
+1022. V krvi je nejvýkonnějším nárazníkovým systémem systém:
+A) bikarbonátový
+b) hemoglobinový
+c) proteinový
+d) fosfátový
+1023. Sedimentace je:
+A) usazování červených krvinek v nesrážlivé krvi
+B) závislá na množství fibrinogenu a globulinů v plazmě
+C) závislá na množství erytrocytů
+D) vyšší u žen než u mužů
+1024. Hemostaza je:
+a) stálost vnitřního prostředí
+B zástava krvácení
+c) schopnost člověka udržet vzpřímený postoj
+d) zástava toku krve srdcem
+1025. Na zástavě krvácení z malých cév se podílí:
+A) konstrikce cév
+B) činnost krevních destiček
+C) srážení krve
+d) vliv antitrombinu

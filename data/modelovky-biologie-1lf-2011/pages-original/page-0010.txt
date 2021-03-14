@@ -1,0 +1,90 @@
+113. Při křížení jedinců parentální generace AA * BB (A kodominantní s B):
+A) vzniká v F1 generaci uniformní potomstvo
+b) v F1 generaci jsou jedinci fenotypově shodní s rodičem AA
+C) je v F2 generaci fenotypový a genotypový štěpný poměr shodný
+D) je v F2 generaci fenotypový poměr 1:2:1
+114. Při monohybridizmu s neúplnou dominancí nacházíme v F2 generaci:
+a) 2 rozdílné fenotypy
+B) 50 % jedinců s fenotypem odlišným od parentální generace
+C) 3 různé fenotypové třídy
+d) 2 genotypy
+115. Při dihybridizmu s úplnou dominancí alel obou genů a jejich volnou
+kombinovatelností nacházíme v Fz následující počet různých fenotypů:
+a) 1
+b) 3
+c) 2
+D) 4
+116. V F2 generaci u dihybridizmu s úplnou dominancí a volnou kombinovatelností
+obou genů nalézáme:
+A) 9 rozdílných genotypů
+b) fenotypový štěpný poměr 1:2:1
+c) fenotypový štěpný poměr 9:3:4
+d) genotypový štěpný poměr 9:3:3:1
+117. Při úplné dominanci křížením heterozygota s recesivním homozygotem při
+monohybridizmu získáme:
+A) potomstvo se dvěma odlišnými genotypy
+b) uniformní potomstvo
+C) fenotypy shodné s parentální generací
+d) pouze recesivní homozygoty
+118. Při monohybridizmu tvoří heterozygoti v F2:
+A) potomstvo s třemi různými genotypy
+b) jeden typ gamet
+C) potomstvo s náhodnou kombinací alel
+d) gamety s alelami Aa
+119. Při monohybridizmu a úplné dominanci křížením heterozygota s recesivním
+homozygotem získáme:
+A) dva fenotypy v poměru 1:1
+b) uniformní potomstvo
+c) shodný genotyp všech jedinců
+D) 50 % potomků s výskytem recesivních znaků
+120. Při monohybridizmu tvoří heterozygoti v F2: ...
+A) potomstvo se třemi odlišnými genotypy
+B) dva typy gamet
+c) potomstvo shodného genotypu
+d) gamety s alelami Aa
+121. Při úplné dominanci A nad a je heterozygot Aa fenotypově:
+A) shodný s AA
+b) shodný s aa
+c) mezi AA a aa
+d) odlišný od obou rodičů (AA, aa)
+122. Při neúplné dominanci A nad a je heterozygot Aa fenotypově:
+a) shodný s AA
+b) shodný s aa
+C) mezi AA a aa
+D) odlišný od obou rodičů (AA, aa)
+123. Při křížení dvou různých homozygotů (AA * aa):
+A) je potomstvo uniformní
+b) nacházíme štěpení 1:1
+c) dochází ke štěpení 1:2:1
+d) nacházíme štěpení 3:1
+124. Při křížení recesivního homozygota s heterozygotem (aa * Aa):
+a) dochází ke štěpení 1:2:1
+b) jsou všichni potomci stejní
+c) jsou všichni potomci stejní jako jeden z rodičů
+D) nacházíme štěpení 1:1
+125. Při úplné dominanci při křížení dominantního homozygota s heterozygotem
+(AA * Aa):
+A) je genotypový štěpný poměr 1:1
+b) nacházíme ve fenotypu štěpení 1:1
+C) jsou potomci ve fenotypu stejní
+d) dochází ke štěpení 1:2:1
+126. Při úplné dominanci a křížení dvou heterozygotů (Aa x Aa):
+A) dostáváme štěpný poměr ve fenotypu 3:1
+b) jsou všichni potomci stejní
+c) je genotypový poměr 1:1
+d) převládají mateřské znaky
+127. Při křížení dvou dominantních homozygotů se v jejich potomstvu:
+a) objeví jedna čtvrtina heterozygotů
+b) vyskytují dominantní homozygoti pouze v F1 generaci
+C) vyskytují pouze dominantní homozygoti
+d) vyskytují recesivní znaky asi v 1% případů
+128. Při n stupni hybridizmu lze v F1 generaci najít následující počet genotypů:
+A) 1
+b) 2
+c) 3
+d) 4
+129. Kvantitativní znaky jsou obvykle:
+a) podmíněny malým počtem genů malého účinku
+B) podmíněny vyšším počtem genů malého účinku
+c) podmíněny genem velkého účinku
+d) málo závislé na faktorech prostředí

@@ -1,0 +1,92 @@
+696. Makroergní vazby jsou vytvořeny:
+A) V ATP
+b) VAMP
+C) v GTP
+d) v adenosinu
+687. Autotrofní způsob získávání energie:
+A) je nezávislý na organických produktech jiných organismů
+b) závisí na organických produktech jiných organismů
+c) závisí pouze na množství kyslíku v okolí
+d) závisí na množství glukózy v okolí
+688. Je-li zdrojem energie H2S, jedná se o:
+a) heterotrofii
+b) fotoautotrofii
+C) chemoautotrofii
+d) mixotrofii
+689. Uvolněná energie se v buňce ukládá:
+A) V ATP
+b) v AMP
+c) v adenosinu
+d) v GDP
+690. Anaerobní glykolýza je proces:
+A) štěpení glukózy
+b) štěpení kyseliny pyrohroznové
+c) oxidace anorganických látek
+d) dehydrogenace anorganických látek
+691. Enzymy anaerobní glykolýzy jsou:
+A) uloženy volně v cytoplazmě
+b) vázány na mitochondrie
+c) vázány na endoplasmatické retikulum
+d) vázány v buněčné membráně
+692. Enzymy oxidativní fosforylace:
+A) jsou vázány na mitochondrie
+b) jsou uloženy volně v cytosolu
+c) jsou uloženy v Golgiho aparátu
+d) jsou vázány na plazmatickou membránu
+693. Chemická oxidace obecně je:
+A) odebrání elektronu látce často spolu s protonem
+b) hydrogenace organických sloučenin
+c) přijímání elektronů s protony
+d) přijímání atomů vodíku
+694. Buněčné oxidace:
+A) jsou postupné dehydrogenace organických látek
+b) jsou postupné hydrogenace organických látek
+c) probíhají jako oxygenace
+d) jsou postupné dehydratace
+695. Oxidativní fosforylace je proces:
+A) na kterém se podílejí mitochondrie
+b) anaerobní oxidace organických látek a fosforylace ADP
+C) aerobní oxidace organických látek a fosforylace ADP
+d) dekarboxylace kyseliny pyrohroznové
+697. CAMP:
+a) je molekula, která se uplatní pouze při hormonální regulaci
+B) je univerzální regulační molekula
+c) vzniká působením adenylylcyklázy na ADP
+D) aktivuje tvorbu hormonů v endokrinních žlázách.
+698. Regulace buněčné aktivity:
+A) může probíhat na základě vazby receptoru se signálními molekulami, které produkují
+jiné buňky organismu
+B) většinou zahrnuje několik enzymatických reakcí
+C) se účastní malé molekuly zvané druhý posel
+D) se účastní G proteiny
+699. Buňka v klidu je uvnitř oproti venku nabita:
+a) vždy stejně jako vně, tedy kladně nebo záporně
+b) kladně
+c) obě strany jsou nabity kladně
+D) záporně
+700. Membránový potenciál:
+a) může dosáhnout opačné polarity pouze u prokaryot
+b) nemůže dosáhnout opačné polarity
+C) může dosáhnout opačné polarity
+d) může dosáhnout opačné polarity pouze u vyšších živočichů
+701. Membránovým potenciálem rozumíme:
+a) schopnost buněčné membrány vázat antigen
+B) rozdíl elektrického náboje na zevní a vnitřní straně buněčné membrány
+c) schopnost buněčné membrány vázat protilátky
+D) malou převahu záporně nabitých iontů uvnitř buňky; zevně malou převahu kladných
+iontů
+702. Podstatou podráždění buňky na podnět z venku je:
+A) změna propustnosti cytoplasmatické membrány pro ionty
+B) zvýšení propustnosti plasmatické membrány neuronu pro ionty sodíku
+c) zvýšení průchodu vody cytoplasmatickou membránou
+d) změna směru hydrofilní a hydrofóbní strany cytoplasmatické membrány
+703. K* je typickým iontem:
+a) extracelulárním
+B) intracelulárním
+c) nemá v buňce prakticky význam
+d) intra i extracelulárním
+704. Na je iontem:
+A extracelulárním
+b) intracelulárním
+C) který uvnitř neuronu vyvolá akční potenciál
+d) intra i extracelulárním

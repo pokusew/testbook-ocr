@@ -1,0 +1,93 @@
+304. Mutace somatická:
+A) proběhne v somatické, tj. diploidní tělové buňce
+B) se do další generace přenáší jen tehdy, proběhla-li v buňce, z níž během dalších
+buněčných dělení vznikly pohlavní prabuňky a z nich gamety
+C) postihne jen část organismu vzniklou jako buněčné potomstvo mutované buňky
+d) žádná z uvedených alternativ není správná
+305. Mutace gametická:
+A) proběhne v haploidní gametě
+b) je do další generace nepřenosná; gameta s mutací zaniká
+c) je přenosná do další generace, jen pokud je spontánní
+d) žádná z uvedených alternativ není správná
+306. Mutace:
+A) ztrátové jsou obvykle recesivní
+B) dominantní, které přinášejí organismu nové schopnosti či funkce, jsou velmi vzácné.
+c) zpětné (reverzní) jsou pravidelné, zpravidla letální, a mutační cyklus se vrací zpět až
+kexcisní reparaci
+d) zpětné (reverzní) jsou četné, zpravidla jen přechodné; mutační cyklus pak pokračuje
+dále k letální mutaci
+307. Spontánní mutace:
+a) vznikají v nejrůznějších genech se stejnou konstantní frekvencí
+B) jejich příčiny nedovedeme zjistit ani ovlivnit
+C) jejich pravděpodobnost v somatických buňkách je obecně přímo úměrná (kromě
+jiného) rozsahu jejího genomu a trvání jejího buněčného cyklu
+d) u člověka je průměrná četnost vzniku gametické mutace 10-3 na jeden gen za jednu
+generaci.
+308. Spontánní mutace:
+A) vznikají v různých genech s různou, ale pro daný gen konstantní frekvencí
+b) jejich příčiny jsou známy, např. nervový stress
+c) jejich pravděpodobnost v somatických buňkách nelze zvýšit, ale je možno ji snižovat
+působením např. chemických mutagenních látek
+D) u člověka je průměrná četnost vzniku gametické mutace 1 x 10-5 na jeden gen za jednu
+generaci.
+309. Četnost spontánních genových mutací na jeden gen a jednu generaci se odhaduje:
+a) 0,1%
+b) žádná z ostatních odpovědí není správná
+C) 10-5 až 10-7
+d) 6,3 %
+310. Mutagenní činitelé (faktory):
+A) vyvolávají (indukují) mutace
+B) jsou fyzikální povahy, např. krátkovlné, ionozující i neionizující záření
+C) jsou to především záření rentgenové a radioaktivní
+D) jsou chemické mutagenní látky (dnes častěji označované jako látky genotoxické)
+311. Pro člověka jsou mutagenními faktory:
+A) chemické genotoxické látky (asi 60 různých typů)
+B) alkylační činidla, silná oxidační činidla (peroxidy), dusitany, činidla interkalační aj.
+C) kuřáctví cigaret
+D) látky v průmyslových emisích, emisích z energetiky a výfukových plynech
+312. Epigenetické mutageny:
+a) jsou látky, které poškozují DNA přímo
+B) většinou narušují funkci enzymů nezbytných pro replikaci či reparaci DNA
+c) jsou např. H, He, NaCl, CO2, některé vitaminy
+d) je jiný název látek promutagenních
+313. Karcinogeny:
+a) jsou mutageny, která chrání organismus před zvrhnutím buněk ve zhoubné buňky
+nádorové
+B) podněcují vznik somatických mutací
+C) jejich koncentrace v našem životním prostředí jsou stále vyšší a vyšší
+d) jsou geny s onkogenním potenciálem
+314. Vyberte správný/é výrok/y:
+A) každá, v chemickém průmyslu nově připravená látka podléhá předepsaným testům na
+mutagenní účinky
+b) je-li mutagenní aktivita látky vyloučena, je její distribuce mezi obyvatelstvo zakázána
+C) většina mutagenů působí současně karcinogenně
+D) zvrhnutí buněk v rakovinné buňky může být doprovázeno změnou buněčné morfologie
+315. Vyberte správný/é výrok/y:
+A) opakované diagnostické rentgenování v lékařství může zvyšovat mutagenní
+a karcinogenní zátěž organismu
+b) závislost vzestupu úmrtí na rakovinu plic a kouřením cigaret v posledním století nebyla
+nikdy prokázána
+C) příkladem mutagenů jsou průmyslové emise, výfukové plyny a látky k ochraně
+zemědělských rostlin proti škůdcům
+D) vyhodnocení buněčné morfologie je jednou z metod v diagnostice zvrhnutí buněk
+v buňky rakovinné
+316. Standardní alela genu může být změněna v jinou:
+A) mutací v některém místě celé své délky
+B) ztrátou nebo vložením jednoho nukleotidu
+C) záměnou (substitucí) jediné baze
+d) zvýšením počtu chromosomových sad
+317. Standardní alela genu může být změněna v jinou:
+a) mutací pouze v určitých místech celé své délky
+b) ztrátou nebo vložením jednoho chromosomu
+C) ztrátou nebo vložením několika sousedních nukleotidů
+d) při amniocentéze (vyšetření plodové vody)
+318. Genové mutace:
+A) mohou měnit čtení genetického kódu
+b) způsobují změny v karyotypu
+c) brání v segregaci mitotickým chromosomům
+D) mohou změnit regulaci buněčného dělení
+319. Genové mutace strukturního genu:
+A) mohou zaměnit jednu aminokyselinu v polypeptidovém řetězci
+B) mohou zaměnit více aminkyselin v peptidu
+c) vždy znamenají kratší peptid
+D) se nemusí projevit změnou peptidu

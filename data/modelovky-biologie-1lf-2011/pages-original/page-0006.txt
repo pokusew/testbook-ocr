@@ -1,0 +1,91 @@
+46. Složený heterozygot je pojem pro:
+a) jedince heterozygotního ve dvou genech
+B) jedince s recesivním znakem podmíněným dvěma různými mutacemi (alelami) genu
+c) jedince vytvořeného genetickým inženýrstvím
+d) jedince s dominantní a recesivní alelou určitého genu v genotypu
+47. Civilizační choroby:
+a) nejsou dědičné, jsou vyvolávány pouze civilizačními vlivy
+b) jsou nejčastěji autozomálně dominantně dědičné, fenotyp je ovlivňován civilizačními
+vlivy
+C) jsou nejčastěji polygenně dědičné, fenotyp je ovlivňován civilizačními vlivy
+d) jsou nejčastěji autozomálně recesivně dědičné, vlivy prostředí je neovlivňují
+48. Příbuzenský sňatek:
+a) je sňatek dvou osob se společnými předky kdykoli v dávné minulosti
+B) je sňatek dvou osob se společnými předky v prvé, druhé nebo třetí generaci
+C) zvyšuje riziko recesivně dědičných znaků
+d) zvyšuje riziko dominantně dědičných znaků
+49. Koeficient příbuznosti 42 je mezi:
+A) sourozenci
+B) otcem a dcerou
+C) matkou a synem
+D) otcem a synem
+50. Variabilní expresivita znaku:
+a) je pojem pro vyjádření různé regulace funkce genu
+B) je termín, vyjadřující různý stupeň vyjádření znaku
+c) je termín, vyjadřující pravděpodobnost manifestace určitého genotypu
+d) je totožný s pojmem penetrance znaku
+51. Neúplná penetrance:
+a) je pojem pro vyjádření různé regulace funkce genu
+B) je termín, vyjadřující pravděpodobnost manifestace určitého genotypu
+c) je termín, vyjadřující různý stupeň vyjádření znaku
+d) je pojem pro neúplný průnik genů jedné populace do druhé populace
+52. Znaky pohlavně vázané (X vázané):
+A) jsou podmíněny geny lokalizovanými jen na X chromosomu
+b) se v rodinách předávají jen přes ženy-nosičky
+C) dominantně dědičné postihují častěji ženské pohlaví
+d) postihují jen mužské pohlaví
+53. Pleiotropní efekt genu značí, že:
+a) znak je podmíněn samostatným účinkem různých genů
+b) gen se manifestuje různým stupněm vyjádření ve fenotypu
+C) gen ovlivňuje více znaků
+d) jeho manifestace se projeví jen u X vázaných chorob
+54. Heterogenně podmíněný znak:
+A) je podmíněn samostatným účinkem mutací různých genů
+b) je charakterizován různým stupněm vyjádření ve fenotypu
+C) se může v některých rodinách dědit dominantně, v jiných recesivně
+D) je znak jehož manifestace může přeskakovat generace
+55. Dominantně dědičným znakem člověka je:
+A) Otoskleróza
+b) cystická fibróza
+c) diabetes mellitus I i II. typu
+D) polycystická choroba ledvin, typ dospělých
+56. Recesivně dědičným znakem člověka je:
+A) adrenogenitální syndrom
+b) diabetes mellitus I a II. typu
+C) cystická fibróza
+d) polycystická choroba ledvin, typ dospělých
+57. X vázaným dědičným znakem člověka je:
+A) hemofilie A a B
+b) Rh krevní skupina
+C) barvoslepost
+d) azoospermie
+58. Mnohotná alelie:
+a) je pojem, který značí přítomnost více než dvou alel genu v genotypu
+B) je pojem, který značí existenci více než dvou alel genú v genofondu populace
+c) je u člověka vzácným jevem
+d) může podmiňovat různou expresivitu a penetranci znaku
+59. Genetická vazba:
+a) je podmíněna interakcí genů
+b) má jen teoretický význam
+C) je využívána v genetické konzultaci, cytogenetice a molekulární genetice
+D) je podmíněna blízkou lokalizací genů na jednom chromosomu
+60. Jednotka CM (centimorgan):
+a) 10M je mírou genetického rizika
+B) je jednotkou genetické vazby, 1 cM odpovídá 1% pravděpodobnosti rekombinace
+c) je jednotkou pro fyzikální hodnocení vazby
+d) vyjadřuje jednotkové množství genetické informace
+61. Mezi interakce nealelních genů patří:
+A) komplementarita
+B) epistáze
+c) exkluze
+d) kodominance
+62. Polygénní dědičnost se od monogenní dědičnosti znaků odlišuje:
+A) větším podílem vlivů prostředí na utváření fenotypu
+b) vyloučením efektu dominance některých genů
+C) účastí genů malého účinku (minor genů)
+d) typickým genotypovým štěpným poměrem v F1 generaci
+63. Dědivost:
+a) je schopnost dědit určitý znak
+B) vyjadřuje podíl geneticky podmíněné variability na variabilitě znaku
+C) je dána podílem V/V+V
+D) je podmíněna působením genů malého účinku a prostředí

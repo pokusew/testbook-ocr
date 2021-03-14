@@ -40,4 +40,8 @@ node_modules/
 
 # playground
 /temp/
-/data/
+
+# data
+ocr-output/
+/data/**/*.pdf
+/data/test/

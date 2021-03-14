@@ -1,0 +1,91 @@
+6
+288. V genetickém kódu:
+A) 61 tripletů kóduje celkem 20 aminokyselin nutných pro výstavbu proteinů
+b) zúčastněné báze vytvářejí celkem 20 různých trojic, nutných pro zařazení aminokyselin
+do vznikajícího peptidového řetězce
+C) tři trojice nukleotidů (UAG, UAA nebo UGA) ukončují translaci peptidového řetězce
+d) žádná z uvedených alternativ není správná.
+289. Kodon UUU kóduje aminokyselinu fenylalanin u člověka, drosofily, kukuřice,
+E. coli a ředkvičky. To dokládá, že genetický kód je:
+a) degenerovaný
+b) nepřesahující
+C) universální
+d) nespecifický
+290. Degenerace genetického kódu:
+a) vzniká v důsledku znehodnocení genetické informace
+b) znamená, že jeden kodon může určovat zařazení několika různých aminokyselin
+c) je chybný přepis genetické informace z DNA do mRNA
+D) znamená, že zařazení některých aminokyselin je určováno větším počtem různých
+kodonů
+291. Které tvrzení nejlépe charakterizuje genetický kód:
+a) je identický pro syntézu proteinů v jádře i mitochondriích
+b) je překládán do aminokyselinových sekvencí pomocí RNA polymerasy
+C) počet kodonů a aminokyselin si odpovídá
+D) je tvořen triplety o třech nukleotidových bazích
+292. V genetickém kódu:
+A) je řada aminokyselin alternativně kódována více než jedním tripletem (dvěma až šesti).
+b) jednotlivých savčích druhů jsou určité významové odchylky.
+c) kvasinek a v tom, který používají obratlovci, jsou zásadní významové odchylky.
+D) mitochondriální DNA jsou určité významové odchylky od kódu jaderné DNA.
+293. Iniciační kodon molekuly mRNA je v buňkách eukaryot:
+A) AUG
+b) GUG
+c) GGU
+d) ACA
+294. Iniciační aminokyselina je u eukaryotických organismů:
+a) formylmetionin
+B) methionin
+c) fenylalanin
+d) glutamin
+295. Jestliže se do místa A na ribosomu posune kodon UUU mRNA, bude se s ní
+komplentárně párovat tRNA s antikodonem:
+a) UUU
+B) AAA
+c) TTT
+d) GGG
+296. Modifikace kvantitativního znaku:
+A) trvá vždy jen potud, pokud na organismus působí dané prostředí
+B) nezasahuje do genotypu buněk, orgánů či organismů
+c) je určena polygenně
+D) podstata modifikace je vždy metabolická; vlivem určitého faktoru prostředí proběhnou
+v síti alternativních metabolických dějů jen některé.
+297. Modifikace a adaptace:
+a) se řídí pravidly mendelismu
+B) se týkají jen fenotypu buněk, orgánů či organismů; do jejich genotypů nezasahují
+c) jsou určeny polygenně
+d) jejich podstatou jsou vždy mutace; vlivem těchto mutací proběhnou v síti alternativních
+metabolických dějů jen některé.
+298. Nové alely vznikají z dosavadních:
+a) reparacemi
+B) mutacemi
+C) prakticky vždy změnou DNA
+d) nenáhodně, podle specifického genetického programu
+299. Při mutaci, kdy je zaměněn v DNA jeden nukleotid jiným:
+A) může být zařazena do polypeptidu jiná aminokyselina
+B) může být zařazena do polypeptidu stejná aminokyselina
+C) může být syntéza polypeptidu ukončena
+d) mohou být zařazeny do polypeptidu dvě aminokyseliny
+300. Zařazení nadpočetného nukleotidu do DNA má obvykle:
+A) obdobný důsledek jako jeho ztráta
+b) žádná z ostatních odpovědí není správná
+C) za následek vznik změněného polypeptidického řetězce
+d) za následek genomovou mutaci
+301. Mutace:
+A) v genech se označují jako genové
+B) je prakticky vždy změna v DNA
+C) chromosomové se označují nověji jako strukturní aberace chromosomu
+D) genomové se nověji označují jako numerické aberace chromosomů
+302. Mutace:
+A) Ize charakterizovat jako změny neprogramované (náhodné), vznikají spontánně s určitou
+statistickou pravděpodobností
+B) postihují jadernou i mitochondriální DNA
+C) představují zpravidla změny trvalé pro celý další život buňky, resp. organismu
+D) jsou podle příslušných pravidel přenosné na další generace, postihnou-li gametu nebo
+jsou-li do ní přeneseny buněčným dělením
+303. Mutace:
+a) lze charakterizovat jako změny nenáhodné (programované)
+B) mohou postihovat geny (obecně sekvence DNA) všech typů; podle toho mají rozmanité
+důsledky
+c) se v haploidních gametách nevyskytují, nejsou přenosné na další generace
+D) znamenají ve většině případů poškození buňky či organismu, ztrátu či patologickou
+změnu genové funkce

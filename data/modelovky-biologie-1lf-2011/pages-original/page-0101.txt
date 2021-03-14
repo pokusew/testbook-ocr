@@ -1,0 +1,90 @@
+1710. Mutace v DNA vznikají:
+A) chybami v replikaci
+B) působením vnějších faktorů, jako jsou např. chemické látky a záření
+C) v důsledku aktivity transpozonů
+D) chybami při rekombinaci DNA molekul
+1711. Mutace sekvencí kódujícich bílkoviny, které nevedou k záměně aminokyseliny
+jsou obvykle:
+a) selekčně výhodné
+b) z genofondu odstraněny purifikující selekcí
+C) mohou vzácně narušit strukturu nebo hladinu exprese proteinu (např. pokud jsou
+blízko rozhraní exon/intron)
+D) selekčně neutrální
+1712. Mitochondriální DNA (mtDNA) se používá při studiu evoluce lidských populací
+zvláště pro:
+a) svojí malou velikost
+b) znalost úplné sekvence nukleotidů
+C) dědičnost mtDNA pouze po mateřské linii
+d) heteroplasmii (tj. přítomnosti mnoha kopií mtDNA a tím potenciálně mnoha různých
+alel v jedné buňce - na rozdíl od právě 2 kopií jaderných genů)
+1713. Mitochondriální DNA savců:
+a) je lineární molekula
+B) je cirkulární molekula
+c) obsahuje geny pro všechny komponenty mitochondrií
+D) obsahuje jen několik genů, většina genů se přesunula v průběhu evoluce do jaderného
+genomu
+1714. Mitochondrie pravděpodobně vznikly:
+a) vchlípením části buněčné membrány, která u předka eukayot obsahovala enzymy
+dýchacího řetězce
+B) symbiózou bakterií s předkem eukaryot
+c) jako derivát endoplazmatického retikula
+d) symbiózou předka eukaryot s kvasinkami
+1715. Chromosom Y člověka:
+a) se dědí celý výlučně po mužské linii (holandricky)
+B) se dědí výlučně po mužské linii, s výjimkou malých úseků na obou koncích, nutných pro
+párování s chromozomem X
+c) obsahuje větší množství genů než chromozom X
+D) pravděpodobně vznikl v průběhu evoluce z chromozomu X
+1716. Negativní selekce (proti určitému genotypu) může být způsobena:
+A) časnou úmrtností jedinců tohoto genotypu (před dosažením pohlavní dospělosti)
+b) zvýšenou úmrtností jedinců s tímto genotypem ve vyšším věku
+C) sníženou plodností jedinců tohoto genotypu
+D) neplodností jedinců tohoto genotypu
+1717. Iminoforma cytosinu:
+a) se vyskytuje přibližně ve stejné koncentraci jako aminoforma
+b) se v DNA páruje s guaninem
+C) se v DNA páruje s adeninem
+D) se vyskytuje ve výrazně nižší koncentraci než aminoforma
+1718. Frekvence mutací:
+a) je udržována na co nejnižší úrovni pomocí reparačních mechanismů
+B) je u většiny organismů nastavena na optimální úrovni
+C) se často zvyšuje, nachází-li se organismus ve stresovém prostředí
+d) je udržována na co nejvyšší úrovni působením speciálních enzymů, např tzv. terminální
+transferázy
+1719. Příkladem mikroevoluce je:
+A) vznik rezistence viru HIV proti antivirovým látkám
+b) nárůst svalové hmoty u trénovaných sportovců
+C) vznik zhoubného nádoru z transformované („zvrhlé“) buňky
+d) zmnožení červených krvinek při adaptaci na vysokohorské prostředí
+1720. Nejpravděpodobnějším způsobem vzniku nového genu je:
+a) mutace
+B) duplikace existujícího genu
+c) mezidruhové křížení
+d) genový drift
+1721. Kyslík (O2) v atmosféře:
+A) vzniká převážně činností rostlin
+B) je nezbytným předpokladem suchozemského života, protože je zdrojem ozónové vrstvy
+c) je nezbytným předpokladem suchozemského života, protože umožňuje spalování
+d) je převážně sopečného původu
+1722. Selekčně neutrální mutace:
+A) svému nositeli neprospívá ani neškodí
+b) vymizí postupně z populace mechanismem negativní selekce
+C) může v populaci převážit, např. mechanismem genetického driftu
+d) pozitivně ovlivňuje biologickou zdatnost jedince
+1723. Mírně škodlivá mutace:
+A) v malých populacích se chová jako selekčně neutrální
+B) může v populaci převážit, např. působením genetického driftu
+c) ve velkých populacích se chová jako selekčně neutrální
+d) vždy vymizí z populace mechanismem negativní selekce
+1724. Přirozený výběr:
+A) je založen na nerovnoměrném předávání alel jednotlivých jedinců do genofondu dalších
+generací
+B) čím vyšší podíl alel předá jedinec do další generace ve srovnání s ostatními jedinci
+v populaci, tím vyšší je jeho biologická zdatnost
+c) funguje dobře i pro geny s jedinou alelou
+d) vyžaduje, aby vlastnosti získané během života byly dědičné
+1725. Přirozený výběr:
+a) zajišťuje vždy přežití nejsilnějšího jedince v populaci
+B) zajišťuje šíření alel s vlastnostmi výhodnými pro jedince
+c) nefunguje u nepohlavně se množících organismů
+d) nefunguje u pohlavně se množících organismů

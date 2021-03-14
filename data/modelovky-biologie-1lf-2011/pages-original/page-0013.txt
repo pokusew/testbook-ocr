@@ -1,0 +1,90 @@
+173. Crossing-over je:
+A) výměna částí chromatid homologních chromosomů
+b) segregace chromosomů
+c) cílené vyčlenění genů, které zmutovaly
+d) proces redukce chromosomů
+174. Chromosomy můžeme pozorovat ve světelném mikroskopu v:
+a) S fázi
+b) G2 fázi
+C) metafázi
+D) anafázi
+164. Mezi fáze mitózy patří:
+A) profáze
+b) zygoten
+C) anafáze
+d) leptoten
+165. Při mitóze:
+A) vznikají dvě geneticky rovnocenná dceřinná jádra
+B) vznikají dvě diploidní buňky
+c) vznikají dvě rovnocenné diploidní gamety
+d) pravidelně dochází k procesu crossing - over
+166. Generační doba buňky je:
+A) délka trvání buněčného cyklu
+b) u všech buněk jedince stejná
+c) nezávislá na množství živin
+d) délka trvání M fáze
+167. Při nedostatku živin v prostředí se generační doba buňky:
+a) nemění
+B) prodlužuje
+c) zrychluje
+d) zrychluje za vzniku nádorových buněk
+168. Mezi buňky trvale zablokované v Go fázi patří:
+A) gangliové buňky
+b) kmenové buňky kostní dřeně
+c) nádorové buňky
+d) blastomery
+169. V průběhu meiózy:
+A) dochází k redukci počtu chromosomů na polovinu
+b) se počet chromosomů nemění
+C) dochází v důsledku procesu crossing-over k rekombinaci chromosomů
+d) dochází v důsledku procesu crossing-over k redukci počtu chromosomů
+170. Segregace homologních chromosomů:
+a) probíhá v anafázi mitózy
+b) je součástí mitotického dělení
+c) zajišťuje genetickou identitu dceřinných buněk
+D) je charakteristický děj v prvním meiotickém dělení
+171. Mezi stadia profáze I. meiotického dělení patří:
+A) leptoten
+B) zygoten
+c) pleiocén
+d) kolenchym
+172. Meióza se skládá:
+A) ze dvou dělení, avšak replikace DNA předchází jen prvnímu z nich
+b) ze dvou různých typů dělení, avšak oběma předchází replikace DNA
+c) z jednoho dělení, kterému však předchází trojnásobná replikace DNA
+d) z jednoho typu dělení, kterému však předcházejí dvě replikace DNA
+175. Buněčné jádro:
+a) je složeno zejména z rRNA a bílkovin
+b) nemá vlastní membránu
+c) je typické pro prokaryotické buňky
+D) je složeno zejména z DNA a bílkovin
+176. Buněčné jádro:
+A) má na povrchu dvě biomembrány
+B) jeho vnější biomembrána navazuje na endoplasmatické retikulum
+C) obsahuje chromatin
+d) obsahuje centriol
+177. V interfázickém jádře:
+a) jsou viditelné chromosomy ve světelném mikroskopu
+b) je porušena celistvost molekul DNA
+C) dochází ke zdvojení hmoty chromosomů
+d) je vytvořeno dělící vřeténko
+178. Jadérko:
+a) je místem syntézy nové DNA
+B) je vázáno na organizátor jadérka
+C) je místem syntézy rRNA
+d) spolu s ribosomy se vyskytuje na drsném endoplasmatickém retikulu
+179. Mikrotubuly jsou stavební prvky:
+A) centriolů
+B) bičíků
+c) centromer
+D) vlákna dělícího vřeténka
+180. U člověka se vyskytují chromosomy:
+A) akrocentrické
+B) metacentrické
+c) telocentrické
+D) submetacentrické
+181. Soubor chromosomů daného druhu se nazývá:
+a) genotyp
+b) fenotyp
+C) karyotyp
+d) genofond

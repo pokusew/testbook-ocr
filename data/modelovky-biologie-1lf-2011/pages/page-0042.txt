@@ -1,0 +1,92 @@
+669. Pohlcování větších částic buňkou:
+a) se nazývá pinocytóza
+B) se nazývá fagocytóza
+C) je jedním z mechanismů obrany organismu proti bakteriální infekci
+D) vede ke vzniku fagozomu
+670. Exocytóza je:
+a) působení exogenních vlivů na buňku
+B) vlastnost buněk trávicích žláz
+c) rozpad buněčné membrány
+D) mechanismus vylučování látek buňkou
+671. Látky s mimobuněčnou funkcí mohou být z buňky vylučovány:
+A) pomocí exocytózových měchýřků
+b) plasmoptýzou
+C) plynule bez tvorby sekrečních váčků
+d) kanálky v plazmatické membráně
+672. Osmotické jevy jsou podmíněny:
+A) transportem molekul vody membránou
+B) polopropustností membrány
+c) elektrickým potenciálem na membráně
+d) volnou propustností buněčné stěny
+673. Kosmotické lýze živočišné buňky dochází:
+A) žádná z uvedených alternativ není správná
+b) v isotonickém prostředí
+c) v hypertonickém prostředí
+d) v prostředí s větší koncentrací osmoticky aktivních částic
+674. Kosmotické lýze živočišné buňky dochází:
+A) v hypotonickém prostředí
+B) v destilované vodě
+c) v hypertonickém prostředí
+d) v prostředí s větší koncentrací osmoticky aktivních částic
+675. Rostlinná buňka v hypotonickém roztoku:
+A) se morfologicky nemění
+B) zvyšuje turgor
+c) podléhá plasmolýze
+d) se svrašťuje
+676. Rostlinná buňka v hypotonickém roztoku:
+A) nepraská
+b) snižuje turgor
+c) bobtná
+d) se svrašťuje
+677. K plasmolýze dochází jsou-li buňky:
+a) živočišné v hypotonickém roztoku
+b) rostlinné v hypotonickém roztoku
+c) živočišné v hypertonickém roztoku
+D) rostlinné v hypertonickém roztoku
+678. Chování červených krvinek v hypotonickém roztoku označujeme jako:
+a) plasmolýzu
+B) plasmoptýzu
+c) plasmorhizu
+D) osmotickou hemolýzu
+679. Jako Brownův pohyb se označuje:
+a) pohyb organismů pomocí bičíků a řasinek
+b) amoeboidní pohyb buněk
+C) pohyb drobných částic způsobený nárazy molekul
+d) pohyb uskutečňovaný interakcí aktinových a myozinových vláken
+680. Živočišná buňka v hypertonickém roztoku:
+A) se svraštuje
+b) podléhá plasmolýze
+c) podléhá plasmoptýze
+d) se nemění
+681. Vložíme-li živočišnou buňku do hypotonického roztoku dojde především k difúzi:
+A) vody do buňky
+b) vody z buňky
+c) osmoticky aktivních částic do buňky
+d) osmotických částic z buňky
+682. Vložíme-li živočišnou buňku do hypertonického roztoku dojde především
+k difúzi:
+A) vody z buňky
+b) vody do buňky
+c) osmoticky aktivních částic do buňky
+d) osmoticky aktivních částic z buňky
+683. Osmotická hodnota rostlinné buňky je dána:
+A) koncentrací osmoticky aktivních látek ve vakuolách
+b) turgorem
+C množstvím iontů H*
+d) kořenovým vztlakem
+684. Při exergonických reakcích:
+A) se uvolňuje volná energie
+b) se spotřebovává volná energie
+c) se spotřebovává teplo
+d) nedochází k přeměně energie
+685. Při endergonických reakcích:
+A) se spotřebovává volná energie
+b) se uvolňuje volná energie
+c) se spotřebovává teplo
+d) nedochází k přeměně látek
+686. Heterotrofní buňky využívají
+A) energii chemickou
+b) energii světelnou
+c) všechny formy energie
+d) energii vázanou v anorganických látkách
+v

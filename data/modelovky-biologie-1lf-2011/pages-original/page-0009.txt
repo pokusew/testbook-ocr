@@ -1,0 +1,88 @@
+97. Při křížení dvou dominantních homozygotů se v jejich potomstvu:
+A) žádná z uvedených alternativ není správná
+b) vyskytují dominantní homozygoti pouze v F1 generaci
+c) dochází ke štěpení v F2 generaci
+d) vyskytují recesivní znaky asi v1 % případů
+98. Soubor všech pozorovatelných vlastností a znaků organismu se nazývá:
+a) genotyp
+B) fenotyp
+c) karyotyp
+d) haplotyp
+99. Genotypový štěpný poměr při křížení dvou heterozygotů (Aa x Aa) je:
+A) žádná z uvedených alternativ není správná
+b) 1:1
+c) 3:1
+d) 1:3
+100. Parentální generace (P) v mendelovském experimentu je představována
+následujícím zápisem:
+A) žádná z uvedených alternativ není správná
+b) Aa x aa
+c) Aa x AA
+d) Aa x Aa
+101. V 1. filiální generaci (F1) při monohybridizmu s neúplnou dominancí jsou všichni
+jedinci:
+A) fenotypově odlišní od parentální generace a genotypově uniformní
+b) stejní jako jeden z rodičů
+c) lišící se navzájem fenotypově, ale shodní genotypově
+d) rozdílní od sebe
+102. Při dihybridizmu tvoří heterozygot (AaBb) za podmínek volné kombinovatelnosti
+následující počet typů gamet:
+A) žádná z uvedených alternativ není správná
+b) 3
+C 2
+d) 1
+103. Různé formy jednoho a téhož genu se nazývají:
+A) alely
+b) lokusy
+c) karyotyp
+d) fenotyp
+104. Je-li vlastnost (znak) geneticky podmíněna párem funkčně shodných alel,
+hovoříme o:
+A) homozygotním genotypu
+b) heterozygotním genotypu
+c) uniformním jedinci
+d) haploidním jedinci
+105. Je-li vlastnost (znak) geneticky podmíněna párem funkčně odlišných alel,
+hovoříme o:
+a) homozygotním genotypu
+B) heterozygotním genotypu
+c) neuniformním jedinci
+d) haploidním jedinci
+106. Kodominance je stav kdy:
+A) se ve fenotypu projevuje funkce obou alel téhož genu nezávisle na sobě
+B) genotypový i fenotypový štěpný poměr v F2 generaci je shodný
+c) neplatí pravidlo o uniformitě F1 hybridů
+d) heterozygotní jedinci jsou shodní s oběma typy homozygotů
+107. Jestliže dominantní alela v heterozygotním genotypu nestačí zajistit fenotypový
+projev, který by odpovídal dominantně homozygotnímu genotypu:
+A) hovoříme o neúplné dominanci
+B) heterozygotní jedinci jsou fenotypově odlišní od obou typů homozygotů
+C) je štěpný fenotypový poměr v F2 generaci 1:2:1
+d) F1 jedinci nejsou uniformní
+108. Homozygotní výchozí rodičovské organismy se v mendelovském experimentu
+označují jako:
+A) parentální generace
+b) parenterální generace
+c) paternální generace
+d) maternální generace
+109. Pokud jsou rodiče genotypově odlišnými homozygoty (AA x aa):
+A) jsou jejich potomci v Fı generaci uniformní
+b) je fenotypový štěpný poměr F1 generace 1:1
+c) je genotypový štěpný poměr F2 generace 3:1
+D) může být fenotypový štěpný poměr v F2 generaci 1:2:1
+110. V F2 generaci vzniká při dihybridním křížení za podmínek volné
+kombinovatelnosti:
+A) 9 rozdílných genotypů
+B) při vztahu úplné dominance fenotypový poměr 9:3:3:1
+c) při vztahu úplné dominance genotypový poměr 1:1:1:1
+d) uniformní potomstvo
+111. Křížíme-li jedince parentální generace AA x aa (A neúplně dominantní nad a):
+A) vzniká v F1 generaci uniformní potomstvo
+b) jsou heterozygoti Aa fenotypově shodní s rodičem AA
+C) je štěpný fenotypový a genotypový poměr v F2 generaci stejný
+D) vzniká v F2 generaci genotypový poměr 1:2:1
+112. Při křížení jedinců parentální generace AA x aa (A úplně dominantní nad a):
+A) vzniká v Fı generaci heterozygotní potomstvo
+B) lze fenotypově odlišit potomky Aa od aa
+c) je v F2 generaci fenotypový a genotypový štěpný poměr stejný
+d) je v F2 generaci genotypový poměr 3:1

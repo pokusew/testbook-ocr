@@ -1,0 +1,93 @@
+$
+651. Mezi vezikulární útvary buňky řadíme:
+A) váčky vznikající z endoplasmatického retikula a Golgiho útvarů
+B) lyzosomy
+c) mitochondrie
+D) vakuoly
+652. Lyzosomy:
+a) obsahují oxidázy a katalázy, které přeměňují tuky na cukry
+b) jsou vezikulární útvary buněk, které obsahují katalázy
+C) obsahují hydrolytické enzymy (hydrolázy)
+D) jsou místem rozkladu látek přijatých do buňky zvnějšku, ale též vlastních hmot
+(autolýzy)
+653. Semiautonomní organely:
+a) mají obal tvořený jednou membránou
+B) probíhá v nich energetický metabolismus
+c) obsahují Golgiho aparát
+d) obsahují inkluze
+654. Mitochondrie:
+A) obsahují DNA podobnou prokaryotické
+B) mají stěnu složenou ze dvou membrán
+c) jsou místem anaerobní fosforylace
+D) obsahují enzymy Krebsova cyklu
+655. Řetězce mastných kyselin molekul fosfolipidů buněčné membrány
+(hydrofobní části molekul) směřují:
+A) k sobě, dovnitř dvojvrstvy
+b) od sebe, vně dvojvrstvy
+c) jsou odděleny souvislou vrstvou bílkovin
+d) do okolního vodného prostředí
+656. Endoplasmatické retikulum je součástí:
+a) prokaryotických buněk
+b) mezibuněčné hmoty pojivové tkáně
+C) eukaryotických buněk
+d) plasmatických faktorů srážení krve
+657. Mikrotubuly jsou stavební prvky:
+A) centriolů
+B) bičíků
+c) centromer
+D) vlákna dělícího vřeténka
+658. Polární lipidy mohou vytvářet:
+A) bimolekulární membrány
+micely
+c) pravé roztoky
+d) gely
+659. Příjem a výdej látek živočišné buňky:
+A) reguluje plazmatická membrána
+b) reguluje buněčná stěna a plazmatická membrána
+c) závisí pouze na koncentračním spádu
+d) se uskutečňuje pouze endocytózou
+660. Plazmatická membrána je tvořena:
+A) dvouvrstvou fosfolipidů a bílkovinami
+b) pouze vrstvou glykokalyx
+c) jednou vrstvou fosfolipidů a jednou vrstvou glycidů
+d) pouze asymetrickými bílkovinami a cukry
+661. Rychlost difúze přes plazmatickou membránu závisí:
+a) na množství energie
+b) na aktivitě transportních proteinů
+C) na koncentračním spádu
+d) na enzymatické aktivitě membrány
+662. Transportní proteiny plazmatické membrány:
+a) jsou univerzální přenašeči všech látek
+b) jsou nezávislé na energetické výbavě buňky
+C) specificky přenášejí některé látky do buňky
+d) se podílejí na lokomoci eukaryotních buněk
+663. Transport látek pomocí přenašečů se na membráně uskutečňuje:
+a) v závislosti na koncentračním spádu
+b) prostřednictvím fosfolipidů
+C) prostřednictvím bílkovin
+d) prostřednictvím glykolipidů
+664. Vnikání kapének tekutin do buňky se nazývá:
+a) fagocytóza
+B) pinocytóza
+c) exocytóza
+D) endocytóza
+665. Endocytóza je:
+A) aktivní příjem látek buňkou
+b) pasivní příjem látek buňkou
+C) zprostředkována endozomem
+D) zprostředkována membránovými receptory
+666. Proces endocytózy se uskutečňuje pomocí:
+a) iontových kanálů
+B) plazmatické membrány a cytoskeletální soustavy
+c) undulující membrány
+D) membránových receptorů
+667. Schopnost fagocytózy mají:
+A) leukocyty
+b) erytrocyty
+C) monocyty
+d) buňky epidermis
+668. Pinocytóza:
+A) umožňuje transport živočišných virů do buňky
+B) je typ endocytózy
+C) se podílí na recyklaci membránových receptorů do plasmatické membrány
+d) je provázena změnou koncentrace iontů vápníku v mezibuněčné tekutině

@@ -1,0 +1,90 @@
+253. Transkripce:
+a) je zprostředkována reverzní transkriptázou
+B) postupuje po kódujícím (sense) řetězci ve směru od 5'k 3'
+C) na stejném genu může probíhat odlišně v různých tkáních
+d) vede k produkci identické molekuly DNA
+254. Při transkripci je k bázi G v DNA komplementární v mRNA:
+A) C
+b) A
+c) U
+d) G
+255. Při transkripci je k DNA bázi A komplementární v mRNA:
+A) U
+b) T
+c) A
+d) C
+256. Mediátorová RNA (mRNA) vzniká:
+A) transkripcí
+b) translací
+c) replikací
+d) proteosyntézou
+257. Mediátorová RNA (mRNA):
+a) se aktivně uplatňuje v transkripci
+b) vzniká translací
+c) se replikuje v anafázi
+D) se aktivně uplatňuje při proteosyntéze
+258. mRNA slouží:
+a) k přenosu aminokyselin na ribosomy
+B) jako matrice pro tvorbu bílkovin
+c) jako matrice pro tvorbu tRNA
+d) k přenosu rRNA z jádra na ribosom
+259. Ribosomální RNA (rRNA) vzniká:
+A) transkripcí
+b) translací
+c) replikací
+d) proteosyntézou
+260. Ribosomální RNA (TRNA):
+A) se aktivně uplatňuje při translaci
+žádná z uvedených alternativ není správná
+c) vzniká replikac
+D) se aktivně uplatňuje při proteosyntese
+261. rRNA se syntetizuje:
+a) vendoplasmatickém retikulu
+b) v ribosomech
+c) v cytoplazmě
+D) v jadérku, které je uloženo v jádře
+262. Transferová RNA (TRNA) vzniká:
+A) transkripcí
+b) translací
+c) replikací
+d) proteosyntézou
+263. Transferová RNA (TRNA):
+A) se aktivně uplatňuje při čtení informace zapsané do mRNA
+b) se přepisuje v ribosomech
+c) vzniká replikací
+d) je iniciačních faktorem reversní transkripce
+264. tRNA:
+A) představuje soubor nejméně dvaceti různých typů molekul
+B) má jednořetězcové i dvouřetězcové oblasti
+c) přenáší informaci z jádra na ribosomy
+D) přenáší specificky navázanou aminokyselinu
+265. Minoritní dusíkaté báze se nejčastěji vyskytují v:
+A) tRNA
+b) mRNA
+c) rRNA
+d) DNA
+266. Transferová RNA (TRNA):
+A) umožňuje správné řazení aminokyselin do polypeptidu
+b) vzniká translací
+c) je překládána při replikaci
+D) obsahuje triplet nukleotidů, který je komplementární kodonu
+267. Translace je proces:
+A) překládání informace uložené v mRNA do pořadí aminokyselin vznikající bílkoviny
+b) přepisu mRNA do pořadí aminokyselin vznikajícího polypeptidového řetezce
+c) překládání informace uložené v mRNA do pořadí dusíkatých bází v rRNA
+d) přepisu strukturních genů do mediátorové RNA
+268. Translaci zahajuje tRNA:
+a) dvouvláknová a vysokomolekulární
+b) konjugovaná s glutamovou kyselinou
+C) nesoucí methionin
+d) translace je zahajována kteroukoli tRNA
+269. Translací rozumíme překlad genetické informace z:
+A) žádná z uvedených alternativ není správná
+b) DNA do mRNA
+c) DNA do rRNA
+d) peptidu do tRNA
+270. Jedna určitá tRNA molekula:
+a) se může vázat s různými aminokyselinami
+b) obsahuje čtyřnukleotidový antikodon
+C) se podílí na translačním procesu
+D) se přechodně se váže s mRNA
