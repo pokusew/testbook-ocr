@@ -3,7 +3,7 @@
 
 ## Usage
 
-* `run-ocr`
+* `run-ocr.ts`
 
     ```bash
     nodemon -r ./register.js scripts/run-ocr.ts \
