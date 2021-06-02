@@ -11,7 +11,7 @@ const ImageAnnotatorClient = vision.ImageAnnotatorClient;
 
 
 // TODO: improve, see https://stackoverflow.com/questions/19687407/press-any-key-to-continue-in-nodejs
-const waitForKeyPress = () => new Promise(((resolve) => {
+const waitForKeyPress = () => new Promise<void>(((resolve) => {
 	process.stdin.once('data', () => {
 		resolve();
 	});
