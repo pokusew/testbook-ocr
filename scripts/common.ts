@@ -7,3 +7,5 @@ export const isDefined = <T>(object: T | undefined | null): object is T =>
 
 export const isEmpty = <T>(value: T | undefined | null | ''): value is undefined | null | '' =>
 	!isDefined(value) || value === '';
+
+export const toPrettyJSON = (obj: any) => JSON.stringify(obj, undefined, '\t');

@@ -1,0 +1,163 @@
+[
+	{
+		"id": 1,
+		"package": 1,
+		"name": "Základní genetické pojmy",
+		"number": 1,
+		"numQuestions": 67
+	},
+	{
+		"id": 2,
+		"package": 1,
+		"name": "Genetika",
+		"number": 2,
+		"numQuestions": 81
+	},
+	{
+		"id": 3,
+		"package": 1,
+		"name": "Cytogenetika",
+		"number": 3,
+		"numQuestions": 69
+	},
+	{
+		"id": 4,
+		"package": 1,
+		"name": "Molekulární genetika",
+		"number": 4,
+		"numQuestions": 133
+	},
+	{
+		"id": 5,
+		"package": 1,
+		"name": "Populační genetika",
+		"number": 5,
+		"numQuestions": 124
+	},
+	{
+		"id": 6,
+		"package": 1,
+		"name": "Obecná biologie",
+		"number": 6,
+		"numQuestions": 249
+	},
+	{
+		"id": 7,
+		"package": 1,
+		"name": "Systematická biologie",
+		"number": 7,
+		"numQuestions": 230
+	},
+	{
+		"id": 8,
+		"package": 1,
+		"name": "Fyziologie – krev",
+		"number": 8,
+		"numQuestions": 111
+	},
+	{
+		"id": 9,
+		"package": 1,
+		"name": "Fyziologie – krevní oběh",
+		"number": 9,
+		"numQuestions": 50
+	},
+	{
+		"id": 10,
+		"package": 1,
+		"name": "Fyziologie – dýchací systém",
+		"number": 10,
+		"numQuestions": 38
+	},
+	{
+		"id": 11,
+		"package": 1,
+		"name": "Fyziologie – výživa a metabolismus",
+		"number": 11,
+		"numQuestions": 26
+	},
+	{
+		"id": 12,
+		"package": 1,
+		"name": "Fyziologie – trávicí systém",
+		"number": 12,
+		"numQuestions": 40
+	},
+	{
+		"id": 13,
+		"package": 1,
+		"name": "Fyziologie – vylučovací soustava",
+		"number": 13,
+		"numQuestions": 19
+	},
+	{
+		"id": 14,
+		"package": 1,
+		"name": "Fyziologie – centrální nervový systém",
+		"number": 14,
+		"numQuestions": 73
+	},
+	{
+		"id": 15,
+		"package": 1,
+		"name": "Fyziologie – smysly",
+		"number": 15,
+		"numQuestions": 48
+	},
+	{
+		"id": 16,
+		"package": 1,
+		"name": "Fyziologie – žlázy s vnitřní sekrecí a reprodukční systém",
+		"number": 16,
+		"numQuestions": 88
+	},
+	{
+		"id": 17,
+		"package": 1,
+		"name": "Fyziologie - termoregulace",
+		"number": 17,
+		"numQuestions": 6
+	},
+	{
+		"id": 18,
+		"package": 1,
+		"name": "Fyziologie - pojivový systém",
+		"number": 18,
+		"numQuestions": 43
+	},
+	{
+		"id": 19,
+		"package": 1,
+		"name": "Fyziologie – kůže",
+		"number": 19,
+		"numQuestions": 2
+	},
+	{
+		"id": 20,
+		"package": 1,
+		"name": "Anatomie",
+		"number": 20,
+		"numQuestions": 67
+	},
+	{
+		"id": 21,
+		"package": 1,
+		"name": "Lidské choroby a znaky",
+		"number": 21,
+		"numQuestions": 54
+	},
+	{
+		"id": 22,
+		"package": 1,
+		"name": "Ekologie",
+		"number": 22,
+		"numQuestions": 67
+	},
+	{
+		"id": 23,
+		"package": 1,
+		"name": "Evoluce",
+		"number": 23,
+		"numQuestions": 45
+	}
+]

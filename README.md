@@ -110,8 +110,6 @@ _Note 2:_ Instead of `nodemon`, you can use `node` directly.
 
 4. #### `memorio-transform.ts {questionsDir} {memorioOutputDir}`
 
-   NOT IMPLEMENTED YET
-
    Takes the parsed questions and categories from the third script (which are in `{questionsDir}`)
    and transforms them to the format that can be used in [memorio](https://github.com/pokusew/memorio) app.
 
