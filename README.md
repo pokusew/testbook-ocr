@@ -41,6 +41,11 @@ found [here](./data/modelovky-biologie-1lf-2011/questions).
 
 _Note 2:_ Instead of `nodemon`, you can use `node` directly.
 
+_Note 3:_ If the input PDF is scanned book where each page contains an image of two real pages (an open book),
+it is better to manually split the images in the middle (e.g. using this online free
+service [Split two-page layout scans to create separate PDF pages](https://deftpdf.com/split-pdf-down-the-middle))
+before running the OCR using `run-ocr.ts` script.
+
 
 1. #### `run-ocr.ts {bucketName} {fileName} {outputPrefix}`
 
