@@ -1,0 +1,258 @@
+[
+	{
+		"id": 79,
+		"category": 1,
+		"number": 79,
+		"text": "Jestliže počáteční rychlost byla nulová, lze rychlost rovnoměrně zrychlenéh přímočarého pohybu vyjádřit jako",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "součin skalární a vektorové veličiny",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "součin dvou skalárních veličin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "součin dvou vektorových veličin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "součin velikostí dvou vektorových veličin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 80,
+		"category": 1,
+		"number": 80,
+		"text": "Vyberte nesprávnou kombinaci veličiny z oblasti kinematiky hmotného bodu jejího grafického znázornění v pravoúhlých souřadnicích v závislosti na čase:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "velikost zrychlení rovnoměrně zrychleného pohybu - přímka s nenulovou směrnicí",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dráha rovnoměrně zrychleného pohybu - parabola",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dráha rovnoměrného přímočarého pohybu - přímka s nulovou směrnicí",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "velikost rychlosti rovnoměrného přímočarého pohybu - přímka s nenulovou směrnicí",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 81,
+		"category": 1,
+		"number": 81,
+		"text": "Označte správnou kombinaci veličiny z oblasti kinematiky hmotného bodu jejího grafického znázornění v pravoúhlých souřadnicích v závislosti na čase:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "velikost rychlosti rovnoměrně zrychleného pohybu - přímka s nenulovou směrnicí",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "velikost zrychlení rovnoměrně zrychleného pohybu - přímka s nulovou směrnici",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dráha rovnoměrného přímočarého pohybu - přímka s nenulovou směrnicí",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "dráha rovnoměrně zrychleného pohybu - přímka",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 82,
+		"category": 1,
+		"number": 82,
+		"text": "Vyberte správnou kombinaci veličiny z oblasti kinematiky hmotného bodu jejího grafického znázornění v pravoúhlých souřadnicích v závislosti na čase:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dráha rovnoměrného přímočarého pohybu – přímka s nenulovou směrnicí",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dráha rovnoměrně zrychleného pohybu - přímka",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "velikost rychlosti rovnoměrně zrychleného pohybu - přímka s nenulovou směrnicí",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "velikost rychlosti rovnoměrného přímočarého pohybu - přímka s nenulovou směrnicí",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 83,
+		"category": 1,
+		"number": 83,
+		"text": "Označte správnou kombinaci veličiny z oblasti kinematiky hmotného bodu jejího grafického znázornění v pravoúhlých souřadnicích v závislosti na čase:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "velikost rychlosti rovnoměrně zrychleného pohybu – parabola",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dráha rovnoměrně zrychleného pohybu – parabola",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "velikost rychlosti rovnoměrného přímočarého pohybu – přímka s nulovou směrnicí",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "dráha rovnoměrného přímočarého pohybu - přímka s nenulovou směrnicí",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 84,
+		"category": 1,
+		"number": 84,
+		"text": "Vyberte nesprávné tvrzení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "volný pád je zvláštním případem pohybu rovnoměrně zrychleného",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "během volného pádu působí na těleso síla rovnoměrně rostoucí s časem",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "rychlost volného pádu tělesa ve vakuu závisí na jeho hmotnosti",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "grafickým znáorněním dráhy tělesa při volném pádu ve vakuu v závislosti na čase j přímka",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 85,
+		"category": 1,
+		"number": 85,
+		"text": "Při volném pádu ve vakuu rychlost tělesa",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "závisí na jeho hustotě",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "závisí na jeho hmotnosti",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "závisí na jeho hustotě a hmotnosti",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná z nabídnutých odpovědí není správná",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 86,
+		"category": 1,
+		"number": 86,
+		"text": "Při volném pádu ve vakuu rychlost tělesa závisí na",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jeho tíze",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jeho hmotnosti",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "gravitačním zrychlení",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "době trvání pádu",
+				"correct": true
+			}
+		]
+	}
+]

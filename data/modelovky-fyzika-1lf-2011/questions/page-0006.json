@@ -1,0 +1,290 @@
+[
+	{
+		"id": 1,
+		"category": 1,
+		"number": 1,
+		"text": "Základních jednotek Mezinárodní soustavy SI je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "4",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "5",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "6",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "7",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 2,
+		"category": 1,
+		"number": 2,
+		"text": "Mezinárodní soustava SI zahrnuje tento počet doplňkových jednotek:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "2",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "3",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "4",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 3,
+		"category": 1,
+		"number": 3,
+		"text": "Mezi základní veličiny soustavy SI patří",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "elektrický proud",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "látková koncentrace",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "elektrický potenciál",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "látkové množství",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 4,
+		"category": 1,
+		"number": 4,
+		"text": "Mezi základní veličiny soustavy Si nepatří",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "svítivost",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zářivý tok",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "elektrický náboj",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "teplo",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 5,
+		"category": 1,
+		"number": 5,
+		"text": "Mezi odvozené veličiny patří",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "rovinný úhel",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "síla",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "látkové množství",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "elektrický náboj",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 6,
+		"category": 1,
+		"number": 6,
+		"text": "Mezi odvozené veličiny patří",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "tlak",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "síla",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "práce",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "látkové množství",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 7,
+		"category": 1,
+		"number": 7,
+		"text": "Mezi odvozené veličiny nepatří",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "elektrický proud",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "elektrický potenciál",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "elektrický náboj",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "elektrické napětí",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 8,
+		"category": 1,
+		"number": 8,
+		"text": "Která z uvedených jednotek je jednotkou doplňkovou?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "sr",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "N",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "rad",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "min",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 9,
+		"category": 1,
+		"number": 9,
+		"text": "Která z uvedených jednotek není jednotkou odvozenou?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "N",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mm",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "V",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Pa",
+				"correct": false
+			}
+		]
+	}
+]

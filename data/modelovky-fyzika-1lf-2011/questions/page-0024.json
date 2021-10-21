@@ -1,0 +1,258 @@
+[
+	{
+		"id": 148,
+		"category": 1,
+		"number": 148,
+		"text": "Vlak jede rychlostí 72 km/hod. Začne-li strojvůdce rovnoměrně brzdit s záporným zrychlením 1 m.s-2, jakou rychlost bude mít po 20 s zpomalování?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "3,6 km/hod",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1,8 km/hod",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "10 m/s",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "0 m/s",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 149,
+		"category": 1,
+		"number": 149,
+		"text": "Auto se rovnoměrně rozjíždí a za dobu 15 s ujede dráhu 112,5 m. S jak velký zrychlením se rozjíždí?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,1 m.s-2",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,5 m.s-2",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "0,75 m.s-2",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1 m.s-2",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 150,
+		"category": 1,
+		"number": 150,
+		"text": "Řidič rovnoměrně jedoucího auta začne akcelerovat se zrychlením 0,2 m.s-2 p dobu 30 s až dosáhne rychlosti 81,6 km/hod. Jaká byla jeho počáteční rychlost?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "60 km/hod",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "50 km/hod",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "40 km/hod",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "30 km/hod",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 151,
+		"category": 1,
+		"number": 151,
+		"text": "Řidič auta jedoucího rychlostí 90 km/hod začne po dobu 20 s rovnoměrně brzdi se záporným zrychlením 0,2 m.s-2. Jaká bude jeho rychlost?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "60 km/hod",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "75,6 km/hod",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "80 km/hod",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "55,6 km/hod",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 152,
+		"category": 1,
+		"number": 152,
+		"text": "Řidič auta se rovnoměrně rozjíždí se zrychlením 2,5 m.s-2. Za jakou dob dosáhne rychlosti 90 km/hod?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "5s",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "10 s",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "15 s",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "20 s",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 153,
+		"category": 1,
+		"number": 153,
+		"text": "Velikost dostředivé síly při rovnoměrném pohybu koule o hmotnosti 500 g p kružnici o průměru 80 cm s úhlovou rychlostí 5 rad.s-1 je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "4N",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "5N",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "6N",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "10 0",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 154,
+		"category": 1,
+		"number": 154,
+		"text": "Směr síly o velikosti 10 N, působící na tažené těleso, svíral se směrem posunutí úhe 45°. Těleso bylo taženo po dráze 10 m. Jak velká práce byla přibližně vykonána?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "70 )",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "141 )",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "35 J",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "50 )",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 155,
+		"category": 1,
+		"number": 155,
+		"text": "Velikost hybnosti tělesa o hmotnosti 0,1 t, pohybujícího se rovnoměrný přímočarým pohybem, byla 2000 kg.m.s-1. Jaká byla jeho kinetická energie?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "500)",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1 k]",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "20 k]",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "10 k]",
+				"correct": false
+			}
+		]
+	}
+]

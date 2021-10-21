@@ -1,0 +1,258 @@
+[
+	{
+		"id": 289,
+		"category": 1,
+		"number": 289,
+		"text": "J. kg-1 je jednotka",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "intenzity gravitačního pole",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "gravitačního zrychlení",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "gravitační energie",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "gravitačního potenciálu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 290,
+		"category": 1,
+		"number": 290,
+		"text": "Volný pád je zvláštním případem pohybu",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "rovnoměrného",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "přímočarého rovnoměrně zpožděného",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "přímočarého rovnoměrně zrychleného",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "křivočarého",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 291,
+		"category": 1,
+		"number": 291,
+		"text": "Označíme-li gravitační zrychlení g a čas t, pak rychlost v tělesa při volném pád v závislosti na čase vyjádříme jako",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "V.= gt",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v=gt",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v=gt/2",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v=gt²/2",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 292,
+		"category": 1,
+		"number": 292,
+		"text": "Značí-li g gravitační zrychlení a t čas, pak dráhu s tělesa při volném pád v závislosti na čase vyjádříme jako",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "s=gt",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "s=gt/2",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "s=gt?",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "s=gt/2",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 293,
+		"category": 1,
+		"number": 293,
+		"text": "Trajektorií vodorovného vrhu je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "parabola",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "přímka",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "část kružnice",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "část elipsy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 294,
+		"category": 1,
+		"number": 294,
+		"text": "Při vrhu šikmém vzhůru s danou počáteční rychlostí dosáhneme největší délk vrhu (dostřelu) při elevačním úhlu",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "30°",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "45°",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "60°",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "75°",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 295,
+		"category": 1,
+		"number": 295,
+		"text": "Trajektorií vrhu šikmého vzhůru (ve vakuu) je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "přímka",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hyperbola",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "část kružnice",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "parabola",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 296,
+		"category": 1,
+		"number": 296,
+		"text": "Dráhu tělesa při volném pádu v závislosti na čase znázorníme v pravoúhlýc souřadnicích jako",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "přímku rovnoběžnou s vodorovnou osou",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "přímku o směrnici g",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "parabolu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "hyperbolu",
+				"correct": false
+			}
+		]
+	}
+]

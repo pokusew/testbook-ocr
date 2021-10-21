@@ -1,0 +1,290 @@
+[
+	{
+		"id": 10,
+		"category": 1,
+		"number": 10,
+		"text": "Jednotka watt (W) je z hlediska Mezinárodní soustavy jednotek SI jednotkou",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "odvozenou",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "základní",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zakázanou",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "doplňkovou",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 11,
+		"category": 1,
+		"number": 11,
+		"text": "Která z uvedených jednotek není jednotkou vedlejší?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "sr",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mol",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "eV",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mV",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 12,
+		"category": 1,
+		"number": 12,
+		"text": "Která z uvedených jednotek je jednotkou vedlejší?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "°C",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mol",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "rad",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "N",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 13,
+		"category": 1,
+		"number": 13,
+		"text": "Jednotka newton (N) je jednotkou",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "základní",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "doplňkovou",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "odvozenou",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zakázanou",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 14,
+		"category": 1,
+		"number": 14,
+		"text": "Která z uvedených jednotek je jednotkou odvozenou?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "sr",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "V",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mol",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "cd",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 15,
+		"category": 1,
+		"number": 15,
+		"text": "Která z uvedených jednotek nepatří mezi základní jednotky soustavy SI?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "A",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "V",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mol",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "cd",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 16,
+		"category": 1,
+		"number": 16,
+		"text": "Která z uvedených jednotek patří mezi základní jednotky soustavy SI?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "A",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "W",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "cd",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mol",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 17,
+		"category": 1,
+		"number": 17,
+		"text": "Která z uvedených jednotek není jednotkou doplňkovou?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "°C",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "eV",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "sr",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "cm",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 18,
+		"category": 1,
+		"number": 18,
+		"text": "Jednotka joule (J) patří z hlediska soustavy Si mezi jednotky",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "základní",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "odvozené",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "doplňkové",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zakázané",
+				"correct": false
+			}
+		]
+	}
+]

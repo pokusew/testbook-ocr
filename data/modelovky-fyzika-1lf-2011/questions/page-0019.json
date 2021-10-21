@@ -1,0 +1,226 @@
+[
+	{
+		"id": 111,
+		"category": 1,
+		"number": 111,
+		"text": "Značí-li ffrekvenci, T periodu a v rychlost, který z uvedených vztahů pr rovnoměrný pohyb hmotného bodu s úhlovou rychlostí w po kružnic o poloměru r je správný?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v = wr",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v= 2πχT",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "w = 21tf",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v= 2ttfr",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 112,
+		"category": 1,
+		"number": 112,
+		"text": "Při rovnoměrném pohybu hmotného bodu po kružnici je tomuto bodu udílen zrychlení",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nulové",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ve směru tečny",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "směrem do středu kružnice",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "směrem od středu kružnice",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 113,
+		"category": 1,
+		"number": 113,
+		"text": "V důsledku reakce (tj. na základě 3. Newtonova pohybového zákona) vzniká př rovnoměrném pohybu hmotného bodu po kružnici",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dostředivé zrychlení",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "odstředivé zrychlení",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zrychlení ve směru tečny",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nulové zrychlení",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 114,
+		"category": 1,
+		"number": 114,
+		"text": "Značí-li v rychlost a ffrekvenci, zvolte správný vztah pro vyjádření velikost dostředivého zrychlení a, při rovnoměrném pohybu hmotného bodu s úhlovo rychlostí w po kružnici o poloměru r:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ay = v2/r",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ag = wav",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ay = wv",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ag = 2T?f?r",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 115,
+		"category": 1,
+		"number": 115,
+		"text": "Značí-li v rychlost a T periodu, zvolte správný vztah pro vyjádření velikost dostředivého zrychlení a, při rovnoměrném pohybu hmotného bodu s úhlovo rychlostí w po kružnici o poloměru r:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ag = 47r/T2",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ad =v2/r",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "a = wa/r",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ag=v/r2",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 116,
+		"category": 1,
+		"number": 116,
+		"text": "Značí-li v rychlost, f frekvenci a T periodu, pak při rovnoměrném pohyb hmotného bodu po kružnici o poloměru r s úhlovou rychlostí w platí",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v = 2trT",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v = 2tr/T",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "w = 2tf",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v=w/r",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 117,
+		"category": 1,
+		"number": 117,
+		"text": "Velikost dostředivé síly při rovnoměrném pohybu tělesa o hmotnosti 500 g p kružnici o průměru 1 m s frekvencí 10 Hz je přibližně",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "314 N",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "31 N",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "99 N",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "986 =",
+				"correct": true
+			}
+		]
+	}
+]

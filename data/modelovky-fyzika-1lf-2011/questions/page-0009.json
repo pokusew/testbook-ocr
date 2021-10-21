@@ -1,0 +1,290 @@
+[
+	{
+		"id": 28,
+		"category": 1,
+		"number": 28,
+		"text": "Předpona femto- (f) před značkou jednotky značí",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "10-9",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "10-12",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "10-15",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "10-18",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 29,
+		"category": 1,
+		"number": 29,
+		"text": "Předpona piko- (p) před značkou jednotky značí",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "10-9",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "10-12",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "10-15",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "10-18",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 30,
+		"category": 1,
+		"number": 30,
+		"text": "Předpona nano- (n) před značkou jednotky značí",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "10-6",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "10-9",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "10-12",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "10-15",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 31,
+		"category": 1,
+		"number": 31,
+		"text": "Předpona mikro- (u) před značkou jednotky značí",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "10-9",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "10-6",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "10-3",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "10-18",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 32,
+		"category": 1,
+		"number": 32,
+		"text": "Předpona mili- (m) před značkou jednotky značí",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "10-2",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "10-3",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "10-6",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "10-9",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 33,
+		"category": 1,
+		"number": 33,
+		"text": "Předpona hekto- (h) před značkou jednotky značí",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "103",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "106",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "109",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "102",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 34,
+		"category": 1,
+		"number": 34,
+		"text": "Předpona kilo- (k) před značkou jednotky značí",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "103",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "106",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "109",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1012",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 35,
+		"category": 1,
+		"number": 35,
+		"text": "Předpona mega- (M) před značkou jednotky značí",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "103",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "106",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "10°",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1012",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 36,
+		"category": 1,
+		"number": 36,
+		"text": "Předpona giga- (G) před značkou jednotky značí",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "103",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "106",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "109",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1012",
+				"correct": false
+			}
+		]
+	}
+]

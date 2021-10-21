@@ -1,0 +1,258 @@
+[
+	{
+		"id": 87,
+		"category": 1,
+		"number": 87,
+		"text": "Vyberte nesprávné tvrzení: Při volném pádu ve vakuu rychlost tělesa závisí na",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "gravitačním zrychlení",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jeho hmotnosti",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jeho hustotě",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "čase",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 88,
+		"category": 1,
+		"number": 88,
+		"text": "Jednotkou tíhového zrychlení v soustavě SI je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "m.s-1",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "m.s-2",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "m.s",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "m.s?",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 89,
+		"category": 1,
+		"number": 89,
+		"text": "Tíhové zrychlení na naší Zemi je zhruba",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1 m.s-2",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "10 m.s-2",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "100 m.s-2",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1000 m:s- .2",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 90,
+		"category": 1,
+		"number": 90,
+		"text": "Značí-li m hmotnost a v rychlost, pak velikost hybnosti p hmotného bod vyjádříme jako",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "p = my?",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "p = mv",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "p = mv2/2",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "p = my- =",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 91,
+		"category": 1,
+		"number": 91,
+		"text": "Velikost hybnosti tělesa o hmotnosti 10 tun pohybujícího se rychlostí 36 km/ho je přibližně",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "p = 105 kg.m.s-1",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "p = 106 kg.m.s-1",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "p = 103 kg.m.s-1",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "p = 104 kg.m.s-1",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 92,
+		"category": 1,
+		"number": 92,
+		"text": "Jak velký impuls síly uvedl do pohybu rychlostí 1 m/s původně nehybné těles o hmotnosti 0,5 t?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "50 N.s",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "500 N.s",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1000 N.s",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "5000 N.S",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 93,
+		"category": 1,
+		"number": 93,
+		"text": "Hybnost tělesa o hmotnosti 1 tuny činí 104 kg.m.s-1. Jaká je jeho rychlost?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "100 m.s-1",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "10 m.s-1",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "3,6 km/hod",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "36 km/hod",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 94,
+		"category": 1,
+		"number": 94,
+		"text": "Hybnost tělesa rovnoměrně se pohybujícího rychlostí 36 km/hod čin 103 kg.m.s-1. Jaká je jeho hmotnost?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "10 kg",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "100 kg",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1 tuna",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "10 tun",
+				"correct": false
+			}
+		]
+	}
+]

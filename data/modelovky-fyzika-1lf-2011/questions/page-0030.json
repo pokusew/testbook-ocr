@@ -1,0 +1,290 @@
+[
+	{
+		"id": 194,
+		"category": 1,
+		"number": 194,
+		"text": "Příčinou rozdílné tekutosti kapalin je jejich",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "povrchové napětí",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hustota",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "viskozita",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "hydrostatický tlak",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 195,
+		"category": 1,
+		"number": 195,
+		"text": "Tlak v kapalině je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vektor směru shodného se směrem vektoru síly, která jej vyvolala",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vektor směru opačného",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "skalár",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vektor ve směru kolmém na dno nádoby",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 196,
+		"category": 1,
+		"number": 196,
+		"text": "Jednotkou tlaku v soustavě jednotek SI je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "atmosféra",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pascal",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "newton metr-1",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "joule metr-2",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 197,
+		"category": 1,
+		"number": 197,
+		"text": "Pomocí základních jednotek soustavy SI můžeme jednotku tlaku vyjádřit jako",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kg.m-1.5-2",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kg.m-252",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kg.m-25-1",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kg.m-2.5- - - -2",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 198,
+		"category": 1,
+		"number": 198,
+		"text": "Hydrostatický tlak v kapalině je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vektorová veličina vyvolaná vnější tlakovou sílou",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vektorová veličina vyvolaná tíhovou sílou",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "skalární veličina vyvolaná vnější tlakovou silou",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "skalární veličina vyvolaná tíhovou sílou",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 199,
+		"category": 1,
+		"number": 199,
+		"text": "Značí-li p hustotu, g gravitační zrychlení a h výšku hladiny, je hydrostatický tlak je dán vztahem",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "p = hpg",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "p = hg/",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "p = hp/g",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "p = hpg?",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 200,
+		"category": 1,
+		"number": 200,
+		"text": "Jednotkou hydrostatického tlaku v soustavě jednotek SI je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mm vodního sloupce",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mm Hg",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Pa",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "N",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 201,
+		"category": 1,
+		"number": 201,
+		"text": "Hydrostatický tlak je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vektor se směrem kolmým na dno nádoby",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "skalár",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vektor se směrem kolmým na stěny nádoby",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vektor směřující vzhůru, kolmo k hladině kapaliny",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 202,
+		"category": 1,
+		"number": 202,
+		"text": "Hydrostatický tlak v kapalině závisí na",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "její viskozitě",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jejím povrchovém napětí",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jejích polárních vlastnostech",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "její hustotě",
+				"correct": true
+			}
+		]
+	}
+]

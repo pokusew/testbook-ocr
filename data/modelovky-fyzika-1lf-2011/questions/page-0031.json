@@ -1,0 +1,258 @@
+[
+	{
+		"id": 203,
+		"category": 1,
+		"number": 203,
+		"text": "Značí-li F sílu působící kolmo na plochu velikosti S, pak pro hydraulický lis platí",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "F2/F2 = S2/S1",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "F1/F2 = S1/S2",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "F1S1 = F2S2",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "p1/p2 = S1/S2",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 204,
+		"category": 1,
+		"number": 204,
+		"text": "Budiž u hydraulického lisu S1 = 10 cm², S2 = 1 m2. Jakou silou musíme působit n píst o menší ploše, abychom mohli na druhé straně zvedat těleso o hmotnost 0,5 t (použijte g = 10 m.s-?)?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1N",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "5N",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "10 N",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "50 N",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 205,
+		"category": 1,
+		"number": 205,
+		"text": "Vztah mezi hustotami p, případně hmotnostmi m a výškami hladin h dvo nemísících se kapalin nad jejich společným rozhraním v trubici tvaru U je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "P1, P2 = h1, h2",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pıh1 = pzh2",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "m_h1 = mzhz",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "m1.m2 = h . hz",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 206,
+		"category": 1,
+		"number": 206,
+		"text": "Máme-li vypočítat poměr mezi výškami dvou nemísících se kapalin ve spojenýc nádobách nad jejich společným rozhraním, je třeba znát",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jejich hustoty a hmotnosti",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jejich hustoty, hmotnosti a tvar nádob",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pouze poměr jejich hustot",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jejich objemy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 207,
+		"category": 1,
+		"number": 207,
+		"text": "Velikost tlakové síly kapaliny na dno závisí",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "na její hustotě, výšce hladiny a plošném obsahu dna",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pouze na její hustotě a výšce hladiny",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "na jejím objemu a plošném obsahu dna",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "na její hmotnosti a plošném obsahu dna",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 208,
+		"category": 1,
+		"number": 208,
+		"text": "Velikost tlakové síly na dno nádoby obecně nezávisí na",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hustotě kapaliny",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "plošném obsahu dna",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "výšce hladiny",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "celkové hmotnosti kapaliny",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 209,
+		"category": 1,
+		"number": 209,
+		"text": "Velikost tlaku v kapalině u dna nádoby nezávisí na",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "tíhovém zrychlení",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "výšce hladiny",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "hustotě kapaliny",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "plošném obsahu dna",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 210,
+		"category": 1,
+		"number": 210,
+		"text": "Jaká je číselná hodnota hustoty vody vyjádřená pomocí základních jednote soustavy SI?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "10",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "100",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1000",
+				"correct": true
+			}
+		]
+	}
+]

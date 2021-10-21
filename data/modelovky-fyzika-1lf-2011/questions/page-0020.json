@@ -1,0 +1,258 @@
+[
+	{
+		"id": 118,
+		"category": 1,
+		"number": 118,
+		"text": "Při rovnoměrném pohybu hmotného bodu po kružnici o poloměru r = 50 c s frekvencí f = 100 Hz je velikost postupné rychlosti v přibližně rovna",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v = 157 m/s",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v = 314 m/s",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "y = 628 m/s",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v = 1256 m/s",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 119,
+		"category": 1,
+		"number": 119,
+		"text": "Jak se točí buben pračky o průměru 30 cm, je-li odstředivé zrychlení na jeh obvodu 592 m.s-27",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "200 ot/min",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "400 ot/min",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "600 ot/min",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "800 ot/min",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 120,
+		"category": 1,
+		"number": 120,
+		"text": "Jaká je úhlová rychlost kola automobilu o průměru 80 cm jedoucího rychlost 108 km/hod?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "15 rad/s",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "30 rad/s",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "60 rad/s",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "75 rad/s",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 121,
+		"category": 1,
+		"number": 121,
+		"text": "Rotor centrifugy o průměru 20 cm rotuje rychlostí 3000 otáček/minutu. Jaké j odstředivé zrychlení?:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "4930 m.s-2",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "9860 m.s-2",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "12890 m.s-2",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "19720 m.s-2",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 122,
+		"category": 1,
+		"number": 122,
+		"text": "Obvodová rychlost bodu na rovníku, způsobená rotací Země (uvažujte velikos poloměru Země 6400 km) je přibližně rovna",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "346 m/s",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "465 m/s",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "634 m/s",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "926 m/s",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 123,
+		"category": 1,
+		"number": 123,
+		"text": "Exoplaneta s průměrem 14400 km v rovině rovníku se jednou otočí z 12,56 hodin. Jaká je obvodová rychlost bodu na jejím rovníku?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "250 m/s",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "500 m/s",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "750 m/s",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1000 m/s",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 124,
+		"category": 1,
+		"number": 124,
+		"text": "Při rovnoměrném pohybu hmotného bodu po kružnici o poloměru r = 40 c s úhlovou rychlostí 30 rad.s-1 je velikost postupné rychlosti rovna",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1 m/s",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "12 m/s",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "10 m/s",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "90 m/s",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 125,
+		"category": 1,
+		"number": 125,
+		"text": "Při rovnoměrném pohybu hmotného bodu o hmotnosti 50 gp kružnic o průměru 50 cm s frekvencí 50 Hz je jeho kinetická energie přibližně:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "77 )",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,308 kJ",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "154 )",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "616 V",
+				"correct": false
+			}
+		]
+	}
+]

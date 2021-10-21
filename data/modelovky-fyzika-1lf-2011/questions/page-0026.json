@@ -1,0 +1,226 @@
+[
+	{
+		"id": 164,
+		"category": 1,
+		"number": 164,
+		"text": "Uvažujte vyjádření jednotek jednotlivých veličin pomocí základních jednote soustavy SI a vyberte správnou kombinaci:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hybnost - kg.m.s-1",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "síla - kg.m.s?",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "práce - kg.m.s-2",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "výkon - kg.m?.s-2",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 165,
+		"category": 1,
+		"number": 165,
+		"text": "Uvažujte vyjádření jednotek jednotlivých veličin pomocí základních jednote soustavy SI a vyberte správnou kombinaci:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hybnost – kg.m.s-?",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "síla - kg.m.s-3",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "práce - kg.m?.s-2",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "výkon – kg.m².s-3",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 166,
+		"category": 1,
+		"number": 166,
+		"text": "Uvažujte vyjádření jednotek jednotlivých veličin pomocí základních jednote soustavy SI a označte nesprávnou kombinaci:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hybnost - kg.m.s-1",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "síla -- kg.ma.s-2",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "práce - kg.m’s-2",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "výkon - kg.ms-3",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 167,
+		"category": 1,
+		"number": 167,
+		"text": "Uvažujte vyjádření jednotek jednotlivých veličin pomocí základních jednote soustavy Sl a označte nesprávnou kombinaci:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hybnost - kg.m.s",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "síla – kg.m.s-2",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "práce - kg.m.s-2",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "výkon - kg.m’s-2",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 168,
+		"category": 1,
+		"number": 168,
+		"text": "Uvažujte vyjádření jednotek jednotlivých veličin pomocí základních jednote soustavy SI a označte nesprávnou kombinaci:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hybnost - kg.m.s",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "síla – kg.m.s-3",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "práce - kg.m’s-2",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "výkon - kg.mº.s-3",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 169,
+		"category": 1,
+		"number": 169,
+		"text": "Uvažujte vyjádření jednotek jednotlivých veličin pomocí základních jednote soustavy SI a označte nesprávnou kombinaci:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hybnost - kg.m.s-1",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "síla – kg.m.s-2",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "práce - kg.m-2.5-2",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "výkon – kg.m?.s-2",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 170,
+		"category": 1,
+		"number": 170,
+		"text": "Značí-li t čas, v rychlost a s posunutí, vyberte správný vztah pro vyjádření prác W nebo výkonu P při rovnoměrném konání práce (vektor síly F má shodný smě se směrem posunutí):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "P = W/t",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "P = Fst",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "P = F/v",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "W = F - :",
+				"correct": true
+			}
+		]
+	}
+]

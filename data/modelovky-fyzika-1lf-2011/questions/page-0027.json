@@ -1,0 +1,226 @@
+[
+	{
+		"id": 171,
+		"category": 1,
+		"number": 171,
+		"text": "Značí-li t čas, v rychlost a s posunutí, vyberte správný vztah pro vyjádření prác W nebo výkonu P při rovnoměrném konání práce (vektor síly F má shodný smě se směrem posunutí):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "P = Fs/t",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "P = F/v",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "W = F/s",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "W = Pt",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 172,
+		"category": 1,
+		"number": 172,
+		"text": "Značí-lit čas a s posunutí, vyberte správný vztah pro vyjádření práce W neb výkonu P při rovnoměrném konání práce (vektor síly F má shodný směr s směrem posunutí):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "P = W/t",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "P = Ft/s",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "P = Fs/t",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "W = F/s",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 173,
+		"category": 1,
+		"number": 173,
+		"text": "Automobil jede v rovině rovnoměrně rychlostí 108 km/hod. Velikost odporové třecí síly je 1 KN. Jak velký je výkon motoru?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "10 kW",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "20 kW",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "30 kW",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "40 kW",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 174,
+		"category": 1,
+		"number": 174,
+		"text": "Traktor s motorem o výkonu 100 kW táhne plúh s rychlostí 3,6 km/hod. Ja velkou sílou táhne pluh?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "10 KN",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "50 kN",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "100 KN",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "200 kN",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 175,
+		"category": 1,
+		"number": 175,
+		"text": "Značí-li m hmotnost, a zrychlení a v rychlost, pak je kinetická energie hmotnéh bodu Ex dána vztahem:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Ex = my?",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Ex = maʼ/2",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Ex = mv2/2",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Ek = mv/2",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 176,
+		"category": 1,
+		"number": 176,
+		"text": "Značí-li m hmotnost a g gravitační zrychlení, je potenciální energie E, tělesa v výšce h nad Zemí dána vztahem:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Ep = mgh/2",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "E, = mgh",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mg_h/2",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "E = mgh",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 177,
+		"category": 1,
+		"number": 177,
+		"text": "Značí-li g gravitační zrychlení, můžeme rychlost tělesa y, se kterou dopadl z výšky h na povrch Země, vyjádřit jako",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v = 2gh",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v= 2gh",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v = 4g?h?",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v = g c) =",
+				"correct": false
+			}
+		]
+	}
+]

@@ -1,0 +1,258 @@
+[
+	{
+		"id": 273,
+		"category": 1,
+		"number": 273,
+		"text": "Jednotka intenzity gravitačního pole vyjádřená pomocí základních jednote soustavy Si bude stejná jako jednotka",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "rychlosti",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zrychlení",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "hybnosti",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "momentu síly",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 274,
+		"category": 1,
+		"number": 274,
+		"text": "Značí-li m hmotnost, pak mezi velikostí intenzity gravitačního pol Ka gravitačním zrychlením g platí",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "K= g",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "K = 1/g",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "K = gº/2",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "K = mg",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 275,
+		"category": 1,
+		"number": 275,
+		"text": "Rovnost mezi intenzitou gravitačního pole a gravitačním zrychlením vyplýv z kombinace definice intenzity gravitačního pole a",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "prvního pohybového zákona",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "druhého pohybového zákona",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "třetího pohybového zákona",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zákona o zachování hybnosti",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 276,
+		"category": 1,
+		"number": 276,
+		"text": "Intenzita gravitačního pole a gravitační zrychlení v daném místě určitéh gravitačního pole jsou",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "skaláry",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vektory stejného druhu, opačného směru a stejné velikosti",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vektory stejného druhu, směru i velikosti",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vektory různého druhu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 277,
+		"category": 1,
+		"number": 277,
+		"text": "Budiž poloměr Země Ry, hmotnost Země My, výška tělesa nad zemským povrche h a jeho hmotnost m. Uvažujeme-li gravitační sílu F (h) působící na těleso vyjádříme ji jako",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "F (h) = kmM /h",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "F (h) = kmM,(h - R.)2",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "F (h) = kmM/(R_/2 + h)2",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "F (h) = kmM_/(Rz + h)?",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 278,
+		"category": 1,
+		"number": 278,
+		"text": "Z uvedených míst bude největší intenzita zemského gravitačního pole",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "na povrchu mořské hladiny",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "na vrcholu nejvyšší hory světa",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "při horní hranici atmosféry",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v kosmickém prostoru",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 279,
+		"category": 1,
+		"number": 279,
+		"text": "Které z následujících tvrzení je nesprávné? Největší gravitační zrychlení udíl gravitační síla daná gravitačním polem Země tělesu",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "na povrchu Země",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ve výši 3000 m nad povrchem Země",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ve výši 8000 km nad povrchem Země",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "velikost gravitačního zrychlení je nezávislá na vzdálenosti od Země",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 280,
+		"category": 1,
+		"number": 280,
+		"text": "Označte správné tvrzení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "intenzita gravitačního pole má stejný směr i velikost jako gravitační zrychlení",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "intenzita gravitačního pole Země je nezávislá na výšce na povrchem Země",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "intenzita gravitačního pole je nezávislá na hmotnosti tělesa uvažovaného v daném místě",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "na povrchu Země je stejné gravitační zrychlení jako ve stratosféř +",
+				"correct": false
+			}
+		]
+	}
+]

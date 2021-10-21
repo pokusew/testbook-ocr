@@ -1,0 +1,226 @@
+[
+	{
+		"id": 141,
+		"category": 1,
+		"number": 141,
+		"text": "Je-li směr síly F působící na těleso shodný se směrem posunutí s, pa mechanickou práci W vyjádříme vztahem",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "W = F/s",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "W = Fv",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "W = Fs",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "W = Fa",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 142,
+		"category": 1,
+		"number": 142,
+		"text": "Svírá-li směr síly F působící na těleso úhel a se směrem posunutí s, je mechanick práce W dána vztahem",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "W = Fs",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "W = Fs.sina",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "W = Fs.tga",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "W = Fs.cosa",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 143,
+		"category": 1,
+		"number": 143,
+		"text": "Značí-li g gravitační zrychlení, pak posunutím tělesa o hmotnosti m po nakloněn rovině, která svírá s vodorovnou rovinou úhel B tak, že rozdíl výšek tělesa pře posunutím a po něm je roven h, se vykoná práce W:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "W = mgh.sinß",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "W = mgh.cosß",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "W = mgh.tgß",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "W= mgh",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 144,
+		"category": 1,
+		"number": 144,
+		"text": "Je-li F, velikost tíhové síly tělesa umístěného na nakloněné rovině, která svír s vodorovnou rovinou úhel B, je velikost složky F1 ve směru posunutí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "F1 = Fg-sinß",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "F1 = Fg.cosß",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "F1 = Fg-tgß",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "F1 = FG",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 145,
+		"category": 1,
+		"number": 145,
+		"text": "Je-li Fg velikost tíhové síly tělesa umístěného na nakloněné rovině, která svír s vodorovnou rovinou úhel B, je velikost složky F2 kolmé na směr posunutí (kter nemá pohybové účinky)",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "F2 = Fg.sinß",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "F2 = Fc.cosB",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "F2= Fg.tgß",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "F2 = FG",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 146,
+		"category": 1,
+		"number": 146,
+		"text": "Vlak jede rychlostí 72 km/hod. Za jak dlouho zastaví, začne-li strojvůdc rovnoměrně brzdit se záporným zrychlením 1 m.s-2?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "10 s",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "20 s",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "30 s",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "40 s",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 147,
+		"category": 1,
+		"number": 147,
+		"text": "Vlak jede rychlostí 72 km/hod. Jakou dráhu ještě ujede, začne-li strojvůdc rovnoměrně brzdit se záporným zrychlením 0,5 m.s-??",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "200 m",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "400 m",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "600 m",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "800 =",
+				"correct": false
+			}
+		]
+	}
+]

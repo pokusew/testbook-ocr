@@ -1,0 +1,226 @@
+[
+	{
+		"id": 258,
+		"category": 1,
+		"number": 258,
+		"text": "Po změně polohy dvou hmotných bodů, které byly původně ve vzdálenosti r se zvětšila gravitační síla mezi těmito body 104 krát. Jaká je nová vzdálenost mez těmito body?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "r/100",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "r/10",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "100r",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "10r",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 259,
+		"category": 1,
+		"number": 259,
+		"text": "Po změně polohy dvou hmotných bodů, které byly původně ve vzdálenosti r se zmenšila gravitační síla mezi těmito body devětkrát. Jaká je nová vzdálenos mezi těmito body?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "3r",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "9r",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "r/3",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "r/9",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 260,
+		"category": 1,
+		"number": 260,
+		"text": "Gravitační konstantu k vyjádříme z gravitačního zákona jako",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "k=Ff/(m m2)",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "K= F mm2/r :",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "K = Fr2/(m m2)",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "K= m_m2/(Fr /",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 261,
+		"category": 1,
+		"number": 261,
+		"text": "Hodnota gravitační konstanty je 6,67.10-11N.m². kg 2, hmotnost Země 5,98.1024kg Měsíce 7,38.1022kg, vzdálenost mezi nimi 385 000 km. Velikost gravitační sil působící mezi Měsícem a Zemí je zhruba",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1012 N",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1016 N",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "2.1020 N",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "O - id",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 262,
+		"category": 1,
+		"number": 262,
+		"text": "Uvažujme dvě koule o hmotnostech 1 a 5 kg vzdálené od sebe 1 m. Které tvrzení j správné?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vzájemný pohybový účinek jejich gravitačních sil bude značný, budou-li z materiál o velké hustotě",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "gravitační síly mezi nimi budou nepatrné vzhledem k malé číselné hodnotě gravitačn konstanty",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "gravitační síly mezi nimi budou nepatrné, nebude-li mezi nimi vakuum",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "větší koule bude působit na druhou pětinásobnou silou než menší na velkou",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 263,
+		"category": 1,
+		"number": 263,
+		"text": "Tíhová síla je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "synonymum gravitační síly",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vektorový součet gravitační a odstředivé síly",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "součet velikostí gravitační a odstředivé síly",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "rozdíl velikostí gravitační a odstředivé síly",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 264,
+		"category": 1,
+		"number": 264,
+		"text": "Nejmenší tíhové zrychlení je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "na severním pólu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "na jižním pólu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "na rovníku",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "na pólech",
+				"correct": false
+			}
+		]
+	}
+]

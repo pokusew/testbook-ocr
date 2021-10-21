@@ -26,7 +26,7 @@ hmotnými body o hmotnostech mi a m2 ve vzdálenosti r dána vztahem
 a) F = km1m2/r
 B) F, = km m2/r2
 c) F km mer
-Kmm2r2
+d) Kmm2r2
 247. Jednotkou gravitační konstanty je
 a) N.m. kg-1
 b) N.m². kg?

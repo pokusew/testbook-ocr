@@ -1,0 +1,290 @@
+[
+	{
+		"id": 37,
+		"category": 1,
+		"number": 37,
+		"text": "Předpona tera- (T) před značkou jednotky značí",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "103",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "106",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "109",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1012",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 38,
+		"category": 1,
+		"number": 38,
+		"text": "Předpona peta- (P) před značkou jednotky znač :",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "109",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1012",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1015",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1018",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 39,
+		"category": 1,
+		"number": 39,
+		"text": "Předpona exa- (E) před značkou jednotky značí",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "109",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1012",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1015",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "101 2",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 40,
+		"category": 1,
+		"number": 40,
+		"text": "200 km² je rovno",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "2.108 m",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "2.109 dm?",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "2.1012 cm?",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "2.1013 mm",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 41,
+		"category": 1,
+		"number": 41,
+		"text": "50 m2 je rovno",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "5.103 dm?",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "5.10-6 km2",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "5.105 cm?",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "5.106 mm",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 42,
+		"category": 1,
+		"number": 42,
+		"text": "40 m² je rovno",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "4.104 cm?",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "4.107 mm2",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "4.10-5 km2",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "4.102 dm²",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 43,
+		"category": 1,
+		"number": 43,
+		"text": "5 tun je rovno",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "5.102 kg",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "5.103 kg",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "5.105 g",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "5.10 -1 km 3",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 44,
+		"category": 1,
+		"number": 44,
+		"text": "0,3 litrů je rovno",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "3.100",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "3.10-3 m",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "3.102 cm3",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "3.105 mm3",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 45,
+		"category": 1,
+		"number": 45,
+		"text": "3.10-2 km2 je rovno",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "3.1011 mm?",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "3.106 dm?",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "3.105 m2",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "3.108 cm 2",
+				"correct": true
+			}
+		]
+	}
+]

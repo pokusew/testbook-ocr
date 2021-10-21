@@ -1,0 +1,258 @@
+[
+	{
+		"id": 71,
+		"category": 1,
+		"number": 71,
+		"text": "Při znázornění závislosti dráhy pohybu rovnoměrného přímočarého na čas v pravoúhlých souřadnicích má velikost rychlosti význam",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "úseku přímky na svislé ose",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "úseku přímky na vodorovné ose",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "směrnice",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vzdálenosti mezi vodorovnou osou a přímkou, která je s ní rovnoběžná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 72,
+		"category": 1,
+		"number": 72,
+		"text": "V kinematice hmotného bodu v pravoúhlých souřadnicích v závislosti na čase j parabola znázorněním této veličiny:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "velikosti zrychlení rovnoměrně zrychleného pohybu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "velikosti rychlosti rovnoměrně zrychleného pohybu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dráhy rovnoměrně zrychleného pohybu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "velikosti rychlosti rovnoměrně zpomaleného pohybu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 73,
+		"category": 1,
+		"number": 73,
+		"text": "Při pohybu rovnoměrném přímočarém je velikost rychlosti:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "rovnoměrně rostoucí s rostoucím časem",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "rovnoměrně rostoucí s rostoucí dráhou",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "rovnoměrně klesající s rostoucí dráhou",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "konstantní",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 74,
+		"category": 1,
+		"number": 74,
+		"text": "Které z uvedených tvrzení není pravdivé?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "velikost okamžité rychlosti v každém bodu dráhy při nerovnoměrném pohybu se rovn průměrné rychlosti",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "průměrná rychlost přímočarého rovnoměrného pohybu je rovna velikosti okamžit rychlosti v každém bodu dráhy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "okamžité rychlosti přímočarého pohybu rovnoměrného mají v různých bodech stejn směr ale různou velikost",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "okamžité rychlosti přímočarého pohybu rovnoměrného mají v různých bodech dráh stejnou velikost ale různý směr",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 75,
+		"category": 1,
+		"number": 75,
+		"text": "Uvažujte pohyb rovnoměrný přímočarý; vyberte, které tvrzení je nesprávné:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "okamžitá rychlost je vektorová veličina",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vektor rychlosti má směr kolmý na vektor posunutí",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "velikost okamžité rychlosti v každém čase je rovna velikosti rychlosti daného pohybu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "okamžitá rychlost je určena pouze svou velikostí",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 76,
+		"category": 1,
+		"number": 76,
+		"text": "Při rovnoměrném pohybu přímočarém je možno posunutí vyjádřit jako",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "součin dvou vektorových veličin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "součin jedné skalární a jedné vektorové veličiny",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "součin dvou skalárních veličin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "součin velikostí dvou vektorových veličin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 77,
+		"category": 1,
+		"number": 77,
+		"text": "Jednotkou zrychlení v soustavě SI je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "m.s-1",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "m.s",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "m.s-2",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "m.s?",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 78,
+		"category": 1,
+		"number": 78,
+		"text": "Zrychlení rovnoměrně zrychleného přímočarého pohybu můžeme vyjádřit jako",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "součin skalární a vektorové veličiny",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "součin dvou vektorových veličin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "podíl mezi skalární a vektorovou veličinou (skalár lomený vektorem)",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "podíl mezi vektorovou a skalární veličinou (vektor lomený skalárem)",
+				"correct": true
+			}
+		]
+	}
+]

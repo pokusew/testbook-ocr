@@ -1,0 +1,258 @@
+[
+	{
+		"id": 126,
+		"category": 1,
+		"number": 126,
+		"text": "Při rovnoměrném pohybu hmotného bodu o hmotnosti 40 g po kružnic o průměru 80 cm s úhlovou rychlostí 20 rad.s-1 je jeho hybnost:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1,28 kg.m.s-1",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,64 kg.m.s-1",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "0,32 kg.m.s-1",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "3,2 kg.m.s-1",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 127,
+		"category": 1,
+		"number": 127,
+		"text": "Při rovnoměrném pohybu kuličky o hmotnosti 10 g po kružnici o poloměr 60 cm byla její hybnost 15,072 kg.m.s-1. Jaká byla frekvence jejího pohybu?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "50 Hz",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "200 Hz",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "800 Hz",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "400 Hz",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 128,
+		"category": 1,
+		"number": 128,
+		"text": "Velikost rychlosti rovnoměrného pohybu kuličky po kružnici o průměru 40 cm j 25,12 m.s-1. Jaká je její doba oběhu?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1s",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,05 s",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "0,1 s",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "2 s",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 129,
+		"category": 1,
+		"number": 129,
+		"text": "Doba oběhu sedačky rovnoměrně se pohybujícího kolotoče o průměru 6 m jso 3 s. Jaká je velikost její rychlosti?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "3,14 m/s",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "6,28 m/s",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1,57 m/s",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "12,56 m/s",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 130,
+		"category": 1,
+		"number": 130,
+		"text": "Hlemýžď' urazil rovnoměrným pohybem 108 cm za 45 minut. Jeho rychlost v m/ byla",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,4",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "4.10-3",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "4.10-4",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "8.10-3",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 131,
+		"category": 1,
+		"number": 131,
+		"text": "Okolik dříve bude ve městě vzdáleném 9 km cyklista, který jede rychlost 15 km/hod, než chodec, který jde rychlostí 4 km/hod?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "47 min",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "76 min",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "99 min",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "135 min",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 132,
+		"category": 1,
+		"number": 132,
+		"text": "Postupná rychlost sedačky rovnoměrně se pohybujícího kolotoče o průměru 6 je 3,14 m/s. Jak dlouho trvá její jeden oběh?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "5s",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "6s",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "8s",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "35",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 133,
+		"category": 1,
+		"number": 133,
+		"text": "Při rovnoměrném pohybu hmotného bodu po kružnici o poloměru r = 20 c s frekvencí f = 10 Hz je velikost dostředivého zrychlení přibližně rovna",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "a = 49 m/s2",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "a. = 197 m/s2",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ag = 394 m/s",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ag = 789 m/ -",
+				"correct": true
+			}
+		]
+	}
+]

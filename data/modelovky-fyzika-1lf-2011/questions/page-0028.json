@@ -1,0 +1,258 @@
+[
+	{
+		"id": 178,
+		"category": 1,
+		"number": 178,
+		"text": "Uvažujte přibližnou hodnotu g = 10 m.s-2 a zanedbejte odpor vzduchu. Za těcht podmínek těleso vržené svisle vzhůru rychlostí 20 m/s dosáhne výšky",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "50 m",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "10 m",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "20 m",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "40 m",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 179,
+		"category": 1,
+		"number": 179,
+		"text": "Uvažujte přibližnou hodnotu g = 10 m.s-2 a zanedbejte odpor vzduchu. Káme vržený svisle vzhůru dopadl zpět za 4 s. Jaké nejvyšší výšky dosáhl?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "15 m",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "20 m",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "25 m",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "30 m",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 180,
+		"category": 1,
+		"number": 180,
+		"text": "Uvažujte přibližnou hodnotu g = 10 m.s-2 a zanedbejte odpor vzduchu. Rychlos tělesa, které spadlo z výšky 20 m byla",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "10 m/s",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "20 m/s",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "30 m/s",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "40 m/s",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 181,
+		"category": 1,
+		"number": 181,
+		"text": "Těleso dopadlo volným pádem na zem s rychlostí 30 m/s. Z jaké výšky padalo?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "30 m",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "35 m",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "40 m",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "45 m",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 182,
+		"category": 1,
+		"number": 182,
+		"text": "Značí-li m hmotnost, v rychlost, a zrychlení, g gravitační zrychlení a h výšku vyberte dvojici, ve které je jak kinetická energie E, tak potenciální energie E vyjádřena správně:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "E = mv2/2; E = mgh",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Ex = maʼ/2; E = mgh",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Ex = mv2/2; E = mgh",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Ex = mv2 /2; E = mgh²/2",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 183,
+		"category": 1,
+		"number": 183,
+		"text": "Po kolmém odrazu dokonale pružné koule od dokonale tuhé stěny bude mí vektor hybnosti ve srovnání s vektorem hybnosti před odrazem",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "opačný směr a poloviční velikost",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "opačný směr a stejnou velikost",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nulovou velikost",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "stejný směr a poloviční velikost",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 184,
+		"category": 1,
+		"number": 184,
+		"text": "Při otáčivém pohybu tuhého tělesa mají všechny body tělesa v libovolném čase",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "stejnou okamžitou rychlost",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "stejné dostředivé zrychlení",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "stejné odstředivé zrychlení",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "stejnou okamžitou úhlovou rychlost",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 185,
+		"category": 1,
+		"number": 185,
+		"text": "Velikost momentu síly M vzhledem k ose otáčení kolmé na směr síly F v vzdálenosti rod osy otáčení je rovna",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "M = Fr",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "M = Fr/2",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "M = Fr2",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "M = Fr/ -",
+				"correct": false
+			}
+		]
+	}
+]

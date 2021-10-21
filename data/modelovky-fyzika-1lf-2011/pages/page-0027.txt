@@ -12,8 +12,8 @@ A) P = W/t
 b) P = Ft/s
 C) P = Fs/t
 d) W = F/s
-173. Automobil jede v rovině rovnoměrně rychlostí 108 km/hod. Velikost odporové
-a třecí síly je 1 KN. Jak velký je výkon motoru?
+173. Automobil jede v rovině rovnoměrně rychlostí 108 km/hod. Velikost odporové a
+třecí síly je 1 KN. Jak velký je výkon motoru?
 a) 10 kW
 b) 20 kW
 C) 30 kW
@@ -34,7 +34,7 @@ d) Ek = mv/2
 výšce h nad Zemí dána vztahem:
 a) Ep = mgh/2
 b) E, = mgh
-mg_h/2
+c) mg_h/2
 D) E = mgh
 177. Značí-li g gravitační zrychlení, můžeme rychlost tělesa y, se kterou dopadlo
 z výšky h na povrch Země, vyjádřit jako

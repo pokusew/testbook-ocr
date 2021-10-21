@@ -1,0 +1,258 @@
+[
+	{
+		"id": 227,
+		"category": 1,
+		"number": 227,
+		"text": "Olověná koule o hmotnosti 11,3 kg, zcela ponořená do kapaliny, táhne za závěsn lanko silou 103 N. Uvažujte velikost tihového zrychlení 10 m.s-2. Hustota olova j 11 300, rtuti 13 600 a líhu 860 kg.m-3. Do jaké kapaliny je ponořena?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "rtuť",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "voda",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "líh",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nelze určit",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 228,
+		"category": 1,
+		"number": 228,
+		"text": "Olověná koule o hmotnosti 11,3 kg, zcela ponořená do kapaliny, táhne za závěsn lanko silou 104,4 N. Uvažujte velikost tíhového zrychlení 10 m.s-2. Hustota olov je 11 300, rtuti 13 600 a líhu 860 kg.m*3. Do jaké kapaliny je ponořena?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "rtuť",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "líh",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "voda",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nelze urči 3",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 229,
+		"category": 1,
+		"number": 229,
+		"text": "Rovnice kontinuity je zvláštním případem zákona o zachování",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "energie",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hmotnosti",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "hybnosti",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mechanické energie",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 230,
+		"category": 1,
+		"number": 230,
+		"text": "Při ustáleném proudění nestlačitelné kapaliny proudovou trubicí s měnícím s kruhovým průřezem je v každém místě velikost rychlosti kapaliny",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nepřímo úměrná kvadrátu průměru trubice",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "přímo úměrná průměru trubice",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nepřímo úměrná průřezu trubice",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "přímo úměrná průřezu trubice",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 231,
+		"category": 1,
+		"number": 231,
+		"text": "Koncovka hadice má čtyřikrát menší poloměr než je poloměr hadice. Pomocí tét koncovky se rychlost kapaliny oproti původní rychlosti v hadici zvýší",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dvakrát",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "čtyřikrát",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "osmkrát",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "šestnáctkrát",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 232,
+		"category": 1,
+		"number": 232,
+		"text": "Při ustáleném proudění protéká hadicí o poloměru 1 cm 30 litrů vody za minutu Její koncovkou o poloměru 0,25 cm protéká",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "7,51/min",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "151/min",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "30 1/min",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "60l/min",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 233,
+		"category": 1,
+		"number": 233,
+		"text": "Hadicí o průřezu 4 cm? proteče 1,2 hl vody za minutu. Jaká je rychlost vody?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "5 m/s",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "10 m/s",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "15 m/s",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "25 m/s",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 234,
+		"category": 1,
+		"number": 234,
+		"text": "Potrubím proteklo za 5 minut 6 hl vody. Jaký byl objemový průtok?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,5x10-3 ms-1",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1x10-3 m",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "2x10-3 mºs",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "4x10-3 m?s- - 3 .- . 3-1",
+				"correct": false
+			}
+		]
+	}
+]

@@ -1,5 +1,5 @@
-186. Velikost momentu síly F = 10 N vzhledem k ose otáčení kolmé na směr síly
-a působící v kolmé vzdálenosti r= 20 cm je rovna
+186. Velikost momentu síly F = 10 N vzhledem k ose otáčení kolmé na směr síly a
+působící v kolmé vzdálenosti r= 20 cm je rovna
 a) 0,2 N.m
 B) 2 N.m
 c) 20 N.m
@@ -15,16 +15,12 @@ a) kg.m-2.5-2
 B) kg.m².s-2
 c) kg.m.s-2
 d) kg.m².s?
-6
 189. Kinetickou energii Ex tuhého tělesa, které se otáčí rovnoměrně s úhlovou
 rychlostí w kolem nehybné osy lze vyjádřit pomocí momentu setrvačnosti J jako
 a) Ex = jw2/4
 b) Ex = JW
 c) Ex = Jw
 D) Ex = jw2/2
--2
--2
-.
 190. Jednotkou momentu setrvačnosti je
 a) kg.m
 b) kg.m-1

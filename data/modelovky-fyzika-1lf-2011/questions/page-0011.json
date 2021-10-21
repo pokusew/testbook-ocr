@@ -1,0 +1,290 @@
+[
+	{
+		"id": 46,
+		"category": 1,
+		"number": 46,
+		"text": "108 m² je rovno",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "102 km2",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "10° dm",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1012 cm",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1013 mm?",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 47,
+		"category": 1,
+		"number": 47,
+		"text": "10 cm je rovno",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "104 mm",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "10-2 dm3",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "10-6 m3",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "10-15 km",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 48,
+		"category": 1,
+		"number": 48,
+		"text": "10-4 m² je rovno",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1 cm",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "10-2 dm2",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "10-8 km?",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "102 mm",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 49,
+		"category": 1,
+		"number": 49,
+		"text": "107 cm² je rovno",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "103 m2",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "108 mm2",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "105 m2",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "10-3 km2",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 50,
+		"category": 1,
+		"number": 50,
+		"text": "500 m² je rovno",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "5.108 mm2",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "5.105 cm",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "5.104 dm?",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "5.10-5 km",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 51,
+		"category": 1,
+		"number": 51,
+		"text": "10-4 km2 je rovno",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "109 mm2",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "106 cm?",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "104 dm?",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "104 m2",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 52,
+		"category": 1,
+		"number": 52,
+		"text": "80 m2 je rovno",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "8.10-8 km3",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "8.107 cm",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "8.105 dm3",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "8.109 mm3",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 53,
+		"category": 1,
+		"number": 53,
+		"text": "50 litrů je rovno",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "5.108 mm3",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "5.104 cm3",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "5.10-2 m3",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "5.10-12 km3",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 54,
+		"category": 1,
+		"number": 54,
+		"text": "40 hl je rovno",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "4 m3",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "4.102 dm3",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "4.106 cm3",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "4.10-9 km",
+				"correct": true
+			}
+		]
+	}
+]

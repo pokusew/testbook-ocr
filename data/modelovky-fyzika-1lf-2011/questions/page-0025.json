@@ -1,0 +1,258 @@
+[
+	{
+		"id": 156,
+		"category": 1,
+		"number": 156,
+		"text": "Jaká je kinetická energie automobilu o hmotnosti 1300 kg jedoucího rychlost 72 km/hod?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "520 kJ",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "390 k)",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "260 kJ",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "780 kJ",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 157,
+		"category": 1,
+		"number": 157,
+		"text": "Značí-li W práci, t čas a s dráhu, je veličina výkon P definována vztahem",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "P = Wt",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "P = W/t",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "P = Ws",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "P = W/s",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 158,
+		"category": 1,
+		"number": 158,
+		"text": "Který z uvedených vztahů mezi jednotkami je správný?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "W = N.s",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "W = N/s",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "W = J.S",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "W = J/s",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 159,
+		"category": 1,
+		"number": 159,
+		"text": "Watt sekunda je jednotkou",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "práce",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "výkonu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "energie",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "síly",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 160,
+		"category": 1,
+		"number": 160,
+		"text": "Kterou z následujících jednotek můžeme použít k vyjádření práce?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "J/S",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kW.hod",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "J.S",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "W.s",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 161,
+		"category": 1,
+		"number": 161,
+		"text": "Jednotku výkonu watt lze pomocí základních jednotek soustavy SI vyjádřit jako",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kg.ma.s-1",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kg.m².s-2",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kg.m?.5-3",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kg.mº.s-2",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 162,
+		"category": 1,
+		"number": 162,
+		"text": "Uvažujte vyjádření jednotek jednotlivých veličin pomocí základních jednote soustavy SI a vyberte správnou kombinaci:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hybnost - kg.m.s-1",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "síla – kg.m-1.s?",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "práce - kg.m².s-1",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "výkon – kg.m?.s-3",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 163,
+		"category": 1,
+		"number": 163,
+		"text": "Uvažujte vyjádření jednotek jednotlivých veličin pomocí základních jednote soustavy SI a vyberte správnou kombinaci:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hybnost - kg.m.s",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "síla – kg.m.s-2",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "práce - kg.m”.5-2",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "výkon – kg.m3.s- - - - .",
+				"correct": false
+			}
+		]
+	}
+]

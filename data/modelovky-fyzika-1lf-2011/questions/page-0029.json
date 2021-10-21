@@ -1,0 +1,258 @@
+[
+	{
+		"id": 186,
+		"category": 1,
+		"number": 186,
+		"text": "Velikost momentu síly F = 10 N vzhledem k ose otáčení kolmé na směr síly působící v kolmé vzdálenosti r= 20 cm je rovna",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,2 N.m",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "2 N.m",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "20 N.m",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "200 N.m",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 187,
+		"category": 1,
+		"number": 187,
+		"text": "Jednotkou momentu síly v soustavě jednotek SI je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "N.m-1",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "N.m.s-1",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "N.m",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "N.m",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 188,
+		"category": 1,
+		"number": 188,
+		"text": "Pomocí základních jednotek soustavy SI můžeme moment síly vyjádři v jednotkách:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kg.m-2.5-2",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kg.m².s-2",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kg.m.s-2",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kg.m².s?",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 189,
+		"category": 1,
+		"number": 189,
+		"text": "Kinetickou energii Ex tuhého tělesa, které se otáčí rovnoměrně s úhlovo rychlostí w kolem nehybné osy lze vyjádřit pomocí momentu setrvačnosti J jako",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Ex = jw2/4",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Ex = JW",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Ex = Jw",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Ex = jw2/2",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 190,
+		"category": 1,
+		"number": 190,
+		"text": "Jednotkou momentu setrvačnosti je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kg.m",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kg.m-1",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kg.m-2",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kg.ma",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 191,
+		"category": 1,
+		"number": 191,
+		"text": "Která z uvedených kombinací fyzikální veličiny a její jednotky vyjádřené pomoc základních jednotek soustavy SI je nesprávná:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "moment síly - kg.m².s-2",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "moment setrvačnosti – kg.m3",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "hybnost – kg.m.s-2",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "moment dvojice sil – kg.m².s-2",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 192,
+		"category": 1,
+		"number": 192,
+		"text": "Která z uvedených kombinací fyzikální veličiny a její jednotky vyjádřené pomoc základních jednotek soustavy SI je správná:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "moment dvojice sil – kg.m².s-2",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hybnost – kg.m.s-2",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "moment setrvačnosti – kg.m?",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "moment síly - kg.m.s-1",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 193,
+		"category": 1,
+		"number": 193,
+		"text": "Pojem tekutiny je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "synonymem pojmu kapaliny",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pojmem označujícím souhrnně kapaliny a plyny",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "synonymem pojmu plyny",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "označením kapalin se zanedbatelnou viskozito -",
+				"correct": false
+			}
+		]
+	}
+]

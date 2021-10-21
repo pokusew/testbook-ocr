@@ -1,0 +1,258 @@
+[
+	{
+		"id": 265,
+		"category": 1,
+		"number": 265,
+		"text": "Změna tíhového zrychlení v závislosti na zeměpisné šířce souvisí",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "s oběhem Země okolo Slunce",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "s rotací Země kolem její osy",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "s tvarem oběžné dráhy Země",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "s vlivem zemského magnetismu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 266,
+		"category": 1,
+		"number": 266,
+		"text": "Jednotkou tíhy tělesa je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "N",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "N.m-2",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "N.m-1",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "N.m",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 267,
+		"category": 1,
+		"number": 267,
+		"text": "Příkladem výsledku silového působení menšího tělesa na větší (Měsíce na Zemi je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "eliptický tvar trajektorie po které Země obíhá Slunce",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "tvar Země (elipsoid namísto koule)",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "sklon zemské osy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mořský příliv a odliv",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 268,
+		"category": 1,
+		"number": 268,
+		"text": "Intenzitu gravitačního pole definujeme jako",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "podíl vektorové a skalární veličiny (vektor lomený skalárem)",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "podíl skalární a vektorové veličiny (skalár lomený vektorem)",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "podíl dvou skalárních veličin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "součin skalární a vektorové veličiny",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 269,
+		"category": 1,
+		"number": 269,
+		"text": "Intenzita gravitačního pole je ve srovnání s gravitační silou",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vektorem téhož druhu a stejného směru",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vektorem jiného druhu a stejného směru",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "skalárem stejně jako gravitační síla",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vektorem jiného druhu a opačného směru",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 270,
+		"category": 1,
+		"number": 270,
+		"text": "Značí-li F, tíhovou sílu a m hmotnost, je velikost intenzity gravitačního pol K rovna",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "K = Fm",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "K= m/F,",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "K = Fg/m",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "K = F,/m²",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 271,
+		"category": 1,
+		"number": 271,
+		"text": "Jednotkou intenzity gravitačního pole je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "N. kg-1",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "N-1 kg",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "N-1, kg-1",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "N. kg-2",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 272,
+		"category": 1,
+		"number": 272,
+		"text": "V základních jednotkách soustavy SI bychom mohli jednotku intenzit gravitačního pole vyjádřit jako",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kg.m.s-1",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kg.m².s-2",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kg.m.s- -2",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "m.s-2",
+				"correct": true
+			}
+		]
+	}
+]

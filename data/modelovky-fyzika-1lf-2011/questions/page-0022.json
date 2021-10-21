@@ -1,0 +1,226 @@
+[
+	{
+		"id": 134,
+		"category": 1,
+		"number": 134,
+		"text": "Značí-li v rychlost a f frekvenci, označte nesprávný vztah pro vyjádření velikost dostředivého zrychlení a, při rovnoměrném pohybu hmotného bodu s úhlovo rychlostí w po kružnici o poloměru r:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ay = v/r",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ad",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ag = wr2",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ag = 477?f?r",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 135,
+		"category": 1,
+		"number": 135,
+		"text": "Značí-li v rychlost a f frekvenci, označte nesprávný vztah pro vyjádření velikost dostředivého zrychlení a, při rovnoměrném pohybu hmotného bodu s úhlovo rychlostí w po kružnici o poloměru r:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "a = var",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ag = wºv",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ag = war",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ag = 2tef - 2nrf; ad =",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 136,
+		"category": 1,
+		"number": 136,
+		"text": "Značí-li frekvenci a T periodu, vyberte dvojici, ve které jsou jak velikost rychlost v tak velikost dostředivého zrychlení a při rovnoměrném pohybu hmotnéh bodu s úhlovou rychlostí w po kružnici o poloměru r vyjádřeny správně:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "y = 2tr/T; ag = v2/r",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v = 4rrf; ag = wv",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v=w/r; ag = wa/r",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v = 2trT; ag = 41 Tºr",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 137,
+		"category": 1,
+		"number": 137,
+		"text": "Značí-li frekvenci a T periodu, vyberte dvojici, ve které jsou jak velikost rychlost v tak velikost dostředivého zrychlení a, při rovnoměrném pohybu hmotnéh bodu s úhlovou rychlostí w po kružnici o poloměru r vyjádřeny správně:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v = wr; ad = - 4ntºr/T?",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v = 2ttrT; a, = 41f?r",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v wy2",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v = 2nr/T; ag = v/ra",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 138,
+		"category": 1,
+		"number": 138,
+		"text": "Značí-li frekvenci a T periodu, vyberte dvojici, ve které jsou jak velikost rychlost v tak velikost dostředivého zrychlení a, při rovnoměrném pohybu hmotnéh bodu s úhlovou rychlostí w po kružnici o poloměru r vyjádřeny správně:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v = 2tr/T; a= v/r",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v = 2tarf; ag = wv",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v=w/r; ag = w?/r",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v = wr; ag = 41?r?/T",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 139,
+		"category": 1,
+		"number": 139,
+		"text": "Hmotný bod setrvává v pohybu rovnoměrně přímočarém",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nepůsobí-li na něj v průběhu pohybu žádná síla",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "působí-li na něj v průběhu pohybu stálá síla ve směru pohybu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "působí-li na něj v průběhu pohybu stálá síla proti směru pohybu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "působí-li na něj v průběhu pohybu rovnoměrně proměnná síla",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 140,
+		"category": 1,
+		"number": 140,
+		"text": "Vztah pro mechanickou práci W = Fs (kde F je síla a s posunutí) platí",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "obecně",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mají-li síla a posunutí stejný směr",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je-li směr síly kolmý na směr posunutí",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "neplatí vůbe =",
+				"correct": false
+			}
+		]
+	}
+]

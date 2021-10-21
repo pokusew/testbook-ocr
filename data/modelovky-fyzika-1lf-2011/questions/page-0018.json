@@ -1,0 +1,258 @@
+[
+	{
+		"id": 103,
+		"category": 1,
+		"number": 103,
+		"text": "Jednotku síly (1 N) můžeme pomocí základních jednotek soustavy SI vyjádřit jako",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kg.m.s",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kg.m.s-1",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kg.m-15-2",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kg.m.s-2",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 104,
+		"category": 1,
+		"number": 104,
+		"text": "Značí-li a zrychlení a m hmotnost, lze velikost síly F působící na těleso vyjádři jako",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "F= m/a",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "F= a/m",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "F = ma",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "F = ma?",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 105,
+		"category": 1,
+		"number": 105,
+		"text": "Značí-li g gravitační zrychlení a m hmotnost, lze velikost tíhové síly G vyjádři jako",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "G = mg",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "G= m/g",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "G=g/m",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "G = mg?",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 106,
+		"category": 1,
+		"number": 106,
+		"text": "Těleso se pohybuje rovnoměrným pohybem po kružnici proto, že",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "na něj nepůsobí žádná síla",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "na něj působí odstředivá síla",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "na něj působí dostředivá síla",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "na něj působí stálá síla ve směru tečny ke kruhové dráze",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 107,
+		"category": 1,
+		"number": 107,
+		"text": "Velikost dostředivé síly Fa při rovnoměrném pohybu tělesa o hmotnosti m p kružnici o poloměru r s úhlovou rychlostí w, můžeme vyjádřit jako:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "F_d = m(a_4)^2",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "F_d = mv^2/r",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "F_d = mwv",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "F_d = 4pi^2mr/T^2",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 108,
+		"category": 1,
+		"number": 108,
+		"text": "Velikost dostředivé síly Fa při rovnoměrném pohybu tělesa o hmotnosti m p kružnici o poloměru rs úhlovou rychlostí w, můžeme vyjádřit jako:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Fa= mvr",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Fa",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Fa = mw/r",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "F, = 41?mr/T2",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 109,
+		"category": 1,
+		"number": 109,
+		"text": "Který z uvedených vztahů pro velikost dostředivé síly Fa při rovnoměrné pohybu tělesa o hmotnosti m po kružnici o poloměru r s úhlovou rychlostí w j nesprávný?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "= mων2",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Fa= mw?r",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "F_d = 4nºrm/T?",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "F_d =",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 110,
+		"category": 1,
+		"number": 110,
+		"text": "Značí-li f frekvenci, T periodu a v rychlost, který z uvedených vztahů pr rovnoměrný pohyb hmotného bodu s úhlovou rychlostí w po kružnic o poloměru r je správný?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "f=1/T",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v= 2πη/T",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "w=",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "x",
+				"correct": false
+			}
+		]
+	}
+]

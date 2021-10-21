@@ -31,8 +31,8 @@ A) F = ps
 b) F=p/S
 c) F = S/p
 d) F= ps2
-216. Je-li p1 hustota tělesa plovoucího na hladině kapaliny, p hustota kapaliny
-a V celkový objem tělesa, bude objem V' části tělesa ponořené do kapaliny určen
+216. Je-li p1 hustota tělesa plovoucího na hladině kapaliny, p hustota kapaliny a
+V celkový objem tělesa, bude objem V' části tělesa ponořené do kapaliny určen
 vztahem
 a) V' = P1/PV
 b) V' = p/p1V

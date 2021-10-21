@@ -22,10 +22,10 @@ C) na něj působí dostředivá síla
 d) na něj působí stálá síla ve směru tečny ke kruhové dráze
 107. Velikost dostředivé síly Fa při rovnoměrném pohybu tělesa o hmotnosti m po
 kružnici o poloměru r s úhlovou rychlostí w, můžeme vyjádřit jako:
-a) Fa = m(a)?
-B) Fa = mv2/r
-mwv
-= 417?f?r
+a) F_d = m(a_4)^2
+B) F_d = mv^2/r
+C) F_d = mwv
+d) F_d = 4pi^2mr/T^2
 108. Velikost dostředivé síly Fa při rovnoměrném pohybu tělesa o hmotnosti m po
 kružnici o poloměru rs úhlovou rychlostí w, můžeme vyjádřit jako:
 a) Fa= mvr
@@ -35,31 +35,14 @@ D) F, = 41?mr/T2
 109. Který z uvedených vztahů pro velikost dostředivé síly Fa při rovnoměrném
 pohybu tělesa o hmotnosti m po kružnici o poloměru r s úhlovou rychlostí w je
 nesprávný?
-= mων2
+A) = mων2
 b) Fa= mw?r
-c) F, = 4nºrm/T?
-d
-=
-d
-C) Fd
-d) Fd
-= mwv
-d
-=
-d
-=
-d
-A) Fa
-d
-D) Fd
-d
-= mwr
+c) F_d = 4nºrm/T?
+D) F_d =
 110. Značí-li f frekvenci, T periodu a v rychlost, který z uvedených vztahů pro
 rovnoměrný pohyb hmotného bodu s úhlovou rychlostí w po kružnici
 o poloměru r je správný?
 A) f=1/T
 B) v= 2πη/T
 C) w=
-= 21/T
-d) y =
-v=wr
+d) x

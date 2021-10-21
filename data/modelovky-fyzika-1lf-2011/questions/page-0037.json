@@ -1,0 +1,258 @@
+[
+	{
+		"id": 250,
+		"category": 1,
+		"number": 250,
+		"text": "V základních jednotkách soustavy SI můžeme jednotku tihy vyjádřit jako",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kg.m.s",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kg.m.s-1",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kg.m-2.s",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kg.m.s-2",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 251,
+		"category": 1,
+		"number": 251,
+		"text": "V naší zeměpisné šířce je tíhové zrychlení",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "větší než na rovníku a menší než na pólech",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "větší než na pólech a menší než na rovníku",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "větší než na pólech i rovníku",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "menší než na pólech i rovníku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 252,
+		"category": 1,
+		"number": 252,
+		"text": "Normální tíhové zrychlení je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "tíhové zrychlení v naší zeměpisné šířce",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dohodnutá konstanta",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "tíhové zrychlení na pólech",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "tíhové zrychlení na rovníku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 253,
+		"category": 1,
+		"number": 253,
+		"text": "Značí-li K intenzitu gravitačního pole pak gravitační potenciální energii E, těles o hmotnosti m ve výšce h nad zemí vyjádříme jako",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "E. = mKh/2",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Ep = mKh?",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Ep = mKh/2",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "E = mKh",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 254,
+		"category": 1,
+		"number": 254,
+		"text": "Uvažujte intenzitu gravitačního pole 10 N/kg a zanedbejte odpor vzduchu. Jako kinetickou energii při dopadu bude mít jablko o hmotnosti 200 g, které spadl z výšky 8 m?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "4J",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "8 )",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "16 )",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "80 )",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 255,
+		"category": 1,
+		"number": 255,
+		"text": "Označte pravdivé tvrzení",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "u tělesa ležícího na pevné podložce se jeho tíha nemůže nijak projevovat",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "práce vykonaná gravitační silou mezi dvěma určitými body nezávisí na trajektorii",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "práce vykonaná gravitační silou mezi dvěma určitými body závisí na tom, v jaké výši n zemí je těleso ve výchozí a konečné poloze",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "gravitační potenciální energie je skalární veličina",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 256,
+		"category": 1,
+		"number": 256,
+		"text": "Jak se změní gravitační síla, kterou se přitahují dva hmotné body, zmenší-li s jejich vzdálenost na 1/4 původní vzdálenosti?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zvětší se 4krát",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zvětší se 8krát",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zvětší se 12krát",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zvětší se 16krát",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 257,
+		"category": 1,
+		"number": 257,
+		"text": "Jak se změní gravitační síla, kterou se přitahují dva hmotné body, zvětší-li s jejich vzdálenost na desetinásobek původní vzdálenosti?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zmenší se 10krát",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zmenší se 100krát",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zmenší se 1000krát",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zvětší se 10krát",
+				"correct": false
+			}
+		]
+	}
+]

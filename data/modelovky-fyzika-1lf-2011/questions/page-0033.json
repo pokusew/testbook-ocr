@@ -1,0 +1,258 @@
+[
+	{
+		"id": 219,
+		"category": 1,
+		"number": 219,
+		"text": "Velikost vztlakové síly působící na úplně ponořené těleso závisí na",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hustotě tělesa a kapaliny",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "objemu tělesa, hustotě tělesa a hustotě kapaliny",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "objemu a hustotě tělesa",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "objemu tělesa a hustotě kapaliny",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 220,
+		"category": 1,
+		"number": 220,
+		"text": "Jak velká vztlaková síla bude zhruba působit na ocelové těleso o objemu 1 dm ponořené do vody?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "10 N",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "IN",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1 kN",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nelze vypočítat bez údaje o hustotě oceli",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 221,
+		"category": 1,
+		"number": 221,
+		"text": "Dvě válcové nádoby s plochou dna 1 a 2 dm² jsou naplněny vodou do stejné výšky Vyberte správné tvrzení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "tlakové síly působící na dna obou nádob jsou stejné",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hydrostatický tlak u dna obou nádob je stejný",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "tlaková síla na dno větší nádoby je poloviční než tlaková síla působící na menší dno",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "tlaková síla na dno větší nádoby je dvojnásobek tlakové síly působící na dno menš nádoby",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 222,
+		"category": 1,
+		"number": 222,
+		"text": "Tlaková síla působící na dno válcové nádoby o ploše 1 dm², naplněné vodou d výšky 20 cm, činí přibližně",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,2 N",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "2 N",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "20 N",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "200N",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 223,
+		"category": 1,
+		"number": 223,
+		"text": "Píst vytlačil při stálém tlaku 0,5 kPa z trubky 10 litrů vody. Jaká práce byl vykonána?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,5 J",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "5)",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "50 )",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "0,5 k)",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 224,
+		"category": 1,
+		"number": 224,
+		"text": "Píst tlačil při stálém tlaku 0,2 kPa z trubky vodu a vykonal práci 20 J. Jaký obje vody vytlačil?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "501",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1001",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1501",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "2001",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 225,
+		"category": 1,
+		"number": 225,
+		"text": "Práce W vykonaná působením tlaku p = 40 kPa kapaliny na píst o ploše 2000 c který se posunul o 50 cm, je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "W = 400)",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "W = 4 kJ",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "W = 40 kj",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "W = 800)",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 226,
+		"category": 1,
+		"number": 226,
+		"text": "Ze vztahu mezi prací vykonanou účinkem tlaku kapaliny a tímto tlakem můžem jednotku tlaku Pa vyjádřit jako",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "J.m-3",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "J.m3",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "J.m-2",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "J.m?",
+				"correct": false
+			}
+		]
+	}
+]

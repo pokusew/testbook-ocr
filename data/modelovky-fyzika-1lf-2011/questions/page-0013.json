@@ -1,0 +1,258 @@
+[
+	{
+		"id": 63,
+		"category": 1,
+		"number": 63,
+		"text": "Značí-li s dráhu, v rychlost, t čas a g gravitační zrychlení, pak velikost rychlost volného pádu v závislosti na čase vyjádříme jako",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "V- s/t",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "V- gt",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v= gt",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v v=gt²/2",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 64,
+		"category": 1,
+		"number": 64,
+		"text": "Značí-li s dráhu, v rychlost, t čas a g gravitační zrychlení, pak dráhu volného pád v závislosti na čase vyjádříme jako",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "s= vt",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "s = gt",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "s = gt",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "s = gt²/2",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 65,
+		"category": 1,
+		"number": 65,
+		"text": "Podle druhu trajektorie můžeme pohyby dělit na:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "přímočaré a křivočaré",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "přímočaré a kruhové",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "translační, vibrační a rotační",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "rovnoměrné a nerovnoměrné",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 66,
+		"category": 1,
+		"number": 66,
+		"text": "Grafickým znázorněním závislosti velikosti rychlosti na čase v pravoúhlýc souřadnicích je v případě pohybu rovnoměrně zrychleného",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "přímka, jejíž směrnice se nerovná nule",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "přímka rovnoběžná s vodorovnou osou",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "parabola",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "přímka, jejíž směrnice má hodnotu zrychlení",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 67,
+		"category": 1,
+		"number": 67,
+		"text": "Grafickým znázorněním závislosti velikosti zrychlení na čase v pravoúhlýc souřadnicích je v případě pohybu rovnoměrně zrychleného",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "přímka s nenulovou směrnicí",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "přímka s nulovou směrnicí",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "hyperbola",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "parabola",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 68,
+		"category": 1,
+		"number": 68,
+		"text": "Grafickým znázorněním závislosti dráhy na čase v pravoúhlých souřadnicích j v případě pohybu rovnoměrně zrychleného",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "přímka s nenulovým úsekem na svislé ose",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "parabola",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "přímka procházející počátkem",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "hyperbola",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 69,
+		"category": 1,
+		"number": 69,
+		"text": "V pravoúhlých souřadnicích je rychlost rovnoměrného přímočarého pohyb v závislosti na čase znázorněna jako",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "přímka procházející počátkem",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "přímka neprocházející počátkem s určitou kladnou hodnotou směrnice",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "přímka neprocházející počátkem s určitou zápornou hodnotou směrnice",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "přímka rovnoběžná s vodorovnou osou",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 70,
+		"category": 1,
+		"number": 70,
+		"text": "V pravoúhlých souřadnicích je dráha rovnoměrného přímočarého pohyb v závislosti na čase znázorněna jako",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "parabola",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "přímka",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "hyperbola",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jiná křivka než udávají předchozí odpovědi",
+				"correct": false
+			}
+		]
+	}
+]

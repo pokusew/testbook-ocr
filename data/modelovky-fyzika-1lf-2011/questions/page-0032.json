@@ -1,0 +1,258 @@
+[
+	{
+		"id": 211,
+		"category": 1,
+		"number": 211,
+		"text": "Hustota rtuti je zhruba 13 600 kg.m-3. Tuto hodnotu můžeme převést na",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1,36 g. cm",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "136 g. cm",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "13,6 g. cm",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "0,136 g. cm",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 212,
+		"category": 1,
+		"number": 212,
+		"text": "Velikost tlaku v kapalině u dna nádoby závisí na",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "její hustotě a výšce kapaliny",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "její hmotnosti",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "její hmotnosti a plošném obsahu dna",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jejím objemu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 213,
+		"category": 1,
+		"number": 213,
+		"text": "Mějme dvě nádoby se stejnou podstavou, jednu válcovou, druhou kuželovitě s zužující, obě naplněné stejnou kapalinou do stejné výše. Zvolte správné tvrzení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v obou nádobách bude u dna stejný tlak a nestejná tlaková síla",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v obou nádobách bude stejný jak tlak u dna tak tlaková síla působící na dno",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v obou nádobách bude stejný tlak u dna avšak tlaková síla působící na dno kuželov nádoby je větší",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ve válcové nádobě bude větší jak tlak u dna tak tlaková síla působící na dno",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 214,
+		"category": 1,
+		"number": 214,
+		"text": "Je-li F kolmá tlaková síla na plochu S, potom tlak p v kapalině je určen vztahem",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "p = FS",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "p = FS2",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "p = F/S2",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "p = F/S",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 215,
+		"category": 1,
+		"number": 215,
+		"text": "Označíme-li tlak p, potom kolmou tlakovou sílu F působící v kapalině n libovolně orientovanou plochu S vyjádříme vztahem",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "F = ps",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "F=p/S",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "F = S/p",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "F= ps2",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 216,
+		"category": 1,
+		"number": 216,
+		"text": "Je-li p1 hustota tělesa plovoucího na hladině kapaliny, p hustota kapaliny V celkový objem tělesa, bude objem V' části tělesa ponořené do kapaliny urče vztahem",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "V' = P1/PV",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "V' = p/p1V",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "V' = Vp1/p",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "V' = Vp/p1",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 217,
+		"category": 1,
+		"number": 217,
+		"text": "Je-li hustota ledu 917 kg.m-3 a hustota mořské vody 1030 kg.m-3 činí podí objemu ledovce nad hladinou z celkového objemu ledovce přibližně",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "30 %",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "5%",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "50 %",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "11 %",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 218,
+		"category": 1,
+		"number": 218,
+		"text": "Jaká část objemu homogenního tělesa o hustotě 10,2 g.cm-se ponoří do rtut o hustotě 13,6 g.cm-3 ?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "55 %",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "65 %",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "75 %",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "85 a",
+				"correct": false
+			}
+		]
+	}
+]

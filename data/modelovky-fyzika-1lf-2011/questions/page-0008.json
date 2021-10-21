@@ -1,0 +1,290 @@
+[
+	{
+		"id": 19,
+		"category": 1,
+		"number": 19,
+		"text": "Která z uvedených jednotek není jednotkou odvozenou?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "rad",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "]",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "min",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mol",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 20,
+		"category": 1,
+		"number": 20,
+		"text": "Která z uvedených jednotek je jednotkou odvozenou?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "min",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "sr",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Pa",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "km",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 21,
+		"category": 1,
+		"number": 21,
+		"text": "Která z uvedených veličin je vektorem?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "tlak",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "tlaková síla",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "hydrostatický tlak",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "tlak v plynu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 22,
+		"category": 1,
+		"number": 22,
+		"text": "Která z uvedených veličin je skalárem?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "tlaková síla",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vztlaková síla",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "hydrostatický tlak",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "hustota",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 23,
+		"category": 1,
+		"number": 23,
+		"text": "Které z uvedených tvrzení je pravdivé?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hybnost je skalár",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "velikost rychlosti je vektor",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "posunutí je vektor",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "velikost dráhy je vektor",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 24,
+		"category": 1,
+		"number": 24,
+		"text": "Která z uvedených veličin je vektorem?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hmotnost",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hybnost",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kinetická energie",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "tlak",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 25,
+		"category": 1,
+		"number": 25,
+		"text": "Která z uvedených veličin je skalárem?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hustota",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "elektrický potenciál",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "čas",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "posunutí",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 26,
+		"category": 1,
+		"number": 26,
+		"text": "Která z uvedených veličin je skalárem?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "frekvence",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dostředivá síla",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "velikost rychlosti",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "gravitační zrychlení",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 27,
+		"category": 1,
+		"number": 27,
+		"text": "Předpona atto- (a) před značkou jednotky značí",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "10-15",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "10-12",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "10-9",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "10-18",
+				"correct": true
+			}
+		]
+	}
+]

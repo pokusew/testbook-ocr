@@ -1,0 +1,258 @@
+[
+	{
+		"id": 242,
+		"category": 1,
+		"number": 242,
+		"text": "S kolmé skály vysoké 20 m padá vodopád. Rychlost toku vody než začne padat j 3 m/s. Jak daleko od úpatí skály voda dopadá? Použijte g = 10 m.s-2.",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "2 m",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "3 m",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "5 m",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "6 m",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 243,
+		"category": 1,
+		"number": 243,
+		"text": "Velikost rychlosti výtoku reálné kapaliny otvorem ve stěně je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "menší než u ideální kapaliny",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "větší než u ideální kapaliny",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "stejná jako u ideální kapaliny",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "menší či větší než u ideální kapaliny v závislosti na jejích chemických vlastnostech",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 244,
+		"category": 1,
+		"number": 244,
+		"text": "Dva hmotné body se navzájem přitahují",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "různě velkými silami téhož směru",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "tak, že každý bod působí silou úměrnou své hmotnosti",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "stejně velkými silami opačného směru",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "různě velkými silami opačného směru",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 245,
+		"category": 1,
+		"number": 245,
+		"text": "Uvažujte působení gravitačních sil mezi menším tělesem A a nesrovnateln větším tělesem B. Platí, že",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "těleso A působí na těleso B stejnou silou, jakou působí těleso B na těleso A",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "síla, kterou působí těleso A na těleso B je zanedbatelná",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "síla, kterou působí těleso A na těleso B je nulová",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pohybový účinek síly, kterou působí těleso B na těleso A je stejný jako pohybový účine síly, kterou působí těleso A na těleso B",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 246,
+		"category": 1,
+		"number": 246,
+		"text": "Značí-li k gravitační konstantu, je velikost gravitační síly F, působící mezi dvěm hmotnými body o hmotnostech mi a m2 ve vzdálenosti r dána vztahem",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "F = km1m2/r",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "F, = km m2/r2",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "F km mer",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Kmm2r2",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 247,
+		"category": 1,
+		"number": 247,
+		"text": "Jednotkou gravitační konstanty je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "N.m. kg-1",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "N.m². kg?",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "N. kg?.m-2",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "N.m². kg-2",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 248,
+		"category": 1,
+		"number": 248,
+		"text": "Pomocí základních jednotek soustavy SI bychom mohli jednotku gravitačn konstanty vyjádřit jako",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kg-1.m3.s-2",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kg-2.m3.s-2",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kg-1.m?.s-2",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kg-1.mºs-1",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 249,
+		"category": 1,
+		"number": 249,
+		"text": "Jednotkou tíhového zrychlení je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "N.s",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "m.s-1",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "m.s-2",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kg.m.s- d) F - 3",
+				"correct": false
+			}
+		]
+	}
+]

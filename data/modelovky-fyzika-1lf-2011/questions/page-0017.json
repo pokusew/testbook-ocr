@@ -1,0 +1,258 @@
+[
+	{
+		"id": 95,
+		"category": 1,
+		"number": 95,
+		"text": "Při volném pádu ve vzduchu trvajícím 4 s dosáhlo těleso hybnosti 60 kg.m.s- Odpor vzduchu zanedbejte a uvažujte tíhové zrychlení 10 m.s-2 Jaká je jeh hmotnost?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,75 kg",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1,5 kg",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "3 kg",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "4,5 kg",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 96,
+		"category": 1,
+		"number": 96,
+		"text": "Jak velký impuls síly uvedl do pohybu rychlostí 2 m/s původně nehybné těles o hmotnosti 30 kg?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "20 N.s",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "40 N.s",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "60 N.s",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "80 N.S",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 97,
+		"category": 1,
+		"number": 97,
+		"text": "Při volném pádu ve vzduchu trvajícím 2 s dosáhlo těleso hybnosti 200 kg.m.s-1 Odpor vzduchu zanedbejte a uvažujte tíhové zrychlení 10 m.s-2 Jaká je jeh hmotnost?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1 kg",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "10 kg",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "20 kg",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "100 kg",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 98,
+		"category": 1,
+		"number": 98,
+		"text": "Jednotkou hybnosti je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kg.m.s",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kg.m.s-1",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kg.m-1.5",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kg-1.m.s",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 99,
+		"category": 1,
+		"number": 99,
+		"text": "Jakou energii přibližně dodal setrvačník s momentem setrvačnosti 50 kg.m jehož počet otáček klesl z původních 840 ot/min na 420 ot/min?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "70 )",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "145 )",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "70 kJ",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "145 kJ",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 100,
+		"category": 1,
+		"number": 100,
+		"text": "Míček o hmotnosti 20 g byl odpálen raketou s rychlostí 108 km/hod. Náraz raket trval 0,05 s. Jaká byla síla nárazu rakety?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "6N",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "12 N",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "18 N",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "120 N",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 101,
+		"category": 1,
+		"number": 101,
+		"text": "Těleso o hmotnosti 100 g původně v klidu bylo urychleno na rychlost 108 km/hod Jak velký byl impuls síly?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "2 N.s",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "3 N.s",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "4 N.s",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "5 N.s",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 102,
+		"category": 1,
+		"number": 102,
+		"text": "Velikost síly působící na těleso můžeme vyjádřit jako",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "F = m/a",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Fra/m",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "F = ma",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "F= ma?",
+				"correct": false
+			}
+		]
+	}
+]

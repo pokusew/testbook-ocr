@@ -1,0 +1,258 @@
+[
+	{
+		"id": 281,
+		"category": 1,
+		"number": 281,
+		"text": "Nalezněte správné tvrzení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zemské gravitační zrychlení je nezávislé na nadmořské výšce",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "gravitační potenciál je skalární veličina",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "gravitační potenciál a gravitační zrychlení jsou vektory různého směru",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "gravitační zrychlení a gravitační potenciál mají různé jednotky",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 282,
+		"category": 1,
+		"number": 282,
+		"text": "Za prakticky homogenní gravitační pole můžeme považovat",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "gravitační pole Země jako celek",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "radiální gravitační pole",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pole v malé části prostoru velkého gravitačního pole, kde jsou v každém bodě intenzit gravitačního pole stejné co do směru i velikosti",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "gravitační pole mezi dvěma stejně velkými tělesy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 283,
+		"category": 1,
+		"number": 283,
+		"text": "Poloměr Země je 6400 km. Ve výšce 12800 km bude velikost gravitačníh zrychlení",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dvakrát menší než na povrchu Země",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "čtyřikrát menší než na povrchu Země",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "třikrát menší než na povrchu Země",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "devětkrát menší než na povrchu Země",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 284,
+		"category": 1,
+		"number": 284,
+		"text": "Poloměr Země je 6400 km. Ve vzdálenosti 32000 km bude velikost intenzit gravitačního pole ve srovnání s hodnotou na povrchu Země menší",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "36krát",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "6krát",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "25krát",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "5krát",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 285,
+		"category": 1,
+		"number": 285,
+		"text": "Jaká je hodnota gravitační potenciální energie tělesa o hmotnosti 10 kg ve výšc 50 m, předpokládáme-li homogenní gravitační pole o intenzitě 9,80 N. kg-??",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "490 )",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "4,9 kJ",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "9,8 kJ",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "19,6 k)",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 286,
+		"category": 1,
+		"number": 286,
+		"text": "Značí-li E, potenciální energii, m hmotnost, h výšku a g gravitační zrychlení, pa gravitační potenciál , v daném bodě je definován jako",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,= Em",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,= Eq/mg",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "0 = Eg/m",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "0g = Ep/mh",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 287,
+		"category": 1,
+		"number": 287,
+		"text": "Jednotkou gravitačního potenciálu je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "J. kg-1",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "J. kg",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "J.m",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "J.m-1",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 288,
+		"category": 1,
+		"number": 288,
+		"text": "Vyjádříme-li jednotku gravitačního potenciálu pomocí základních jednote soustavy SI, obdržíme",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kg.m.s",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "m?s-2",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "m-as-2",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "m-2.s g",
+				"correct": false
+			}
+		]
+	}
+]

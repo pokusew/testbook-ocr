@@ -34,14 +34,11 @@ a) 13,1 cm
 B) 14,1 cm
 c) 15,1 cm
 d) 16,1 cm
-2
-2
-.
 61. Dvě posunutí opačného směru mají velikost 8 cm a 12 cm. Velikost výsledného
 posunutí je:
 a) -4 cm
 b) 12 cm
-C). 4 cm
+C) 4 cm
 d) 6 cm
 62. Značí-li s dráhu, v rychlost a t čas, pak pro rovnoměrný přímočarý pohyb platí:
 A) t=s/v
