@@ -52,12 +52,12 @@ const run = async (ocrOutputDir: string, pagesDir: string) => {
 			}
 
 			if (!isDefined(text)) {
-				throw new Error(`${file}: responses[${i}].fullTextAnnotation.text is undefined`);
+				console.log(`  > an empty page ${pageNumber} in detected (${file}: responses[${i}].fullTextAnnotation.text is undefined)`);
 			}
 
 			const outputFile = getPageFileName(pageNumber);
 
-			await fs.writeFile(outputFile, text);
+			await fs.writeFile(outputFile, text ?? '');
 
 			console.log(`  > written ${outputFile}`);
 
