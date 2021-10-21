@@ -1,0 +1,44 @@
+6
+520. Teplo přijaté plynem při izotermickém ději
+a) je menší než práce, kterou plyn v průběhu tohoto děje vykoná
+B) se rovná práci vykonané plynem v průběhu děje
+c) je větší než práce, kterou plyn v průběhu děje vykoná
+d) žádná z nabídnutých odpovědí není správná
+521. Pro měrné tepelné kapacity plynu při stálém tlaku c, a při stálém objemu cy platí
+a) C <
+<cy
+b) Cp = Cv
+c) Co«Cy
+D) Cp> Cv
+522. Adiabata má
+a) povlovnější průběh než izoterma
+b) stejně strmý průběh jako izoterma
+C) strmější průběh než izoterma
+d) povlovnější či strmější průběh v závislosti na druhu plynu
+523. Změna vnitřní energie ideálního plynu je nulová při
+A) izotermickém ději
+b) izochorickém ději
+c) izobarickém ději
+d) adiabatickém ději
+524. Práce vykonaná ideálním plynem je nulová při
+a) izotermickém ději
+B) izochorickém ději
+c) izobarickém ději
+d) adiabatickém ději
+525. Teplo dodane ideálnímu plynu je nulové při
+a) izotermickém ději
+b) izochorickém ději
+c) izobarickém ději
+D) adiabatickém ději
+526. Vyberte nesprávné tvrzení: označíme-li měrné tepelné kapacity plynu při stálém
+tlaku c, a při stálém objemu Cy, je Poissonova konstanta
+A) dána poměrem c/cp
+B) menší než 1
+c) větší než 1
+D) menší než 0
+527. Vyberte správné tvrzení: označíme-li měrné tepelné kapacity plynu při stálém
+tlaku ce a při stálém objemu Cy je Poissonova konstanta
+a) dána poměrem cy/Cp
+B) větší než 1
+C) dána poměrem c/Cv
+D) exponentem ve vztahu pro závislost mezi tlakem a objemem při adiabatickém ději

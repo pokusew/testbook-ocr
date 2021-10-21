@@ -1,0 +1,48 @@
+0
+995. Značí-li L indukčnost a C kapacitu, je perioda T vlastních kmitů oscilačního
+obvodu se zanedbatelným tlumením dána vztahem
+A) T = 270V(LC)
+b) T = 1/(21/(LC))
+c) T = LC/(21)
+d) T = V(LC)/(2T)
+996. Perioda vlastních kmitů oscilačního obvodu tvořeného cívkou o indukčnosti
+10 mH a kondenzátorem o kapacitě 900 uF se zanedbatelným tlumením je
+přibližně
+a) 4,9 ms
+b) 9,8 ms
+C) 18,8 ms
+d) 37,2 ms
+997. V obvodu obvodu s RLC v sérii platí, že při frekvenci 50 Hz je 9 X = Xc Jaká musí
+být frekvence, aby nastala rezonance?
+a) 50 Hz
+b) 100 Hz
+C) 150 Hz
+d) 200 Hz
+998. Do obvodu střídavého proudu o frekvenci 50 Hz je zařazena cívka o indukčnosti
+100 mH. Jaká musí přibližně být kapacita kondenzátoru připojeného do obvodu,
+aby nastala rezonance?
+a) 1 uF
+b) 10 uF
+C) 100 uF
+d) 1 mF
+999. Oscilační obvod je tvořen cívkou o indukčnosti 10 mH a kondenzátorem
+o kapacitě 2 uF. O kolik procent se změní frekvence, jestliže do obvodu seriově
+zapojíme další cívku o indukčnosti 30 mH?
+a) vzroste o 25 %
+b) vzroste o 50 %
+c) zmenší se o 25 %
+D) zmenší se o 50 %
+1000. Oscilační obvod je tvořen cívkou o indukčnosti 100 mH a kondenzátorem
+o kapacitě 2 uF. O kolik procent se změní frekvence, jestliže ke kondenzátoru
+paralelně připojíme ještě jeden o kapacitě 6 uF?
+a) vzroste o 25 %
+b) vzroste o 50 %
+c) zmenší se o 25 %
+D) zmenší se o 50 %
+1001. Které tvrzení je nesprávné? Frekvence oscilačního obvodu, do jehož cívky
+vsuneme jádro z měkké oceli, se
+A) silně zvětší
+B) nepatrně zvětší
+c) zmenší
+D) nezmění
+O

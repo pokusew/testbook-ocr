@@ -1,0 +1,53 @@
+10
+10
+1059. Intenzita zvuku s rostoucí vzdálenosti od zdroje klesá
+A) s druhou mocninou vzdálenosti
+b) s druhou odmocninou vzdálenosti
+c) s třetí mocninou vzdálenosti
+d) lineárně
+1060. Rozsah slyšitelnosti zdravého ucha je přibližně
+a) 60 dB
+b) 80 dB
+c) 100 dB
+D) 120 dB
+1061. Prahu bolesti odpovídá přibližně intenzita zvuku
+a) 10-3 W.m-2
+b) 10-2 W.m-2
+c) 10-1 W.m-2
+D) 1 W.m-2
+10
+1
+10
+10
+1062. Rychlost zvuku ve vzduchu závisí nejvíce na
+a) vlhkosti vzduchu
+b) znečištění vzduchu
+C teplotě vzduchu
+d) barometrickém tlaku
+1063. Číselná hodnota rychlosti šíření zvuku ve vakuu je
+a) 331,5 m/s
+B) 0 m/s
+c) 108 m/s
+d) 16 km/s
+1064. Decibel (dB) je jednotka
+A) hladiny intenzity zvuku
+b) intenzity zvuku
+c) akustického výkonu
+d) akustického tlaku
+1065. Infrazvuk je zvuk
+a) s rychlostí šíření ve vzduchu menší než 331,5 m/s
+b) s frekvencí vyšší než 16 kHz
+C) s frekvencí nižší než 16 Hz
+d) který se šíří vakuem
+1066. Rychlost šíření zvuku v kapalinách je
+A) větší než ve vzduchu
+b) menší než ve vzduchu
+C) menší než v pevných látkách
+d) stejná jako ve vzduchu
+1067. Jednoslabičná ozvěna nastává při vzdálenosti překážky přibližně
+a) 7 m
+B) 17 m
+c) 27 m
+d) 70 m
+1
+1

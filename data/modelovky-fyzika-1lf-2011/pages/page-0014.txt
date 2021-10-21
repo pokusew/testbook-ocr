@@ -1,0 +1,46 @@
+71. Při znázornění závislosti dráhy pohybu rovnoměrného přímočarého na čase
+v pravoúhlých souřadnicích má velikost rychlosti význam
+a) úseku přímky na svislé ose
+b) úseku přímky na vodorovné ose
+C) směrnice
+d) vzdálenosti mezi vodorovnou osou a přímkou, která je s ní rovnoběžná
+72. V kinematice hmotného bodu v pravoúhlých souřadnicích v závislosti na čase je
+parabola znázorněním této veličiny:
+a) velikosti zrychlení rovnoměrně zrychleného pohybu
+b) velikosti rychlosti rovnoměrně zrychleného pohybu
+C) dráhy rovnoměrně zrychleného pohybu
+d) velikosti rychlosti rovnoměrně zpomaleného pohybu
+73. Při pohybu rovnoměrném přímočarém je velikost rychlosti:
+a) rovnoměrně rostoucí s rostoucím časem
+b) rovnoměrně rostoucí s rostoucí dráhou
+c) rovnoměrně klesající s rostoucí dráhou
+D) konstantní
+74. Které z uvedených tvrzení není pravdivé?
+A) velikost okamžité rychlosti v každém bodu dráhy při nerovnoměrném pohybu se rovná
+průměrné rychlosti
+b) průměrná rychlost přímočarého rovnoměrného pohybu je rovna velikosti okamžité
+rychlosti v každém bodu dráhy
+C) okamžité rychlosti přímočarého pohybu rovnoměrného mají v různých bodech stejný
+směr ale různou velikost
+D) okamžité rychlosti přímočarého pohybu rovnoměrného mají v různých bodech dráhy
+stejnou velikost ale různý směr
+75. Uvažujte pohyb rovnoměrný přímočarý; vyberte, které tvrzení je nesprávné:
+a) okamžitá rychlost je vektorová veličina
+B) vektor rychlosti má směr kolmý na vektor posunutí
+c) velikost okamžité rychlosti v každém čase je rovna velikosti rychlosti daného pohybu
+D) okamžitá rychlost je určena pouze svou velikostí
+76. Při rovnoměrném pohybu přímočarém je možno posunutí vyjádřit jako
+a) součin dvou vektorových veličin
+B) součin jedné skalární a jedné vektorové veličiny
+c) součin dvou skalárních veličin
+d) součin velikostí dvou vektorových veličin
+77. Jednotkou zrychlení v soustavě SI je
+a) m.s-1
+b) m.s
+C) m.s-2
+d) m.s?
+78. Zrychlení rovnoměrně zrychleného přímočarého pohybu můžeme vyjádřit jako
+a) součin skalární a vektorové veličiny
+b) součin dvou vektorových veličin
+c) podíl mezi skalární a vektorovou veličinou (skalár lomený vektorem)
+D) podíl mezi vektorovou a skalární veličinou (vektor lomený skalárem)

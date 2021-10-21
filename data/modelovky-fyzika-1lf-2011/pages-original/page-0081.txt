@@ -1,0 +1,44 @@
+581. Síla, kterou je držena kapka kapaliny s povrchovým napětím o u ústí kapiláry
+o poloměru r těsně před svým odpadnutím, je rovna
+A) 2nro
+b) Trºo
+c) /2tr
+d) c/TTrẻ
+Trº/mg
+582. Z hmotnosti m kapky, která odpadla působením vlastní tíhy od ústí kapiláry
+s poloměrem r (gje gravitační zrychlení) lze vypočítat povrchové napětí jako
+a) 27tr/mg
+B) mg/2nr
+c) nr
+d) mg/Trở
+583. Povrchové napětí vody je 0,073 N.m-1, povrchové napětí etanolu 0,022 N.m-1.Co
+lze tvrdit o hmotnostech kapek vody a etanolu, které odpadávají z ústí skleněné
+kapiláry daného průměru?
+a) nelze srovnat bez údaje o hustotě
+b) nelze srovnat bez údaje o průměru kapiláry
+c) kapka etanolu má větší hmotnost než kapka vody
+D) kapka vody má větší hmotnost než kapka etanolu
+584. Uvažujeme-li velikost povrchového napětí vody 0,073 N.m-4 pak síla, kterou je
+držena kapka vody u ústí kapiláry o průměru 1 mm těsně před svým odpadnutím,
+je přibližně rovna
+a) 29 UN
+b) 57 HN
+c) 115 uN
+D) 229 uN
+585. Od ústí kapiláry s průměrem 1 mm odpadlo působením vlastní tíhy 100 kapek
+kapaliny o celkové hmotnosti 2,3 g. Jaké bylo přibližně povrchové napětí
+kapaliny? Počítejte g = 10 m.s-2.
+a) 1,46 N.m-1
+b) 0,146 N.m-1
+C) 0,073 N.m-1
+d) 0,037 N.m-1
+586. Úhel, který svírá povrch vody s povrchem stěny nádoby (stykový úhel) je
+a) větší než 1/2
+b) větší než tt
+C) menší než 1/2
+d) i
+587. Pro úhel O, který svírá povrch rtuti s povrchem stěny nádoby (stykový úhel) platí
+a) 0 < </2
+b) A>
+c) < 1/2
+D) 1/2 << TT

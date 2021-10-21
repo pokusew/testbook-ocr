@@ -1,0 +1,45 @@
+963. Jednotkou úhlové frekvence je
+A) rad.s-1
+b) rad.s
+c) rad-1
+d) rad
+964. Které tvrzení je správné? Úhlová frekvence
+A) je nepřímo úměrná periodě
+b) je nepřímo úměrná frekvenci
+C) je přímo úměrná frekvenci
+d) má jednotku radián.sekunda
+965. Které z následujících tvrzení je nesprávné? Jednoduchý kmitavý pohyb je pohyb
+A) aperiodický, přímočarý a nerovnoměrný
+B) periodický, přímočarý a rovnoměrný
+c) periodický, přímočarý a nerovnoměrný
+D) periodický, křivočarý a nerovnoměrný
+966. Zrychlení kmitavého pohybu je
+A) přímo úměrné okamžité výchylce a v každém okamžiku má opačný směr
+b) nepřímo úměrné okamžité výchylce a v každém okamžiku má opačný směr
+c) přímo úměrné okamžité výchylce a v každém okamžiku má souhlasný směr
+d) nepřímo úměrné okamžité výchylce a v každém okamžiku má souhlasný směr
+967. Rychlost kmitavého pohybu je
+a) konstantní
+b) lineárně rostoucí s časem
+C) harmonickou funkcí času
+d) nezávislá na úhlové frekvenci
+968. Který převodní vztah je správný?
+a) 30º = 17/4 rad
+B) 30º = 1/6 rad
+c) 45º = 1/6 rad
+d) 45º = 1/3 rad
+969. Mezi dvěma veličinami harmonického pohybu stejné frekvence je fázový rozdíl
+2kt rad. Pak obě veličiny
+A) mají stejnou fázi
+b) mají opačnou fázi
+c) dosahují maximální amplitudy v časech posunutých o T/4
+d) dosahují maximální amplitudy v časech posunutých o 3/2 T
+970. Mezi dvěma veličinami harmonického pohybu stejné frekvence je fázový rozdíl
+(2k+1)n rad. Pak obě veličiny
+a) mají stejnou fázi
+B) nají opačnou fázi
+c) dosahují maximální amplitudy v časech posunutých o T/4
+d) dosahují maximální amplitudy v časech posunutých o 3T/2
+=
+-
+!

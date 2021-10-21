@@ -1,0 +1,49 @@
+=
+=
+ran
+896. Který z následujících vztahů je správný?
+A) 1Wb = 1T. 1m2
+b) 1Wb = 1T/1m2
+c) 1Wb = 1N. 1A
+d) 1Wb = 1T/1m
+897. Permeabilita je veličina charakterizující
+a) difúzi látek
+B) magnetické vlastnosti prostředí
+c) viskozitu plynů
+d) elektrické vlastnosti prostředí
+898. Relativní permeabilità paramagnetických látek je
+a) nepatrně menší než 1
+B) nepatrně větší než 1
+c) kolem 10
+d) až 100000
+899. Relativní permeabilita diamagnetických látek je
+a) nulová
+B) nepatrně menší než 1
+c) nepatrně větší než 1
+d) kolem 10
+900. Které tvrzení je správné? Mezi feromagnetické látky patří
+a) měd
+B) železo
+C) ocel
+D) nikl
+901. Mezi paramagnetické látky patří
+a) zlato
+B) platina
+c) měd
+D) hliník
+902. Mezi diamagnetické látky patří
+a) kyslík
+B) zlato
+C) měď
+D) rtuť
+903. Mezi diamagnetické látky patří
+a) hliník
+B) zlato
+C rtuť
+d) mangan
+904. Odpor R rezistoru v jednoduchém obvodu střídavého proudu je vzhledem
+k obvodu stejnosměrného proudu
+a) větší
+B) stejný
+c) menší
+d) příčinou fázového posuvu střídavého napětí a proudu

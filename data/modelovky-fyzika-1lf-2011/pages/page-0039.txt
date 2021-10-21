@@ -1,0 +1,45 @@
+265. Změna tíhového zrychlení v závislosti na zeměpisné šířce souvisí
+a) s oběhem Země okolo Slunce
+B) s rotací Země kolem její osy
+c) s tvarem oběžné dráhy Země
+d) s vlivem zemského magnetismu
+266. Jednotkou tíhy tělesa je
+A) N
+b) N.m-2
+c) N.m-1
+d) N.m
+267. Příkladem výsledku silového působení menšího tělesa na větší (Měsíce na Zemi)
+je
+a) eliptický tvar trajektorie po které Země obíhá Slunce
+b) tvar Země (elipsoid namísto koule)
+c) sklon zemské osy
+D) mořský příliv a odliv
+268. Intenzitu gravitačního pole definujeme jako
+A) podíl vektorové a skalární veličiny (vektor lomený skalárem)
+b) podíl skalární a vektorové veličiny (skalár lomený vektorem)
+c) podíl dvou skalárních veličin
+d) součin skalární a vektorové veličiny
+269. Intenzita gravitačního pole je ve srovnání s gravitační silou
+a) vektorem téhož druhu a stejného směru
+B) vektorem jiného druhu a stejného směru
+c) skalárem stejně jako gravitační síla
+d) vektorem jiného druhu a opačného směru
+270. Značí-li F, tíhovou sílu a m hmotnost, je velikost intenzity gravitačního pole
+K rovna
+a) K = Fm
+b) K= m/F,
+C) K = Fg/m
+d) K = F,/m²
+271. Jednotkou intenzity gravitačního pole je
+A) N. kg-1
+b) N-1 kg
+c) N-1, kg-1
+d) N. kg-2
+272. V základních jednotkách soustavy SI bychom mohli jednotku intenzity
+gravitačního pole vyjádřit jako
+a) kg.m.s-1
+b) kg.m².s-2
+c) kg.m.s-2
+=
+-2
+D) m.s-2

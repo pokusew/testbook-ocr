@@ -1,0 +1,48 @@
+=
+=
+250. V základních jednotkách soustavy SI můžeme jednotku tihy vyjádřit jako
+a) kg.m.s
+b) kg.m.s-1
+c) kg.m-2.s
+D) kg.m.s-2
+251. V naší zeměpisné šířce je tíhové zrychlení
+A) větší než na rovníku a menší než na pólech
+b) větší než na pólech a menší než na rovníku
+c) větší než na pólech i rovníku
+d) menší než na pólech i rovníku
+252. Normální tíhové zrychlení je
+a) tíhové zrychlení v naší zeměpisné šířce
+B) dohodnutá konstanta
+c) tíhové zrychlení na pólech
+d) tíhové zrychlení na rovníku
+253. Značí-li K intenzitu gravitačního pole pak gravitační potenciální energii E, tělesa
+o hmotnosti m ve výšce h nad zemí vyjádříme jako
+a) E. = mKh/2
+b) Ep = mKh?
+c) Ep = mKh/2
+D) E = mKh
+254. Uvažujte intenzitu gravitačního pole 10 N/kg a zanedbejte odpor vzduchu. Jakou
+kinetickou energii při dopadu bude mít jablko o hmotnosti 200 g, které spadlo
+z výšky 8 m?
+a) 4J
+b) 8 )
+C) 16 )
+d) 80 )
+255. Označte pravdivé tvrzení
+a) u tělesa ležícího na pevné podložce se jeho tíha nemůže nijak projevovat
+B) práce vykonaná gravitační silou mezi dvěma určitými body nezávisí na trajektorii
+C) práce vykonaná gravitační silou mezi dvěma určitými body závisí na tom, v jaké výši na
+zemí je těleso ve výchozí a konečné poloze
+D) gravitační potenciální energie je skalární veličina
+256. Jak se změní gravitační síla, kterou se přitahují dva hmotné body, zmenší-li se
+jejich vzdálenost na 1/4 původní vzdálenosti?
+a) zvětší se 4krát
+b) zvětší se 8krát
+c) zvětší se 12krát
+D) zvětší se 16krát
+257. Jak se změní gravitační síla, kterou se přitahují dva hmotné body, zvětší-li se
+jejich vzdálenost na desetinásobek původní vzdálenosti?
+a) zmenší se 10krát
+B) zmenší se 100krát
+c) zmenší se 1000krát
+d) zvětší se 10krát

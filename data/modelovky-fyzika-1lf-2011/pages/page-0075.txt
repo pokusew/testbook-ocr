@@ -1,0 +1,48 @@
+-
+535. Vyberte správné tvrzení:
+A) práce získaná při jednom cyklu kruhového děje odpovídá rozdílu mezi teplem převzatým
+pracovní látkou od ohřívače a teplem předaným touto látkou chladiči
+b) práce získaná při jednom cyklu kruhového děje odpovídá poklesu vnitřní energie
+pracovní látky během celého cyklu
+C) účinnost kruhového děje lze vyjádřit jako poměr mezi vykonanou prací a teplem
+převzatým pracovní látkou od ohřívače
+D) účinnost kruhového děje je menší než 1
+536. Vyberte správné tvrzení:
+a) účinnost kruhového děje je rovna 1
+B) účinnost kruhového děje je menší než 1
+C) celková změna vnitřní energie pracovní látky po ukončení jednoho cyklu kruhového děje
+je nulová
+d) vhodnou volbou jednotlivých dílčích dějů kruhového cyklu lze veškeré teplo převzaté od
+ohřívače přeměnit v práci
+537. K zajištění chodu cyklicky pracujícího tepelného stroje
+a) postačí vždy systém ohřívač – stroj
+b) postačí systém ohřívač - stroj za předpokladu dostatečně vysoké teploty ohřívače
+c) postačí systém stroj - chladič
+D) je nutný systém ohřívač - stroj - chladič
+538. Nemožnost sestrojení stroje zvaného “perpetuum mobile II. druhu" vyplývá
+a) z I. termodynamického zákona
+B) z II. termodynamického zákona
+c) ze zákona zachování energie
+d) ze zákona zachování hmotnosti
+539. Mezi motory spalovací patří
+a) parní turbína
+B) plynová turbína
+C) zážehový motor
+D) raketový motor
+540. Určete správné tvrzení: Z uvedených motorů - plynová turbína, proudový motor,
+raketový motor
+a) plynová turbína nepatří mezi motory spalovací
+b) proudový motor nepatří mezi motory spalovací
+c) raketový motor nepatří mezi motory spalovací
+D) všechny uvedené typy patří mezi motory spalovací
+541. Zvolte alternativu, ve které jsou uvedené druhy tepelných motorů seřazeny dle
+účinnosti (od motoru s nejnižší účinností k motoru s nejvyšší účinnosti):
+a) čtyřdobý zážehový motor, parní stroj lokomotivy, raketový motor
+b) čtyřdobý zážehový motor, raketový motor, parní stroj lokomotiva
+C) parní stroj lokomotiva, čtyřdobý zážehový motor, raketový motor
+d) parní stroj lokomotiva, raketový motor, čtyřdobý zážehový motor
+542. Mezi amorfní látky patří
+A) vosk
+B) kaučuk
+c) soda
+d) glukóza

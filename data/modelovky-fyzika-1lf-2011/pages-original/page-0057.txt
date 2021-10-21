@@ -1,0 +1,48 @@
+401. Kapacita nabitého deskového kondenzátoru ve vakuu je 5 pF. Použijeme-li jako
+dielektrikum sklo (Ex = 6) bude jeho kapacita
+a) 0,83 pF
+b) 1,2 pF
+C) 30 pF
+d) 180 pF
+402. Intenzita elektrického pole nabitého deskového kondenzátoru ve vakuu je
+6 kV.m-1. Použijeme-li jako dielektrikum sklo (Ex = 6), bude intenzita jeho
+elektrického pole
+A) 1 kV.m-1
+b) 6 kV.m-1
+c) 36 kv.m-1
+d) 60 kV.m-1
+403. Plošná hustota elektrického náboje je
+A) přímo úměrná intenzitě elektrického pole při vnějším povrchu vodiče
+b) nepřímo úměrná intenzitě elektrického pole při vnějším povrchu vodiče
+c) přímo úměrná kvadrátu intenzity elektrického pole při vnějším povrchu vodiče
+d) nepřímo úměrná kvadrátu intenzity elektrického pole při vnějším povrchu vodiče
+404. Plošná hustota elektrického náboje na povrchu kovové koule o průměru 20 cm,
+je-li na něm rovnoměrně rozmístěn náboj 12,56 mC je přibližně
+A) 100 mC.m-2
+b) 50 mC.m-2
+c) 25 mC.m-2
+d) 10 mC.m-2
+405. Grafickým znázorněním sil působících mezi dvěma částicemi (např.molekulami)
+jako funkce vzdálenosti je
+a) přímka
+b) monotonně klesající křivka
+c) monotonně stoupající křivka
+D) křivka s extrémní hodnotou v určité krátké vzdálenosti
+406. Uvažujeme-li závislost sil působících mezi dvěma částicemi (např.molekulami)
+na jejich vzdálenosti
+a) jde pouze o přitažlivé síly
+b) jde pouze o odpudivé síly
+C) jde o přitažlivé i odpudivé síly a výsledná křivka je součtem křivek pro tyto dva typy sil
+d) mezi dvěma molekulami nepůsobí žádné síla
+407. Budiž r vzdálenost dvou částic v rovnovážné poloze. Ve vzdálenosti větší nežr je
+výsledná síla mezi částicemi
+A) přitažlivá
+b) odpudivá
+c) nulová
+d) přitažlivá nebo odpudivá, v závislosti na velikosti částic
+408. Vyberte nesprávné tvrzení: Pro vzdálenost r mezi dvěma částicemi (např.mezi
+dvěma molekulami vody), která odpovídá rovnovážné poloze, je
+A) výsledná síla přitažlivá
+b) výsledná síla nulová
+C) výsledná síla odpudivá
+D) nelze jednoznačně odpovědět

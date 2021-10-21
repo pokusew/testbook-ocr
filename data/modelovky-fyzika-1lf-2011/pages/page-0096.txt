@@ -1,0 +1,46 @@
+699. O kolik procent se zvětší odpor měděného vodiče, vzroste-li jeho teplota z 20 °C
+na 100 °C? Teplotní součinitel odporu acu = 4x10-3K-1.
+A) 32%
+b) 44 %
+c) 16 %
+d) 24 %
+700. V nepříliš velkých intervalech teplot můžeme předpokládat, že elektrický odpor
+daného vodiče
+A) roste přibližně lineárně s teplotou
+b) je nepřímo úměrný teplotě
+c) je přímo úměrný čtverci teploty
+d) je nepřímo úměrný čtverci teploty
+701. Označte pravdivé tvrzení:
+A) elektrický odpor kovového vodiče roste s rostoucí teplotou následkem zvětšení rozkmitu
+částic mřížky
+b) po vložení vodiče do elektrického pole se dosáhne zcela uspořádaného pohybu volných
+elektronů
+C) jednotkou teplotního součinitele elektrického odporu je K-1
+D) měď není odporový materiál
+702. Závislosti elektrického odporu na teplotě se využívá u
+a) termočlánků
+B) termistorů
+C) odporových teploměrů
+d) bimetalických teploměrů
+703. Měrný elektrický odpor mědi je 0,0178 uNm, hliníku 0,027 usem, konstantanu
+0,50 usam, manganinu 0,42 ulm. Označte pravdivé tvrzení:
+A) manganin patří mezi odporové materiály
+B) konstantan patří mezi odporové materiály
+C) při provádění domovní instalace s použitím měděného vodiče je možno pro očekávané
+zatížení použít drátu o menším průřezu než při použití hliníkového vodiče
+d) při provádění domovní instalace s použitím měděného vodiče je nutno užít drátu
+o větším průřezu než při použití hliníkového vodiče
+704. Supravodivost je jev, která se uplatňuje u některých kovů
+a) při teplotě 0 °C
+b) při teplotě blízké bodu tání daného kovu
+C) při teplotách blízkých O K
+d) při teplotách vyšších než 200 °C
+705. Pro uzavřený elektrický obvod platí vztah mezi elektromotorickým napětím U,
+napětím na vnější části obvodu U a napětím na vnitřní části obvodu U; vztah
+A) Ve = U+ U.
+b) Ue = U - U
+c) V. = U, - U
+d) U = U
+=
+=
+e

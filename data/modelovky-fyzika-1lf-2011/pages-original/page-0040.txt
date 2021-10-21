@@ -1,0 +1,53 @@
+-
+273. Jednotka intenzity gravitačního pole vyjádřená pomocí základních jednotek
+soustavy Si bude stejná jako jednotka
+a) rychlosti
+B) zrychlení
+c) hybnosti
+d) momentu síly
+274. Značí-li m hmotnost, pak mezi velikostí intenzity gravitačního pole
+Ka gravitačním zrychlením g platí
+A) K= g
+b) K = 1/g
+c) K = gº/2
+d) K = mg
+275. Rovnost mezi intenzitou gravitačního pole a gravitačním zrychlením vyplývá
+z kombinace definice intenzity gravitačního pole a
+a) prvního pohybového zákona
+B) druhého pohybového zákona
+c) třetího pohybového zákona
+d) zákona o zachování hybnosti
+276. Intenzita gravitačního pole a gravitační zrychlení v daném místě určitého
+gravitačního pole jsou
+a) skaláry
+b) vektory stejného druhu, opačného směru a stejné velikosti
+C) vektory stejného druhu, směru i velikosti
+d) vektory různého druhu
+277. Budiž poloměr Země Ry, hmotnost Země My, výška tělesa nad zemským povrchem
+h a jeho hmotnost m. Uvažujeme-li gravitační sílu F (h) působící na těleso,
+vyjádříme ji jako
+a) F (h) = kmM /h
+b) F (h) = kmM,(h - R.)2
+C) F (h) = kmM/(R_/2 + h)2
+D) F (h) = kmM_/(Rz + h)?
+278. Z uvedených míst bude největší intenzita zemského gravitačního pole
+A) na povrchu mořské hladiny
+b) na vrcholu nejvyšší hory světa
+c) při horní hranici atmosféry
+d) v kosmickém prostoru
+279. Které z následujících tvrzení je nesprávné? Největší gravitační zrychlení udílí
+gravitační síla daná gravitačním polem Země tělesu
+a) na povrchu Země
+B) ve výši 3000 m nad povrchem Země
+C) ve výši 8000 km nad povrchem Země
+D) velikost gravitačního zrychlení je nezávislá na vzdálenosti od Země
+280. Označte správné tvrzení:
+A) intenzita gravitačního pole má stejný směr i velikost jako gravitační zrychlení
+b) intenzita gravitačního pole Země je nezávislá na výšce na povrchem Země
+C) intenzita gravitačního pole je nezávislá na hmotnosti tělesa uvažovaného v daném místě
+d) na povrchu Země je stejné gravitační zrychlení jako ve stratosféře
+-
+g
+Z
+=
++

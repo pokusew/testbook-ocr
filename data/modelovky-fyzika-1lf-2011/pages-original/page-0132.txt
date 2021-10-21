@@ -1,0 +1,51 @@
+987. Těleso o hmotnosti 0,4 kg je zavěšené na pružině o tuhosti 90 N.m-1. Jaká je
+frekvence jeho kmitů?
+A) 2,4 Hz
+b) 4,8 Hz
+c) 9,6 Hz
+d) 19,2 Hz
+988. Kyvadlo, tvořeno nití, na jejímž konci je zavěšena kulička, má určitou periodu
+kmitů. Jak musíme změnit délku nitě aby tato perioda byla dvojnásobná?
+a) prodloužit 1,5 krát
+b) prodloužit 2 krát
+c) prodloužit 3 krát
+D) prodloužit 4 krát
+=
+989. Značí-li Q náboj, U napětí a C kapacitu, je energie E oscilačního (LC) obvodu je
+dána vztahem
+a) E = QU2/2
+b) E = Q/2C
+C) E = QU/2
+d) E = CU/2
+990. Energie Em magnetického pole cívky bez jádra s indukčností L, kterou protéká
+proud I, je dána vztahem
+a) Em = LI/2
+B) Em
+LIP/2
+e
+c) Em = L/2I
+d) E = L21/2
+991. Značí-li Q náboj, U napětí a C kapacitu, který z uvedených vztahů pro elektrickou
+energii E. oscilačního obvodu (LC obvodu) je správný?
+A) E = QU/2
+B) Ep = Q2/20
+C) Es = CU2/2
+d) Ee = QU/2
+992. Které z následujících tvrzení je pravdivé?
+A) vlastní kmitání elektromagnetického oscilátoru je vždy tlumené
+b) vlastní kmitání elektromagnetického oscilátoru je vždy netlumené
+C) v elektromagnetickém oscilátoru se periodicky mění energie elektrická v magnetickou
+D) změny napětí a proudu v LC obvodu jsou posunuty o 1/2 rad
+993. Značí-li L indukčnost a C kapacitu, je frekvence fvlastních kmitů oscilačního
+obvodu se zanedbatelným tlumením dána vztahem
+a) f= 2T(LC)
+b) f= 1/(2TLC)
+C) f = 1/(21.V(LC))
+d) f= 2n. LC
+994. Frekvence vlastních kmitů oscilačního obvodu s indukčností 50 mH a kapacitou
+500 uF a zanedbatelným tlumením je přibližně
+a) 25 Hz
+b) 50 Hz
+C) 32 Hz
+d) 40 Hz
+BO...............

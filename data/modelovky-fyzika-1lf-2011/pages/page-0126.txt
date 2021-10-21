@@ -1,0 +1,52 @@
+938. Kondenzátor je zařazen do obvodu střídavého proudu o efektivním napětí
+230 V a frekvenci 50 Hz. Obvodem prochází proud 2,9 A. Určete kapacitu
+kondenzátoru.
+a) 20 uF
+B) 40 uF
+c) 60 uF
+d) 80 uF
+939. V obvodu střídavého proudu s frekvencí 60 Hz je v sérii s rezistorem 4 12 zařazena
+cívka. Celková impedance je 52 Jaká je přibližná indukčnost cívky?
+a) 2 mH
+b) 4 mH
+c) 6 mH
+D) 8 mH
+940. Elektromotorem připojeném na střídavé napětí 220 V prochází proud 10 A. Jaký
+je výkon motoru, je-li účiník 0,5?
+a) 0,8 kW
+b) 0,9 kW
+c) 1 kW
+D) 1,1 kW
+941. Na štítku elektromotoru na střídavý proud jsou údaje: 230 V, 5 A, cosq = 0,8. Jaký
+je činný výkon motoru?
+a) 750 W
+B) 920 W
+c) 1 kW
+d) 1,1 kW
+942. Je-li q fázový posun střídavého napětí a proudu, pak účinníkem nazýváme výraz
+a) sin q
+B) cos
+c) tg 4
+d) cotgo
+943. Při výrobě střídavého proudu je Um indukované ve smyčce rotující v magnetickém
+poli o indukci B závislé
+a) pouze na velikosti indukce
+b) pouze na ploše smyčky S
+c) pouze na součinu BS
+D) také na úhlové enci otáčení
+944. Při výrobě trojfázového proudu jsou indukovaná napětí fázově posunuta o
+A) 1/3 T
+b) 1/2 T
+c) 1/4 T
+d) 1/8 T
+945. V cívce s N závity a plochou závitu S rotující v homogenním magnetickém poli
+o indukci B s úhlovou frekvencí w je amplituda indukovaného napětí Um dána
+vztahem
+a) Um = BS/N
+b) U NBS
+NBSW
+d) Um = BSw/N
+-
+m
+C) Um
+=

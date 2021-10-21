@@ -1,0 +1,46 @@
+.
+1092. Rychlost šíření žlutého světla vakuem je
+a) větší než rychlost šíření červeného světla
+b) menší než rychlost šíření červeného světla
+c) menší než rychlosti šíření fialového světla
+D) stejná jako rychlost šíření zeleného světla
+1093. Světlo
+a) je podélné elektromagnetické vlnění
+B) je příčné elektromagnetické vlnění
+C) má vektor intenzity elektrického pole kolmý na směr šíření
+d) má vektor magnetické indukce rovnoběžný se směrem šíření
+1094. V lineárně polarizovaném světle
+A) jsou vektory E a B navzájem kolmé
+b) mají vektory E i B stejnou rovinu kmitů
+C) je vektor E kolmý na směr šíření
+D) je vektor B kolmý na směr šíření
+1095. Ve světelné vlně je její směr šíření
+a) totožný se směrem vektoru E
+b) totožný se směrem vektoru B
+C) kolmý k vektoru EiB
+d) nezávislý na vektorech E a B
+1096. Elektrický vektor lineárně polarizovaného světla kmitá
+A) kolmo na směr šíření
+b) ve směru šíření podobně jako u podélného vlnění
+C) v rovině proložené směrem šíření
+d) nezávisle na směru šíření
+1097. Magnetický vektor lineárně polarizovaného světla kmitá
+A) kolmo na směr šíření
+b) směru šíření podobně jako u podélného vlnění
+C) v rovině proložené směrem šíření
+d) nezávisle na směru šíření
+1098. Refraktometrem určujeme
+a) zlomeniny pomocí rentgenového záření
+b) ohniskovou vzdálenost čoček
+c) modul pružnosti
+D) index lomu
+1099. Zobrazují-li se body jako kruhové plošky, jde o
+a) chromatickou vadu
+B) sférickou vadu
+c) astigmatismus
+d) dalekozrakost
+1100. Rychlost šíření světla ve skle je
+a) stejná jako ve vakuu
+B) menší než ve vakuu
+C) závislá na barvě světla
+d) nezávislá na barvě světla

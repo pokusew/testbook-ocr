@@ -1,0 +1,44 @@
+156. Do 10 l vody o teplotě 60 °C bylo přidáno 2 kg ledu o teplotě 0 °C. Jaká byla
+přibližně výsledná teplota směsi? Měrné skupenské teplo tání ledu je 330 kJ. kg-1,
+měrná tepelná kapacita vody je 4,2 kJ. kg-1.K-1.
+a) 31 °C
+b) 33 °C
+c) 35 °C
+D) 37 °C
+a
+457. Kolik tepla je přibližně zapotřebí k přeměně 10 kg ledu o teplotě -5°C na vodu
+o teplotě 0 °C? Měrné skupenské teplo tání ledu je 330 kJ. kg-1, měrná tepelná
+kapacita ledu je 2,1 kJ. kg-1.K-1,
+a) 2,5 MJ
+b) 3,0 MJ
+C) 3,4 MJ
+d) 3,8 MJ
+458. Voda o hmotnosti 5 kg a teplotě 20 °C se ohřála na teplotu 100 °C a pak se všechna
+vypařila. Měrné skupenské teplo výparné vody je 2,26 MJ.kg-1, měrná tepelná
+kapacita je 4,18 kJ. kg-1. K-1. Určete množství dodaného tepla.
+a) 2,5 MJ
+b) 10 MJ
+C) 13 MJ
+d) 26 MJ
+459. Průtokový ohřívač ohřeje za 1 minutu 1 litr vody z 15 °C na 80 °C. Měrná tepelná
+kapacita vody je 4,2 kJ. kg-1. K-1. Jaký je příkon ohřívače?
+a) 3,55 kW
+B) 4,55 kW
+c) 5,55 kW
+d) 6,55 kW
+460. Jaký je výkon varné konvice, jestliže ohřeje 0,5 kg vody teplé 20 °C za 3 minuty?
+Měrná tepelná kapacita vody je 4,2 kJ. kg-1.K-1
+a) 920W
+b) 1020W
+C) 1120 W
+d) 1220 W
+461. Atomová hmotnostní konstanta je definována jako
+a) hmotnost atomu nuklidu vodíku 1H
+B) 1/12 hmotnosti atomu nuklidu uhlíku 12C
+c) 1/16 hmotnosti atomu nuklidu kyslíku 160
+d) 1/14 hmotnosti atomu nuklidu dusíku 14N
+462. Počet druhů pohybu molekuly kyslíku je
+a) 1
+b) 2
+C) 3
+d)

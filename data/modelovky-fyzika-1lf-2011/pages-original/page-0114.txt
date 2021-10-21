@@ -1,0 +1,50 @@
+m
+=
+m
+842. Vnikne-li částice s nábojem do homogenního magnetického pole kolmo
+kindukčním čarám, pohybuje se dále po
+a) spirále
+b) přímce souhlasné se směrem indukčních čar
+c) přímce kolmé na směr indukčních čar
+D) kružnici
+843. Na volnou částici s nábojem e pohybující se v homogenním magnetickém poli
+o indukci B rychlostí v (vektory rychlosti a indukce svírají úhel a) působí síla Fm
+daná vztahem:
+a) Fm = ev/(Bsina)
+b) Fm = evB/sina
+C) Fm evBsina
+d) Fn = e/(vBsina)
+844. Příčinou vzniku Hallova napětí je
+a) elektrická síla
+B) magnetická síla
+c) gravitační síla
+d) nehomogenita vodiče
+845. Které z následujících tvrzení je správné? Schopnost magnetického pole ovlivnit
+tvar trajektorie elektricky nabité částice je využita v
+a) solenoidu
+B) televizní obrazovce
+C) cyklotronu
+D) Wehneltově trubici
+846. Poloměr kruhové trajektorie nabité částice v homogenním magnetickém poli je
+a) přímo úměrný náboji
+b) přímo úměrný magnetické indukci
+C) přímo úměrný rychlosti částice
+D) závislý na hmotnosti částice
+847. Ampérův magnetický moment m rovinného závitu o ploše Ss proudem I je
+definován vztahem:
+A) m = IS
+b) m = I/S
+c) m = - 12S
+d) m = IS
+848. Magnetický moment lze vyjádřit v jednotkách
+A) A.m?
+b) A.m-2
+c) A.m
+D) J.T-1
+849. Přímým vodičem délky 50 cm orientovaným kolmo k indukčním čárám
+homogenního magnetického pole o magnetické indukci 20 mT prochází proud
+5 A. Jaká je velikost magnetické síly, která na něj působí?
+A) 0,05 N
+b) 0,1 N
+c) 0,15 N
+d) 0,2 N

@@ -1,0 +1,45 @@
+652. Střední rychlost pohybu volných elektronů v kovu
+a) je při teplotě 0 K nulová
+B) je téměř nezávislá na teplotě
+c) závisí na teplotě stejným způsobem jako střední rychlost pohybu molekul plynu
+d) roste se stoupající teplotou
+653. Uved'te správné tvrzení:
+A) existence elektrického odporu v kovu je dána předáváním hybnosti elektronu částícím
+krystalové mřížky
+B) po připojení kovového vodiče ke zdroji elektromotorického napětí nastane pouze
+částečně uspořádaný pohyb elektronů
+c) pohyb elektronů v kovovém vodiči po připojení zdroje elektromotorického napětí je
+přísně uspořádaný
+D) rychlost elektronů způsobená silami elektrického pole je nízká ve srovnání se střední
+rychlostí neuspořádaného pohybu elektronů
+654. Tři druhy částic (kladně nabité ionty, záporně nabité ionty a elektrony) se
+podílejí na přenosu náboje
+a) v kovech
+b) v elektrolytech
+c) v polovodičích
+D) vionizovaném plynu
+655. Značí-li Q náboj a t čas, je intenzita I konstantního proudu procházejícího
+vodičem dána vztahem
+A) I = Q/t
+b) 1 = Q.t
+c) I = U/t
+d) I = C/t
+656. Vodičem prochází konstantní proud 20 mA. Jaký náboj prošel průřezem vodiče za
+50 min?
+a) 10 C
+b) 15 C
+c) 30 C
+D) 60 C
+657. Za 5 hodin byl při konstantním proudu přenesen náboj 7,2 kС. Jaká byla hodnota
+proudu?
+a) 0,6 A
+B) 0,4 A
+c) 0,2 A
+d) 0,1 A
+658. Vodičem prochází konstantní proud 25 mA. Určete celkový náboj částic, které
+prošly průřezem vodiče za 40 minut.
+a) 10C
+b) 30C
+C) 60 C
+d) 60 kC
+=

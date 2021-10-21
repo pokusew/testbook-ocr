@@ -1,0 +1,53 @@
+英
+...................
+REJ
+281. Nalezněte správné tvrzení:
+a) zemské gravitační zrychlení je nezávislé na nadmořské výšce
+B) gravitační potenciál je skalární veličina
+c) gravitační potenciál a gravitační zrychlení jsou vektory různého směru
+D) gravitační zrychlení a gravitační potenciál mají různé jednotky
+282. Za prakticky homogenní gravitační pole můžeme považovat
+a) gravitační pole Země jako celek
+b) radiální gravitační pole
+C) pole v malé části prostoru velkého gravitačního pole, kde jsou v každém bodě intenzity
+gravitačního pole stejné co do směru i velikosti
+d) gravitační pole mezi dvěma stejně velkými tělesy
+283. Poloměr Země je 6400 km. Ve výšce 12800 km bude velikost gravitačního
+zrychlení
+a) dvakrát menší než na povrchu Země
+b) čtyřikrát menší než na povrchu Země
+c) třikrát menší než na povrchu Země
+D) devětkrát menší než na povrchu Země
+284. Poloměr Země je 6400 km. Ve vzdálenosti 32000 km bude velikost intenzity
+gravitačního pole ve srovnání s hodnotou na povrchu Země menší
+A) 36krát
+b) 6krát
+c) 25krát
+d) 5krát
+285. Jaká je hodnota gravitační potenciální energie tělesa o hmotnosti 10 kg ve výšce
+50 m, předpokládáme-li homogenní gravitační pole o intenzitě 9,80 N. kg-??
+a) 490 )
+B) 4,9 kJ
+c) 9,8 kJ
+d) 19,6 k)
+286. Značí-li E, potenciální energii, m hmotnost, h výšku a g gravitační zrychlení, pak
+gravitační potenciál , v daném bodě je definován jako
+a) 0,= Em
+b) 0,= Eq/mg
+C) 0 = Eg/m
+d) 0g = Ep/mh
+287. Jednotkou gravitačního potenciálu je
+A) J. kg-1
+b) J. kg
+c) J.m
+d) J.m-1
+288. Vyjádříme-li jednotku gravitačního potenciálu pomocí základních jednotek
+soustavy SI, obdržíme
+a) kg.m.s
+B) m?s-2
+c) m-as-2
+d) m-2.s2
+g
+g
+8
+g

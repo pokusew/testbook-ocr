@@ -1,0 +1,44 @@
+a
+785. Polovodičový prvek používaný pro zesilování se nazývá
+a) termistor
+B) tranzistor
+c) rezistor
+d) polovodičová dioda
+786. Polovodičový prvek k usměrňování střídavého proudu se nazývá
+A) polovodičová dioda
+b) termistor
+c) tranzistor
+d) rezistor
+787. Při zapojení tranzistoru se společnou bází je
+a) přechod mezi emitorem a bází zapojen v závěrném směru
+B) kolektorový proud ovládán proudem emitorovým
+c) přechod mezi kolektorem a bází zapojen v propustném směru
+d) emitorový proud ovládán proudem kolektorovým
+788. Při zapojení tranzistoru se společnou bází je
+A) kolektorový proud o něco menší než emitorový, bázový podstatně menší
+b) emitorový proud o něco menší než kolektorový
+c) bázový proud největší
+D) kolektorový proud ovládán proudem emitorovým
+789. Při zapojení tranzistoru se společným emitorem se ovládá
+a) emitorový proud kolektorovým proudem
+b) kolektorový proud emitorovým proudem
+C) kolektorový proud bázovým proudem
+d) bázový proud kolektorovým proudem
+790. Uvažujme roztok chloridu sodného. Platí následující tvrzení:
+a) ionty Na* a Clvzniknou elektrolytickou disociací, která nastává během rozpouštění
+b) ionty Na* a Cl vzniknou elektrolýzou
+c) ionty Na* a Cl vzniknou ionizačním účinkem elektrického proudu
+D) ionty Na* a Cl- byly již přítomny v krystalové mříži NaCl a rozpuštěním se pouze stanou
+volnými částicemi
+791. Označte správnou kombinaci iontu a elektrody, ke které se tento iont v roztoku
+elektrolytu pohybuje:
+A) amonný ke katodě
+b) hydroxylový ke katodě
+C) dusičnanový k anodě
+D) jodidový k anodě
+792. Označte nesprávnou kombinaci iontu a elektrody, ke které se tento iont v roztoku
+elektrolytu pohybuje:
+A) oxoniový k anodě
+B) amonný k anodě
+c) stříbrný ke katodě
+D) síranový ke katodě

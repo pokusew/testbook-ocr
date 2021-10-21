@@ -1,0 +1,51 @@
+-1
+=
+361. Koule ve vakuu se nábojem 9 nC nabila na potenciál 810 V. Jaký je její poloměr?
+a) 5 cm
+B) 10 cm
+c) 15 cm
+d) 20 cm
+362. Prostor mezi dvěma vodivými rovnoběžnými deskami, mezi kterými je ve vakuu
+elektrické pole o velikosti E vyplníme olejem o relativní permitivitě Ex = 2,5. Jak
+se změní intenzita pole mezi deskami?
+a) zmenší se 5krát
+b) zvětší se 5krát
+C) zmenší se 2,5krát
+d) zvětší se 2,5krát
+363. Vodivá koule umístěná v oleji o relativní permitivitě ε = 2,5 má plošnou hustotu
+náboje o = 8,85x10-7 C.m-2. Jaká je intenzita elektrického pole v její těsné
+blízkosti?
+a) 4 kv.m-1
+B) 40 kV.m-1
+c) 0,4 kV.m-1
+d) 40 V.m-1
+364. Vodivá koule o průměru 5 cm umístěná v oleji o relativní permitivitě ε = 2,5 je
+nabita nábojem 8,85 nC. Jaká je intenzita elektrického pole v její těsné blízkosti?
+a) 5,1*103 V.m-1
+B) 5,1x104 V.m-1
+c) 5,1*105 V.m-1
+d) 5,1*106 V.m-1
+365. Prostor mezi dvěma vodivými rovnoběžnými deskami, mezi kterými je ve vakuu
+elektrické pole o velikosti E vyplníme olejem o relativní permitivitě £, - -2,5. Jak
+se změní napětí mezi deskami?
+a) zmenší se 5krát
+b) zvětší se 5krát
+C) zmenší se 2,5krát
+d) zvětší se 2,5krát
+366. Značí-li W práci a Q náboj, můžeme elektrický potenciál ve vyjádřit jako
+a) = W/Q?
+W/Q
+c) Pe=WQ
+d) 0e = Q/W
+367. Jednotkou elektrického potenciálu je
+a) amper
+b) coulomb
+C) volt
+d) farad
+-1
+B) Pe
+368. Elektrická síla mezi dvěma náboji je nepřímo úměrná
+a) součinu nábojů
+b) součtu nábojů
+C) permitivitě prostředí
+d) vzdálenosti nábojů

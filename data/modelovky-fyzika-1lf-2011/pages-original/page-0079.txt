@@ -1,0 +1,44 @@
+566. Uvažujme železnou odměrnou nádobu kalibrovanou na objem 10 dmº za
+předpokladu teploty měřené kapaliny 20 °C. Jaké relativní chyby se zhruba
+dopustíme, budeme-li měřit objem při teplotě 80 °C (afe = 1,2.10-56-?)?
+a) 0,02 %
+B) 0,2%
+c) 2%
+d) 20 %
+567. V bimetalickém teploměru se využívá
+a) rozdílu mezi hodnotami měrného elektrického odporu dvou kovů
+B) rozdílu mezi hodnotami součinitele délkové teplotní roztažnosti dvou kovů
+c) elektromotorického napětí, které vzniká při zahřátí spoje obou kovů
+d) jevu supravodivosti
+568. Závislost prodloužení tyče na přírůstku teploty lze v pravoúhlých souřadnicích
+znázornit jako
+a) přímku se směrnicí a procházející počátkem
+B) přímku se směrnic a. l1, kde li je počáteční délka, procházející počátkem
+c) přímku s úsekem na svislé ose a neprocházející počátkem
+d) křivku
+569. Závislost délky tyče na přírůstku teploty lze v pravoúhlých souřadnicích vyjádřit
+jako
+a) přímku se směrnicí a procházející počátkem
+b) přímku se směrnicí a. l1, kde 11 je počáteční délka, procházející počátkem
+C) přímku se směrnicí a.lja s úsekem li na svislé ose
+d) přímku se směrnicí li a s úsekem a na svislé ose
+570. Vyberte nepravdivé tvrzení:
+A) součinitel teplotní délkové roztažnosti závisí jen na druhu látky
+B) součinitel teplotní roztažnosti závisí především na teplotě
+C) součinitel teplotní roztažnosti se značně mění s teplotou
+d) součinitel teplotní roztažnosti se poněkud mění s teplotou, avšak při malých teplotních
+rozdílech jej můžeme pro danou látku považovat za konstantní
+571. Vztah mezi součinitelem teplotní délkové roztažnosti a a teplotní objemové
+roztažnosti ß lze přibližně vyjádřit
+a) a = 3B
+B) B = 3a
+c) a=
+d) B = a3
+572. Závislosti prodloužení tyče dané délky na přírůstku teploty znázorněné
+v pravoúhlých souřadnicích přímkami pro různé materiály se budou od sebe
+navzájem lišit
+A) směrnicemi
+b) úseky na svislé ose
+c) úseky na vodorovné ose
+d) směrnicemi a úseky na svislé ose
+= 33

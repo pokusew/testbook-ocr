@@ -1,0 +1,48 @@
+340. Jaká síla působí ve vakuu na náboj 2 mC vložený do homogenního elektrického
+pole o intenzitě 105 V.m-1?
+A) 2x102N
+b) 2x103 N
+c) 2x106N
+d) 2x105N
+&
+341. Jaká je intenzita elektrického pole v petroleji (Ex = 2,1) ve vzdálenosti 30 cm od
+bodového náboje o velikosti 12,56 uC ?
+a) 6x104 N.C-1
+B) 6x105 N.C-1
+c) 6x106 N.C-1
+d) 6x107N.C-1
+342. Jakou práci vykoná elektrická síla v homogenním elektrickém poli o intenzitě
+1000 V.m- při přemístění částice o náboji 2 uC do vzdálenosti 20 cm proti směr
+intenzity?
+A) -4*10-4 ]
+b) 4*10-4 ]
+c) -8x10-6)
+d) 8x10-5 ]
+343. Jakou práci vykoná elektrická síla v homogenním elektrickém poli o intenzitě
+1000 V.m-při přemístění částice o náboji 2 uC do vzdálenosti 20 cm kolmo
+směru intenzity?
+a) -4*10-4 ]
+b) 4x10-4)
+c) -8x10-6
+D) OJ
+344. Jaké je napětí mezi dvěma vodivými rovnoběžnými deskami, jejichž vzdálenost
+je 10 cm, jestliže na částici s nábojem 10 nC působí mezi deskami síla o velikosti
+2x10-3 N?
+a) 5 kV
+b) 10 kV
+c) 15 kV
+D) 20 kV
+345. Jakou práci vykoná elektrická síla při přenosu náboje 5 uC mezi dvěma místy,
+mezi kterými je napětí 1 kV?
+A) 5x10-3]
+b) 5x10-2]
+c) 0,5 J
+d) 5)
+346. Jaká je intenzita elektrického pole mezi dvěma vodivými rovnoběžnými deskam
+vzdálenými od sebe 10 mm, je-li mezi nimi napětí 100 V. Jaké je napětí mezi
+deskami?
+a) 102 V.m-1
+b) 103 V.m-1
+C) 104 V.m-1
+d) 105 V.m-1
+-1

@@ -1,0 +1,46 @@
+=
+504. Ve stavové rovnici ideálního plynu pV = nRT
+a) označují všechny symboly stavové veličiny
+b) stavovými veličinami jsou pouze p, Va T
+c) stavovými veličinami jsou pouze pa V
+D) stavovými veličinami jsou p, V, T an
+505. Uvažujte izotermický děj s ideálním plynem; vyberte správné tvrzení:
+A) T = konst
+B) PV = konst.
+c) p/V = konst.
+D) P1V1 = P2V2
+506. Zákon Boylův-Mariottův platí pro ideální plyn v případu
+a) adiabatického děje
+b) izochorického děje
+c) izobarického děje
+D) izotermického děje
+507. Značí-li p tlak, V objem a T termodynamickou teplotu, pak zákon Boylův-
+Mariottův lze vyjádřit takto:
+a) pV/T = konst.
+B) PV = konst.
+c) V/T = konst.
+d) p/T = konst.
+508. Izoterma (graf vyjadřující závislost tlaku daného počtu molů ideálního plynu na
+jeho objemu při izotermickém ději) je
+A) hyperbola
+b) parabola
+c) přímka rovnoběžná s vodorovnou osou
+d) přímka rovnoběžná se svislou osou
+509. Jednotkou konstanty v Boylově-Mariottovu zákonu je
+a) N
+b) Pa
+C) J
+d) J.mol-1
+510. Při izotermickém ději s ideálním plynem o daném počtu molů se objem zvětšil na
+trojnásobek hodnoty v počátečním stavu. Jak se změní tlak?
+a) nezmění se
+b) poklesne na 1/9 původní hodnoty
+C) poklesne na 1/3 původní hodnoty
+d) poklesne o 1/3 původní hodnoty
+511. Na počátku izochorického děje s ideálním plynem o daném počtu molů byla
+teplota tı = 27 °C a tlak P1 = 100 kPa. Po skončení děje je teplota = 147 °C.
+Tlak P2 po skončení děje má hodnotu
+a) 180 kPa
+B) 140 kPa
+c) 360 kPa
+d) 544 kPa

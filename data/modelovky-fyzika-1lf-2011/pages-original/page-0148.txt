@@ -1,0 +1,49 @@
+1118. Jakou optickou mohutnost musí mít brýle pro krátkozraké oko, jehož blízký bod
+je ve vzdálenosti 10 cm od oka?.
+A) -6D
+b) 6D
+c) -3D
+d) 3D
+1119. Jakou optickou mohutnost musí mít brýle pro dalekozraké oko, jehož blízký bod
+je ve vzdálenosti 50 cm od oka?.
+A) 2D
+b) -2D
+c) -4D
+d) 4D
+1120. Úhlové zvětšení okuláru je 20. Jaká je jeho ohnisková vzdálenost?
+a) 5 mm
+b) 10 mm
+C) 12,5 mm
+d) 20 mm
+1121. Příčné zvětšení objektivu mikroskopu s optickým intervalem 20 cm je 20. Jaká je
+jeho ohnisková vzdálenost?
+a) 2,5 mm
+b) 5 mm
+C) 10 mm
+d) 15 mm
+1122. Spojnou čočkou s optickou mohutností 5 D byl vytvořen na stínítku ve
+vzdálenosti 1 m od čočky obraz o velikosti 16 cm. Jakou velikost měl předmět?
+a) 10 cm
+b) 8 cm
+C) 4 cm
+d) 2 cm
+1123. Spojnou čočkou s optickou mohutností 5 D byl vytvořen na stínítku ve
+vzdálenosti 1 m od čočky obraz o velikosti 16 cm. Jaká byla vzdálenost mezi
+předmětem a stínítkem?
+a) 105 cm
+b) 115 cm
+C) 125 cm
+d) 145 cm
+1124. Spojná čočka vytváří obraz, pro který platí Z1 = -2. Jestliže k ní předmět
+přiblížíme o 15 cm, je Z2 = -5. Jaká je ohnisková vzdálenost čočky?
+a) 15 cm
+b) 30 cm
+C) 50 cm
+d) 75 cm
+a
+-1
+1125. Jednotkou optické mohutnosti je
+A) m
+b) rad/m
+c) rad.m
+d) m

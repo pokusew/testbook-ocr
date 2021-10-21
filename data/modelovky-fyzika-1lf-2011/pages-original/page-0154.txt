@@ -1,0 +1,46 @@
+1167. Rozptylka má obrazovou ohniskovou vzdálenost f' = -10 cm. Její optická
+mohutnost je
+a) -10
+b) -100 D
+c) 10 D
+D) -10 D
+1168. Optická mohutnost spojky je 2,5 D. Její obrazová ohnisková vzdálenost je
+a) 4 m
+b) 2,5 m
+c) 4 cm
+D) 0,4 m
+1169. Dalekozraké oko má blízký bod ve vzdálenosti 70 cm. Optická mohutnost
+brýlových skel potřebných pro čtení ze vzdálenosti 25 cm je přibližně
+a) 1,5 D
+b) 2D
+C) 2,5 D
+d) 5,5 D
+1170. Spojka má obrazovou ohniskovou vzdálenost f' = -100 cm. Její optická mohutnost
+je
+a) -0,01 D
+b) -1D
+C) úloha je špatně zadána
+d) 0,01 D
+1171. Vzdálený bod krátkozrakého oka je ve vzdálenosti 50 cm. Kolik dioptrií mají
+brýle, které posunou vzdálený bod do nekonečna:
+a) -5 D
+b) -10 D
+c) 5D
+D) -2D
+1172. Index lomu skla je 1,5. Rychlost světla v tomto skle činí
+A) 200 000 km/s
+b) 300 000 km/s
+c) 400 000 km/s
+d) 250 000 km/s
+1173. Zvětšení lupy s ohniskovou vzdáleností 25 mm činí
+a) 5
+B) 10
+c) 25
+d) 100
+1174. Úhlové zvětšení mikroskopu s optickým intervalem 25 cm, s objektivem
+o ohniskové vzdálenosti 0,5 cm a okulárem o ohniskové vzdálenosti 5 cm,
+když zdravé oko vidí výsledný obraz v nekonečnu, činí
+A) 250
+b) 500
+c) 1500
+d) 2500

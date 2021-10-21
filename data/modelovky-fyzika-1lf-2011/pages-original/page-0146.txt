@@ -1,0 +1,48 @@
+-
+=
+1101. Rychlost šíření světla ve vodě je
+A) menší než ve vakuu
+b) stejná jako ve vakuu
+C) závislá na jeho frekvenci
+d) nezávislá na jeho frekvenci
+1102. Absolutní index lomu červeného světla ve skle
+a) je větší než absolutní index lomu fialového světla
+b) je stejný jako absolutní index lomu fialového světla
+C) je menší než absolutní index lomu fialového světla
+D) je větší než 1
+1103. Ze dvou prostředí je prvé opticky řidší; pak
+A) je v něm rychlost šíření světla větší
+b) je v něm rychlost šíření světla menší
+c) je průhlednější
+d) v něm platí zákon lomu přesněji než v druhém
+1104. Pro lom světla platí
+A) nį sina = n2 sinß
+b) Vų sina = V2 sinß
+c) na sina = nu sinß
+D) V2 sina = V1 sinß
+1105. Mezný úhel je
+A) úhel dopadu, pro nějž platí sinam = n2/nı
+b) úhel dopadu, při němž dojde k totálnímu odrazu světla
+c) největší úhel, pod kterým vstupují paprsky do mikroskopu
+d) největší úhel, pod kterým vystupují paprsky z lupy
+1106. Na totálním odrazu světla je založen princip funkce
+a) mikroskopu
+b) lupy
+c) polarimetru
+D) refraktometru
+1107. Obraz vytvořený rovinným zrcadlem je vždy
+a) skutečný
+B) neskutečný
+c) převrácený
+d) zvětšený
+1108. Obraz vytvořený rovinným zrcadlem je vždy
+A) přímý
+B) neskutečný
+C) stejně velký jako předmět
+d) souměrný s předmětem podle osy otáčení předmětu
+1109. Duté zrcadlo o poloměru křivosti 25 cm zobrazuje plamen svíčky. Jaký je obraz
+plamene, je-li vzdálenost plamene od zrcadla 40 cm?
+A) skutečný a zmenšený
+b) zdánlivý a zvětšený
+c) skutečný a zvětšený
+d) zdánlivý a zmenšený

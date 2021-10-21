@@ -1,0 +1,50 @@
+0
+304. Kolik sekund musí těleso, které je původně v klidu, padat volným pádem, aby
+urazilo stejnou dráhu jako při rovnoměrném pohybu rychlostí v. = 10 m.s-1?
+Použijte pro gravitační zrychlení hodnotu 10 m.s-2 a odpor vzduchu zanedbejte.
+a) 0,5 s
+b) 1s
+c) 1,5 s
+D) 2 s
+305. Rychlost, které těleso dosáhne po prvých 6 sekundách od počátku volného pádu
+z původně klidové polohy, při zanedbatelném odporu vzduchu, je přibližně
+a) 20 m/s
+b) 40 m/s
+C) 60 m/s
+d) 80 m/s
+306. Z jaké výšky musí padat koulè o hmotnosti 5 kg, která původně byla v klidu,
+aby její kinetická energie při dopadu byla 100 J? Použijte pro gravitační zrychlení
+hodnotu 10 m.s-2 a odpor vzduchu zanedbejte.
+a) 1 m
+B) 2 m
+c) 3 m
+d) 4 m
+307. Jaká je kinetická energie koule o hmotnosti 10 kg, která původně byla v klidu,
+a spadla z výšky 5 m? Použijte pro gravitační zrychlení hodnotu 10 m.s-2 a odpor
+vzduchu zanedbejte.
+a) 100 J
+b) 200
+C) 500)
+d) 1 kJ
+308. Jakou dobu musí padat koule o hmotnosti 2 kg, která původně byla v klidu,
+aby její kinetická energie byla 1,6 kJ? Použijte pro gravitační zrychlení hodnotu
+10 m.s
+a odpor vzduchu zanedbejte.
+a) 1s
+b) 2 s
+c) 3 s
+D) 4s
+309. Jakou dobu padá kámen z výšky 20 m? Použijte pro gravitační zrychlení hodnotu
+10 m.s-2 a odpor vzduchu zanedbejte.
+a) 1s
+B) 2 s
+c) 3s
+d) 4s
+310. Za jakou dobu dopadne zpět kámen vržený svisle vzhůru rychlostí 20 m.s-1?
+Použijte pro gravitační zrychlení hodnotu 10 m.s-2 a odpor vzduchu zanedbejte.
+a) 1s
+b) 2 s
+c) 3s
+D) 45
+2
+2

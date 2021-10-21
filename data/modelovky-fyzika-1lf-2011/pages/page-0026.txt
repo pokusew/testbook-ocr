@@ -1,0 +1,49 @@
+w
+2
+164. Uvažujte vyjádření jednotek jednotlivých veličin pomocí základních jednotek
+soustavy SI a vyberte správnou kombinaci:
+A) hybnost - kg.m.s-1
+b) síla - kg.m.s?
+C) práce - kg.m.s-2
+d) výkon - kg.m?.s-2
+165. Uvažujte vyjádření jednotek jednotlivých veličin pomocí základních jednotek
+soustavy SI a vyberte správnou kombinaci:
+a) hybnost – kg.m.s-?
+b) síla - kg.m.s-3
+C) práce - kg.m?.s-2
+D) výkon – kg.m².s-3
+166. Uvažujte vyjádření jednotek jednotlivých veličin pomocí základních jednotek
+soustavy SI a označte nesprávnou kombinaci:
+a) hybnost - kg.m.s-1
+B) síla -- kg.ma.s-2
+c) práce - kg.m’s-2
+D) výkon - kg.ms-3
+167. Uvažujte vyjádření jednotek jednotlivých veličin pomocí základních jednotek
+soustavy Sl a označte nesprávnou kombinaci:
+A) hybnost - kg.m.s
+b) síla – kg.m.s-2
+c) práce - kg.m.s-2
+D) výkon - kg.m’s-2
+168. Uvažujte vyjádření jednotek jednotlivých veličin pomocí základních jednotek
+soustavy SI a označte nesprávnou kombinaci:
+A) hybnost - kg.m.s
+B) síla – kg.m.s-3
+c) práce - kg.m’s-2
+d) výkon - kg.mº.s-3
+169. Uvažujte vyjádření jednotek jednotlivých veličin pomocí základních jednotek
+soustavy SI a označte nesprávnou kombinaci:
+a) hybnost - kg.m.s-1
+b) síla – kg.m.s-2
+C) práce - kg.m-2.5-2
+D) výkon – kg.m?.s-2
+170. Značí-li t čas, v rychlost a s posunutí, vyberte správný vztah pro vyjádření práce
+W nebo výkonu P při rovnoměrném konání práce (vektor síly F má shodný směr
+se směrem posunutí):
+A) P = W/t
+b) P = Fst
+c) P = F/v
+D) W = Fs
+-
+-2
+-
+:

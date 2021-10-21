@@ -1,0 +1,47 @@
+2
+871. Velikost momentu dvojice sil působících na rovinný závit o ploše 2000 cm², jehož
+plocha je rovnoběžná s indukčními čárami homogenního magnetického pole
+o magnetické indukci 500 mT je 0,5 N.m. Jaká je intenzita proudu v závitu?
+A) 5A
+b) 0,5 A
+c) 10 A
+d) 1A
+872. Na závit jehož plocha o velikosti 1000 cm² je rovnoběžná s indukčními čárami
+homogenního magnetického pole, působí moment dvojice sil o velikosti
+200 mN.m. Závitem prochází proud o intenzitě 2 A. Jaká je velikost magnetické
+indukce magnetického pole?
+a) 0,1 T
+b) 0,5 T
+C) 1T
+d) 5T
+873. Na závit, jehož plocha o velikosti 4000 cm” je rovnoběžná s indukčními čárami
+homogenního magnetického pole o indukci 200 ml působí moment dvojice sil
+o velikosti 400 mN.m. Jaký proud prochází závitem?
+A) 5A
+b) 10 A
+C) 15 A
+d) 20 A
+874. Jaké elektromotorické napětí je indukováno v cívce o indukčnosti 200 mH,
+klesá-li intenzita proudu, který jí prochází, o 200 mA za sekundu?
+a) 10 mV
+b) 20 mV
+c) 30 mV
+D) 40 mV
+V
+875. V cívce je při poklesu intenzity proudu o 300 mA za sekundu generováno
+elektromotorické napětí 60 mV. Jakou má cívka indukčnost?
+a) 100 mH
+B) 200 mH
+c) 300 mH
+d) 400 mH
+876. Volné makroskopické objekty zaujímají ve vnějším magnetickém poli takovou
+stálou rovnovážnou polohu, v níž má jejich magnetický moment směr
+a) kolmý k vektoru magnetické indukce
+B) stejný jako směr vektoru magnetické indukce
+c) opačný než je směr vektoru magnetické indukce
+d) libovolný
+877. Relativní permeabilita feromagnetických látek je
+a) značně menší než 1
+b) přibližně rovna 1
+c) přibližně 10
+D) až 100000

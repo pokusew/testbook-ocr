@@ -1,0 +1,50 @@
+801. Při vedení proudu dochází k přenosu látky
+A) v elektrolytech a ionizovaných plynech
+b) pouze v elektrolytech
+c) v kovech
+d) v polovodičích
+802. Při vedení elektrického proudu nedochází k přenosu látky
+a) pouze v kovech
+b) pouze v polovodičích
+C) v kovech a polovodičích
+d) v elektrolytech
+803. Jednotkou Faradayovy konstanty je
+a) A.kg-1
+b) A.mol-1
+c) C.kg-1
+D) C.mol-1
+804. Značí-li I intenzitu proudu, Q náboj a t čas, pak hmotnost m látky vyloučené na
+elektrodě v průběhu elektrolýzy lze pomocí elektrochemického ekvivalentu
+A látky vyjádřit jako
+A) m = AQ
+b) m = A/Q
+c) m = - AQt
+d) m = A/I
+805. Značí-li I intenzitu proudu, Q náboj a A elektrochemický ekvivalent látky, pak
+probíhá-li proces elektrolýzy po dobu t, je hmotnost m látky vyloučené na elektrodě
+A) m = Alt
+b) m = Al/t
+c) m = AQt
+d) m = = AQ/t
+806. Značí-li Mm molární hmotnost, z - počet elektronů, a Q náboj, použitím
+Faradayovy konstanty F lze množství látky vyloučené elektrolýzou na elektrodě
+vyjádřit jako
+a) m = FQ/(M22)
+B) m = = MmQ/(FZ)
+c) m = Mm2/(QF)
+d) m = Fz/(QF)
+807. Značí-li M, molární hmotnost, z - počet elektronů, Q - náboj a F Faradayovu
+konstantu, je elektrochemický ekvivalent A definován vztahem
+a) A = FQ/(Mm)
+B) A = Mm/(FZ)
+c) A = MmQ/(FZ)
+d) A = Fz/M.
+808. Ve jmenovateli výrazu pro vyjádření množství látky vyloučené elektrolýzou
+s použitím Faradayovy konstanty je násobek z. Jaká je jeho hodnota pro
+elektrolytické vyloučení zlata z roztoku chloridu zlatitého?
+a) 1
+b) 2
+C) 3
+d) 4
+m
+>

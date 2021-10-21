@@ -1,0 +1,45 @@
+S.
+1084. Značí-li c rychlost světla ve vakuu a v jeho rychlost v daném prostředí, pak
+absolutní index lomu n světla
+a) je vždy menší než 1
+b) je definován vztahem n = v/c
+C) jeho hodnota pro dané prostředí je závislá na barvě světla
+D) jeho hodnota pro dané prostředí je závislá na frekvenci světla
+1085. Viditelné světlo má rozsah frekvencí
+a) (3,8 až 7,7). 1013 Hz
+B) (3,8 až 7,7). 1014 Hz
+c) (3,8 až 7,7). 1015 Hz
+d) (3,8 až 7,7). 1016 Hz
+1086. Viditelné světlo má rozsah vinových délek
+a) 3,9 až 7,9 um
+b) 39 až 79 um
+C) 0,39 až 0,79 um
+d) 39 až 79 nm
+1087. Světlo sodíkové výbojky má ve vzduchu vlnovou délku 590 nm. Jaká je jeho
+vlnová délka ve vodě? Index lomu vody je 1,33.
+a) 424 nm
+b) 434 nm
+C) 444nm
+d) 454 nm
+1088. Dvě koherentní vlny světla sodíkové výbojky o vlnové délce 590 nm se setkají
+v jednom bodě. Jejich dráhový rozdíl je 0,0295 mm. Zvolte správnou odpovědi
+a) dojde k interferenčnímu minimu
+B) dojde k interfernčnímu maximu
+c) nedojde k interferenci
+d) žádná odpověd' není správná
+1089. Absolutní index lomu
+A) je bezrozměrná veličina
+b) má rozměr m.s-1
+c) má rozměr rad
+d) má rozměr rad-1
+1090. Index lomu vakua je pro žluté světlo
+a) menší než pro červené
+B) stejný jako pro červené
+c) větší než pro červené
+d) větší než 1
+1091. Index lomu daného skla je pro žluté světlo
+a) menší než pro červené
+B) větší než pro červené
+c) stejný jako pro červené
+D) větší než 1
+"

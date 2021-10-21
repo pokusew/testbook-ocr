@@ -1,0 +1,48 @@
+=
+156. Jaká je kinetická energie automobilu o hmotnosti 1300 kg jedoucího rychlostí
+72 km/hod?
+a) 520 kJ
+b) 390 k)
+C) 260 kJ
+d) 780 kJ
+157. Značí-li W práci, t čas a s dráhu, je veličina výkon P definována vztahem
+a) P = Wt
+B) P = W/t
+c) P = Ws
+d) P = W/s
+158. Který z uvedených vztahů mezi jednotkami je správný?
+a) W = N.s
+b) W = N/s
+c) W = J.S
+D) W = J/s
+159. Watt sekunda je jednotkou
+A) práce
+b) výkonu
+C) energie
+d) síly
+160. Kterou z následujících jednotek můžeme použít k vyjádření práce?
+a) J/S
+B) kW.hod
+c) J.S
+D) W.s
+161. Jednotku výkonu watt lze pomocí základních jednotek soustavy SI vyjádřit jako
+a) kg.ma.s-1
+b) kg.m².s-2
+C) kg.m?.5-3
+d) kg.mº.s-2
+162. Uvažujte vyjádření jednotek jednotlivých veličin pomocí základních jednotek
+soustavy SI a vyberte správnou kombinaci:
+A) hybnost - kg.m.s-1
+b) síla – kg.m-1.s?
+c) práce - kg.m².s-1
+D) výkon – kg.m?.s-3
+163. Uvažujte vyjádření jednotek jednotlivých veličin pomocí základních jednotek
+soustavy SI a vyberte správnou kombinaci:
+a) hybnost - kg.m.s
+B) síla – kg.m.s-2
+C) práce - kg.m”.5-2
+d) výkon – kg.m3.s-3
+-1
+-2
+-2
+.

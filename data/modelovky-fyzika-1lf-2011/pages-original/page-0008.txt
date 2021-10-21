@@ -1,0 +1,45 @@
+19. Která z uvedených jednotek není jednotkou odvozenou?
+A) rad
+b) ]
+C) min
+D) mol
+20. Která z uvedených jednotek je jednotkou odvozenou?
+a) min
+b) sr
+C) Pa
+d) km
+21. Která z uvedených veličin je vektorem?
+a) tlak
+B) tlaková síla
+c) hydrostatický tlak
+d) tlak v plynu
+22. Která z uvedených veličin je skalárem?
+a) tlaková síla
+b) vztlaková síla
+C) hydrostatický tlak
+D) hustota
+23. Které z uvedených tvrzení je pravdivé?
+a) hybnost je skalár
+b) velikost rychlosti je vektor
+C) posunutí je vektor
+d) velikost dráhy je vektor
+24. Která z uvedených veličin je vektorem?
+a) hmotnost
+B) hybnost
+c) kinetická energie
+d) tlak
+25. Která z uvedených veličin je skalárem?
+A) hustota
+B) elektrický potenciál
+C) čas
+d) posunutí
+26. Která z uvedených veličin je skalárem?
+A) frekvence
+b) dostředivá síla
+C) velikost rychlosti
+d) gravitační zrychlení
+27. Předpona atto- (a) před značkou jednotky značí
+a) 10-15
+b) 10-12
+C) 10-9
+D) 10-18

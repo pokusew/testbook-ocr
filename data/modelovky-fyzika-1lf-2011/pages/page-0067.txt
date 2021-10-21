@@ -1,0 +1,46 @@
+477. Kolik molekul argonu je v tomto vzácném plynu při objemu 2,5 1, teplotě
+250 K a tlaku 2,49 MPa? Počítejte s přibližnými hodnotami molární plynové
+konstanty 8,3 J.K-1.mol-1 a Avogadrovy konstanty 6.1023mol-4;
+a) 1023
+b) 1,2.1024
+C) 1,8.1024
+d) 2,4.1024
+478. Jaká je hmotnost oxidu uhličitého při jeho objemu 3 1, teplotě 300 K a tlaku
+3,32 MPa? Počítejte s přibližnými hodnotami molární plynové konstanty
+8,3 J.K-1.mol-1 a relativních atomových hmotností kyslíku a uhlíku 16 a 12;
+a) 44 g
+B) 176 g
+c) 88 g
+d) 196 g
+479. Jaká je hmotnost kyslíku při jeho objemu 3,5 1, teplotě 350 K a tlaku 0,83 MPa?
+Počítejte s přibližnými hodnotami molární plynové konstanty 8,3 J. K4.mol-1
+a relativní atomové hmotnosti kyslíku 16;
+A) 32 g
+b) 16 g
+c) 128 g
+d) 64 g
+480. Kolik molekul plynu je přibližně v objemu 1 um při teplotě 273 K a tlaku 105 Pa?
+Pro Boltzmannovu konstantu použijte hodnotu 1,38x10-23 J.K1
+a) 2,7x105
+b) 2,7x106
+C) 2,7x10?
+d) 2,7x108
+481. Plyn uzavřený v nádobě s pohyblivým pístem zvýšil při stálém tlaku 0.4 MPa svůj
+objem o 200 cm?. Jakou práci vykonal?
+a) 20 )
+b) 40 )
+C) 80J
+d) 100)
+482. Jakou práci vykonal plyn při izobarickém ději při tlaku 0,5 MPa, jestliže
+‘zdvojnásobil svůj původní objem 100 cm3?
+a) 20 )
+b) 40 )
+C) 50 )
+d) 100J
+483. Jaký je přibližný počet molekul v 0,090 kg vody (použijte přibližných hodnot
+Avogadrovy konstanty 6.1023mol-1 a relativních hmotností kyslíku 16 a vodíku 1)?
+а
+a) 1024
+b) 1024
+C) 3.1024
+d) 1024

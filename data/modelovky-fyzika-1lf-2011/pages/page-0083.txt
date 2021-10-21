@@ -1,0 +1,49 @@
+596. Vztah pro výpočet výšky, do které vystoupí kapalina v kapiláře během kapilární
+elevace vyplývá z podmínky rovnosti mezi
+a) kapilárním tlakem a povrchovým napětím
+b) kapilárním tlakem a tíhou sloupce kapaliny
+C) kapilárním tlakem a hydrostatickým tlakem
+d) povrchovým napětím a tíhou kapaliny
+597. Při změně teploty o hodnotu At se původní objem Vį u většiny kapalin změní na
+objem V, který můžeme použitím součinitele teplotní objemové roztažnosti B
+přibližně vyjádřit jako
+a) V = V1 BA
+B) V = V1 (1 + B At)
+c) V = V1 (1 - B At)
+d) V = V1 + B At
+598. Jednotkou součinitele teplotní objemové roztažnosti je
+=
+a) K.m-3
+3
+b) m /K
+c) K-2.m-1
+D) K-1
+599. Označte pravdivé tvrzení
+a) voda má největší hustotu při 284 K
+B) u většiny kapalin objem s rostoucí teplotou roste
+C) jednotkou součinitele teplotní objemové roztažnosti kapalin je K-1
+D) u většiny kapalin hustota s rostoucí teplotou klesá
+600. Označte nepravdivé tvrzení týkající se součinitele teplotní objemové roztažnosti
+kapalin:
+A) je obecně menší než u pevných látek
+b) jeho jednotkou je K-1
+C) jeho jednotkou je mº. K-1
+D) je pro většinu kapalin záporný v celém teplotním rozmezí
+601. Označte alternativu, ve které je jednotka správně uvedena:
+A) tepelná kapacita - J. K-1
+B) měrná tepelná kapacita - J. kg-1, K-1
+c) Boltzmannova konstanta - J. K-1.mol-1
+D) normálové napětí - Pa
+602. Označte alternativu, ve které je jednotka uvedena nesprávně:
+A) tepelná kapacita - J. kg-1
+B) měrná tepelná kapacita - J. kg-1
+c) měrné skupenské teplo tání - J. kg-1
+D) jednotka konstanty v Boylově-Mariottově zákonu – J. kg-1
+603. Označte variantu, ve které obě uvedené veličiny či konstanty nemají stejnou
+jednotku:
+A) normálové napětí a povrchové napětí
+B) Avogadrova konstanta a Boltzmannova konstanta
+c) součinitel teplotní délkové roztažnosti a součinitel teplotní objemové roztažnosti
+D) měrné skupenské teplo tání a měrná tepelná kapacita
+-
+-1

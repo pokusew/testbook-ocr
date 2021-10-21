@@ -1,0 +1,47 @@
+=
+...
+311. Skleněná a železná koule o stejném poloměru padají volným pádem z výšky h.
+Odpor vzduchu zanedbejte. Které tvrzení je správné?
+a) kinetické energie obou koulí budou při dopadu stejné
+B) rychlosti obou koulí budou při dopadu stejné
+c) železná koule dopadne dříve než skleněná
+D) obě koule dopadnou ve stejném okamžiku
+312. Koule o poloměru Rz a druhá o poloměru R2 = 2R1, vyrobené ze stejného
+materiálu, padají současně volným pádem z výšky h. Odpor vzduchu zanedbejte.
+Které tvrzení je správné?
+A) obě dopadnou současně
+b) větší koule dopadne dříve
+c) kinetická energie koule s poloměrem Rz bude při dopadu dvojnásobkem kinetické
+energie menší koule
+d) kinetické energie obou koulí budou při dopadu stejné
+313. Koule o poloměru Rz a druhá o poloměru R2 = 2R1, vyrobené ze stejného
+materiálu, padají současně volným pádem z výšky h. Odpor vzduchu zanedbejte.
+Které tvrzení je správné?
+A) obě dopadnou současně
+b) kinetická energie koule s větším poloměrem bude při dopadu 2x větší než kinetická
+energie menší koule
+c) kinetická energie koule s větším poloměrem bude při dopadu 4x větší než kinetická
+energie menší koule
+D) kinetická energie koule s větším poloměrem bude při dopadu 8x větší než kinetická
+energie menší koule
+314. Těleso o hmotnosti 5 kg padá volným pádem z výšky 20 m. Použijte pro gravitačn
+zrychlení hodnotu 10 m.s-2
+a odpor vzduchu zanedbejte. Které tvrzení je
+správné?
+A) jeho rychlost při dopadu je 20 m/s
+b) jeho rychlost při dopadu je přibližně 14 m/s
+C) jeho hybnost při dopadu je 100 kg.m.s-1
+D) jeho kinetická energie při dopadu je 1 kJ
+315. Těleso o hmotnosti 10 kg padalo volným pádem a při dopadu mělo hybnost
+200 kg.m.s-1. Použijte pro gravitační zrychlení hodnotu 10 m.s-2 a odpor vzduch
+zanedbejte. Z jaké výšky padalo?
+a) 5 m
+b) 10 m
+c) 15 m
+D) 20 m
+316. Těleso padá volným pádem z výšky 40 m. V jaké výšce bude jeho kinetická
+energie stejná jako potenciální? Odpor vzduchu zanedbejte.
+a) 15 m
+b) 16 m
+c) 18 m
+D) 20 m

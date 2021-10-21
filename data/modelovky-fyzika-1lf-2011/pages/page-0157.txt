@@ -1,0 +1,51 @@
+.
+1193. Určete pravdivé tvrzení: Infračervené záření
+A) snadno proniká mlhou
+b) má vlnové délky kratší než 790 nm
+C) je využíváno slunečními kolektory
+d) ionizuje vzduch
+1194. Určete pravdivé tvrzení: Ultrafialové záření
+a) je pohlcováno křemenným sklem
+B) ionizuje vzduch
+C) má vlnové délky kratší než 390 nm
+D) má fyziologické účinky
+1195. Určete pravdivé tvrzení
+A) emisní spektrum plynů je čárové
+B) emisní spektrum pevných látek je spojité
+c) emisní spektrum kapalných látek je čárové
+D) Absorpční spektrum plynů je čárové
+1196. Regulace proudu v rentgence se uskutečňuje
+a) chlazením rentgenky
+b) chlazením anody
+C) žhavením katody
+d) žhavením anody
+1197. Energie fotonu uvolněného při fluorescenci je ve srovnání s energií budícího
+záření převážně
+a) větší
+b) nezávislá na energii budícího záření
+c) stejná
+D) menší
+1198. Opticky aktivní látky
+a) samovolně emitují fluorescenční záření
+B) stáčejí rovinu lineárně polarizovaného světla
+c) zbarvují pokožku
+d) mění barvu po ozáření bílým světlem
+1199. Olej je opticky řidší než
+a) vzduch
+b) vodní páry
+c) voda
+D) sklo
+1200. Při průchodu světla z látky do vzduchu (n = 1) nastal úplný odraz při úhlu
+dopadu 45º. Hodnota indexu lomu látky je
+a) n =
+n = 1/V2
+b) n = 1/V3
+C) n =
+= V2
+d) n =
+V3
+1201. Které tvrzení je správné? Při fotoelektrickém jevu
+A) existuje pro každý kov mezní frekvence dopadajícího záření
+B) roste energie uvolněných elektronů s rostoucí frekvencí záření
+c) závisí energie uvolněných elektronů na intenzitě záření
+D) jsou elektrony uvolňovány z katody

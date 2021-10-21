@@ -1,0 +1,47 @@
+Z
+809. Ve jmenovateli výrazu pro vyjádření množství látky vyloučené elektrolýzou
+s použitím Faradayovy konstanty je násobek z. Jaká je jeho hodnota pro
+elektrolytické vyloučení mědi z roztoku měďnaté sole?
+a) 1
+B) 2
+c) 3
+d) 4
+810. Látkové množství molekul vodíku H, vyloučené proudem 0,5 A za 1 hodinu je
+přibližně
+a) 3 mmol
+b) 5 mmol
+C) 9 mmol
+d) 12 mmol
+811. “Kapacita" akumulátoru se vyjadřuje v jednotkách
+A) náboje
+b) proudu
+c) práce
+d) výkonu
+812. Vyberte nesprávné tvrzení:
+A) v galvanickém článku sestaveném z měděné elektrody ponořené do roztoku měďnatých
+iontů a zinkové elektrody ponořené do roztoku zinečnatých iontů bude povrch měděné
+elektrody záporný
+b) Daniellův článek je sestaven z měděné elektrody v roztoku měd'natých iontů a zinkové
+elektrody v roztoku zinečnatých iontů
+C) suchých článků se využívá například v automobilové baterii
+D) polarizační napětí má stejný směr jako napětí zdroje původně připojeného na elektrody
+813. Vyberte nesprávné tvrzení:
+A) polarizační napětí může nabývat libovolně velkých hodnot
+b) akumulátor je polarizační článek
+C) "kapacitu" akumulátoru vyjadřujeme v jednotkách proudu
+D) Daniellův článek má obě elektrody ponořeny do téhož elektrolytu
+814. Vysoká kapacita elektrolytických kondenzátorů je dána
+a) nízkou hodnotou permitivity
+b) disociací na ionty
+c) elektrolytickým procesem
+D) vysokou hodnotou permitivity
+815. Označte správné tvrzení: Plyn se může stát vodičem
+A) zahřátím na vysokou teplotu
+B) ozářením rentgenovými paprsky
+c) zkapalněním
+D) ozářením zářením beta
+816. Plyn se stává vodičem na základě
+A) ionizace
+b) excitace
+c) rekombinace
+d) disociace na atomy

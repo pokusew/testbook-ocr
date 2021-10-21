@@ -1,0 +1,50 @@
+118. Při rovnoměrném pohybu hmotného bodu po kružnici o poloměru r = 50 cm
+s frekvencí f = 100 Hz je velikost postupné rychlosti v přibližně rovna
+a) v = 157 m/s
+B) v = 314 m/s
+c) y = 628 m/s
+d) v = 1256 m/s
+119. Jak se točí buben pračky o průměru 30 cm, je-li odstředivé zrychlení na jeho
+obvodu 592 m.s-27
+a) 200 ot/min
+b) 400 ot/min
+C) 600 ot/min
+d) 800 ot/min
+120. Jaká je úhlová rychlost kola automobilu o průměru 80 cm jedoucího rychlostí
+108 km/hod?
+a) 15 rad/s
+b) 30 rad/s
+c) 60 rad/s
+D) 75 rad/s
+121. Rotor centrifugy o průměru 20 cm rotuje rychlostí 3000 otáček/minutu. Jaké je
+odstředivé zrychlení?:
+a) 4930 m.s-2
+B) 9860 m.s-2
+c) 12890 m.s-2
+d) 19720 m.s-2
+122. Obvodová rychlost bodu na rovníku, způsobená rotací Země (uvažujte velikost
+poloměru Země 6400 km) je přibližně rovna
+a) 346 m/s
+B) 465 m/s
+c) 634 m/s
+d) 926 m/s
+123. Exoplaneta s průměrem 14400 km v rovině rovníku se jednou otočí za
+12,56 hodin. Jaká je obvodová rychlost bodu na jejím rovníku?
+a) 250 m/s
+b) 500 m/s
+c) 750 m/s
+D) 1000 m/s
+124. Při rovnoměrném pohybu hmotného bodu po kružnici o poloměru r = 40 cm
+s úhlovou rychlostí 30 rad.s-1 je velikost postupné rychlosti rovna
+a) 1 m/s
+B) 12 m/s
+c) 10 m/s
+d) 90 m/s
+125. Při rovnoměrném pohybu hmotného bodu o hmotnosti 50 gpo
+kružnici
+o průměru 50 cm s frekvencí 50 Hz je jeho kinetická energie přibližně:
+a) 77 )
+b) 0,308 kJ
+C) 154 )
+d) 616)
+V

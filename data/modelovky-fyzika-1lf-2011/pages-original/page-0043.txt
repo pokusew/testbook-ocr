@@ -1,0 +1,47 @@
+=
+=
+-
+297. Rychlost tělesa při volném pádu v závislosti na čase znázorníme v pravoúhlých
+souřadnicích jako
+a) přímku rovnoběžnou s vodorovnou osou
+B) přímku o směrnici g
+c) parabolu
+d) hyperbolu
+298. Zrychlení tělesa při volném pádu v závislosti na čase znázorníme v pravoúhlých
+souřadnicích jako
+A) přímku rovnoběžnou s vodorovnou osou
+b) přímku o směrnici g
+c) parabolu
+d) hyperbolu
+299. Označíme-li gravitační zrychlení g, pak pro těleso vržené svisle vzhůru rychlostí
+o velikosti v, lze vyjádřit výšku výstupu h jako
+a) h = Vog
+b) h = vo/g
+c) h = (vo)?/g
+D) h = (v.)?/(28)
+300. Označíme-li gravitační zrychlení g, pak těleso, které bylo vrženo svisle vzhůru
+a dosáhlo výšky h dopadne zpět na povrch Země rychlostí v danou vztahem
+a) v = 2gh
+b) v= (2gh)?
+c) v = 2gh?
+D) y= 2gh
+301. Těleso bylo vrženo svisle vzhůru rychlostí vo při gravitačním zrychlení g. Dopadlo
+zpět na povrch Země rychlostí v. Odpor vzduchu zanedbáváme. Platí, že
+a) v = vo/2
+B) v = Vo
+c) v = = 2vo
+d) v = gvo
+302. Při vodorovném vrhu je výsledné posunutí za určitý čas rovno
+a) skalárnímu součtu dvou posunutí
+b) vektorovému součtu dvou posunutí, kde obě posunutí odpovídají rovnoměrnému
+přímočarému pohybu
+C) vektorovému součtu dvou posunutí, kde jedno odpovídá rovnoměrnému přímočarému
+a druhé rovnoměrně zrychlenému přímočarému pohybu
+d) vektorovému součtu dvou posunutí, kde obě odpovídají rovnoměrně zrychlenému
+přímočarému pohybu
+303. Dráha, kterou těleso vykoná během prvých 5 sekund od počátku volného pádu
+z původně klidové polohy, při zanedbatelném odporu vzduchu, je přibližně
+a) 20 m
+b) 40 m
+c) 90 m
+D) 125 m

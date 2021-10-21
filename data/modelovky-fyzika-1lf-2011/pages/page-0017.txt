@@ -1,0 +1,50 @@
+m
+.S
+95. Při volném pádu ve vzduchu trvajícím 4 s dosáhlo těleso hybnosti 60 kg.m.s-1
+Odpor vzduchu zanedbejte a uvažujte tíhové zrychlení 10 m.s-2 Jaká je jeho
+hmotnost?
+a) 0,75 kg
+B) 1,5 kg
+c) 3 kg
+d) 4,5 kg
+96. Jak velký impuls síly uvedl do pohybu rychlostí 2 m/s původně nehybné těleso
+o hmotnosti 30 kg?
+a) 20 N.s
+b) 40 N.s
+C) 60 N.s
+d) 80 N.S
+97. Při volném pádu ve vzduchu trvajícím 2 s dosáhlo těleso hybnosti 200 kg.m.s-1.
+Odpor vzduchu zanedbejte a uvažujte tíhové zrychlení 10 m.s-2 Jaká je jeho
+hmotnost?
+a) 1 kg
+B) 10 kg
+c) 20 kg
+d) 100 kg
+98. Jednotkou hybnosti je
+a) kg.m.s
+B) kg.m.s-1
+c) kg.m-1.5
+d) kg-1.m.s
+99. Jakou energii přibližně dodal setrvačník s momentem setrvačnosti 50 kg.m,
+jehož počet otáček klesl z původních 840 ot/min na 420 ot/min?
+a) 70 )
+b) 145 )
+c) 70 kJ
+D) 145 kJ
+100. Míček o hmotnosti 20 g byl odpálen raketou s rychlostí 108 km/hod. Náraz rakety
+trval 0,05 s. Jaká byla síla nárazu rakety?
+a) 6N
+B) 12 N
+C) 18 N
+d) 120 N
+101. Těleso o hmotnosti 100 g původně v klidu bylo urychleno na rychlost 108 km/hod.
+Jak velký byl impuls síly?
+a) 2 N.s
+B) 3 N.s
+c) 4 N.s
+d) 5 N.s
+102. Velikost síly působící na těleso můžeme vyjádřit jako
+a) F = m/a
+b) Fra/m
+C) F = ma
+d) F= ma?

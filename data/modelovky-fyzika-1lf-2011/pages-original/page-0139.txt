@@ -1,0 +1,48 @@
+1042. Šíří-li se vlnění z prostředí s rychlostí šíření Ví do prostředí s rychlostí šíření V2
+a je-li vi < V2, pak na rozhraní
+a) dochází k odrazu s opačnou fází
+B) dochází k odrazu se stejnou fází
+c) dochází střídavě k odrazu se stejnou a opačnou fází
+d) nedochází k odrazu vůbec
+1043. Na volném konci pružné hadice nastává odraz vlnění
+A) se stejnou fází
+b) sopačnou fází
+c) s fází rt/4
+d) s fází 1/2
+1044. Které z následujících tvrzení je pro stojaté vlnění správné?
+A) vzdálenost sousedních kmiten je rovna 1/2
+B) vzdálenost sousedních uzlů je rovna 1/2
+c) polohy kmiten a uzlů jsou navzájem posunuty o 1/2
+D) polohy kmiten a uzlů jsou navzájem posunuty o 1/4
+1045. Které z následujících tvrzení je správné?
+A) stojatým vlněním se nepřenáší mechanická energie
+B) postupným vlněním se přenáší mechanická energie
+c) stojatým vlněním se přenáší mechanická energie
+d) při postupném netlumeném vlnění kmitají body s různou amplitudou
+1046. Vyšší harmonické frekvence jsou
+a) frekvence vyšší než frekvence komorního a
+b) frekvence vyšší než dvojnásobek komorního a
+C) celočíselné násobky základní frekvence
+d) celočíselné podíly základní frekvence
+1047. Které z následujících tvrzení je správné?
+A) v izotropním prostředí je fázová rychlost ve všech směrech stejná
+B) vanizotropním prostředí je fázová rychlost v různých směrech různá
+C) v izotropním prostředí se vlnění šíří v kulových vinoplochách
+d) směr šíření vlnění v izotropním prostředí je určen tečnou k vinoploše
+1048. Zákon lomu vlnění na rovinném rozhraní je možné popsat vztahem
+a) sina.sinB = V1. V2
+b) sina.sinB = n
+C) sina /sinB = v1/v2.
+d) sina /sinB = V2/V1
+1049. Při šíření postupného vlnění
+A) kmitají všechny body se stejnou amplitudou
+b) nedochází k přenosu mechanické energie
+C) je fázová rychlost v izotropním prostředí v různých směrech stejná
+d) je směr šíření určen směrem tečny k vlnoploše
+1050. Mechanické vlnění s frekvencí menší než 16 Hz
+a) nazýváme ultrazvuk
+B) nazýváme infrazvuk
+c) nemůže vznikat
+D) je neslyšitelné
+=
+W

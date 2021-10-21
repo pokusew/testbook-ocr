@@ -1,0 +1,48 @@
+=
+W
+1228. Ostřelováním i C1 protonem vznikne i Ar, Částicí uvolněnou při reakci je
+a) helion
+B) neutron
+c) elektron
+d) pozitron
+1229. Je-li n hlavní kvantové číslo a Ei energie základního energetického stavu v atomu
+vodíku, je energie E, excitovaného stavu dána vztahem
+a) E. = E1.n
+b) En = E1/n
+c) E, = E1.nº
+D) Em = E1/na
+1230. Pro detekci jaderného záření lze použít
+a) cyklotron
+B) bublinovou komoru
+C) mlžnou komoru
+D) Geigerův-Mullerův počítač
+1231. Různé izotopy určitého prvku lze rozlišit
+a) pouze chemicky
+B) pouze fyzikálními metodami
+c) chemickými i fyzikálními metodami
+d) pouze na základě záření, které emitují
+1232. Izotopy určitého prvku mají
+A) stejné protonové a různé nukleonové číslo
+b) různé protonové a stejné nukleonové číslo
+c) různé protonové i nukleonové číslo
+d) stejné nukleonové číslo
+1233. Relativní atomové hmotnosti iontů je možné určit pomocí
+a) cyklotronu
+b) mlžné komory
+C) hmotnostního spektrometru
+d) speciálních analytických vah
+1234. Záření beta je
+a) proud neutronů
+b) elektricky neutrální
+C) proud elektronů
+d) proud deuteronů
+1235. Záření alfa
+a) má nukleonové číslo 2
+B) má kladný náboj
+c) je synonymem pro deuteron
+D) je částice složená ze 2 protonů a 2 neutronů
+1236. Pracovní náplní Geigerova-Mullerova počítače může být
+a) vakuum
+b) přehřátá kapalina
+c) vodní pára
+D) zředěný netečný plyn

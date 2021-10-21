@@ -1,0 +1,48 @@
+393. Kapacita deskového kondenzátoru je
+a) nepřímo úměrná obsahu účinné plochy desek a jejich vzdálenosti
+B) přímo úměrná obsahu účinné plochy desek a nepřímo úměrná jejich vzdálenosti
+c) přímo úměrná obsahu účinné plochy desek a nepřímo úměrná čtverci jejich vzdálenosti
+d) přímo úměrná obsahu účinné plochy desek a čtverci jejich vzdálenosti
+394. Které z následujících tvrzení je správné?
+A) kapacita kondenzátoru závisí na prostředí mezi deskami
+B) kapacita kondenzátoru je nepřímo úměrná vzdálenosti mezi deskami
+c) kapacita kondenzátoru je nepřímo úměrná ploše jeho desek
+d) kapacita kondenzátoru nezávisí na vzdálenosti mezi deskami
+395. Které z následujících tvrzení je správné?
+A) kapacita daného kondenzátoru bude tím větší
+, čím bude větší permitivita prostředí mezi
+deskami
+B) kapacita kondenzátoru je nepřímo úměrná vzdálenosti mezi deskami
+C) vliv prostření na kapacitu kondenzátoru můžeme vyjádřit pomocí permitivity
+d) vliv prostředí na kapacitu kondenzátoru můžeme vyjádřit pomocí měrné elektrické
+vodivosti
+396. Mezi deskami daného kondenzátoru je vzduch. Umístíme-li tento kondenzátor do
+vakua, jeho kapacita
+a) se nezmění
+b) nepatrně vzroste
+C) nepatrně klesne
+d) značně poklesne
+397. Nabitý kondenzátor fotoblesku o kapacitě 800 uF má napětí 500 V. Jaká energie
+se spotřebuje při záblesku, při kterém se kondenzátor úplně vybije?
+a) 40 )
+B) 100 )
+c) 150 )
+d) 200)
+398. Energie elektrického pole kondenzátoru o kapacitě 400 mF nabitého na napětí
+20 V je
+a) 8 )
+B) 80 )
+c) 4)
+d) 160J
+399. Dva stejné kondenzátory, každý o kapacitě 100 pF jsou zapojeny paralelně.
+Výsledná kapacita je.
+a) 10 pF
+B) 200 pF
+c) 50 pF
+d) 100 pF
+400. Dva stejné kondenzátory o kapacitě 100 pF jsou zapojeny sériově. Výsledná
+kapacita je
+A) 50 pF
+b) 200 pF
+c) 2 pF
+d) 10 pF

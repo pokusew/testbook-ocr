@@ -1,0 +1,55 @@
+1
+10
+10
+1026. Tlakové změny, kterými se šíří zvuková vlna, jsou
+A) adiabatické
+b) izochorické
+c) izotermické
+d) izobarické
+1027. Dvě vlnění jsou koherentní, mají-li
+a) stejnou intenzitu
+B) konstantní fázový rozdíl
+c) stejnou amplitudu
+d) je-li jejich postupná rychlost šíření stejná
+1028. Fázový rozdíl Aq dvou vlnění o stejné vlnové délce à souvisí s jejich dráhovým
+rozdílem Ax vztahem
+Α) Δφ = (2π/λ).Δx
+b) Δφ.Δx = 2π/λ
+c) Δφ.Δx =1
+d) Δφ/Δx = 2πλ
+1029. Šíří-li se vlnění z prostředí s rychlostí šíření V, do prostředí s rychlostí šíření v2
+a je-li v2 <V1, pak na rozhraní
+A) dochází k odrazu s opačnou fází
+b) dochází k odrazu se stejnou fází
+c) dochází střídavě k odrazu se stejnou a opačnou fází
+d) nedochází k odrazu vůbec
+1030. Celková energie kmitání mechanického oscilátoru
+A) je přímo úměrná druhé mocnině amplitudy výchylky
+b) je nepřímo úměrná druhé mocnině amplitudy výchylky
+C) je přímo úměrná druhé mocnině amplitudy rychlosti vlastního kmitání
+d) je nepřímo úměrná druhé mocnině amplitudy rychlosti vlastního kmitání
+1031. Těleso zavěšené na pružině o tuhosti 10 N.m-vykonalo 30 kmitů za minutu.
+Jeho hmotnost je přibližně
+a) 0,1 kg
+b) 0,25 kg
+c) 0,5 kg
+D) 1 kg
+1032. Těleso o hmotnosti 3,6 kg kmitalo na pružině o tuhosti 10 N.m-1 Kolik kmitů
+vykonalo za 1 minutu?
+a) 128
+b) 64
+c) 32
+D) 16
+1033. Mechanický oscilátor tvořený tělesem o hmotnosti 100 g zavěšeným na pružině
+o tuhosti 10 N.m-1 kmitá s amplitudou 4 cm. Rychlost tělesa při průchodu
+rovnovážnou polohou je
+a) 0,1 m.s-1
+b) 0,2 m.s-1
+c) 0,3 m.s-1
+D) 0,4 m.s-1
+103
+103
+-1
+104
+4
+104

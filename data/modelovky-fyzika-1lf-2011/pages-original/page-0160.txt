@@ -1,0 +1,52 @@
+=
+-2
+-2
+-2
+1219. Pro de Broglieho vlnovou délku a příslušející částici s hybností p platí vztah (h je
+Planckova konstanta)
+a) 1 = h.p
+b) 1 = p/h
+C) = h/p
+d) 2.h =p
+1220. Tlak záření výkonného laseru s hustotou zářivého toku 3x1018 W.m-2 je
+a) 108 Pa
+b) 109 Pa
+C) 1010 Pa
+d) 1011 Pa
+1221. Tlak záření výkonného laseru je 3x10° Pa. Jaká je jeho hustota zářivého toku?
+a) 9x1015 W.m-2
+b) 9x1016 W.m-2
+C) 9x1017 W.m-2
+d) 9x1018 W.m-2
+1222. Stav elektronu v atomu je určen
+a) hlavním kvantovým číslem
+b) třemi kvantovými čísly
+C) čtyřmi kvantovými čísly
+d) Pauliho principem
+1223. Elektronová konfigurace uhlíku v základním energetickém stavu je
+A) (15)2 (28)2 (2p)?
+b) (1s)? (2s)(2p)(35)
+c) (1s)? (2s)? (2p)' (3s)?
+d) (1s)? (2s)? (2p) (3)
+1224. Ostřelováním 1 Mg deuteronem vznikne Al. Částicí uvolněnou při reakci je
+A) neutron
+b) proton
+c) elektron
+d) deuteron
+1225. Ostřelováním 180 deuteronem vznikne 14N. Částicí uvolněnou při reakci je
+A) helion
+b) proton
+c) foton
+d) elektron
+1226. Ostřelováním 28Ni protonem vznikne 29Cu. Částicí uvolněnou při reakci je
+a) proton
+B) neutron
+c) helion
+d) elektron
+1227. Ostřelováním jis neutronem vznikne P. Částicí uvolněnou při reakcije
+A) proton
+b) neutron
+c) deuteron
+d) helion
+60
+16

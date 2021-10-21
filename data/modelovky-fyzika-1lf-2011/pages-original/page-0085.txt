@@ -1,0 +1,45 @@
+612. Ve fázovém diagramu látky je nad křivkou syté páry
+a) oblast pevné látky
+B) oblast kapaliny
+c) oblast přehřáté páry
+d) oblast současně přítomné plynové a kapalné fáze
+613. Ve fázovém diagramu látky je pod křivkou syté páry
+a) oblast pevné látky
+b) oblast kapaliny
+C) oblast přehřáté páry
+d) oblast syté páry
+614. Zvolte nesprávnou kombinaci umístění daného stavu látky ve fázovém diagramu
+látky a počtu přítomných fází:
+A) křivka tání - 1
+b) křivka syté páry - 2
+C) oblast mezi dvěma křivkami – 2
+D) trojný bod - 2
+615. Označte správnou kombinaci umístění daného stavu látky ve fázovém diagramu
+a počtu přítomných fází:
+a) křivka syté páry - 1
+B) oblast přehřáté páry-1
+C) oblast vlevo od křivky tání - 1
+D) oblast vpravo od křivky tání - 1
+616. Jednotkou absolutní vlhkosti vzduchu je
+a) kg
+b) %
+C) kg.m-3
+d) kg.mol-1
+617. Do statického elektrického pole vložíme kovový prstenec. Které z následujících
+tvrzeních je nesprávné?
+A) Prstenec získá záporný elektrický náboj
+B) prstenec získá kladný elektrický náboj
+C) uvnitř prstence se zvětší hustota siločar
+d) uvnitř prstence nebude elektrické pole
+618. Při vložení izolantu (dielektrika) do elektrického pole
+a) se částice dielektrika dávají do pohybu jedním či druhým směrem podle znaménka svého
+náboje
+b) získá dielektrikum kladný náboj
+C) se částice dielektrika polarizují (pokud nebyly dipóly přítomny) a orientují
+d) získá dielektrikum záporný náboj
+619. Polarizace dielektrika znamená
+a) pohyb jeho částic k opačně nabitým elektrodám
+B) vytvoření elektrických dipólů z atomů či molekul (pokud nebyly již dříve přítomny)
+a jejich zorientování
+c) odebrání elektronů z dielektrika
+d) dodání elektronů dielektriku

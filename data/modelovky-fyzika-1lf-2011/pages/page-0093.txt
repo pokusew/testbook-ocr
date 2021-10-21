@@ -1,0 +1,46 @@
+675. Během úplného vybití akumulátoru by se přenesl celkový náboj 216 kС. Jak
+dlouho můžeme nejvýše akumulátor vybíjet proudem 10 A, nemáme-li překročit
+jeho 50% vybití?
+a) 1 hodinu
+B) 3 hodiny
+c) 6 hodin
+30 hodin
+676. Během úplného vybití akumulátoru by se přenesl celkový náboj 252 kС. Jak
+dlouho můžeme nejvýše akumulátor vybíjet proudem 14 A, nemáme-li překročit
+jeho 50% vybití?
+a) 5 hodin
+b) 50 hodin
+C) 2,5 hodin
+d) 25 hodin
+677. Při úplném vybití akumulátoru by se přenesl celkový náboj 288 kС. Svorkové
+napětí akumulátoru je 12 V. Jakou práci vykonal elektrický proud po 50% vybití
+akumulátoru?
+a) 6,92 MJ
+b) 5,19 MJ
+c) 3,46 M)
+D) 1,73 M)
+678. Při úplném vybití akumulátoru by se přenesl celkový náboj 360 kС. Svorkové
+napětí akumulátoru je 12 V. Jakou práci vykonal elektrický proud při 50% vybití
+akumulátoru?
+A) 2,16 MJ
+b) 4,32 MJ
+c) 6,48 MJ
+d) 8,64 MJ
+679. Vyberte správný vztah mezi veličinami respektive jednotkami, plynoucí
+z Ohmova zákona pro část elektrického obvodu:
+a) U = R/I
+B) V = 1. A
+c) V = 12/A
+D) U = RI
+680. Vyberte správný vztah mezi veličinami respektive jednotkami, plynoucí
+z Ohmova zákona pro část elektrického obvodu:
+a) I = R/U
+B) I = U/R
+c) I = UR
+D) V = 12. A
+681. Grafickým znázorněním proudu v kovovém vodiči v závislosti na napětí mezi
+konci tohoto vodiče je
+a) přímka v prvním kvadrantu s určitým úsekem na svislé ose
+b) přímka v prvním kvadrantu s určitým úsekem na vodorovné ose
+c) křivka
+D) přímka procházející počátkem

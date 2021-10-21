@@ -1,0 +1,46 @@
+905. Které tvrzení je v případě jednoduchého obvodu střídavého proudu s rezistorem
+R správné?
+A) platí Ohmův zákon
+B) amplituda napětí na rezistoru nezávisí na frekvenci
+C) amplituda proudu v obvodu nezávisí na frekvenci
+d) mezi napětím a proudem v obvodu vzniká fázový rozdíl
+906. V jednoduchém obvodu střídavého proudu s rezistorem
+A) platí Ohmův zákon
+b) amplituda napětí závisí na frekvenci
+C) amplituda proudu nezávisí na frekvenci
+d) mezi napětím a proudem v obvodu je fázový rozdíl
+907. Zařazení rezistoru v jednoduchém obvodu střídavého proudu
+A) nemá vliv na fázový posun střídavého napětí a proudu
+b) způsobí, že amplituda napětí na rezistoru závisí na frekvenci
+c) způsobí, že amplituda proudu závisí na frekvenci
+D) nezmění maximální amplitudu napětí
+908. V obvodu střídavého proudu s cívkou, která má jen indukčnost L,
+A) se proud zpožduje za napětím
+b) se napětí zpožduje za proudem
+c) nedochází k fázovému posunu
+d) vzroste amplituda napětí na cívce
+909. Kapacitní reaktance Xc je určena vztahem
+a) Xc = oC
+B) = 1/(oC)
+c) X = 1/(2πως)
+d) X = 270/WC)
+910. Jednotkou kapacitní reaktance je
+a) farad
+b) farad
+c) henry
+D) ohm
+911. Induktivní reaktance X, je definována vztahem
+a) XL = 2TWL
+b) XL = 2tVWL
+C) X, = WL
+d) X, = VWL
+912. Jednotkou induktivní reaktance je
+a) henry
+b) siemens
+c) weber
+D) ohm
+913. Zařazením cívky s indukčností L do obvodu střídavého proudu se
+a) proud zvětší
+B) proud zmenší
+c) proud nezmění
+d) sníží frekvence

@@ -1,0 +1,48 @@
+567. K baterii o elektromotorickém napětí 4,5 V a vnitřním odporu 12 je připojena
+žárovka, kterou prochází proud 200 mA. Jaká je úřinnost obvodu?
+a) 75%
+b) 80 %
+c) 89 %
+D) 96 %
+568. Úplným vybitím akumulátoru by se přenesl celkový náboj 144 kС. Převed'te tuto
+hodnotu na obvykle udávanou hodnotu v Ah:
+A) 40 Ah
+b) 50 Ah
+c) 80 Ah
+d) 100 Ah
+569. Nezatížená automobilové baterie má napětí 12 V a vnitřní odpor 24 m 2. Jaký
+proud by protékal při zkratu?
+A) 500 A
+b) 600 A
+c) 700 A
+d) 800 A
+670. Elektrický oblouk je napájen ze zdroje o napětí 240 V přes reostat o odporu 30 1.
+Jaký největší proud může obvodem procházet?
+A) 8A
+b) 9 A
+c) 10 A
+d) 11 A
+671. Elektrický oblouk je napájen ze zdroje o napětí 240 V přes reostat o odporu 30 N.
+Jaké napětí naměříme na oblouku při proudu 5 A?
+A) 90 V
+b) 100 V
+c) 110 V
+d) 120 V
+672. Úplným vybitím akumulátoru by se přenesl celkový náboj 180 kC. Převeďte tuto
+hodnotu na obvykle udávanou hodnotu v Ah:
+A) 50 Ah
+b) 100 Ah
+c) 150 Ah
+d) 200 Ah
+673. Napětí nezatížené automobilové baterie 12,4 V pokleslo při odběru proudu
+40 A na 11,2 V. Jaký je vnitřní odpor baterie?
+A) 30 m2
+b) 40 m2
+c) 50 m2
+d) 60 m2
+674. Nezatížená automobilové baterie má napětí 12 V a vnitřní odpor 30 m.22. Jaký
+proud by protékal při zkratu?
+A) 400 A
+b) 600 A
+c) 700 A
+d) 800 A

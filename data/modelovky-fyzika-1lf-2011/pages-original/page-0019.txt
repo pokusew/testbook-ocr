@@ -1,0 +1,48 @@
+I
+者
+111. Značí-li ffrekvenci, T periodu a v rychlost, který z uvedených vztahů pro
+rovnoměrný pohyb hmotného bodu s úhlovou rychlostí w po kružnici
+o poloměru r je správný?
+A) v = wr
+b) v= 2πχT
+C) w = 21tf
+D) v= 2ttfr
+112. Při rovnoměrném pohybu hmotného bodu po kružnici je tomuto bodu udíleno
+zrychlení
+a) nulové
+b) ve směru tečny
+C) směrem do středu kružnice
+d) směrem od středu kružnice
+113. V důsledku reakce (tj. na základě 3. Newtonova pohybového zákona) vzniká při
+rovnoměrném pohybu hmotného bodu po kružnici
+a) dostředivé zrychlení
+B) odstředivé zrychlení
+c) zrychlení ve směru tečny
+d) nulové zrychlení
+114. Značí-li v rychlost a ffrekvenci, zvolte správný vztah pro vyjádření velikosti
+dostředivého zrychlení a, při rovnoměrném pohybu hmotného bodu s úhlovou
+rychlostí w po kružnici o poloměru r:
+A) ay = v2/r
+b) ag = wav
+C) ay = wv
+d) ag = 2T?f?r
+115. Značí-li v rychlost a T periodu, zvolte správný vztah pro vyjádření velikosti
+dostředivého zrychlení a, při rovnoměrném pohybu hmotného bodu s úhlovou
+rychlostí w po kružnici o poloměru r:
+A) ag = 47r/T2
+B) ad =v2/r
+c) a = wa/r
+d) ag=v/r2
+116. Značí-li v rychlost, f frekvenci a T periodu, pak při rovnoměrném pohybu
+hmotného bodu po kružnici o poloměru r s úhlovou rychlostí w platí
+a) v = 2trT
+B) v = 2tr/T
+C) w = 2tf
+d) v=w/r
+117. Velikost dostředivé síly při rovnoměrném pohybu tělesa o hmotnosti 500 g po
+kružnici o průměru 1 m s frekvencí 10 Hz je přibližně
+a) 314 N
+b) 31 N
+c) 99 N
+D) 986 N
+=

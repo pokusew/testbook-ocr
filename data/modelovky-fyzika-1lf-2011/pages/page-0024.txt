@@ -1,0 +1,52 @@
+2
+148. Vlak jede rychlostí 72 km/hod. Začne-li strojvůdce rovnoměrně brzdit se
+záporným zrychlením 1 m.s-2, jakou rychlost bude mít po 20 s zpomalování?
+a) 3,6 km/hod
+b) 1,8 km/hod
+c) 10 m/s
+D) 0 m/s
+149. Auto se rovnoměrně rozjíždí a za dobu 15 s ujede dráhu 112,5 m. S jak velkým
+zrychlením se rozjíždí?
+a) 0,1 m.s-2
+b) 0,5 m.s-2
+c) 0,75 m.s-2
+D) 1 m.s-2
+150. Řidič rovnoměrně jedoucího auta začne akcelerovat se zrychlením 0,2 m.s-2 po
+dobu 30 s až dosáhne rychlosti 81,6 km/hod. Jaká byla jeho počáteční rychlost?
+A) 60 km/hod
+b) 50 km/hod
+c) 40 km/hod
+d) 30 km/hod
+151. Řidič auta jedoucího rychlostí 90 km/hod začne po dobu 20 s rovnoměrně brzdit
+se záporným zrychlením 0,2 m.s-2. Jaká bude jeho rychlost?
+a) 60 km/hod
+B) 75,6 km/hod
+c) 80 km/hod
+d) 55,6 km/hod
+152. Řidič auta se rovnoměrně rozjíždí se zrychlením 2,5 m.s-2. Za jakou dobu
+dosáhne rychlosti 90 km/hod?
+a) 5s
+B) 10 s
+c) 15 s
+d) 20 s
+153. Velikost dostředivé síly při rovnoměrném pohybu koule o hmotnosti 500 g po
+kružnici o průměru 80 cm s úhlovou rychlostí 5 rad.s-1 je
+a) 4N
+B) 5N
+c) 6N
+d) 10 N
+:
+I
+0
+154. Směr síly o velikosti 10 N, působící na tažené těleso, svíral se směrem posunutí úhel
+45°. Těleso bylo taženo po dráze 10 m. Jak velká práce byla přibližně vykonána?
+A) 70 )
+b) 141 )
+c) 35 J
+d) 50 )
+155. Velikost hybnosti tělesa o hmotnosti 0,1 t, pohybujícího se rovnoměrným
+přímočarým pohybem, byla 2000 kg.m.s-1. Jaká byla jeho kinetická energie?
+a) 500)
+b) 1 k]
+C) 20 k]
+d) 10 k]

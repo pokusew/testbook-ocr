@@ -1,0 +1,48 @@
+I
+=
+=
+753. Vyhledejte dvojici, ve které je jeden z uvedených vztahů pro práci W a výkon P
+konstantního elektrického proudu chybný:
+a) W = U_t/R; P = W/t
+B) W = RIPt; P = UI/t
+c) W = Ult; P = UP/R
+d) W = UQ; P = RI?
+754. Jaké množství tepla vznikne přeměnou z elektrické energie při desetihodinovém
+provozu elektrického vařiče o příkonu 0,5 kW?
+a) 1,8 kJ
+B) 18 M)
+c) 1,8 kW.hod
+d) 1800 kW.hod
+755. Jaký je odpor vlákna 50 W automobilové žárovky připojené k napětí 12 V?
+a) 3,56 12
+b) 5,6212
+C) 2,88 Ω
+d) 7,22 12
+756. Jaký proud přibližně protéká 40 W žárovkou při síťovém napětí 220 V?
+a) 5,5 A
+B) 180 mA
+c) 1,8 A
+d) 550 mA
+757. Jak velký elektrický náboj se přenese při svícení trvajícím 1 h žárovkou o výkonu
+20 W při napětí 12 V?
+a) 6C
+b) 6 Ah
+c) 6 As
+D) 6 kC
+758. Během desetiminutového svícení žárovkou pro sítové napětí 220 V se přenesl
+zhruba náboj 0,076 Ah. Jak velký byl přibližně příkon žárovky?
+a) 40 W
+B) 100 W
+c) 15 W
+d) 60 W
+759. Které z následujících tvrzení je správné? Nahradíme-li v krystalu křemíku
+některé atomy fosforem získáme
+A) polovodič typu N
+b) polovodič typu P
+c) polovodič s děrovou vodivostí
+d) vodič
+760. Typ polovodiče s děrovou vodivostí značíme písmenem
+a) D
+b) N
+C) P
+d) E

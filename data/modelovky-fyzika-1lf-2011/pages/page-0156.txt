@@ -1,0 +1,47 @@
+1184. Mezi radiometrické veličiny patří
+A) zářivý tok
+b) světelný tok
+c) svítivost
+D) hustota zářivého toku
+/
+=
+1185. Velikost plného prostorového úhlu je
+a) 1/2 sr
+b) i sr
+c) 21 sr
+D) 41 sr
+1186. Wienův posunovací zákon má tvar
+A) imaxT = b
+b) Amaz/T = b
+c) Imax = T. b
+d) max = 1/(Tb)
+1187. Vlnová délka, při níž nastává maximum vyzařování absolutně černého tělesa je
+a) nezávislá na teplotě
+b) přímo úměrná čtvrté mocnině termodynamické teploty
+c) přímo úměrná termodynamické teplotě
+D) nepřímo úměrná termodynamické teplotě
+1188. Intenzita vyzařování absolutně černého tělesa je
+a) přímo úměrná termodynamické teplotě
+B) přímo úměrná čtvrté mocnině termodynamické teploty
+c) nepřímo úměrná termodynamické teplotě
+d) přímo úměrná druhé mocnině termodynamické teploty
+1189. Nejvíce zastoupenou vlnovou délku ve spektru absolutně černého tělesa určuje
+a) Stefan-Boltzmannův zákon
+B) Wienův zákon
+c) Planckův zákon
+d) Snellův zákon
+1190. Určete pravdivé tvrzené: Rentgenové záření
+a) je silně pohlcováno vodou
+B) vyvolává fluorescenci
+C) ionizuje vzduch
+D) umožňuje získání informace o struktuře molekul
+1191. Určete pravdivé tvrzení:
+A) ultrafialové záření má delší vlnové délky než rentgenové záření
+B) viditelné světlo má kratší vlnové délky než infračervené záření
+c) rentgenové záření má delší vlnové délky než ultrafialové záření
+D) rentgenové záření má kratší vlnové délky než viditelné světlo
+1192. Mřížková konstanta optické mřížky je
+a) počet štěrbin na 1 mm
+b) šířka štěrbiny
+C) vzdálenost středů dvou štěrbin
+d) převrácená hodnota počtu štěrbin na 1 mm

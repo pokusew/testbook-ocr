@@ -1,0 +1,45 @@
+=
+=
+385. Které z následujících tvrzení o elektrickém napětí je správné?
+A) elektrické napětí je určeno svojí velikostí
+B) jednotka elektrického napětí je rovna poměru jednotek J/C
+C) elektrické napětí mezi dvěma body o stejném potenciálu je nulové
+d) elektrické napětí je základní jednotkou soustavy SI
+386. Značí-li Q náboj a U potenciál, můžeme kapacitu C vodiče vyjádřit vztahem
+a) C= QU
+b) C = U/Q
+C) C = Q/U
+d) C = Q/U?
+387. Značí-li Q náboj, U potenciál a C kapacitu, pak energii W elektrického pole
+nabitého kondenzátoru můžeme vyjádřit jako
+A) W = CUP/2
+b) W=Q/U
+c) W = CU/2
+D) W = QU/2
+388. Značí-li Q náboj, U potenciál a C kapacitu, pak energii W elektrického pole
+nabitého kondenzátoru můžeme vyjádřit jako
+A) W = CUP/2
+b) W = QU/2
+c) W = CU/2
+d) W = CU?
+389. Jednotkou kapacity v soustavě jednotek SI je
+a) ampérhodina
+b) ampérsekunda
+c) coulomb
+D) farad
+390. Kondenzátor o kapacitě 400 uF se nábojem 8 mC nabije na potenciál
+a) 5V
+b) 10 V
+C) 20 V
+d) 50 V
+391. Vodič se nábojem 1 mC nabil na potenciál 50 V. Jakou má kapacitu?
+a) 2 uF
+b) 5uF
+C) 20 uF
+d) 50 uF
+392. Který z následujících vztahů mezi jednotkami kapacity, náboje a potenciálu je
+správný?
+A) F = C.V-1
+b) F = C-1.y
+c) F = C.V
+d) F= A.C-1

@@ -1,0 +1,55 @@
+-3
+-3
+-3
+-3
+u
+211. Hustota rtuti je zhruba 13 600 kg.m-3. Tuto hodnotu můžeme převést na
+a) 1,36 g. cm
+b) 136 g. cm
+C) 13,6 g. cm
+d) 0,136 g. cm
+212. Velikost tlaku v kapalině u dna nádoby závisí na
+A) její hustotě a výšce kapaliny
+b) její hmotnosti
+c) její hmotnosti a plošném obsahu dna
+d) jejím objemu
+213. Mějme dvě nádoby se stejnou podstavou, jednu válcovou, druhou kuželovitě se
+zužující, obě naplněné stejnou kapalinou do stejné výše. Zvolte správné tvrzení:
+a) v obou nádobách bude u dna stejný tlak a nestejná tlaková síla
+B) v obou nádobách bude stejný jak tlak u dna tak tlaková síla působící na dno
+c) v obou nádobách bude stejný tlak u dna avšak tlaková síla působící na dno kuželové
+nádoby je větší
+d) ve válcové nádobě bude větší jak tlak u dna tak tlaková síla působící na dno
+214. Je-li F kolmá tlaková síla na plochu S, potom tlak p v kapalině je určen vztahem
+a) p = FS
+b) p = FS2
+c) p = F/S2
+D) p = F/S
+215. Označíme-li tlak p, potom kolmou tlakovou sílu F působící v kapalině na
+libovolně orientovanou plochu S vyjádříme vztahem
+A) F = ps
+b) F=p/S
+c) F = S/p
+d) F= ps2
+216. Je-li p1 hustota tělesa plovoucího na hladině kapaliny, p hustota kapaliny
+a V celkový objem tělesa, bude objem V' části tělesa ponořené do kapaliny určen
+vztahem
+a) V' = P1/PV
+b) V' = p/p1V
+C) V' = Vp1/p
+d) V' = Vp/p1
+217. Je-li hustota ledu 917 kg.m-3 a hustota mořské vody 1030 kg.m-3 činí podíl
+objemu ledovce nad hladinou z celkového objemu ledovce přibližně
+a) 30 %
+b) 5%
+c) 50 %
+D) 11 %
+218. Jaká část objemu homogenního tělesa o hustotě 10,2 g.cm-se ponoří do rtuti
+o hustotě 13,6 g.cm-3 ?
+a) 55 %
+b) 65 %
+C) 75 %
+d) 85 %
+-
+3
+a

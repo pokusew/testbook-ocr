@@ -1,0 +1,49 @@
+171. Značí-li t čas, v rychlost a s posunutí, vyberte správný vztah pro vyjádření práce
+W nebo výkonu P při rovnoměrném konání práce (vektor síly F má shodný směr
+se směrem posunutí):
+A) P = Fs/t
+b) P = F/v
+c) W = F/s
+D) W = Pt
+172. Značí-lit čas a s posunutí, vyberte správný vztah pro vyjádření práce W nebo
+výkonu P při rovnoměrném konání práce (vektor síly F má shodný směr se
+směrem posunutí):
+A) P = W/t
+b) P = Ft/s
+C) P = Fs/t
+d) W = F/s
+173. Automobil jede v rovině rovnoměrně rychlostí 108 km/hod. Velikost odporové
+a třecí síly je 1 KN. Jak velký je výkon motoru?
+a) 10 kW
+b) 20 kW
+C) 30 kW
+d) 40 kW
+174. Traktor s motorem o výkonu 100 kW táhne plúh s rychlostí 3,6 km/hod. Jak
+velkou sílou táhne pluh?
+a) 10 KN
+b) 50 kN
+C) 100 KN
+d) 200 kN
+175. Značí-li m hmotnost, a zrychlení a v rychlost, pak je kinetická energie hmotného
+bodu Ex dána vztahem:
+a) Ex = my?
+b) Ex = maʼ/2
+C) Ex = mv2/2
+d) Ek = mv/2
+176. Značí-li m hmotnost a g gravitační zrychlení, je potenciální energie E, tělesa ve
+výšce h nad Zemí dána vztahem:
+a) Ep = mgh/2
+b) E, = mgh
+mg_h/2
+D) E = mgh
+177. Značí-li g gravitační zrychlení, můžeme rychlost tělesa y, se kterou dopadlo
+z výšky h na povrch Země, vyjádřit jako
+a) v = 2gh
+B) v= 2gh
+c) v = 4g?h?
+d) v =
+= gh
+=
+=
+c) E
+=

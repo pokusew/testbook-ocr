@@ -1,0 +1,44 @@
+636. Relativní permitivita vody je 81,6. Nahradíme-li vakuum vodou, intenzita
+elektrického pole za jinak stejných podmínek se
+a) značně zvýší
+B) značně sníží
+c) nepatrně sníží
+d) nepatrně zvýší
+637. Relativní permitivita suchého vzduchu je 1,0006. Nahradíme-li vakuum suchým
+vzduchem, intenzita elektrického pole za jinak stejných podmínek se
+a) značně zvýší
+b) značně sníží
+C) nepatrně sníží
+d) nepatrně zvýší
+638. Relativní permitivita etanolu je 24, transformátorového oleje 2,2. Za jinak
+stejných podmínek bude intenzita elektrického pole
+A) podstatně vyšší v prostředí transformátorového oleje
+b) podstatně vyšší v prostředí etanolu
+c) nepatrně vyšší v prostředí transformátorového oleje
+d) nepatrně vyšší v prostředí etanolu
+639. Síla působící mezi dvěma bodovými náboji
+a) nezávisí na prostředí
+b) je přímo úměrná permitivitě prostředí
+C) je nepřímo úměrná permitivitě prostředí
+d) je přímo úměrná čtverci permitivity prostředí
+640. Které z uvedených tvrzení je nesprávné?
+A) permitivita prostředí je bezrozměrné číslo (jednotkou je 1)
+B) permitivita vakua je bezrozměrné číslo
+C) síla působící mezi dvěma bodovými náboji je přímo úměrná permitivitě prostředí
+d) síla působící mezi dvěma náboji je nepřímo úměrná permitivitě prostředí
+641. F.m-je jednotkou
+A) permitivity prostředí
+b) intenzity elektrického pole
+c) kapacity kondenzátoru
+d) potenciálu
+642. Které z následujících tvrzení je nesprávné:
+a) permitivita vody je větší než permitivita vakua
+B) permitivita vody je menší než permitivita vakua
+C) rozdíl mezi permitivitou vody a vakua je nepatrný
+D) permitivita je konstanta z Coulombova zákona nezávislá na prostředí
+643. Intenzita elektrického pole v dielektriku je
+A) nepřímo úměrná jeho permitivitě
+b) přímo úměrná jeho permitivitě
+c) nepřímo úměrná čtverci permitivity
+d) přímo úměrná čtverci permitivity
+-1

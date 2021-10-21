@@ -1,0 +1,48 @@
+=
+=
+=
+203. Značí-li F sílu působící kolmo na plochu velikosti S, pak pro hydraulický lis platí
+a) F2/F2 = S2/S1
+B) F1/F2 = S1/S2
+c) F1S1 = F2S2
+d) p1/p2 = S1/S2
+204. Budiž u hydraulického lisu S1 = 10 cm², S2 = 1 m2. Jakou silou musíme působit na
+píst o menší ploše, abychom mohli na druhé straně zvedat těleso o hmotnosti
+0,5 t (použijte g = 10 m.s-?)?
+a) 1N
+B) 5N
+c) 10 N
+d) 50 N
+205. Vztah mezi hustotami p, případně hmotnostmi m a výškami hladin h dvou
+nemísících se kapalin nad jejich společným rozhraním v trubici tvaru U je
+a) P1, P2 = h1, h2
+B) pıh1 = pzh2
+c) m_h1 = mzhz
+d) m1.m2 = h . hz
+206. Máme-li vypočítat poměr mezi výškami dvou nemísících se kapalin ve spojených
+nádobách nad jejich společným rozhraním, je třeba znát
+a) jejich hustoty a hmotnosti
+b) jejich hustoty, hmotnosti a tvar nádob
+C) pouze poměr jejich hustot
+d) jejich objemy
+207. Velikost tlakové síly kapaliny na dno závisí
+A) na její hustotě, výšce hladiny a plošném obsahu dna
+b) pouze na její hustotě a výšce hladiny
+c) na jejím objemu a plošném obsahu dna
+d) na její hmotnosti a plošném obsahu dna
+208. Velikost tlakové síly na dno nádoby obecně nezávisí na
+a) hustotě kapaliny
+b) plošném obsahu dna
+c) výšce hladiny
+D) celkové hmotnosti kapaliny
+209. Velikost tlaku v kapalině u dna nádoby nezávisí na
+a) tíhovém zrychlení
+b) výšce hladiny
+c) hustotě kapaliny
+D) plošném obsahu dna
+210. Jaká je číselná hodnota hustoty vody vyjádřená pomocí základních jednotek
+soustavy SI?
+a) 1
+b) 10
+c) 100
+D) 1000

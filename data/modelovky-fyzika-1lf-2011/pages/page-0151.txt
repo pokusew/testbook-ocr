@@ -1,0 +1,42 @@
+1142. Lupa zvětšuje při pozorování okem bez akomodace 10krát. Jaká je její optická
+mohutnost?
+A) 40 D
+b) 30 D
+c) 20 D
+d) 10 D
+1143. Konvenční zraková vzdálenost je
+a) 15 cm
+b) 20 cm
+C) 25 cm
+d) 35 cm
+1144. Které z následujících tvrzení je správné? Oko je krátkozraké
+a) má-li čočka příliš malou optickou mohutnost
+B) má-li čočka příliš velkou optickou mohutnosť
+C) má-li daleký bod v konečné vzdálenosti před okém
+D) je-li vůči normálnímu oku protažené do délky
+1145. Oko je krátkozraké
+a) má-li daleký bod v nekonečné vzdálenosti a blízký bod posunutý dále od oka
+B) má-li čočka příliš velkou optickou mohutnost
+c) utváří-li se obraz předmětu za sítnicí
+D) je-li nutné použít ke korekci rozptylku
+1146. Dalekozraké oko
+A) má blízký bod ve vzdálenosti větší než konvenční zraková vzdálenost
+b) má blízký bod v konvenční zrakové vzdálenosti
+C) je korigováno spojkou
+d) je korigováno rozptylkou
+1147. Na sítnici se tvoří přiměřeně osvětlený obraz adaptaci
+a) čočky
+b) rohovky
+c) cévnatky
+D) duhovky
+1148. Krátkodobý zrakový vjem se při normálním osvětlení zachovává po dobu
+přibližně
+a) 1 ms
+b) 10 ms
+c) 0,05 s
+D) 0,1 s
+1149. Oko je schopno rozlišit dva body, když je vidí pod zorným úhlem alespoň
+a) 1"
+b) 10"
+c) 25"
+1'

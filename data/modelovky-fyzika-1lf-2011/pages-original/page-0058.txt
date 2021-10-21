@@ -1,0 +1,45 @@
+409. Vyberte správné tvrzení týkající se vzdálenosti r, která odpovídá rovnovážné
+poloze mezi dvěma částicemi (např. atomy H v molekule Hz):
+A) výsledná síla ve vzdálenosti větší než r je přitažlivá
+B) výsledná síla ve vzdálenosti menší než r je odpudivá
+C) výsledná síla ve vzdálenosti r se rovná nule
+d) výsledná síla ve vzdálenosti r se nerovná nule
+410. Vazby v molekule vody spolu svírají úhel
+a) 45°
+b) 90°
+C) 105°
+d) 180°
+:
+411. Vyberte správné tvrzení
+a) částice v krystalové mříži se nepohybují, neboť každá z nich má svoji danou polohu
+B) za normálních podmínek lze v plynu zanedbat přitažlivé síly mezi molekulami díky
+velkým vzdálenostem
+C) v plazmatu mohou být přítomny ionty, elektrony i neutrální částice
+D) soubor částic plazmatu je navenek neutrální
+412. Při zahřívání plynu v uzavřené nádobě tlak plynu
+a) zůstává nezměněn
+B) roste lineárně se stoupající teplotou
+c) je přímo úměrný druhé mocnině teploty
+d) je přímo úměrný druhé odmocnině teploty
+413. Střední hodnota tlaku plynu v uzavřené nádobě je přímo úměrná
+a) střední kvadratické rychlosti molekul
+B) hustotě molekul
+C) hmotnosti molekul
+D) druhé mocnině střední kvadratické rychlosti
+414. Brownův pohyb je důsledkem a projevem
+a) uspořádaného pohybu částic
+b) působení elektrostatických sil mezi částicemi
+C) neuspořádaného pohybu částic
+d) vlivu chemické afinity mezi částicemi
+415. Molekuly lze pozorovat
+a) pomocí klasického optického mikroskopu
+b) pomocí speciálně upraveného optického mikroskopu
+C) pomocí elektronového mikroskopu
+d) nelze vůbec pozorovat
+416. Do nádoby s rozpustnou barevnou látkou nalijeme vodu. Roztok se rychle
+zbarví těsně nad danou látkou. Zbarvení se bude pomalu šířit směrem vzhůru.
+Pozorovaný jev se nazývá
+A) difuze
+b) osmóza
+c) viskozita
+d) Brownův pohyb

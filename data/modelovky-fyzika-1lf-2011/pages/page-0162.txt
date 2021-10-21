@@ -1,0 +1,44 @@
+1237. Regulační tyče v jaderném reaktoru mohou být z
+a) uhlíku
+B) kadmia
+c) olova
+d) železa
+1238. Elektronvolt (eV) je vedlejší jednotka
+A) energie
+b) náboje
+c) napětí
+d) hybnosti
+1239. Uvolňování elektronů při dopadu světla na kov se nazývá
+a) rekombinace
+B) fotoefekt
+c) Comptonův rozptyl
+d) termoemise
+1240. 210 Po je zářič alfa. Poločas jeho rozpadu je 140 dní. Za jak dlouho bude vzorek
+obsahovat 75 % olova Pb?
+a) 70 dní
+b) 140 dní
+c) 210 dní
+D) 280 dní
+1241. Vzorek obsahuje 10 jader radionuklidu s poločasem rozpadu 6 hodin.
+Kolik jader se přemění za 1 den?
+a) 468750
+b) 520000
+c) 703125
+D) 937500
+1242. Vzorek obsahuje 105 jader radionuklidu s poločasem rozpadu 1 minuta.
+Kolik jader se celkem přemění za 5 minut?
+a) 75750
+b) 85000
+C) 96875
+d) 98500
+1243. Vzorek obsahuje 10 jader radionuklidu s poločasem rozpadu 6 hodin.
+Kolik radioaktivních jader bude obsahovat za 1 den?
+a) 50000
+b) 55000
+c) 60000
+D) 62500
+1244. Izotop uranu 235U se štěpí nejsnáze
+A) pomalými neutrony
+b) rychlými neutrony
+c) deuterony
+d) protony

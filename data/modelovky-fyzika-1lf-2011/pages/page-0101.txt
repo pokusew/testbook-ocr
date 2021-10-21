@@ -1,0 +1,48 @@
+737. Dva rezistory 10 1 a 15 12 jsou zapojeny paralelně. Jaký proud prochází rezistorem
+o odporu 10 12, když celkový proud je 1,5 A?
+a) 0,7 A
+B) 0,9 A
+c) 1A
+d) 1,1 A
+738. Dva rezistory 10 22 a 15 22 jsou zapojeny paralelně. Jaký proud prochází rezistorem
+o odporu 1512, když celkový proud je 1,5 A?
+a) 0,4 A
+b) 0,5 A
+C) 0,6 A
+d) 0,7 A
+739. Odpor soustavy tří stejných rezistorů zapojených tak, že ke dvojici zapojené
+sériově je třetí připojen paralelně, činí 60 MQ. Odpor jednoho rezistoru je
+A) 90 M2
+b) 71,4 M2
+c) 105 ΜΩ
+d) 210 ΜΩ
+740. Odpor soustavy tří stejných rezistorů zapojených tak, že ke dvojici zapojené
+sériově je třetí připojen paralelně, činí 80 MQ. Odpor jednoho rezistoru je
+a) 135 ΜΩ
+b) 270 M2
+c) 60 ΜΩ
+D) 120 ΜΩ
+741. Dva rezistory, každý o odporu 15 ks2, jsou zapojeny paralelně. Celkový odpor je
+a) 15 k12
+B) 7,5 k12
+c) 30 k12
+d) 1,5 k12
+742. Dva rezistory, každý o odporu 35 k2, jsou zapojeny paralelně. Celkový odpor je
+a) 7 k.22
+b) 70 k12
+c) 35 k12
+D) 17,5 k12
+743. Uvažujme drát, který je protažen při nezměněné hmotnosti na čtyřnásobnou
+délku. Výsledný odpor bude ve srovnání s původním
+A) 16krát větší
+b) 4krát větší
+c) nezměněn
+d) 4krát menší
+744. Značí-li U napětí, I intenzitu, R odpor, Q náboj a t čas, který z výrazů pro
+elektrickou práci W je správný?
+A) W = UIT
+b) W = Uit
+C) W = UQ
+d) W = R2It
+=
+-

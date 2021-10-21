@@ -1,0 +1,50 @@
+V
+m
+979. Perioda vlastních kmitů kyvadla závisí na
+A) délce kyvadla
+b) hmotnosti závaží
+c) amplitudě výchylky
+D) gravitačním zrychlení
+980. Značí-li w úhlovou rychlost, T periodu, f frekvenci a ym maximální výchylku, je
+amplituda rychlosti kmitavého pohybu vm určena vztahem
+A) Vm=w.ym
+b) v.= (w/21]ym
+C) Vm = 2t1f.ym
+D) = (2TT/T)ym
+981. Amplituda složeného kmitání dvou harmonických kmitání stejného směru
+a stejné frekvence je nejmenší, když pro jejich fázový rozdíl Aą platí
+a) Δφ = 0
+b) Δφ = π/2
+C) Δφ = π
+d) Δφ = {3/2).π
+982. Značí-li g gravitační zrychlení, je perioda T vlastních kmitů kyvadla o délce 1
+dána vztahem
+A) T = 21/(l/g)
+b) T = 1/(21/(l/g))
+c) T = 211/(g/1))
+T = 1/(21/(g/l))
+983. Jaká je doba kyvu kuličky zavěšené na niti dlouhé 10 cm? Uvažujte hodnotu
+gravitačního zrychlení 10 m.s-?.
+A) 0,314 s
+b) 1,25 s
+c) 2,5 s
+d) 5s
+984. Těleso zavěšené na pružině o tuhosti 20 N.m-- vykoná 10 kmitů za 3,14 s. Jaká je
+hmotnost tělesa?
+a) 25 g
+B) 50 g
+c) 60 g
+d) 80 g
+985. Na pružině kmitá zavěšené těleso s periodou 1 s. Zvýšíme-li jeho hmotnost o 3 kg
+pak je perioda kmitů 2 s. Jaká je hmotnost tělesa?
+a) 0,5 kg
+B) 1 kg
+c) 2 kg
+d) 4 kg
+986. Na pružině kmitá zavěšené těleso s periodou 1 s. Zvýšíme-li jeho hmotnost o 3 kg
+pak je perioda kmitů 2 s. Jaká je přibližně tuhost pružiny?
+a) 20 N.m-1
+B) 40 N.m-1
+c) 60 N.m-1
+d) 80 N.m-1
+7

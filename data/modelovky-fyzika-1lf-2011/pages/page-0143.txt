@@ -1,0 +1,45 @@
+1076. V postupné elektromagnetické vlně jsou intenzita elektrického pole
+a magnetická indukce
+A) ve fázi
+b) fázově posunuty o 1/2 rad
+c) fázově posunuty o hrad
+d) fázově posunuty o 1/4 rad
+1077. Které z následujících tvrzení je správné? V postupné netlumené
+elektromagnetické vlně
+A) jsou vektory E a B navzájem kolmé
+E
+B) je vektor E kolmý na směr šíření
+C) je vektor B kolmý na směr šíření
+d) závisí maximální amplitudy vektorů E a B na souřadnici směru, kterým se vlna šíří
+1078. Při přenosu elektromagnetické energie
+A) vzniká mezi vodiči časově proměnné pole
+b) energie není přenášena elektromagnetickým polem mezi vodiči
+C) energie je přenášena elektromagnetickým polem mezi vodiči
+d) nemá děj charakter vlnění
+1079. Ve stojaté elektromagnetické vlně jsou časově proměnné vektory E a B fázově
+posunuty o
+A) 1/2 rad
+b) i rad
+c) 31/2 rad
+d) 2n rad
+1080. V postupné elektromagnetické vlně
+A) jsou vektory E a B navzájem kolmé
+b) vektor E kmitá ve směru šíření vlny
+c) vektor B kmitá ve směru šíření vlny
+D) jsou vektory E a B ve fázi
+1081. Vlnová délka elektromagnetického vlnění určité frekvence, které se šíří vodou, je
+vzhledem k vlnové délce ve vakuu
+A) kratší
+b) stejná
+c) delší
+D) závislá na indexu lomu vody
+1082. Zákon odrazu světla
+A) platí pro světlo každé vlnové délky
+b) nelze odvodit z Huygensova principu
+c) neplatí pro dvě prostředí se značným rozdílem v indexech lomu
+D) platí pro světlo každé frekvence
+1083. Při průchodu světla optickou mřížk dochází k
+A) ohybu a interferenci
+b) lomu
+c) pouze k ohybu
+d) polarizaci

@@ -1,0 +1,45 @@
+777. Závěrný proud přechodu PN je do určitého napětí
+a) nulový
+b) poněkud menší než propustný proud
+C) značně menší než propustný proud
+d) stejné hodnoty, ale opačného směru ve srovnání s propustným proudem
+778. V tranzistoru je uprostřed
+A) base
+b) kolektor
+c) emitor
+d) kolektor nebo emitor
+779. Bázový proud tranzistoru zapojeného se společným emitorem je 15 = 30 HA,
+kolektorový proud Ic = 2,0 mA. Určete kolektorový proud Icpři bázovém proudu
+100 mA, má-li proudový zesilovací činitel tranzistoru hodnotu 60.
+a) 9,8 mA
+B) 6,2 mA
+c) 2,2 mA
+d) 4,0 mA
+780. Vyberte správné tvrzení:
+a) závěrný proud procházející přechodem PN je nulový
+B) polovodičová dioda je polovodičs 1 přechodem PN
+C) změníme-li polaritu vnějšího zdroje vloženého na polovodič s přechodem PN, který byl
+původně zapojen v propustném směru, elektrický odpor přechodu PN značně vzroste
+D) tranzistor je elektronický prvek s 2 přechody PN
+781. Vyberte nesprávné tvrzení:
+A) elektrický odpor přechodu PN nezávisí na polaritě vnějšího zdroje, jehož napětí je
+vloženo na polovodič
+b) polovodičová dioda nachází uplatnění v usměrňování střídavého proudu
+C) tranzistor je elektronický prvek s 1 přechodem PN
+D) polovodič s přechodem PN má v jednom směru nekonečný odpor
+782. Zvolte kombinaci, ve které je nesprávně uvedeno typické použití příslušného
+prvku:
+A) termistor - zesílení
+b) rezistor - nastavení žádaného proudu či napětí
+C) bočník - zvětšení rozsahu voltmetru
+D) tranzistor - měření teploty
+783. Zvolte kombinaci, ve které je správně uvedeno typické použití příslušného prvku:
+a) předřadný rezistor - úprava rozsahu ampermetru
+B) rezistor - nastavení žádaného proudu
+C) tranzistor – zesílení
+D) termistor - měření teploty
+784. Polovodičový prvek k měření teploty se nazývá
+a) termočlánek
+b) tranzistor
+c) rezistor
+D) termistor

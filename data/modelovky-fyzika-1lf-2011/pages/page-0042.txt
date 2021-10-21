@@ -1,0 +1,45 @@
+=
+289. J. kg-1 je jednotka
+a) intenzity gravitačního pole
+b) gravitačního zrychlení
+c) gravitační energie
+D) gravitačního potenciálu
+290. Volný pád je zvláštním případem pohybu
+a) rovnoměrného
+b) přímočarého rovnoměrně zpožděného
+C) přímočarého rovnoměrně zrychleného
+d) křivočarého
+291. Označíme-li gravitační zrychlení g a čas t, pak rychlost v tělesa při volném pádu
+v závislosti na čase vyjádříme jako
+A) V.= gt
+b) v=gt
+c) v=gt/2
+d) v=gt²/2
+292. Značí-li g gravitační zrychlení a t čas, pak dráhu s tělesa při volném pádu
+v závislosti na čase vyjádříme jako
+a) s=gt
+b) s=gt/2
+c) s=gt?
+D) s=gt/2
+293. Trajektorií vodorovného vrhu je
+A) parabola
+b) přímka
+c) část kružnice
+d) část elipsy
+294. Při vrhu šikmém vzhůru s danou počáteční rychlostí dosáhneme největší délky
+vrhu (dostřelu) při elevačním úhlu
+a) 30°
+B) 45°
+c) 60°
+d) 75°
+295. Trajektorií vrhu šikmého vzhůru (ve vakuu) je
+a) přímka
+b) hyperbola
+c) část kružnice
+D) parabola
+296. Dráhu tělesa při volném pádu v závislosti na čase znázorníme v pravoúhlých
+souřadnicích jako
+a) přímku rovnoběžnou s vodorovnou osou
+b) přímku o směrnici g
+C) parabolu
+d) hyperbolu

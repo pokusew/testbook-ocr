@@ -1,0 +1,49 @@
+WW
+745. Značí-li U napětí, I intenzitu, R odpor a t čas, který z výrazů pro elektrickou práci
+W je nesprávný?
+A) W = U_It
+b) W = Ult
+C) W = R²It
+d) W = U_t/R
+746. Ampérhodinu (Ah) můžeme považovat za
+a) hlavní jednotku elektrické práce
+B) vedlejší jednotku elektrického náboje
+c) hlavní jednotku elektrického výkonu
+d) vedlejší jednotku výkonu
+747. Vedlejší jednotkou elektrického náboje je
+a) Wh
+B) Ah
+c) kWh
+d) Ws
+=
+748. Značí-li U napětí, I intenzitu, R odpor, Q náboj a t čas, který z výrazů pro výkon P
+konstantního elektrického proudu je správný?
+A) P = UQ/t
+B) P = UI
+c) P = U/R
+d) P= R²1
+749. Který z následujících vztahů mezi jednotkami je správný?
+A) 1C = 1 A.S
+b) 1 kWh = 1 k]
+C) 1 J = 1V.C
+d) 1 kWh = 3600 J
+750. Který z následujících vztahů mezi jednotkami je správný?
+A) 1S = 1.2-1
+b) 15 = 1.12-1.m
+c) 1 S = 182.m
+d) 1S = 11.m-1
+751. Který z následujících vztahů mezi jednotkami je nesprávný?
+A) 1 Wh = 3,6 )
+b) 112 = 1 V.A-1
+c) 1$=112-1
+d) 1 J = 1 V.C
+752. Vyhledejte dvojici, ve které jsou oba vztahy (pro práci Wa výkon P konstantního
+elektrického proudu) uvedeny správně:
+A) W = Ult; P = UI
+b) W = UQ;P = RI?/t
+c) W = RI?; P = W/t
+d) W = UQ/t; P = UP/R
+-1
+-
+w
+=

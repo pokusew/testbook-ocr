@@ -1,0 +1,49 @@
+878. Magnetické domény jsou vytvářeny atomy, jejichž magnetické momenty jsou
+a) navzájem kolmé
+b) opačně orientovány
+C) stejně orientovány
+d) orientovány na sobě nezávisle
+879. Curieova teplota je teplota, při níž
+a) dochází k rozpadům radioaktivních atomů
+b) dochází k sublimaci
+C) feromagnetická látka přestává být feromagnetickou
+d) končí křivka vypařování v pt diagramu
+880. Ferity
+a) mají relativní permeabilitu kolem 1
+B) jsou sloučeniny oxidu železa s oxidy jiných kovů
+C) mají značně větší měrný elektrický odpor než kovová feromagnetika
+d) patří do skupiny diamagnetických látek
+881. Jednotkou intenzity magnetického pole je
+A) A.m-1
+b) A.m
+c) A.m2
+d) A-2.m
+882. Velikost intenzity magnetického pole dlouhé cívky je určena
+a) pouze protékajícím proudem
+b) pouze počtem závitů
+c) délkou cívky
+D) součinem proudu a hustoty závitů
+883. Relativní permeabilita feromagnetických látek
+a) je konstantní
+b) nezávisí na velikosti intenzity magnetického pole v látce
+c) je zhruba stejná jako permeabilita yakua
+D) závisí na velikosti intenzity magnetického pole v látce
+884. Jednotkou magnetického indukčního toku je
+A) weber
+b) tesla
+c) henry
+d) siemens
+house
+885. Magnetický indukční tok o rovinným závitem o ploše S, jehož normála svírá se
+směrem toku úhel a, je určen vztahem
+a) 0 = BSsina
+B) 0 = BScosa
+c) Q = B/Ssina
+d) 0 = B/Scosa
+=
+886. Které z následujících tvrzení je správné? Indukované elektromotorické napětí
+vzniká
+A) ve vodiči, který se pohybuje v časově neproměnném magnetickém poli
+B) v nepohybujícím se vodiči, který je v časově proměnném magnetickém poli
+C) ve vodiči, který se pohybuje v časově proměnném magnetickém poli
+d) v nepohybujícím se vodiči, který je v časově neproměnném magnetickém poli

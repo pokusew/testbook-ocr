@@ -1,0 +1,45 @@
+1018. Zrychlení harmonického pohybu
+A) je přímo úměrné výchylce
+b) je nepřímo úměrné výchylce
+C) má v každém okamžiku opačný směr
+d) má v každém okamžiku stejný směr
+1019. Značí-li F sílu, m hmotnost, w úhlovou rychlost a y výchylku mechanického
+oscilátoru, má jeho pohybová rovnice tvar
+a) F= mw2/y
+B) F= -mway
+c) F= mway
+d) F = 41²my
+1020. Podélné mechanické vlnění může vzniknout
+a) pouze v plynném skupenství
+b) pouze v kapalném skupenství
+c) pouze v tuhém skupenství
+D) ve všech skupenstvích
+1021. Příčné mechanické vlnění může vzniknout
+a) pouze v plynném skupenství
+b) pouze v kapalném skupenství
+c) v plynném a kapalném skupenství
+D) žádná z nabídnutých odpovědí není správná
+1022. Perioda T a frekvence fpostupného vlnění spolu souvisejí vztahem
+a) f= 2.T
+b) fT = 2
+c) f=1/T
+D) fT = 1
+1023. Pro fázovou rychlost v mechanického vlnění s vlnovou délkou à a periodou T
+platí vztah
+A) v=N/T
+b) v=XT
+c) v=N/f
+D) v = af
+1024. Vlnová délka mechanického vlnění je vzdálenost dvou nejbližších bodů,
+které kmitají s fází
+a) 1/2
+b) 1/4
+c) n
+D) 211
+=
+1025. Vlnění o stejné amplitudě a frekvenci se mohou interferencí rušit, liší-li se ve fázi
+0
+a) sudý počet vin
+b) lichý počet vin
+C) lichý počet půlvin
+d) sudý počet půlvin

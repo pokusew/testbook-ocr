@@ -1,0 +1,49 @@
+>
+219. Velikost vztlakové síly působící na úplně ponořené těleso závisí na
+a) hustotě tělesa a kapaliny
+b) objemu tělesa, hustotě tělesa a hustotě kapaliny
+c) objemu a hustotě tělesa
+D) objemu tělesa a hustotě kapaliny
+220. Jak velká vztlaková síla bude zhruba působit na ocelové těleso o objemu 1 dm3
+ponořené do vody?
+A) 10 N
+b) IN
+c) 1 kN
+d) nelze vypočítat bez údaje o hustotě oceli
+221. Dvě válcové nádoby s plochou dna 1 a 2 dm² jsou naplněny vodou do stejné výšky.
+Vyberte správné tvrzení:
+a) tlakové síly působící na dna obou nádob jsou stejné
+B) hydrostatický tlak u dna obou nádob je stejný
+c) tlaková síla na dno větší nádoby je poloviční než tlaková síla působící na menší dno
+D) tlaková síla na dno větší nádoby je dvojnásobek tlakové síly působící na dno menší
+nádoby
+222. Tlaková síla působící na dno válcové nádoby o ploše 1 dm², naplněné vodou do
+výšky 20 cm, činí přibližně
+a) 0,2 N
+b) 2 N
+C) 20 N
+d) 200N
+223. Píst vytlačil při stálém tlaku 0,5 kPa z trubky 10 litrů vody. Jaká práce byla
+vykonána?
+a) 0,5 J
+B) 5)
+c) 50 )
+d) 0,5 k)
+224. Píst tlačil při stálém tlaku 0,2 kPa z trubky vodu a vykonal práci 20 J. Jaký objem
+vody vytlačil?
+a) 501
+B) 1001
+C) 1501
+d) 2001
+225. Práce W vykonaná působením tlaku p = 40 kPa kapaliny na píst o ploše 2000 cm
+který se posunul o 50 cm, je
+a) W = 400)
+B) W = 4 kJ
+c) W = 40 kj
+d) W = 800)
+226. Ze vztahu mezi prací vykonanou účinkem tlaku kapaliny a tímto tlakem můžeme
+jednotku tlaku Pa vyjádřit jako
+A) J.m-3
+b) J.m3
+c) J.m-2
+d) J.m?

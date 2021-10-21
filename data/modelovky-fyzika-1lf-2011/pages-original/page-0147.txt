@@ -1,0 +1,45 @@
+=
+=
+=
+1110Které z následujících tvrzení je správné?:
+A) duté zrcadlo má skutečné ohnisko
+B) vypuklé zrcadlo má neskutečné ohnisko
+C) nejpřesnější vyobrazení vzniká paraxiálními paprsky
+d) rovina obsahující optickou osu s ohniskem je ohnisková rovina
+1111. Zobrazovací rovnice kulového zrcadla má tvar
+a) 1/a + 1/a' = r/2
+b) 1/a - 1/a' = r/2
+c) 1/a = 1/a' = 1/f
+D) 1/a + 1/a' = 2/r
+1112. Obrazy získané pomocí vypuklého zrcadla jsou vždy
+a) zvětšené
+B) zmenšené
+c) převrácené
+d) skutečné
+1113. Pro příčné zvětšení Z kulového zrcadla platí
+a) Z=y/y
+b) Z-a'/a
+C) Z = -f/(a - f)
+d) Z = -(a - f)/
+1114. Optická mohutnost čočky je
+a) tloušťka čočky
+b) tloušťka čočky násobená její hustotou
+C) převrácená hodnota ohniskové vzdálenosti čočky
+d) ohnisková vzdálenost dělená poloměrem křivosti čočky
+1115. Jaké je zvětšení lupy s ohniskovou délkou 5 cm?
+A) 5
+b) 10
+c) 15
+d) 20
+1116. Jak velký je optický interval mikroskopu se zvětšením 400, jestliže ohnisková
+vzdálenost objektivu je 2 mm a okuláru 5 cm?
+a) 4 cm
+b) 8 cm
+C) 16 cm
+d) 20 cm
+1117. Určete ohniskovou vzdálenost tenké spojky, kterou se předmět vzdálený 20 cm
+před čočkou zobrazil ve vzdálenosti 60 cm.
+a) 5 cm
+b) 10 cm
+C) 15 cm
+d) 20 cm

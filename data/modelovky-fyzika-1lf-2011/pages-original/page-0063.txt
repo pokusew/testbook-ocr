@@ -1,0 +1,50 @@
+2
+Usa
+449. Jaké teplo přijme kyslík o hmotnosti 50 g, zvýší-li se jeho teplota z 20° na
+100 °C při stálém tlaku? Měrná tepelná kapacita kyslíku při stálém tlaku je
+912 J.kg-1.K-1.
+A) 3,65 k]
+b) 1,75 k]
+c) 1,25 kJ
+d) 0,85 k]
+450. Jaké teplo přijme kyslík o hmotnosti 50 g zvýší-li se jeho teplota z 20° na 100 °C
+při stálém objemu? Měrná tepelná kapacita kyslíku při stálém objemu je
+651 J.kg-1,K-1
+A) 2,6 kJ
+b) 1,6 kJ
+c) 1,4 k]
+d) 0,8 kJ
+451. O kolik se zvýší vnitřní energie kyslíku o hmotnosti 50 g,zvýší-li se jeho teplota
+z 20° na 100 °C při stálém objemu? Měrná tepelná kapacita kyslíku při stálém
+objemu je 651 J.kg-4K-1.
+A) 2,6 kJ
+b) 1,6 kJ
+c) 1,4 k]
+d) 0,8 kJ
+452. Jakou práci vykoná vzduch o hmotnosti 50 g, zvýší-li se jeho teplota z 20° na
+60 °C při stálém tlaku? Měrná tepelná kapacita vzduchu při stálém tlaku je
+1,005 kJ.kg-4.K-1, při stálém objemu 0,718 kJ.kg-4.K-1
+a) 148 )
+b) 328 )
+c) 455)
+D) 574 )
+453. Hladina vodní nádrže o ploše 0,2 ha se při teplotě 0 °C pokryla ledem o tlouštce
+3 mm. Skupenské teplo tuhnutí ledu je 334 kJ.kg-1, hustota ledu při této teplotě
+je 918 kg.m-3. Kolik tepla předala mrznoucí voda do svého okolí?
+a) žádné
+b) 0,4k]
+c) 1,42 MI
+D) 1,836J
+454. Kolik kg vody teplé 75 °C je nutné vlít do 6 kg vody o teplotě 20 °C, aby výsledná
+teplota směsi byla 42 °C?
+A) 4 kg
+b) 3,6 kg
+c) 3,2 kg
+d) 2,8 kg
+455. Smícháme-li 2 kg vody o teplotě 20 °C s 5 kg vody o teplotě 30 °C, bude výsledná
+teplota směsi přibližně
+a) 290 K
+b) 295 K
+C) 300 K
+d) 305 K
+0

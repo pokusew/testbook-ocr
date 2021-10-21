@@ -1,0 +1,45 @@
+10. Jednotka watt (W) je z hlediska Mezinárodní soustavy jednotek SI jednotkou
+A) odvozenou
+b) základní
+c) zakázanou
+d) doplňkovou
+11. Která z uvedených jednotek není jednotkou vedlejší?
+A) sr
+B) mol
+c) eV
+D) mV
+12. Která z uvedených jednotek je jednotkou vedlejší?
+A) °C
+b) mol
+c) rad
+d) N
+13. Jednotka newton (N) je jednotkou
+a) základní
+b) doplňkovou
+C) odvozenou
+d) zakázanou
+14. Která z uvedených jednotek je jednotkou odvozenou?
+a) sr
+B) V
+c) mol
+d) cd
+15. Která z uvedených jednotek nepatří mezi základní jednotky soustavy SI?
+a) A
+B) V
+c) mol
+d) cd
+16. Která z uvedených jednotek patří mezi základní jednotky soustavy SI?
+A) A
+b) W
+C) cd
+D) mol
+17. Která z uvedených jednotek není jednotkou doplňkovou?
+A) °C
+B) eV
+c) sr
+D) cm
+18. Jednotka joule (J) patří z hlediska soustavy Si mezi jednotky
+a) základní
+B) odvozené
+c) doplňkové
+d) zakázané

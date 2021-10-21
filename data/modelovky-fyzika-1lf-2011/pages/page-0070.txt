@@ -1,0 +1,49 @@
+m
+=
+=
+=
+497. Uvažujte dva různé ideální plyny (např. kyslík a dusík) o stejné teplotě. Které
+z následujících tvrzení je pravdivé?
+a) oba plyny mají stejnou střední kinetickou energii a tedy i stejnou střední kvadratickou
+rychlost
+b) oba plyny mají stejnou střední kvadratickou rychlost, avšak nikoliv stejnou střední
+kinetickou energii
+c) nemají stejnou ani střední kinetickou rychlost, ani střední kinetickou energii
+D) oba plyny mají stejnou střední kinetickou energii, avšak nestejnou střední kvadratickou
+rychlost
+498. Který z uvedených plynů (respektive plynných směsí) má nejnižší hustotu?
+A) vlhký vzduch
+b) chlor
+c) kyslík
+d) argon
+499. Značí-li R, molární plynovou konstantu, p tlak, V objem, T termodynamickou
+teplotu a n počet molů, můžeme stavovou rovnici ideálního plynu obecně napsat
+například ve tvaru
+a) PV = RT
+b) PV = Rm/T
+C) PV = nRT
+d) PV = nR/T
+500. Uved'te správnou jednotku molární plynové konstanty R.
+a) ,
+b) J. K-1
+c) J.mol-1
+D) J. K-1.mol-1
+501. Z uvedených čtyř alternativ vyberte takovou, že první jednotka odpovídá
+Boltzmannově konstantě a druhá molární plynové konstantě:
+a) J.K-1.mol-1; J. K-1
+B) J. K-1; J. K-4.mol-1
+c) J. K-1, J.mol-1
+d) J; J.mol-1
+502. Značí-li p tlak, V objem a T termodynamickou teplotu, pak pro dva různé stavy
+téhož plynu o stejném počtu molů, vyplývá ze stavové rovnice
+A) P.V1/T1 = p2V2/T2
+b) P1V T1 = P2V2T2
+c) p1V1 = P2V2
+d) neplatí žádný z uvedených vztahů
+503. Značí-li p tlak, V objem a T termodynamickou teplotu, pak pro daný počet molů
+daného plynu zůstává při jakékoliv změně stavu konstantní výraz
+a) pV
+b) PVT
+C) PV/T
+d) pT/V
+-1

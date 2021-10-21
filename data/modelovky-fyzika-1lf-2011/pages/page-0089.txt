@@ -1,0 +1,45 @@
+644. Které z následujících tvrzení je správné:
+A) permitivita suchého vzduchu je větší než permitivita vakua
+b) permitivita suchého vzduchu je menší než permitivita vakua
+C) rozdíl mezi permitivitami suchého vzduchu a vakua je nepatrný
+D) permitivita je konstanta charakterizující daný izolant
+645. Které z následujících tvrzení je nepravdivé?
+A) intenzita elektrického pole je nezávislá na prostředí
+B) intenzita elektrického pole je tím větší, čím větší je permitivita dielektrika
+c) intenzita elektrického pole je tím menší, čím větší je permitivita dielektrika
+D) permitivita dielektrika je menší než permitivita vakua
+646. Kapacita deskového kondenzátoru
+A) závisí na velikosti ploch desek
+b) je nepřímo úměrná permitivitě prostředí mezi deskami
+c) je nepřímo úměrná čtverci permitivity prostředí mezi deskami
+D) je přímo úměrná permitivitě prostředí mezi deskami
+647. Uvažujme daný deskový kondenzátor, mezi jehož deskami je vzduch. Vyčerpáním
+vzduchu se
+a) jeho kapacita podstatně zvýší
+b) jeho kapacita podstatně sníží
+C) jeho kapacita nepatrně sníží
+d) jeho kapacita nepatrně zvýší
+648. Elektrony se mohou podílet jako volné částice na přenosu elektrického náboje
+A) v kovech
+B) v ionizovaném plynu
+c) v elektrolytu
+D) v polovodičích
+649. Zvolte správné tvrzení:
+A) dohodnutý směr proudu odpovídá směru pohybu kladně nabitých částic
+b) dohodnutý směr proudu odpovídá směru pohybu elektronů
+c) dohodnutý směr proudu odpovídá směru proudu těch částic, které jsou právě daným
+vodičem přenášeny
+d) vionizovaném plynu je elektrický náboj přenášen pouze kladně a záporně nabitými
+částicemi plynu
+650. Je-li v daném vodiči proud přenášen jednak kladně a jednak záporně nabitými
+náboji, je třeba pro výpočet procházejícího proudu uvážit
+a) pouze náboj kladně nabitých částic
+B) součet nábojů všech částic bez ohledu na znaménko
+c) pouze náboj záporných částic
+d) náboj kladných částic od kterého odečteme absolutní hodnotu náboje záporných částic
+651. V kovu se přenáší proud
+A) volnými valenčními elektrony kovu
+b) elektrony, které jsou do kovu dodány z připojeného zdroje
+c) elektrony a kladně nabitými ionty
+d) elektrony a záporně nabitými ionty
+Sasa

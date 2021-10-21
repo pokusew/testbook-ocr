@@ -1,0 +1,46 @@
+817. V plynu může být elektrický náboj přenášen
+a) pouze elektrony
+b) pouze elektrony a kladnými ionty
+C) elektrony, kladnými ionty a zápornými ionty
+d) pouze kladnými a zápornými ionty
+818. Které z následujících tvrzení týkajících se voltampérové charakteristiky výboje je
+správné?:
+A) v první oblasti, kde proud roste lineárně s napětím se uplatňuje vliv rekombinace
+B) v oblasti nasyceného proudu jsou všechny ionty zachyceny deskami
+c) v oblasti nasyceného proudu závisí proud na napětí podle Ohmova zákona
+D) při napětích převyšujících napětí v oblasti nasyceného proudu nastává samostatný výboj
+819. Vionizovaném plynu platí Ohmův zákon
+a) v oblasti nasyceného proudu
+b) v oblasti samostatného výboje
+c) v oblasti nasyceného proudu a při nižších napětích
+D) pouze při nižších napětí než je napětí, při kterém nastává nasycení proudu
+820. Na voltampérové charakteristice výboje rozlišujeme tento počet oblastí:
+a) 1
+b) 2
+C) 3
+d) 4
+821. Nejvyšších teplot se dosahuje v tomto typu samostatného výboje:
+a) obloukový výboj
+B) jiskrový výboj
+c) doutnavý výboj
+d) korona
+a
+822. Při elektrickém výboji v trubici se zředěným plynem
+A) pozorujeme při katodě katodové světlo a ve zbývajícím, převažujícím prostoru trubice
+anodové světlo
+b) pozorujeme při anodě anodové světlo a ve zbývajícím, převažujícím prostoru trubice
+katodové světlo
+c) celá trubice září stejným světlem
+d) zhruba polovina trubice je "zaplněna” katodovým světlem a druhá polovina anodovým
+světlem
+823. Který z následujících účinků nevyvolávají paprsky elektronů získané jako
+katodové záření?
+a) ionizaci plynu
+b) světélkování látek
+C) jaderné reakce
+d) zahřívání materiálu, na který dopadnou
+824. Termoemise je
+a) emise tepelného záření
+b) emise elektronů účinkem světla dopadajícího na katodu
+c) ionizace plynu účinkem vysokých teplot
+D) uvolňování elektronů z povrchu pevných nebo kapalných těles při vysoké teplotě

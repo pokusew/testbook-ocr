@@ -1,0 +1,49 @@
+194. Příčinou rozdílné tekutosti kapalin je jejich
+a) povrchové napětí
+b) hustota
+C) viskozita
+d) hydrostatický tlak
+195. Tlak v kapalině je
+a) vektor směru shodného se směrem vektoru síly, která jej vyvolala
+b) vektor směru opačného
+C) skalár
+d) vektor ve směru kolmém na dno nádoby
+196. Jednotkou tlaku v soustavě jednotek SI je
+a) atmosféra
+B) pascal
+c) newton metr-1
+d) joule metr-2
+197. Pomocí základních jednotek soustavy SI můžeme jednotku tlaku vyjádřit jako
+A) kg.m-1.5-2
+b) kg.m-252
+c) kg.m-25-1
+d) kg.m-2.5-2
+-1
+-2
+-2
+198. Hydrostatický tlak v kapalině je
+a) vektorová veličina vyvolaná vnější tlakovou sílou
+b) vektorová veličina vyvolaná tíhovou sílou
+c) skalární veličina vyvolaná vnější tlakovou silou
+D) skalární veličina vyvolaná tíhovou sílou
+199. Značí-li p hustotu, g gravitační zrychlení a h výšku hladiny, je hydrostatický tlak p
+je dán vztahem
+A) p = hpg
+b) p = hg/
+c) p = hp/g
+d) p = hpg?
+200. Jednotkou hydrostatického tlaku v soustavě jednotek SI je
+a) mm vodního sloupce
+b) mm Hg
+C) Pa
+d) N
+201. Hydrostatický tlak je
+a) vektor se směrem kolmým na dno nádoby
+B) skalár
+c) vektor se směrem kolmým na stěny nádoby
+d) vektor směřující vzhůru, kolmo k hladině kapaliny
+202. Hydrostatický tlak v kapalině závisí na
+a) její viskozitě
+b) jejím povrchovém napětí
+c) jejích polárních vlastnostech
+D) její hustotě

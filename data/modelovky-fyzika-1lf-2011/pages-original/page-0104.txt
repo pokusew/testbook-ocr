@@ -1,0 +1,47 @@
+761. Typ polovodiče s elektronovou vodivostí značíme písmenem
+a) E
+B) N
+c) P
+d) D
+762. Nahradíme-li některé atomy v krystalu germania atomem hliníku, získáme
+a) nevodič
+b) vodič
+C) polovodič typu P
+d) polovodič s elektronovou vodivostí
+763. Která z uvedených látek patří mezi polovodiče?
+a) sklo
+B) CdS
+C) Si
+d) Pt
+764. Která z uvedených látek patří mezi polovodiče?
+a) Alo
+B) Cds
+c) porcelán
+D) Si
+765. Která z uvedených látek nepatří mezi polovodiče?
+a) Si
+b) Te
+C) Та
+d) GaAs
+766. Uved'te správnou kombinaci:
+A) Te - polovodič
+B) CdS - polovodič
+c) manganin – izolant
+d) NH3 - vodič
+-
+767. Uveďte nesprávnou kombinaci:
+A) NH3 - vodič
+b) In$b - polovodič
+c) slída - izolant
+d) Cd - vodič
+768. Zvolte kombinaci, ve které jsou uvedené druhy látek seřazeny ve správném
+pořadí od nejnižšího měrného elektrického odporu k nejvyššímu:
+a) izolanty, polovodiče, elektrolyty, kovy
+b) kovy, polovodiče, elektrolyty, izolanty
+c) izolanty, elektrolyty, polovodiče, kovy
+D) kovy, elektrolyty, polovodiče, izolanty
+769. Závislosti odporu polovodiče na teplotě se využívá k měření teploty pomocí
+a) odporových teploměrů
+b) termočlánků
+C) termistorů
+d) bimetalických teploměrů

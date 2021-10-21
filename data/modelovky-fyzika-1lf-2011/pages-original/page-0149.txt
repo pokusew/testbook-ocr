@@ -1,0 +1,43 @@
+1126. Při zobrazení rozptylkou je obraz předmětu nacházejícího se v ohnisku čočky
+a) skutečný
+b) zvětšený
+c) převrácený
+D) zmenšený
+1127. Jednotkou zářivosti je
+A) W.sr-1
+b) W.sr
+c) W
+d) Im
+1128. Jednotkou optické mohutnosti v oční optice je
+A) dioptrie
+b) dioptrie-1
+c) dioptrie.m
+d) dioptrie.m-1
+1129. Pro příčné zvětšení z čočky platí
+A) Z= -a'/a
+b) Z = (a - f)/a
+c) Z = (a' – f)/a
+D) Z=-(a' - f)/f
+1130. Při zobrazení rozptylkou vzniká vždy obraz
+A) neskutečný
+b) skutečný
+C) přímý
+d) zvětšený
+1131. Při zobrazení rozptylkou je obraz předmětu nacházejícího se mezi ohniskem
+a středem čočky
+a) skutečný
+B) přímý
+c) zvětšený
+D) zmenšený
+1132. Při zobrazení spojkou je obraz předmětu nacházejícího se mezi ohniskem
+a středem čočky
+a) zmenšený
+b) převrácený
+C) zvětšený
+d) skutečný
+1133. Při zobrazení spojkou je obraz předmětu nacházejícího se ve dvojnásobné
+ohniskové vzdálenosti
+a) přímý
+b) zvětšený
+c) zmenšený
+D) stejně velký

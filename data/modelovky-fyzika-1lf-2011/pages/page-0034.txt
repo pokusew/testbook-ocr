@@ -1,0 +1,54 @@
+227. Olověná koule o hmotnosti 11,3 kg, zcela ponořená do kapaliny, táhne za závěsné
+lanko silou 103 N. Uvažujte velikost tihového zrychlení 10 m.s-2. Hustota olova je
+11 300, rtuti 13 600 a líhu 860 kg.m-3. Do jaké kapaliny je ponořena?
+a) rtuť
+B) voda
+c) líh
+d) nelze určit
+228. Olověná koule o hmotnosti 11,3 kg, zcela ponořená do kapaliny, táhne za závěsné
+lanko silou 104,4 N. Uvažujte velikost tíhového zrychlení 10 m.s-2. Hustota olova
+je 11 300, rtuti 13 600 a líhu 860 kg.m*3. Do jaké kapaliny je ponořena?
+a) rtuť
+B) líh
+c) voda
+d) nelze určit
+3
+229. Rovnice kontinuity je zvláštním případem zákona o zachování
+a) energie
+B) hmotnosti
+c) hybnosti
+d) mechanické energie
+230. Při ustáleném proudění nestlačitelné kapaliny proudovou trubicí s měnícím se
+kruhovým průřezem je v každém místě velikost rychlosti kapaliny
+A) nepřímo úměrná kvadrátu průměru trubice
+b) přímo úměrná průměru trubice
+C) nepřímo úměrná průřezu trubice
+d) přímo úměrná průřezu trubice
+231. Koncovka hadice má čtyřikrát menší poloměr než je poloměr hadice. Pomocí této
+koncovky se rychlost kapaliny oproti původní rychlosti v hadici zvýší
+a) dvakrát
+b) čtyřikrát
+c) osmkrát
+D) šestnáctkrát
+232. Při ustáleném proudění protéká hadicí o poloměru 1 cm 30 litrů vody za minutu.
+Její koncovkou o poloměru 0,25 cm protéká
+a) 7,51/min
+b) 151/min
+C) 30 1/min
+d) 60l/min
+233. Hadicí o průřezu 4 cm? proteče 1,2 hl vody za minutu. Jaká je rychlost vody?
+A) 5 m/s
+b) 10 m/s
+c) 15 m/s
+d) 25 m/s
+234. Potrubím proteklo za 5 minut 6 hl vody. Jaký byl objemový průtok?
+a) 0,5x10-3 ms-1
+b) 1x10-3 m
+C) 2x10-3 mºs
+d) 4x10-3 m?s-1
+2
+3
+-1
+3 .-1
+.S
+3-1

@@ -1,0 +1,50 @@
+186. Velikost momentu síly F = 10 N vzhledem k ose otáčení kolmé na směr síly
+a působící v kolmé vzdálenosti r= 20 cm je rovna
+a) 0,2 N.m
+B) 2 N.m
+c) 20 N.m
+d) 200 N.m
+187. Jednotkou momentu síly v soustavě jednotek SI je
+a) N.m-1
+b) N.m.s-1
+C) N.m
+d) N.m
+188. Pomocí základních jednotek soustavy SI můžeme moment síly vyjádřit
+v jednotkách:
+a) kg.m-2.5-2
+B) kg.m².s-2
+c) kg.m.s-2
+d) kg.m².s?
+6
+189. Kinetickou energii Ex tuhého tělesa, které se otáčí rovnoměrně s úhlovou
+rychlostí w kolem nehybné osy lze vyjádřit pomocí momentu setrvačnosti J jako
+a) Ex = jw2/4
+b) Ex = JW
+c) Ex = Jw
+D) Ex = jw2/2
+-2
+-2
+.
+190. Jednotkou momentu setrvačnosti je
+a) kg.m
+b) kg.m-1
+c) kg.m-2
+D) kg.ma
+191. Která z uvedených kombinací fyzikální veličiny a její jednotky vyjádřené pomocí
+základních jednotek soustavy SI je nesprávná:
+a) moment síly - kg.m².s-2
+B) moment setrvačnosti – kg.m3
+C) hybnost – kg.m.s-2
+d) moment dvojice sil – kg.m².s-2
+192. Která z uvedených kombinací fyzikální veličiny a její jednotky vyjádřené pomocí
+základních jednotek soustavy SI je správná:
+A) moment dvojice sil – kg.m².s-2
+b) hybnost – kg.m.s-2
+C) moment setrvačnosti – kg.m?
+d) moment síly - kg.m.s-1
+193. Pojem tekutiny je
+a) synonymem pojmu kapaliny
+B) pojmem označujícím souhrnně kapaliny a plyny
+c) synonymem pojmu plyny
+d) označením kapalin se zanedbatelnou viskozitou
+-

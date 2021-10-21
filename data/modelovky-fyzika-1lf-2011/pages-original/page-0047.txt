@@ -1,0 +1,45 @@
+325. Podle definičního vztahu pro intenzitu elektrického pole by její jednotkou mohl
+být
+a) N.C
+B) N.C-1
+c) N-2.C
+d) N-1.C-1
+326. Z úvah o intenzitě elektrického pole plyne vztah mezi jednotkami
+A) NC-1 = V.m-1
+b) N-1.C = V.m-1
+c) N-1.C = V.m
+d) N.C = V.m
+=
+327. Která z uvedených veličin je skalár?
+a) intenzita elektrického pole
+B) velikost elektrické síly
+C) permitivita prostředí
+D) elektrický náboj
+328. Intenzitu elektrického pole definujeme jako
+a) součin dvou vektorů
+b) součin vektoru a skaláru
+c) podíl - skalár lomený vektorem
+D) podíl - vektor lomený skalárem
+329. Vyberte pravdivé tvrzení:
+a) podle definice intenzity elektrického pole by bylo možno jednotku této veličiny vyjádřit
+jako N. C
+B) pro intenzitu elektrického pole užíváme jednotku V.m-1
+C) intenzita elektrického pole a elektrická síla působící na kladný náboj jsou vektory
+stejného směru
+d) mezi dvěma rovnoběžnými, izolovanými, elektricky nabitými deskami je radiální
+elektrické pole
+330. Elektrické pole v okolí bodového elektrického náboje
+A) je nehomogenní
+b) má stejnou intenzitu pro každý bod v dané vzdálenosti
+c) je axiální
+D) je radiální
+331. Radiální elektrické pole můžeme očekávat například
+a) v okolí elektricky nabité tyče
+b) mezi dvěma elektricky nabitými deskami
+c) mezi dvěma elektrickými nabitými tělesy
+D) v okolí iontu
+332. Intenzita elektrického pole uvnitř nabité vodivé koule
+a) je vektor směřující do středu koule
+b) je vektor směřující ze středu koule
+c) je vektor směřující do středu u kladně nabité koule a od středu u záporně nabité koule
+D) je nulová

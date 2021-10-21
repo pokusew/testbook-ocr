@@ -1,0 +1,46 @@
+6
+354. Jaká je kapacita kulového vodiče o průměru 10 cm umístěného v oleji o relativní
+permitivitě ε = 2,5?
+a) 7 pF
+B) 14 pF
+c) 21 nF
+d) 56 nF
+355. Jaká je kapacita deskového kondenzátoru o velikosti ploch 20 cmvzdálených
+2 cm, je-li dielektrikem olej o relativní permitivitě ε= 2,5?
+a) 2,2 nF
+B) 2,2 pF
+c) 4,4 pF
+d) 8,8 pF
+356. Vzduchový otočný kondenzátor o kapacitě 400 pF byl po nabití na napětí
+60 V odpojen od zdroje napětí a ponořen do petroleje (E = 6). Jeho napětí se
+změnilo na
+a) 60 V
+b) 40 V
+c) 20 V
+D) 10 V
+357. Vzduchový otočný kondenzátor o kapacitě 400 pF byl po nabití na napětí
+60 V odpojen od zdroje napětí a ponořen do petroleje (E = 6). Jeho energie při
+ponoření byla
+a) 960 n]
+b) 480 n]
+c) 240 n]
+D) 120 n]
+358. Vzduchový otočný kondenzátor o kapacitě 400 pF byl po nabití na napětí
+60 V odpojen od zdroje napětí a ponořen do petroleje (ε = 6). Jeho kapacita se
+ponořením změnila na
+a) 0,6 nF
+b) 1,2 nF
+C) 2,4 nF
+d) 3,6 nF
+359. Jak velký povrch musí mít anoda elektrolytického kondenzátoru o kapacitě 1 uF,
+je-li tlouštka dielektrika 10-4 mm a relativní permitivita ε, = 10?
+a) 1,1 cm?
+B) 0,11 dm2
+c) 0,11 cm2
+d) 11 dm?
+360. Na povrchu koule umístěné ve vakuu je plošná hustota náboje 0,2 uc.m-2. Jaká je
+intenzita elektrického pole v těsné blízkosti povrchu?
+A) 2,2x104 V.m-1
+b) 4,4x104 V.m-1
+c) 6,6*104 V.m
+d) 8,8*104 V.m

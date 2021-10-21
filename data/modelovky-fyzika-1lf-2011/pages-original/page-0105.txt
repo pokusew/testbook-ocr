@@ -1,0 +1,45 @@
+770. Zánik páru volný elektron - díra v polovodiči se nazývá
+a) excitace
+B) rekombinace
+c) ionizace
+d) disociace
+771. Mezi výsledným elektrickým proudem v polovodiči I, elektronovým proudem I.
+a děrovým proudem la platí vztah
+A) I = 1 + Id
+b) I = 1 - 1
+c) I = ld - 1
+d) I = 1e = 10
+772. Ve vlastním polovodiči
+a) je hustota děr menší než hustota volných elektronů
+b) je hustota volných elektronů menší než hustota děr
+c) poměr mezi hustotami děr a volných elektronů závisí na typu poruch krystalové mřížky
+D) je hustota děr rovna hustotě volných elektronů
+773. V jednotlivých alternativách jsou uvedena jednotlivá zařízení a k nim jsou
+přiřazeny fyzikální principy či jevy, na kterých jsou založena. Označte správnou
+kombinaci:
+A) termočlánek – vznik elektromotorického napětí zahřátím spoje dvou kovů
+b) bimetalický teploměr -- závislost měrného elektrického odporu na teplotě
+C) polovodičová dioda - 1 přechod PN
+D) tranzistor - 2 přechody PN
+774. V jednotlivých alternativách jsou uvedena jednotlivá zařízení a k nim jsou
+přiřazeny fyzikální principy či jevy, na kterých jsou založena. Označte správnou
+kombinaci:
+A) termočlánek - přeměna tepelné energie na energii elektrickou
+B) termistor - pokles měrného elektrického odporu polovodiče se stoupající teplotou
+C) odporový teploměr – vzrůst měrného elektrického odporu vodiče se stoupající teplotou
+d) tranzistor – využití 1 přechodu PN k usměrnění proudu
+775. V jednotlivých alternativách jsou uvedena jednotlivá zařízení a k nim jsou
+přiřazeny fyzikální principy či jevy, na kterých jsou založena. Označte správnou
+kombinaci:
+A) polovodičová dioda - využití větší elektrické vodivosti v jednom směru na 1 přechodu PN
+B) galvanický článek - reakce na povrchu elektrod v elektrolytu
+c) termočlánek - přeměna elektrické energie na energii tepelnou
+D) bimetalický teploměr - teplotní roztažnost kovů
+776. Změníme-li polaritu vnějšího zdroje napětí vloženého na polovodič s přechodem
+PN, který byl původně zapojen v propustném směru, elektrický odpor přechodu
+PN
+a) mírně vzroste
+B) značně vzroste
+c) poklesne
+d) se nezmění
+V

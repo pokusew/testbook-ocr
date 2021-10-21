@@ -1,0 +1,47 @@
+-
+-
+-
+604. Označte variantu, ve které jsou pro obě veličiny či konstanty uvedeny správné
+jednotky:
+a) tepelná kapacita – J; měrná tepelná kapacita - J. kg-1. K-1
+B) Boltzmannova konstanta - J.K-1; konstanta v Boylově-Mariottově zákonu - J
+c) molární plynová konstanta - J.mol-1; normálové napětí – Pa
+d) modul pružnosti v tahu -- Pa; měrné skupenské teplo tání – J. K-1
+605. Při měření teploty rtuťovým teploměrem se využívá jevu
+a) kapilární elevace
+b) kapilární deprese
+C) teplotní objemové roztažnosti
+d) hydrostatického tlaku
+606. Grafem závislosti objemu kapalin na přírůstku teploty je ve většině případů
+a) přímka procházející počátkem
+b) křivka s maximem při určité teplotě
+c) křivka s minimem při určité teplotě
+D) přímka s úsekem na svislé ose, který je roven počátečnímu objemu
+607. Měrné skupenské teplo tání vyjadřujeme v jednotkách
+A) J. kg-1
+b) J.mol-1
+c) J. kg-1 K-1
+d) J. K-1
+608. Počet fází ve stavu, který odpovídá kterémukoliv bodu na některé z křivek
+fázového diagramu dané čisté látky je
+a) 0
+b) 1
+C) 2
+d) 3
+609. Počet fází ve stavu, který odpovídá kterémukoliv bodu v oblastech mezi křivkami
+fázového diagramu dané čisté látky je
+A) 1
+b) 2
+c) 3
+d) 0
+610. Počet fází ve stavu, který odpovídá trojnému bodu fázového diagramu dané čisté
+látky je
+a) 0
+b) 1
+c) 2
+D) 3
+611. Ve fázovém diagramu látky je vlevo od křivky tání
+A) oblast pevné látky
+b) oblast kapaliny
+c) oblast přehřáté páry
+d) oblast současně přítomné pevné látky a kapaliny

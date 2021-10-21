@@ -1,0 +1,50 @@
+=
+-
+=
+=
+141. Je-li směr síly F působící na těleso shodný se směrem posunutí s, pak
+S
+mechanickou práci W vyjádříme vztahem
+a) W = F/s
+b) W = Fv
+C) W = Fs
+d) W = Fa
+142. Svírá-li směr síly F působící na těleso úhel a se směrem posunutí s, je mechanická
+práce W dána vztahem
+a) W = Fs
+b) W = Fs.sina
+c) W = Fs.tga
+D) W = Fs.cosa
+143. Značí-li g gravitační zrychlení, pak posunutím tělesa o hmotnosti m po nakloněné
+rovině, která svírá s vodorovnou rovinou úhel B tak, že rozdíl výšek tělesa před
+posunutím a po něm je roven h, se vykoná práce W:
+a) W = mgh.sinß
+b) W = mgh.cosß
+c) W = mgh.tgß
+D) W= mgh
+144. Je-li F, velikost tíhové síly tělesa umístěného na nakloněné rovině, která svírá
+s vodorovnou rovinou úhel B, je velikost složky F1 ve směru posunutí:
+A) F1 = Fg-sinß
+b) F1 = Fg.cosß
+c) F1 = Fg-tgß
+d) F1 = FG
+145. Je-li Fg velikost tíhové síly tělesa umístěného na nakloněné rovině, která svírá
+s vodorovnou rovinou úhel B, je velikost složky F2 kolmé na směr posunutí (která
+nemá pohybové účinky)
+a) F2 = Fg.sinß
+B) F2 = Fc.cosB
+c) F2= Fg.tgß
+d) F2 = FG
+146. Vlak jede rychlostí 72 km/hod. Za jak dlouho zastaví, začne-li strojvůdce
+rovnoměrně brzdit se záporným zrychlením 1 m.s-2?
+a) 10 s
+B) 20 s
+c) 30 s
+d) 40 s
+147. Vlak jede rychlostí 72 km/hod. Jakou dráhu ještě ujede, začne-li strojvůdce
+rovnoměrně brzdit se záporným zrychlením 0,5 m.s-??
+a) 200 m
+B) 400 m
+c) 600 m
+d) 800 m
+=

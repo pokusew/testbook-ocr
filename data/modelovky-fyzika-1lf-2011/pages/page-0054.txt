@@ -1,0 +1,48 @@
+177. Velikost intenzity elektrického pole v místě, kde na bodový náboj 200 uC působí
+síla 2 Nje
+a) 103 V.m-1
+B) 104 V.m-1
+C) 105 V.m-1
+(l) 106 V.m-1
+178. Jaký potenciál má vodič, jestliže k přemístění náboje 100 uC z místa nulového
+potenciálu na jeho povrch byla vykonána práce 1 J?
+a) 100 V
+b) 1 kV
+C) 10 kV
+d) 50 kV
+-1
+m
+179. Jaká je velikost intenzity elektrického pole mezi dvěma rovnoběžnými vodivými
+deskami vzdálenými 20 cm, z nichž jedna má vzhledem ke druhé uzemněné
+desce potenciál 2 kV?
+a) 102 V.m-1
+b) 103 V.m-1
+C) 104 V.m-1
+d) 105 V.m-1
+180. Poměr jednotek J/C odpovídá jednotce
+a) proudu
+b) elektrické práce
+c) intenzity elektrického pole
+D) potenciálu
+181. Elektrické napětí má stejnou jednotku jako
+A) elektrický potenciál
+b) elektrický náboj
+c) intenzita elektrického pole
+d) práce
+382. Elektrické napětí mezi dvěma body, které mají hodnoty potenciálu 60 Va 80 V je
+a) -20 V
+B) 20 V
+c) 140 V
+d) -140 V
+383. Uvažujme dva body. Elektrický potenciál každého z nich je 40V. Elektrické napětí
+mezi těmito body je
+a) 40 V
+b) 80 V
+C) OV
+d) 20 V
+0
+384. Které z následujících tvrzení o elektrickém napětí je nesprávné?
+A) elektrické napětí je vektorovou veličinou
+B) elektrické napětí mezi dvěma body je rovno součtu potenciálů těchto bodů
+c) elektrické napětí má stejnou jednotku jako elektrický potenciál
+D) jednotkou elektrického napětí je ampér

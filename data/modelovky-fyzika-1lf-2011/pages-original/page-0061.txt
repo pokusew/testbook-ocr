@@ -1,0 +1,49 @@
+433. Vyberte dvojici, kde ani jedna z uvedených veličin není veličinou stavovou
+(Q značí teplo, p tlak, U vnitřní energii, V objem a W práci):
+A) WQ
+b) U, V
+c) W,p
+d) eV
+434. Vyberte dvojici, kde jedna z uvedených veličin není a druhá je stavovou veličinou
+(T značí termodynamickou teplotu, p tlak, U vnitřní energii, V objem a W práci):
+a) Up
+B) W, V
+C) W, U
+d) T, V
+435. Vyberte správné tvrzení:
+A) částice látky dané soustavy na sebe navzájem působí i v rovnovážném stavu
+b) v rovnovážném stavu se některé ze stavových veličin mohou měnit, jiné nikoliv
+C) v rovnovážném stavu se žádná ze stavových veličin nemění
+D) částice látky dané soustavy se pohybují i v nerovnovážném stavu
+436. Vyberte dvojici, kde dané fyzikální představě odpovídá v přiblížení nabídnutá
+skutečnost:
+a) izolovaná soustava - válec s plynem v dostatečně velké vodní lázni o libovolné teplotě
+b) rovnovážný děj – rychlé stlačování plynu
+c) rovnovážný stav - stav plynu v uzavřené nádobě, kterému je rovnoměrně dodáváno teplo
+D) rovnovážný děj – pomalé stlačování plynu
+437. Vyberte dvojici, kde dané fyzikální představě neodpovídá v přiblížení nabídnutá
+skutečnost:
+a) kapalina v termosce - izolovaná soustava
+B) rychlé stlačování plynu - rovnovážný děj
+c) pomalé stlačování plynu - rovnovážný děj
+d) stav plynu v uzavřené nádobě při konstantní teplotě – rovnovážný stav soustavy
+438. V rovnovážném stavu soustavy platí
+A) změna vnitřní energie se rovná nule
+b) střední kinetická energie částic se rovná nule
+c) změna teploty se nerovná nule
+d) změna tlaku se nerovná nule
+439. Zvolte správnou kombinaci přibližného vyjádření téže teploty ve °C (t)a v K(T):
+A) t= 10 °C; T = 283 K
+b) t = 10 °C; T = 263 K
+c) T = 10 K; t = 283 °C
+d) T = 10 K; t = 263 °C
+440. Zvolte správnou kombinaci přibližného vyjádření téže teploty ve °C (t) a v K(T):
+a) t= -20 °C; T = 293 K
+b) t= 20 °C; T = 253 K
+c) T = 20 K; t = 293 °C
+D) T = 253 K; t = -20 °C
+=
+=
+=
+=
+=

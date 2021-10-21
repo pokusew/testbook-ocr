@@ -1,0 +1,47 @@
+825. Termoemise elektronů se využívá například
+a) v ionizační komoře
+B) v obrazové elektronce
+c) v termistoru
+d) v bimetalickém teploměru
+826. V obrazové elektronce osciloskopu připojujeme mezi svislé vychylovací desky
+a) napětí, které chceme zobrazit
+B) pilové napětí
+c) žhavící napětí
+d) napětí sloužící k urychlení elektronů
+827. Kolik vychylovacích desek je v obrazové elektronce osciloskopu?
+a) 4 páry
+b) 2 desky
+C) 2 páry
+d) 1 deska
+828. V obrazové elektronce osciloskopu jsou elektrony uvolňovány
+a) fotoemisí z anody
+b) termoemisí z anody
+c) fotoemisí z katody
+D) termoemisí z katody
+829. Stacionární magnetické pole je takové, jehož zdrojem je:
+a) pohybující se vodičs konstantním proudem
+b) rovnoměrně rotující permanentní magnet
+c) nepohybující se vodič s proměnným proudem
+D) nepohybující se vodič s konstantním proudem
+830. Orientaci magnetických indukčních čar určuje:
+a) Lenzovo pravidlo
+B) Ampérovo pravidlo pravé ruky
+c) Ampérovo pravidlo levé ruky
+d) Flemingovo pravidlo levé ruky
+831. Jednotkou magnetické indukce je
+A) tesla
+b) weber
+c) henry
+d) siemens
+832. Homogenní magnetické pole je takové pole, jehož indukční čáry jsou:
+a) soustředné kružnice
+b) křivky se stejnou vzdáleností od sebe
+C) rovnoběžné přímky
+d) kružnice se stejným poloměrem křivosti
+833. Směr vektoru magnetické indukce v určitém bodě magnetického pole je v tomto
+bodě
+A) shodný se směrem souhlasně orientované tečny k indukční čáře
+b) shodný se směrem opačně orientované tečny k indukční čáře
+c) kolmý k tečně indukční čáry
+d) nezávislý na směru tečny k indukční čáře
+S

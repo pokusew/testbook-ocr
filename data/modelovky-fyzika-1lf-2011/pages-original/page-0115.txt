@@ -1,0 +1,47 @@
+850. Na přímý vodič o délce 60 cm, který je orientován kolmo k indukčním čárám
+homogenního magnetického pole o magnetické indukci 20 mt působí síla
+60 mN. Jaký proud jím prochází?
+a) 0,5 A
+B) 5A
+c) 0,1 A
+d) 10 A
+851. Na přímý vodič o délce 80 cm, kterým prochází proud o intenzitě 10 A působí
+síla 100 mN. Vodič je orientován kolmo k indukčním čárám homogenního
+magnetického pole. Jakou má toto pole magnetickou indukci?
+a) 8 mt
+b) 10 ml
+C) 12,5 mT
+d) 25 mt
+852. Kruhovým závitem s průměrem 20 cm, který je orientován kolmo k indukčním
+čárám, prochází indukční tok 6 mWb. Jaká je magnetická indukce?
+a) 0,15 T
+B) 0,19 T
+c) 0,3 T
+d) 0,38 T
+853. Kruhovým závitem s průměrem 10 cm, který je orientován kolmo k indukčním
+čárám, prochází magnetický tok 5 mWb. Jaká je přibližně velikost magnetické
+indukce?
+a) 0,32 T
+B) 0,64 T
+c) 0,128 T
+d) 0,256 T
+854. Závitem orientovaným kolmo k indukčním čárám homogenního magnetického
+pole o magnetické indukci 20 mT prochází magnetický tok 5 mWb. Jaká je plocha
+závitu?
+a) 250 cm?
+b) 500 cm?
+c) 2000 cm2
+D) 2500 cm?
+855. Cívkou o indukčnosti 5 mH prochází proud 3 A. Jaký magnetický indukční tok
+prochází cívkou?
+A) 15 mWb
+b) 30 mWb
+c) 45 mWb
+d) 60 mWm
+856. Cívkou o indukčnosti 20 mH prochází magnetický tok 10 mWb. Jaký proud jí
+prochází?
+a) 25 mA
+b) 50 mA
+c) 250 mA
+D) 500 mA
+2

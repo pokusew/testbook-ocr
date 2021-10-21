@@ -1,0 +1,42 @@
+857. Rovnoměrnou změnou proudu v cívce o 0,5 A za 0,1 s se v cívce indukovalo napětí
+50 mV. Jakou má cívka indukčnost?
+a) 5 mH
+B) 10 mH
+c) 20 mH
+d) 40 mH
+858. Na cívce o indukčnosti 200 mH bylo po dobu 0,1 s stálé indukované napětí
+100 mV. Jaká byla velikost změny proudu v cívce?
+a) 20 mA
+B) 50 mA
+c) 60 mA
+d) 80 mA
+859. Cívkou, kterou prochází proud 5 A prochází magnetický tok 200 mWb. Jakou má
+cívka indukčnost?
+a) 20 mH
+B) 40 mH
+c) 60 mH
+d) 80 mH
+860. Magnetický tok plochou o velikosti 50 cm orientovanou kolmo k indukčním
+čárám magnetického pole o magnetické indukci 5 mt je
+A) 0,025 mWb
+b) 0,25 mWb
+c) 25 mWb
+d) 250 mWb
+861. Jaká je energie magnetického pole cívky o indukčnosti 2 H, kterou prochází
+proud 200 mA?
+a) 4 m]
+B) 40 m]
+c) 400 m]
+d) 800 m]
+862. Energie magnetického pole cívky o indukčnosti 320 mH je 0,64 J. Jaký proud ji
+prochází?
+a) 2 mA
+b) 20 mA
+c) 200 mA
+D) 2 A
+863. Energie magnetického pole cívky, ktero prochází proud 200 mA je 5 m). Jakou má
+cívka indukčnost?
+a) 25 mH
+B) 250 mH
+c) 10 mH
+d) 100 mH

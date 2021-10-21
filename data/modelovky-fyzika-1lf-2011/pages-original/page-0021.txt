@@ -1,0 +1,50 @@
+126. Při rovnoměrném pohybu hmotného bodu o hmotnosti 40 g po kružnici
+o průměru 80 cm s úhlovou rychlostí 20 rad.s-1 je jeho hybnost:
+a) 1,28 kg.m.s-1
+b) 0,64 kg.m.s-1
+C) 0,32 kg.m.s-1
+d) 3,2 kg.m.s-1
+127. Při rovnoměrném pohybu kuličky o hmotnosti 10 g po kružnici o poloměru
+60 cm byla její hybnost 15,072 kg.m.s-1. Jaká byla frekvence jejího pohybu?
+a) 50 Hz
+b) 200 Hz
+c) 800 Hz
+D) 400 Hz
+128. Velikost rychlosti rovnoměrného pohybu kuličky po kružnici o průměru 40 cm je
+25,12 m.s-1. Jaká je její doba oběhu?
+a) 1s
+B) 0,05 s
+c) 0,1 s
+d) 2 s
+129. Doba oběhu sedačky rovnoměrně se pohybujícího kolotoče o průměru 6 m jsou
+3 s. Jaká je velikost její rychlosti?
+a) 3,14 m/s
+B) 6,28 m/s
+c) 1,57 m/s
+d) 12,56 m/s
+130. Hlemýžď' urazil rovnoměrným pohybem 108 cm za 45 minut. Jeho rychlost v m/s
+byla
+a) 0,4
+b) 4.10-3
+C) 4.10-4
+d) 8.10-3
+131. Okolik dříve bude ve městě vzdáleném 9 km cyklista, který jede rychlostí
+15 km/hod, než chodec, který jde rychlostí 4 km/hod?
+a) 47 min
+b) 76 min
+C) 99 min
+d) 135 min
+132. Postupná rychlost sedačky rovnoměrně se pohybujícího kolotoče o průměru 6 m
+je 3,14 m/s. Jak dlouho trvá její jeden oběh?
+a) 5s
+B) 6s
+c) 8s
+d) 35
+133. Při rovnoměrném pohybu hmotného bodu po kružnici o poloměru r = 20 cm
+s frekvencí f = 10 Hz je velikost dostředivého zrychlení přibližně rovna
+a) a = 49 m/s2
+b) a. = 197 m/s2
+c) ag = 394 m/s
+D) ag = 789 m/s
+2
+-

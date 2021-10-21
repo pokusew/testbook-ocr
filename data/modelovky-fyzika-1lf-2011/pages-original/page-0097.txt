@@ -1,0 +1,48 @@
+706. Baterie suchých článků v kapesní svítilně dodávala po dobu 1 hodiny proud
+20 mA při svorkovém napětí 4,5 V. Jakou práci vykonaly elektrické síly ve vnější
+části obvodu ?
+a) 124 )
+b) 224)
+C) 324)
+d) 424 )
+707. Baterie suchých článků v kapesní svítilně dodávala po dobu 1 hodiny proud
+20 mA při svorkovém napětí 4,5 V. Jaký celkový náboj prošel průřezem vodiče?
+a) 36 C
+b) 48 C
+C) 72 C
+d) 84 C
+=
+=
+708. Označte správné tvrzení:
+A) elektromotorické napětí je větší než svorkové napětí
+b) svorkové napětí je větší než elektromotorické napětí
+C) elektromotorické napětí je napětí na svorkách nezatíženého zdroje
+D) svorkové napětí je napětí na svorkách zdroje, který je součástí uzavřeného obvodu
+709. Elektromotorické napětí zdroje v uzavřeném obvodu V. s vnějším odporem R
+a vnitřním odporem R, lze vyjádřit pomocí vztahu:
+A) I = U/(R+R)
+b) I = U/(R - R)
+c) I = U/(R; - R)
+d) I = U/R; - U/R
+710. S použitím vnějšího odporu Ra vnitřního odporu R; Ize výraz pro
+elektromotorické napětí zdroje zapojeného do uzavřeného obvodu napsat:
+a) U. = RI – RI
+b) Ue = RI - RI
+c) Vo = 1/(R-R)
+D) U = I(R+R)
+711. Je-li v uzavřeném obvodu vnější odpor R, vnitřní odpor R,, lze vyjádřit vztah
+mezi svorkovým napětím U a elektromotorickým napětím U pomocí tzv. úbytku
+napětí takto:
+a) Ve = U - RI
+b) U = U. + RI
+C) U = UE - RI
+d) U = R; I - U
+712. V uzavřeném obvodu je zdroj napětí U. = 12 V s vnitřním odporem R, = 0,2 N.
+Vnější obvod má odpor 19,8 1. Určete proud protékající obvodem a vypočtětě
+hodnotu svorkového napětí.
+a) 0,3 A; 12V
+b) 0,6 A; 12V
+C) 0,6 A; 11,88 V
+d) 0,3 A; 11,88V
+=
+=

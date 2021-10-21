@@ -1,0 +1,49 @@
+意
+b) Fe
+369. Uvažujeme daný objem plynu jako elektricky izolovanou soustavu. Ionizací tato
+soustava
+a) získá záporný elektrický náboj
+b) získá kladný elektrický náboj
+C) zůstane jako celek elektricky neutrální
+d) získá náboj, jehož znaménko bude záviset na elektronegativitě daného plynu
+370. Velikost elementárního náboje je 1,6x10-1°C. Jaký počet elementárních nábojů
+odpovídá elektrickému náboji 5 C?
+a) 3,125x1018
+b) 3,125x10-18
+C) 3,125x1019
+d) 3,125x10-19
+371. Coulombův zákon vyjadřuje velikost elektrické síly F působící mezi dvěma
+elektrickými náboji Qı a Qz ve vzdálenosti r jako
+A) Fe = KQ1Q2/r2
+= kQ1Qz/r3
+c) Fe = kQ1Q2/r
+d) Fe = k(Q.)?(Q2)?/r?
+372. Změní-li se vzdálenost mezi dvěma danými bodovými elektrickými náboji z 1 d:
+na 1 m, zmenší se velikost elektrické síly, kterou na sebe působí
+a) 10krát
+B) 100krát
+c) 01/10 původní hodnoty
+d) 01/100 původní hodnoty
+373. Relativní permitivita je pro vzduch nepatrně větší než 1, pro vodu 81. Dva dané
+ionty na sebe budou působit
+A) nejmenší silou ve vodě
+b) největší silou ve vzduchu
+c) nejmenší silou ve vakuu
+d) ve všech prostředích stejnou silou
+374. Relativní permitivita vody je zhruba 80. Síla působící v roztoku mezi dvěma
+danými ionty v dané vzdálenosti se oproti situaci ve vakuu
+a) zvětší 80krát
+B) zmenší 80krát
+c) zmenší 1600krát
+d) nezmění
+375. Z definice elektrického potenciálu plyne následující vztah mezi jednotkami:
+A) V = J. C-1
+b) V = J.C
+c) V = 1-1.c
+d) V = 1-1.C-1
+376. V homogenním elektrickém poli o intenzitě 8x105 V.m-1 je umístěn náboj
+5 °C. Jak velkou silou působí pole na náboj?
+a) 1N
+b) 2N
+c) 3N
+D) 4N

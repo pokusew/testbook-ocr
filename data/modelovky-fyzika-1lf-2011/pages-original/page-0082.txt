@@ -1,0 +1,48 @@
+588. Vyberte pravdivé tvrzení o úhlu , který svírá povrch skutečné kapaliny
+s povrchem stěny nádoby (stykový úhel):
+A) pro smáčející kapalinu 0 <o</2
+b) pro smáčející kapalinu 71/2<$< TT
+c) pro nesmáčející kapalinu (<$<TT/2
+d) pro nesmáčející kapalinu 0
+589. Vyberte pravdivé tvrzení o stykovém uhlu , který svírá povrch kapaliny
+s povrchem stěny:
+A) pro smáčející kapalinu (<O<T/2
+B) pro reálnou nesmáčející kapalinu 1/2<$<TI
+c) pro smáčející kapalinu 1/2<<tt
+D) pro dokonale nesmáčející kapalinu 0 = it
+590. Vyberte z následujících kapalin kapalinu nesmáčející sklo
+A) rtuť
+b) voda
+c) alkohol
+d) aceton
+<
+<
+591. Označíme-li povrchové napětí o, lze pro volný povrch kapaliny kulového tvaru
+o poloměru R vyjádřit hodnotu kapilárního tlaku px jako
+a) Px = 0/R
+B) Pk = 20/R
+c) Px = 0/2TR
+d) p = c/TR?
+592. Vyberte správné tvrzení:
+A) s kapilární depresí se setkáváme u nesmáčivých kapalin
+B) kapilární tlak je přímo úměrný povrchovému napětí
+C) stykový úhel v případě dokonale nesmáčejících kapalin je roven at
+d) u rtuti nastává kapilární elevace
+593. Vyberte nesprávné tvrzení:
+a) u vody nastává jev kapilární elevace
+B) kapilární tlak je přímo úměrný poloměru zakřivení kulového povrchu kapaliny
+C) u nesmáčejících kapalin nastává kapilární elevace
+D) stykový úhel v případě smáčejících kapalin je větší než T/2
+594. Značí-li o povrchové napětí, p hustotu, a g gravitařní zrychlení, je výška h, do
+které vystoupí smáčející kapalina v kapiláře o poloměru R, dána vztahem
+a) h = 0/pg
+B) h = 20/pg
+c) h = p/og
+d) h = 2p/og
+595. Do jaké výšky vystoupí voda o povrchovém napětí 0,073 N.m-1 v kapiláře
+o vnitřním průměru 1 mm? Počítejte s hodnotou g = 10 m.sa.
+a) 7,3 mm
+b) 14,6 mm
+c) 18,2 mm
+D) 29,2 mm
+=

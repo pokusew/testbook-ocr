@@ -1,0 +1,44 @@
+559. Jak velká síla způsobí prodloužení ocelové tyče průřezu 3 cm? o 0,1% původní
+délky (E = 0,2 TPa)?
+a) 20 kN
+b) 30 kN
+C) 60 kN
+d) 80 kN
+560. Jednotkou součinitele délkové teplotní roztažnosti je
+A) K-1
+b) K.m-1
+c) K.m
+d) K.m-2
+561. Jaký bude rozdíl mezi nejdelší a nejkratší délkou elektrického vedení
+z měděného drátu (acu = 1,7.10-56-?), jehož délka při 0 °C je 50 m, počítáme-li se
+změnami teplot v průběhu roku mezi -20 °C a +30 °C?
+a) 22,5 mm
+B) 42,5 mm
+c) 62,5 mm
+d) 82,5 mm
+562. Jaký teplotní rozdíl (zaokrouhleno na celé číslo) odpovídá relativnímu
+prodloužení hliníkového drátu (Qai = 2,4.10-SK-?) o 0,1%?
+a) 20 K
+b) 206 K
+c) 87 K
+D) 42 K
+563. Jaký bude relativní délkový rozdíl vyjádřený v procentech pro železnou tyč
+(afe = 1,2.10-5K-?) při změnách teploty mezi -20 a 30 °C?
+A) 0,06%
+b) 0,12%
+c) 0,18%
+d) 0,24%
+564. Dva dráty, z hliníku a mědi, mají při 20 °C délku 100 m. Jaký bude rozdíl jejich
+délek při –20 °C (aa = 2,4.10-56-1, acu = 1,7.10-56-?)?
+a) 96 mm
+b) 68 mm
+C) 28 mm
+d) 164 mm
+565. Uvažujme železnou odměrnou nádobu kalibrovanou na objem 10 dm3 za
+předpokladu teploty měřené kapaliny 20 °C. Jaké absolutní chyby se zhruba
+dopustíme, budeme-li měřit objem při teplotě 80 °C (afe = 1,2.10-5K-)?
+a) 3 ml
+B) 21,6 ml
+c) 300 ml
+d) 31
+பகை

@@ -1,0 +1,52 @@
+864. Jaká je velikost magnetické síly působící na elektron, který se pohybuje rychlostí
+7x105 m/s kolmo ke směru indukčních čar pole o magnetické indukci 200 mt?
+Náboj elektronu je 1,6x10-19 C.
+a) 1,12x10-14 N
+B) 2,24x10-14 N
+c) 4,48x10-15 N
+d) 2,24x10-15 N
+865. Na elektron s nábojem 1,6x10-19 C, který se pohybuje kolmo ke směru indukčních
+čar pole o magnetické indukci 500 mt působí síla 8x10-14 N. Jaká je rychlost
+elektronu?
+a) 104 m/s
+b) 105 m/s
+C) 10 m/s
+d) 107 m/s
+866. Na elektron s nábojem 1,6x10-19 C, který se pohybuje rychlostí 10 m/s
+v magnetickém poli kolmo ke směru indukčních čar, působí magnetická síla
+N. Jaká je magnetická indukce tohoto pole?
+a) 5 mT
+b) 25 mT
+C) 50 ml
+d) 500 mT
+867. Do homogenního magnetického pole o B = 1,875x10-2 T vlétne částice a
+o hmotnosti 6x10-27 kg rychlostí 5x105 m.s-- kolmo k indukčním čarám. Určete
+poloměr její trajektorie?
+8x10-15
+a) 15 cm
+=
+=
+b) 25 cm
+C) 50 cm
+d) 75 cm
+868. Velikost momentu M dvojice sil působících na rovinný závit o ploše S sproudem
+I v homogenním magnetickém poli o indukci B (úhel mezi normálou k ploše
+závitu a magnetickou indukcí je a) je dána vztahem:
+A) M = BISsina
+b) M = BIsina/S
+c) M = BI’Ssina
+d) M = BIS sina
+869. Rovinným závitem, jehož plocha o velikosti 4000 cm² je kolmá k čárám
+homogenního magnetického pole o indukci 200 mt, prochází proud 5 A. Jak velký
+je moment dvojice sil, která na závit působí?
+A) O N.m
+b) 0,4 N.m
+c) 0,8 N.m
+d) 4 N.m
+870. Velikost momentu dvojice sil působících na rovinný závit o ploše 50 cm, jehož
+plocha je rovnoběžná s indukčními čárami homogenního magnetického pole
+o magnetické indukci 200 mT, kterým prochází proud 5 A je
+a) 5 N.m
+b) 0,5 N.m
+C) 5 mN.m
+d) O N.m

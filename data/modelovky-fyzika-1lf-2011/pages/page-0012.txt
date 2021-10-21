@@ -1,0 +1,50 @@
+2
+2
+2
+2
+2
+55. 0,1 dm² je rovno
+A) 10-3 m2
+b) 10-8 km2
+C) 103 mm
+d) 105 mm
+56. 10 kmje rovno
+A) 107 m2
+B) 1011 cm2
+c) 108 dm?
+d) 1012 mm
+57. 106 cm² je rovno
+A) 10-4 km2
+b) 103 m2
+c) 1 dm?
+D) 108 mm2
+58. 20 m² je rovno
+A) 2.103 dm2
+b) 2.106 mm
+C) 2.10-5 km2
+D) 2.105 cm?
+59. 40 m² je rovno
+a) 4.104 cm?
+B) 4.107 mm2
+C) 4.10-5 km2
+d) 4.102 dm
+60. V případě dvou na sebe kolmých posunutí o velikosti 10 cm obdržíme výsledné
+posunutí o velikosti přibližně
+a) 13,1 cm
+B) 14,1 cm
+c) 15,1 cm
+d) 16,1 cm
+2
+2
+.
+61. Dvě posunutí opačného směru mají velikost 8 cm a 12 cm. Velikost výsledného
+posunutí je:
+a) -4 cm
+b) 12 cm
+C). 4 cm
+d) 6 cm
+62. Značí-li s dráhu, v rychlost a t čas, pak pro rovnoměrný přímočarý pohyb platí:
+A) t=s/v
+b) v = st
+c) srv/t
+d) t=v/s

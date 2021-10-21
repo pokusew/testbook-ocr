@@ -1,0 +1,48 @@
+-1
+690. Jednotkou měrného elektrického odporu látky je
+Α) Ω.m
+b) N.m-1
+c) Ω m2
+d) 2.m-2
+691. Jaký celkový odpor má měděný vodič o délce 10 m a průřezu 0,34 mm??
+Rezistivita mědi je 0,017x10-6 12.m.
+a) 0,212
+B) 0,5.12
+1.12
+d) 2.12.
+692. Jednotku měrné elektrické vodivosti (S.m-?) můžeme též vyjádřit jako
+a) 12.m
+b) 12-1.m
+c) 2.m-1
+D) 12-1.m-1
+693. Odporové materiály jsou látky
+a) s jakýmkoliv čistým ohmickým odporem
+b) látky s malým měrným elektrickým odporem
+C) látky s velkým měrným elektrickým odporem
+d) látky s měrným elektrickým odporem zcela nezávislým na teplotě
+694. Příkladem odporového materiálu je
+a) měď
+B) konstantan
+c) hliník
+D) nikelin
+695. Příkladem materiálu s velkým měrným elektrickým odporem je
+A) nikelin
+b) bronz
+c) zinek
+D) konstantan
+696. Příkladem odporového materiálu je
+a) mosaz
+b) nikl
+c) měď
+D) chromniki
+697. Jednotkou teplotního součinitele elektrického odporu je
+A) K-1
+b) 12-1
+c) 12. K-1
+d) 12. K
+698. Jaký celkový odpor má měděný vodič o délce 5 m a průřezu 0,17 mm?? Rezistivita
+mědi je 0,017x10-6 12.m ?
+a) 0,2.12
+B) 0,512
+c) 112
+d) 212

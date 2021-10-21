@@ -1,0 +1,47 @@
+1150. Které z následujících tvrzení je správné? Obraz předmětu umístěného mezi
+ohniskem a středem lupy je
+a) skutečný
+B) přímý
+C) zvětšený
+D) neskutečný
+1151. Oční čočka je čočka
+a) ploskovypuklá
+B) dvojvypuklá
+c) ploskodutá
+d) dvojduta
+1152. Optický interval mikroskopu je vzdálenost mezi
+a) středy objektivu a okuláru
+B) ohnisky objektivu a okuláru
+c) ohniskem objektivu a středem okuláru
+d) středem objektivu a ohniskem okuláru
+1153. Úhlové zvětšení mikroskopu je
+A) přímo úměrné optickému intervalu
+B) přímo úměrné konvenční zrakové vzdálenosti
+c) přímo úměrné ohniskové vzdálenosti objektivu
+d) přímo úměrné ohniskové vzdálenosti okuláru
+1154. Kondenzor je
+a) stroj na výrobu stlačeného plynu
+b) soustava elektrod oddělených dielektrikem
+c) nádobka vkládaná do polarimetru
+D) soustava čoček
+1155. Je-li A optický interval, d konvenční zraková vzdálenost, fi a fz ohniskové
+vzdálenosti objektivu a okuláru, je úhlové zvětšení Z mikroskopu dáno vztahem
+A) Z = dA/(f1f2)
+b) Z = f14/(df2)
+c) Z = Adf1/f2
+d) Z= fqf2 /(Ad)
+1156. Největší využitelné úhlové zvětšení optického mikroskopu je přibližně
+a) 500
+b) 1000
+C) 2000
+d) 20000
+1157. Elektronový mikroskop dovoluje zvětšení řádově
+a) 104
+B) 105
+c) 106
+d) 107
+1158. Rychlost šíření červeného světla ve skle je
+A) větší než světla fialového
+b) menší než světla fialového
+c) stejná jako rychlost šíření fialového světla
+d) stejná jako rychlost šíření žlutého světla

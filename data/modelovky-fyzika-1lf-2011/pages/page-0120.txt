@@ -1,0 +1,49 @@
+.
+887. Značí-li o magnetický tok, t čas, B magnetickou indukci a S plochu, je indukované
+elektromotorické napětí U, určeno vztahem
+a) U, = BSO
+b) U = B
+c) U; = -B0/At
+D) U, = -ΔΦ/Δt
+888. Indukované elektromotorické napětí je rovno
+A) záporně vzaté časové změně magnetického indukčního toku
+b) časové změně magnetického indukčního toku
+c) záporně vzaté časové změně magnetické indukce
+d) časové změně magnetické indukce
+889. Jednotkou indukčnosti je
+a) weber
+b) siemens
+c) tesla
+D) henry
+890. Který z následujících vztahů je nesprávný?
+A) 1H = 1V. 1s
+b) 1H = 1Wb/1A
+C) 1H = 1V. 1A
+D) 1H = 1Wb. 1A
+891. Energie magnetického pole cívky bez jádra je
+a) přímo úměrná proudu
+B) přímo úměrná čtverci proudu
+C) přímo úměrná indukčnosti cívky
+d) přímo úměrná čtverci indukčnosti
+892. Henry je jednotkou
+a) magnetického indukčního toku
+b) magnetické indukce
+C) indukčnosti
+d) vodivosti
+893. Weber je jednotkou
+A) magnetického indukčního toku
+b) magnetické indukce
+c) vodivosti
+d) indukčnosti
+894. Tesla je jednotkou
+a) vodivosti
+b) magnetického indukčního toku
+c) indukčnosti
+D) magnetické indukce
+895. Který z následujících vztahů je správný?
+a) 1T = 1N, 1A. 1m
+B) 1T = 1N/(1A. 1m)
+C) IT = 1N. 1A
+d) IT = 1N/1A
+=
+=

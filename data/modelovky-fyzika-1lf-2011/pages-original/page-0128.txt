@@ -1,0 +1,47 @@
+=
+955. Výkon transformátoru připojeného na sítové napětí 230 V je 4,6 kW. Jak
+velký proud prochází sekundární cívkou při transformačním poměru k = 0,4
+a účinnosti transformátoru 1?
+a) 10 A
+b) 20 A
+c) 30 A
+D) 50 A
+956. Příkon transformátoru je 1 kW, účinnost 95%. Jaký proud prochází sekundárním
+vinutím, ke kterému je připojen rezistor, jestliže sekundární napětí je 50 V?
+a) 12 A
+b) 16 A
+C) 19 A
+d) 24 A
+957. Transformátor je připojen na sítové napětí 230 V. Ze sekundárního vinutí chceme
+odebírat proud 2 A při napětí 10 V. Jaký proud prochází primárním vinutím?
+Ztráty neuvažujte.
+A) 87 mA
+b) 100 mA
+c) 124 mA
+d) 174 mA
+958. Ztráty výkonu v elektrické rozvodné síti jsou
+A) úměrné kvadrátu proudu
+b) úměrné proudu
+c) úměrné odmocnině z proudu
+d) nezávislé na proudu
+959. Kapacitní reaktance kondenzátoru o kapacitě 300 uF v obvodu střídavého
+proudu s frekvencí 50 Hz je přibližně
+a) 0,112
+b) 1.12
+C) 10.12
+d) 10012
+960. Časový průběh napětí v elektrovodné síti nelze zjistit
+A) potenciometrem
+b) osciloskopem
+C) voltmetrem
+D) ampermetrem
+961. Frekvence srdeční činnosti člověka je kolem
+a) 1 mHz
+B) 1 Hz
+c) 10 Hz
+d) 70 Hz
+962. Rozsah fáze harmonicky proměnné veličiny je od 0 do
+a) 1/2
+b)
+c) 31/2
+D) 211

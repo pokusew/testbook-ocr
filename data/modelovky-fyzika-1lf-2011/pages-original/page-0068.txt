@@ -1,0 +1,44 @@
+a
+184. Jaký je přibližný počet molekul v 102 g sirovodíku (použijte přibližných hodnot
+Avogadrovy konstanty 6.1023mol-1 a relativních hmotností vodíku 1 a síry 32)?
+a) 1023
+b) 0,45.1024
+c) 0,9.1024
+D) 1,8.1024
+185. Jakou přibližnou hmotnost má 3.1024 molekul kyseliny sírové (použijte
+přibližných hodnot Avogadrovy konstanty 6.1023 mol"? a relativních atomových
+hmotností vodíku 1, síry 32 a kyslíku 16)?
+a) 0,400 kg
+b) 0,450 kg
+C) 0,490 kg
+d) 0,530 kg
+486. Jakou přibližnou hmotnost má 3,6.1024 molekul oxidu sírového (použijte
+přibližných hodnot Avogadrovy konstanty 6.1023 mol-- a relativních atomových
+hmotností síry 32 a kyslíku 16)?
+A) 0,480 kg
+b) 0,440 kg
+c) 0,400 kg
+d) 0,360 kg
+487. Jaký tlak má oxid siřičitý o hmotnosti 128 g, který je v nádobě o objemu 3,5 1
+při teplotě 77 °C? Pro výpočet použijte přibližných hodnot molární plynové
+konstanty 8,3 J.K-1.mol-1 a relativních atomových hmotností kyslíku 16 a síry 32;
+při přepočtu °C na K počítejte s celými čísly.
+a) 4,15 MPa
+b) 3,32 MPa
+c) 2,49 MPa
+D) 1,66 MPa
+488. Jaký tlak má chlór o hmotnosti 70 g, který je v nádobě o objemu 4 1 při teplotě
+127 °C? Pro výpočet použijte přibližných hodnot molární plynové konstanty
+8,3 J.K-4.mol-1 a atomové relativní hmotnosti chlóru 35; při přepočtu °C na
+K počítejte s celými čísly.
+a) 0,415 MPa
+B) 0,83 MPa
+c) 1,66 MPa
+d) 2,49 MPa
+489. Jaké je látkové množství kyslíku, který je v nádobě o objemu 3,5 1 při tlaku
+0,83 MPa a teplotě 77 °C? Při výpočtu použijte přibližné hodnoty molární plynové
+konstanty 8,3 J. K-1.mol-?; při přepočtu °C na K počítejte s celými čísly:
+A) 1 mol
+b) 2 moly
+c) 3 moly
+d) 4 moly

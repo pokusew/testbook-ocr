@@ -1,0 +1,44 @@
+1254. Ve vzorku radioaktivní látky klesá aktivita jako funkce času
+a) lineárně
+b) logaritmicky
+C) exponenciálně
+d) kvadraticky
+-
+1255. Rozpadová (přeměnová) konstanta à radionuklidu souvisí s jeho poločasem T
+vztahem
+A) 1 = (In 2)/T
+b) 1 = (log 2)/T
+c) λ.T =1
+d) 1 = ln T
+1256. Mezi aktivitou A(t) a počtem N(t) jader existujících v čase t platí vztah
+A) A(t) = 2.N(t)
+b) A(t) = N(t)/2
+c) Aſt) - N(t) = 1
+d) N(t) = A(t).
+1257. Zákon radioaktivní přeměny platí
+a) pouze pro přirozené radionuklidy
+b) pouze pro uměle vyrobené radionuklidy
+C) pro přirozené i umělé radionuklidy
+d) pro štěpení jader 235U v atomovém reaktoru
+1258. Rychlost radioaktivního rozpadu radionuklidu ve vzorku látky
+a) lze zvýšit spálením vzorku
+b) lze snížit zmrazením vzorku
+c) lze snížit vhodnou chemickou vazbou
+D) nelze ovlivnit
+1259. Které z následujících tvrzení je pravdivé? Účinky jaderného záření na lidské
+zdraví lze snížit
+a) vhodně volenou stravou
+B) zvýšením vzdálenosti od zdroje záření
+C) zkrácením času potřebného pro provedení úkonu
+D) vhodným stíněním
+1260. Vazební energii jádra můžeme určit z
+A) hmotnostního úbytku jádra
+b) počtu nukleonů v jádře
+c) počtu neutronů v jádře
+d) poměru počtu protonů k počtu neutronů
+1261. Pro vzájemné silové působení nukleonů a elektronů obalu atomu je rozhodující
+interakce
+a) silná
+b) slabá
+C) elektromagnetická
+d) gravitační

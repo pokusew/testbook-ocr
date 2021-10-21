@@ -1,0 +1,51 @@
+............
+....................
+1051. Sonar měří hloubku moře. Odražený ultrazvukový signál se vrátil k lodi za 3 s.
+Jaká je hloubka? Uvažujte rychlost zvuku ve vodě 1440 m/s.
+a) 540 m
+b) 1080 m
+C) 2160 m
+d) 3240 m
+1052. Siréna lokomotivy vydává zvuk o frekvenci 1000 Hz. Měřič frekvence u trati
+naměřil frekvenci 944 Hz. Uvažujte rychlost zvuku 340 m.s-1. Lokomotiva se
+vzdaluje rychlostí přibližně
+a) 15 m/s
+B) 20 m/s
+c) 25 m/s
+d) 30 m/s
+1053. Siréna lokomotivy vydává zvuk o frekvenci 1000 Hz. Měřič frekvence u trati
+naměřil frekvenci 1056 Hz. Uvažujte rychlost zvuku 340 m.s-1. Lokomotiva se
+přibližuje rychlostí přibližně
+a) 12 m/s
+B) 18 m/s
+c) 23 m/s
+d) 25 m/s
+1054. Watt na metr čtvereční je jednotka
+a) tlaku
+B) intenzity zvuku
+c) energie
+d) výkonu plošného generátoru zvuku
+1055. Ultrazvuk je zvuk
+a) o frekvencích nižších než 1 kHz
+B) o frekvencích vyšších než 20 kHz
+c) s rychlostí šíření ve vzduchu vyšší než 340 m/s
+D) který má vyšší frekvenci než slyšitelný zvuk, ale ve vzduchu se šíří stejnou rychlostí
+1056. Prahu slyšení tónu o frekvenci 1 kHz odpovídá intenzita zvuku
+A) 10-12 W.m-2
+b) 10-11 W.m
+c) 10-10 W.m-2
+d) 10-9 W.m-2
+1057. Intenzitě zvuku 10-6 W.m-? s frekvencí 1 kHz odpovídá hladina intenzity
+A) 60 dB
+b) 70 dB
+c) 80 dB
+d) 90 dB
+-2
+-2
+1058. Hladině 90 dB zvuku s frekvencí 1 kHz odpovídá intenzita zvuku
+A) 10-3 W.m-
+b) 10-4 W.m-2
+c) 10-5 W.m
+d) 10-6 W.m,?
+-2
+-2

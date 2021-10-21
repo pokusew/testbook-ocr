@@ -1,0 +1,45 @@
+1. Základních jednotek Mezinárodní soustavy SI je
+a) 4
+b) 5
+c) 6
+D) 7
+2. Mezinárodní soustava SI zahrnuje tento počet doplňkových jednotek:
+a) 1
+B) 2
+c) 3
+d) 4
+3. Mezi základní veličiny soustavy SI patří
+A) elektrický proud
+b) látková koncentrace
+c) elektrický potenciál
+D) látkové množství
+4. Mezi základní veličiny soustavy Si nepatří
+a) svítivost
+B) zářivý tok
+C) elektrický náboj
+D) teplo
+5. Mezi odvozené veličiny patří
+a) rovinný úhel
+B) síla
+c) látkové množství
+D) elektrický náboj
+6. Mezi odvozené veličiny patří
+A) tlak
+B) síla
+C) práce
+d) látkové množství
+7. Mezi odvozené veličiny nepatří
+A) elektrický proud
+b) elektrický potenciál
+c) elektrický náboj
+d) elektrické napětí
+8. Která z uvedených jednotek je jednotkou doplňkovou?
+A) sr
+b) N
+C) rad
+d) min
+9. Která z uvedených jednotek není jednotkou odvozenou?
+a) N
+B) mm
+V
+d) Pa

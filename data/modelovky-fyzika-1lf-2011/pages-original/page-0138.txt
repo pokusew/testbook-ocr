@@ -1,0 +1,53 @@
+-1
+-1
+034. Mechanický oscilátor tvořený tělesem o hmotnosti 100 g zavěšeným na pružině
+o tuhosti 10 N.m-2 kmitá s amplitudou 4 cm. Největší síla, která na těleso působí,
+má velikost
+a) 0,1 N
+b) 0,2 N
+c) 0,3 N
+D) 0,4 N
+35. Mechanický oscilátor tvořený tělesem o hmotnosti 100 g zavěšeným na pružině
+o tuhosti 10 N.mº? kmitá s amplitudou 4 cm. Jeho největší kinetická energie je
+a) 1 mg
+b) 2 m)
+c) 4 m)
+D) 8 m]
+36. Kyvadlo s délkou závěsu 50 cm kmitá se stejnou periodou jako těleso zavěšené na
+pružině o tuhosti 50 N.m-1 Hmotnost tělesa je přibližně
+a) 1,25 kg
+B) 2,5 kg
+c) 5 kg
+d) 10 kg
+37. Určete rychlost postupného vlnění, které má vlnovou délku 1,5 m a je buzeno
+kmitáním o frekvenci 2 kHz
+A) 3000 m.s-1
+b) 6000 m.s
+c) 12000 m.s-1
+d) 18000 m.s-1
+38. Určete rychlost vlnění v ocelové tyči, jestliže při frekvenci 2 kHz vzniká vlnění
+o vlnové délce 2,5 m
+A) 5 km.s-1
+b) 5,5 km.s-1
+c) 6 km.s-1
+d) 6,5 km.s-1
+39. Postupné mechanické vlnění je popsáno rovnicí y = 0,2 sin 21(4t - 2x). Určete
+jeho vlnovou délku.
+A) 0,5 m
+b) 1 m
+c) 1,5 m
+d) 2 m
+0. Postupné mechanické vlnění je popsáno rovnicí y = 0,2 sin 27(4t – 2x). Určete
+jeho rychlost.
+a) 0,5 m.s-1
+5) 1 m.sa
+C) 2m.s-1
+) 4 m.s-1
+-1
+..............
+-1
+1. Na pevném konci pružné hadice nastává odraz vlnění
+a) se stejnou fází
+3) s opačnou fází
+-) s fází 1/4
+1) s fází 1/2

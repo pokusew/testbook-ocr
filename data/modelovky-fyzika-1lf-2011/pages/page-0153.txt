@@ -1,0 +1,44 @@
+1159. Monofrekvenčnímu světlu se nejvíce přibližuje světlo
+a) zářivky
+b) žárovky
+c) svatojánské mušky
+D) laseru
+1160. Při přechodu světla z vakua do optického prostředí s indexem lomu n se vlnová
+délka světla
+A) n-krát zmenší
+b) n-krát zvětší
+c) (n-1)-krát zvětší
+d) nezmění
+1161. Rychlost šíření světla v prostředí o indexu lomu n je vzhledem k rychlosti šíření
+ve vakuu
+a) stejná
+b) n-krát větší
+c) (n-1)-krát větší
+D) n-krát menší
+3
+1162. Je-li s dráha světla v prostředí o indexu lomu n, pak optická dráha 1 je definována
+vztahem
+A) 1 = n.s
+b) l= n/s
+c) l= s/n
+d) 1 = 1/ns
+1163. Světelné vlnění se při kolmém dopadu na rozhraní s opticky hustším prostředím
+a) vůbec neodráží
+B) odráží částečně s opačnou fází
+c) odráží částečně se stejnou fází
+d) odráží se 100% účinností
+1164. Světelné vlnění se při kolmém dopadu na rozhraní s opticky řidším prostředím
+a) vůbec neodráží
+b) odráží částečně s opačnou fází
+C) odráží částečně se stejnou fází
+d) odráží se 100% účinností
+1165. Při šíření světelné vlny odpovídá fázovému rozdílu i rad dráhový rozdíl
+a) λ
+Β) λ/2
+c) λ/4
+d) 1/8
+1166. Koherentní světelné vlny se interferencí zesilují, mají-li dráhový rozdíl roven
+a) lichým násobkům 1/4
+B) sudým násobkům 1/2
+c) lichým násobkům 1/2
+d) sudým násobkům 1/3

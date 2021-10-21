@@ -1,0 +1,48 @@
+258. Po změně polohy dvou hmotných bodů, které byly původně ve vzdálenosti r,
+se zvětšila gravitační síla mezi těmito body 104 krát. Jaká je nová vzdálenost mezi
+těmito body?
+A) r/100
+b) r/10
+C) 100r
+d) 10r
+259. Po změně polohy dvou hmotných bodů, které byly původně ve vzdálenosti r,
+se zmenšila gravitační síla mezi těmito body devětkrát. Jaká je nová vzdálenost
+mezi těmito body?
+A) 3r
+b) 9r
+c) r/3
+d) r/9
+260. Gravitační konstantu k vyjádříme z gravitačního zákona jako
+a) k=Ff/(m m2)
+b) K= F mm2/r2
+:
+C) K = Fr2/(m m2)
+d) K= m_m2/(Fr)
+/
+261. Hodnota gravitační konstanty je 6,67.10-11N.m². kg 2, hmotnost Země 5,98.1024kg,
+Měsíce 7,38.1022kg, vzdálenost mezi nimi 385 000 km. Velikost gravitační sily
+působící mezi Měsícem a Zemí je zhruba
+a) 1012 N
+b) 1016 N
+C) 2.1020 N
+d) ON
+-2
+id
+262. Uvažujme dvě koule o hmotnostech 1 a 5 kg vzdálené od sebe 1 m. Které tvrzení je
+správné?
+a) vzájemný pohybový účinek jejich gravitačních sil bude značný, budou-li z materiálu
+o velké hustotě
+B) gravitační síly mezi nimi budou nepatrné vzhledem k malé číselné hodnotě gravitační
+konstanty
+c) gravitační síly mezi nimi budou nepatrné, nebude-li mezi nimi vakuum
+d) větší koule bude působit na druhou pětinásobnou silou než menší na velkou
+263. Tíhová síla je
+a) synonymum gravitační síly
+B) vektorový součet gravitační a odstředivé síly
+c) součet velikostí gravitační a odstředivé síly
+d) rozdíl velikostí gravitační a odstředivé síly
+264. Nejmenší tíhové zrychlení je
+a) na severním pólu
+b) na jižním pólu
+C) na rovníku
+d) na pólech

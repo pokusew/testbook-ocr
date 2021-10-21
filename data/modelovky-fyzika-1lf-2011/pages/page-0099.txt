@@ -1,0 +1,43 @@
+721. Označte správné tvrzení:
+a) odpor voltmetru má být malý
+B) odporu ampermetru má být malý
+C) rozsah voltmetru zvětšíme pomocí předřazeného rezistoru
+D) rozsah ampermetru zvětšíme připojením bočníku
+722. Voltmetr a ampérmetr se od sebe v principu neliší:
+A) konstrukčně
+b) způsobem, jakým se zapojují do obvodu
+c) způsobem, jakým se zvětšují jejich rozsahy
+d) požadavky na jejich odpor (velký či malý)
+723. Je-li odpor ampermetru RA a máme-li jeho rozsah zvětšit 4krát
+a) připojíme k němu paralelně bočník s odporem R./4
+B) připojíme k němu paralelně bočník s odporem R./3
+c) předřadíme mu rezistor s odporem R./4
+d) předřadíme mu rezistor s odporem R./3
+724. Připojíme-li k ampermetru o odporu Ra paralelně rezistor o odporu R/4
+a) zmenšíme jeho rozsah 4krát
+b) zvětšíme jeho rozsah 4krát
+C) zvětšíme jeho rozsah 5krát
+d) zvětšíme jeho rozsah 3krát
+725. Ampermetr s odporem RA a rozsahem 0 až 60 mA má být použit k měření proudu
+do 6 A. K příslušnému zvětšení rozsahu přístroje je třeba připojit k ampermetru
+paralelně rezistor o odporu
+a) 99R
+b) 100RA
+c) RA /100
+D) R./99
+726. Připojíme-li k ampermetru o odporu Ra a rozsahu 0 až 12 mA paralelně rezistor
+o odporu R./4, zvětšíme tím horní hranici jeho rozsahu na
+a) 36 mA
+b) 48 mA
+C) 60 mA
+d) 72 mA
+727. Jaké napětí je na rezistoru o odporu 200 N, kterým projde náboj 9 C za 2 minuty?
+a) 5V
+b) 10 V
+C) 15 V
+d) 20 V
+728. Voltmetr o odporu 50 22 ukazuje napětí 1,75 V. Jaký proud jím prochází?
+a) 15 mA
+b) 25 mA
+C) 35 mA
+d) 50 mA

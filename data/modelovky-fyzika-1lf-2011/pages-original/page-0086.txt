@@ -1,0 +1,50 @@
+620. Které z uvedených tvrzení je pravdivé?
+A) v některých dielektrikách mohou existovat elektrické dipóly až po vložení elektrického
+pole, v jiných existují stále
+b) dielektrika jsou pouze látky s permanentními (stálými) dipóly
+c) dielektrika jsou pouze látky s indukovanými dipóly
+D) polarizací dielektrika působením vnějšího elektrického pole se vytvoří vnitřní elektrické
+pole opačného směru
+621. Příkladem dielektrika se stálými (permanentními) dipóly je
+a) sklo
+b) slída
+c) vzduch
+D) voda
+=
+622. Které z uvedených tvrzení je pravdivé?
+A) polarizací dielektrika působením vnějšího elektrického pole se vytvoří vnitřní elektrické
+pole opačného směru
+b) polarizací dielektrika působením vnějšího elektrického pole se vytvoří vnitřní elektrické
+pole téhož směru
+c) v dielektriku vloženém do vnějšího elektrického pole se žádné elektrické pole nevytváří
+d) dielektrikum vložené do vnějšího elektrického pole získává elektrický náboj
+623. Je-li velikost intenzity vnějšího elektrického pole Eq, velikost intenzity vnitřního
+pole vytvořeného polarizací dielektrika E,, bude velikost intenzity výsledného
+pole E:
+a) E= E + E
+B) E = Ee - E
+c) E = E; - E
+d) E = 2E - E
+624. Budiž velikost intenzity elektrického pole ve vakuu Eę, v dielektriku E, hodnota
+permitivity ε a relativní permitivity £ . Platí, že
+a) ε = E/E
+b) ε = E/E
+C) E = E/E
+d) { =
+E = E/E
+625. S konstantou zvanou permitivita se setkáváme
+A) ve vzorci pro výpočet kapacity deskového kondenzátoru
+b) ve vzorci pro měrný odpor materiálu
+c) ve Faradayových zákonech elektrolýzy
+D) v Coulombově zákonu
+626. Jednotkou permitivity dielektrika je
+a) Em
+B) F.m-1
+c) C.m
+D) C. N-1.m-2
+627. Z Coulombova zákona můžeme vyjádřit jednotku permitivity prostředí jako
+a) C. N.m
+b) C. N-1.m-2
+c) ca.N-1.m
+D) C2. N-7.m-2
+2

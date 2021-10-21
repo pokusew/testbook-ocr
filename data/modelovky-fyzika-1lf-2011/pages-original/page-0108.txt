@@ -1,0 +1,44 @@
+793. Přidáme-li do destilované vody malé množství kyseliny sírové
+a) vodivost se nezmění
+B) vodivost se znatelně zvýší
+c) vodivost se zvýší nepatrně
+d) vodivost se poněkud sníží
+794. Vedení elektrického proudu v kapalinách
+a) není vázáno na přenos látek
+b) se zprostředkovává pouze přenosem oxoniových kationtů
+C) se zprostředkovává přenosem kationtů a aniontů
+d) se zprostředkovává přenosem elektronů v elektrolytu
+795. Ke 2 elektrodám v elektrolytu je připojen zdroj stejnosměrného napětí, které
+plynule zvyšujeme. Přitom
+a) proud bude zpočátku stoupat podle Ohmova zákona
+b) proud bude zpočátku stoupat, avšak nikoliv lineárně, jak udává Ohmův zákon
+C) proud bude nulový až do dosažení tzv. rozkladného napětí a poté bude stoupat podle
+Ohmova zákona
+d) ani po dosažení rozkladného napětí se nebude závislost proudu na napětí řídit Ohmovým
+zákonem
+796. Při elektrolýze roztoku kyseliny chlorovodíkové se
+a) na katodě vylučuje plynný chlor
+B) na anodě vylučuje plynný chlor
+c) na katodě redukuje chloridový iont
+d) na anodě redukuje chloridový iont
+797. Při elektrolýze roztoku měďnaté sole se
+A) na katodě vylučuje kovová měď
+b) na anodě vylučuje kovová měd'
+c) na katodě oxiduje měďnatý iont
+d) na anodě oxiduje měďnatý iont
+798. Které tvrzení týkající se průběhu elektrolýzy je správné?
+a) kationt na anodě přijímá elektrony
+b) kationt na anodě odevzdává elektrony
+c) kationt na katodě odevzdává elektrony
+D) kationt na katodě přijímá elektrony
+799. Které tvrzení týkající se průběhu elektrolýzy je správné?
+a) aniont na anodě přijímá elektrony
+B) aniont na anodě odevzdává elektrony
+c) aniont na katodě přijímá elektrony
+d) aniont na katodě odevzdává elektrony
+B00. Jednotkou elektrochemického ekvivalentu látky je
+a) mol. C-1
+b) kg. A-1
+C) kg. C-1
+d) mol. A-1
+>

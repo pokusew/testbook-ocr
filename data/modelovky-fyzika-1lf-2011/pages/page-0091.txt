@@ -1,0 +1,45 @@
+659. Počet volných elektronů, které projdou průřezem kovového vodiče s proudem
+1,6 mA za dobu 100 s je přibližně
+a) 1017
+B) 1018
+c) 1019
+d) 1020
+660. Uved'te, které tvrzení je správné:
+A) jednotkou elektromotorického napětí je volt
+B) jednotkou elektrického potenciálu je volt
+C) elektromotorické napětí je rovno absolutní hodnotě rozdílu potenciálů mezi svorkami
+nezatíženého zdroje
+d) elektromotorické napětí je rovno absolutní hodnotě rozdílu potenciálů mezi svorkami
+zdroje připojenými k elektrickému obvodu
+661. V automobilové baterii získáváme energii elektrickou přeměnou z energie
+a) mechanické
+b) tepelné
+c) světelné
+D) chemické
+662. Na akumulátoru je uveden údaj 20 Ah. Převeďte jej na jednotku kC:
+a) 48 kc
+b) 400 kc
+C) 72 kc
+d) 86 kc
+663. Na akumulátoru je uveden údaj 25 Ah. Převed'te jej na jednotku kC:
+a) 50 kC
+b) 125 kc
+C) 90 kc
+d) 180 kc
+664. Na akumulátoru je uveden údaj 30 Ah. Převed'te jej na jednotku kC:
+a) 36 kc
+b) 180 kc
+c) 60 kc
+D) 108 kc
+665. K baterii o elektromotorickém napětí 4,5 V a vnitřním odporu 112 je připojena
+žárovka, kterou prochází proud 200 mA. Jaké je napětí na žárovce?
+a) 4,1 V
+b) 4,2 V
+C) 4,3 V
+d) 4,4 V
+666. K baterii o elektromotorickém napětí 4,5 V a vnitřním odporu 1 N je připojena
+žárovka, kterou prochází proud 200 mA. Jaký je příkon žárovky?
+a) 0,74 W
+B) 0,86 W
+c) 0,92 W
+d) 0,98 W

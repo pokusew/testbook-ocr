@@ -1,0 +1,49 @@
+=
+63. Značí-li s dráhu, v rychlost, t čas a g gravitační zrychlení, pak velikost rychlosti
+volného pádu v závislosti na čase vyjádříme jako
+a) V- s/t
+b) V- gt
+C) v= gt
+d) v=
+v=gt²/2
+64. Značí-li s dráhu, v rychlost, t čas a g gravitační zrychlení, pak dráhu volného pádu
+v závislosti na čase vyjádříme jako
+a) s= vt
+b) s = gt
+c) s = gt
+D) s = gt²/2
+65. Podle druhu trajektorie můžeme pohyby dělit na:
+A) přímočaré a křivočaré
+b) přímočaré a kruhové
+c) translační, vibrační a rotační
+d) rovnoměrné a nerovnoměrné
+66. Grafickým znázorněním závislosti velikosti rychlosti na čase v pravoúhlých
+souřadnicích je v případě pohybu rovnoměrně zrychleného
+A) přímka, jejíž směrnice se nerovná nule
+b) přímka rovnoběžná s vodorovnou osou
+c) parabola
+D) přímka, jejíž směrnice má hodnotu zrychlení
+67. Grafickým znázorněním závislosti velikosti zrychlení na čase v pravoúhlých
+souřadnicích je v případě pohybu rovnoměrně zrychleného
+a) přímka s nenulovou směrnicí
+B) přímka s nulovou směrnicí
+c) hyperbola
+d) parabola
+68. Grafickým znázorněním závislosti dráhy na čase v pravoúhlých souřadnicích je
+v případě pohybu rovnoměrně zrychleného
+a) přímka s nenulovým úsekem na svislé ose
+B) parabola
+c) přímka procházející počátkem
+d) hyperbola
+69. V pravoúhlých souřadnicích je rychlost rovnoměrného přímočarého pohybu
+v závislosti na čase znázorněna jako
+a) přímka procházející počátkem
+b) přímka neprocházející počátkem s určitou kladnou hodnotou směrnice
+c) přímka neprocházející počátkem s určitou zápornou hodnotou směrnice
+D) přímka rovnoběžná s vodorovnou osou
+70. V pravoúhlých souřadnicích je dráha rovnoměrného přímočarého pohybu
+v závislosti na čase znázorněna jako
+a) parabola
+B) přímka
+c) hyperbola
+d) jiná křivka než udávají předchozí odpovědi

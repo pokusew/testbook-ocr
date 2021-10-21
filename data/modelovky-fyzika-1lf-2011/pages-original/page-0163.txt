@@ -1,0 +1,46 @@
+1245. Náboj protonu je
+a) kladný a 1840x větší než náboj elektronu
+b) záporný a 1840x větší než náboj elektronu
+C) v absolutní hodnotě stejný jako náboj elektronu ale opačného znaménka
+D) 1,6.10-19 C
+1246. Transurany jsou prvky s protonovým číslem větším než
+a) 90
+B) 92
+c) 96
+d) 100
+1247. Moderátorem v atomovém reaktoru může být
+A) grafit
+B) D20 (těžká voda)
+c) kadmium
+d) beton
+1248. Které z následujících tvrzení je správné? V lineárním urychlovači je možné
+urychlovat
+A) protony
+B) deuterony
+C) ionty
+d) neutrony
+1249. Hmotnost jádra atomu je
+a) větší než součet hmotností jeho nukleonů
+B) menší než součet hmotností jeho nukleonů
+c) rovna součtu hmotností jeho nukleonů
+d) úměrná počtu elektronů v elektronovém obalu jádra
+1250. Přitažlivé jaderné síly působící mezi dvěma nukleony mají dosah řádově
+a) 10-11 m
+b) 10-13 m
+C) 10-15 m
+d) 10-17 m
+1251. Atomový reaktor pracuje na principu
+A) řetězové jaderné reakce
+b) termojaderné syntézy
+c) radioaktivního rozpadu uranu 235U
+d) radioaktivního rozpadu uranu 238U
+1252. Při určování stáří archeologických nálezů se využívá radioizotopu
+A) uhlíku 14C
+b) radia 226 Ra
+c) fosforu 32P
+d) uranu 2350
+1253. Určete pravdivé tvrzení: Při jaderné reakci
+A) platí zákon zachování hmotnosti a energie
+B) platí zákon zachování náboje
+c) neplatí zákon o zachování hybnosti
+D) je možné určit produkt reakce známe-li terčové jádro a částice, které se reakce účastní

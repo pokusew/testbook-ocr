@@ -1,0 +1,47 @@
+729. Voltmetr o odporu 50 12 ukazuje napětí 1,75 V. Jaký náboj jím projde za 2 minuty?
+a) 1,20
+b) 2,2 C
+c) 3,20
+D) 4,2 C
+730. Je-li odpor voltmetru R, a máme-li jeho rozsah zvětšit 5krát, předřadíme mu
+rezistor s odporem
+A) 4R,
+b) 5R
+c) R/4
+d) Ry/5
+731. Předřadíme-li voltmetru o odporu R, rezistor o odporu 5Ry, zvětšíme jeho rozsah
+a) 3krát
+b) 4krát
+c) 5krát
+D) 6krát
+732. Voltmetr s odporem Ry a rozsahem do 60 V má být použit k měření napětí do
+300 V. K příslušnému zvětšení rozsahu přístroje je třeba předřadit rezistor
+odporu
+a) 5R,
+B) 4R
+c) Ry/5
+d) Ry/4
+733. Předřadíme-li voltmetru o odporu Ry a rozsahu 6 V rezistor o odporu 4 R, bude
+možno měřit napětí do
+a) 18 V
+b) 24 V
+C) 30 V
+d) 36 V
+734. Máme voltmetr o odporu 24 kl2, jehož rozsah je do 12 V. Potřebujeme-li tímto
+přístrojem měřit v rozsahu do 60 V
+A) předřadíme mu rezistor o odporu 96 kn
+b) předřadíme mu rezistor o odporu 120 kN2
+c) přiřadíme k němu bočník o odporu 6 k12
+d) přiřadíme k němu bočník o odporu 4,8 ks
+735. Dva rezistory, každý o odporu 30 k12, jsou zapojeny sériově (za sebou). Výsledný
+odpor činí
+a) 7,5 kΩ
+B) 60 k12
+c) 0,15 kΩ
+d) 15 k22
+736. Dva rezistory, každý o odporu 20 k12, jsou zapojeny sériově (za sebou). Výsledný
+odpor činí
+a) 20 k12
+b) 0,1 k12
+C) 40 k12
+d) 10 k.12

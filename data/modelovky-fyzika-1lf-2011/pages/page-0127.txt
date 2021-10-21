@@ -1,0 +1,49 @@
+946. Rotor alternátoru pro výrobu síťového trojfázového proudu rotuje s rychlostí
+a) 50 otáček/min
+b) 300 otáček/min
+c) 1500 otáček/min
+D) 3000 otáček/min
+947. Jednotlivá napětí trojfázového rozvodu jsou navzájem posunuta o
+a) 30°
+b) 60°
+C) 120°
+d) 150°
+948. Mezi libovolnými fázovými vodiči naší rozvodné sítě je sdružené napětí
+o velikosti
+a) 220 V
+B) 380 V
+c) 220/3V
+d) O V
+=
+=
+949. U jednofázového transformátoru
+A) se proudy transformují v obráceném poměru počtu závitů
+b) se napětí transformují v obráceném poměru počtu závitů
+c) se proudy transformují v poměru počtu závitů
+d) proudy nelze transformovat
+950. Značí-li U napětí a N počet závitů, pak pro transformátor platí rovnice
+a) U2/U1 = N1 /N2
+b) U2 N2 = U, N1
+c) U1 /U2 = N2 /N1
+D) U, N2 = U2 N1
+951. U jednofázového transformátoru stejnosměrné napětí
+a) je možné transformovat pouze v přirozených násobcích transformačního poměru
+b) je možné transformovat pouze v transformačním poměru z vyššího napětí na nižší
+c) je možné transformovat pouze v transformačním poměru z nižšího na vyšší napětí
+D) nelze transformovat
+952. Značí-li U napětí a I intenzitu proudu, pak pro transformátor platí rovnice
+a) U2 /U1 = 12 /11
+b) Uz I1 = U_ I2
+C) U2/11 - U1/12
+d) U1 /U2 = 11/12
+953. Značí-li I intenzitu a N počet závitů, pak pro transformátor platí rovnice
+A) N2/N2 = 11/12
+b) N2 l1 = N1 12
+c) N2/N1 = 12/11
+d) N1 /N2 = 11 /12
+954. Výkon transformátoru s transformačním poměrem k je při zanedbatelných
+ztrátách
+a) k-krát nižší než příkon
+b) k-krát vyšší než příkon
+C) stejný jako příkon
+d) závislý pouze na velikosti proudu

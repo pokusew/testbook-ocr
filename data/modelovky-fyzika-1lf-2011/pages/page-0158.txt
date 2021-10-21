@@ -1,0 +1,48 @@
+)
+=
+1202. Fotoelektrický jev je prakticky využíván v
+a) televizní obrazovce
+B) expozimetru
+c) Wilsonově komoře
+d) triodě
+1203. Značí-li E energii, a vlnovou délku, f frekvenci a c rychlost šíření, označte
+nesprávný vztah platící pro světelná kvanta s hybností p:
+a) p = E/c
+B) p = h.
+c) p = hf/c
+D) p = hc/A
+1204. Značí-li E energii, a vlnovou délku, f frekvenci a c rychlost šíření, označte správný
+vztah pro světelná kvanta s hybností p:
+A) p = E/c
+B) p = h/a
+C) p = hf/c
+d) p = hc/A
+1205. Einsteinova rovnice pro fotoelektrický jev vyjadřuje zákon zachování
+a) hybnosti
+b) momentu hybnosti
+C) energie
+d) hmotnosti
+1206. Značíme-li c rychlost šíření, f frekvenci a , vlnovou délku, pak pro energii E
+světelného kvanta platí vztah
+A) E = hf
+b) E = h.a
+C) E = hc/a
+d] E = p/A
+1207. Číselnou hodnotu Planckovy konstanty je možné udávat v jednotkách:
+A) eV.s
+B) J.S
+c) W
+d) W.m-2
+1208. Výstupní práce elektronu pro sodík je 2,3 eV. Přibližná hodnota Planckovy
+konstanty činí 4,1.10-15 eV.s. S jakou energií budou vyletovat elektrony z povrchu
+sodíkové katody, když na ní dopadne záření s vlnovou délkou 300 nm?
+a) 1 eV
+b) 1,5 eV
+C) 1,8 eV
+d) 2,5 eV
+-2
+1209. Při Comptonově jevu je vlnová délka rozptýleného fotonu
+A) větší než dopadajícího fotonu
+b) stejná jako dopadajícího fotonu
+c) menší než dopadajícího fotonu
+D) závislá na úhlu rozptylu

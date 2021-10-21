@@ -1,0 +1,47 @@
+143. Mezi krystalické látky nepatří
+a) vápenec
+B) sklo
+C) jantar
+D) celulóza
+544. Mezi krystalické látky nepatří
+A) asfalt
+b) křemík
+C) pryskyřice
+D) polyvinylchlorid
+545. Jaké je normálové napětí v lanku o průměru 2 mm nesoucím hmotnost
+6,28 kg?Počítejte s tíhovým zrychlením g = 10 m.s-2
+a) 10MPa
+B) 20 MPa
+c) 50 MPa
+d) 100 MPa
+546. Jaký musí být minimální průměr ocelového lanka s normálovým
+napětím 100 MPa aby uneslo hmotnost 125,6 kg? Počítejte s tíhovým
+zrychlením g=10 m.s-2
+a) 0,4 mm
+b) 1 mm
+c) 2 mm
+D) 4 mm
+547. Normálové napětí v tyči o průřezu 4 cm², na kterou působí tahem síla o velikosti
+4 kN je
+a) 0,1 MPa
+b) 1 MPa
+C) 10 MPa
+d) 20 MPa
+548. Normálové napětí v tyči, na kterou působí tahem síla o velikosti 2 kN je 20 MPa.
+Jaký je průřez tyče?
+a) 0,1 cm?
+b) 0,2 cm2
+C) 1 cm?
+d) 2 cm2
+549. Normálové napětí v tyči o průřezu 2 cm² na kterou působí tahem síla je 50 MPa.
+Jak velká je síla?
+a) 1 kN
+B) 10 kN
+c) 20 kN
+d) 50 KN
+0
+550. Siontovou vazbou v pevných látkách se setkáváme u oxidu
+a) křemičitého
+b) hlinitého
+c) arzeničného
+D) vápenatého

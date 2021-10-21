@@ -1,0 +1,46 @@
+441. Zvolte správné tvrzení týkající se termodynamické teploty T a Celsiovy teploty t:
+a) t= T
+b) t= -1
+C) t= T - 273,15
+d) t=1/T
+442. Vyberte správnou kombinaci přibližného vyjádření téže teploty ve °C (t) a v K(T):
+A) t= -30 °C; T = 243 K
+B) t= 30 °C; T = 303 K
+c) t= -30 °C; T = 303 K
+D) T = 30 K; t = -243 °C
+443. Vyberte správnou kombinaci přibližného vyjádření téže teploty ve °C (t) a v K(T):
+a) t = 223 °C; T = 50 K
+B) t= -223 °C; T = 50 K
+C) t = 50 °C; T = 323 K
+D) T = 223 K; t = -50 °C
+a
+444. Teplota trojného bodu vody je
+a) 273,16 °C
+b) -273,16 °C
+C) 273,16 K
+d) -273,16 K
+445. Děj, který probíhá v plynové náplni plynového teploměru při jeho použití, lze
+prakticky považovat za
+a) izobarický
+B) izochorický
+c) izotermický
+d) adiabatický
+446. Vyberte správné tvrzení týkající se tepelné kapacity Ca měrné tepelné kapacity
+C:
+=
+-
+a) jednotkou tepelné kapacity je J. kg-1. K-1,
+B) Q/AT = Q/At
+C) jednotkou tepelné kapacity je J. K-1
+D) Q/(MAT) = Q/(mat)
+447. Vyberte nesprávné tvrzení, značí-li Q teplo, T termodynamickou teplotu at
+Celsiovu teplotu:
+A) jednotkou měrné tepelné kapacity je J. kg-1
+B) jednotkou tepelné kapacity je J. kg-1
+C) Q/AT = Q/At
+D) jednotkou měrné tepelné kapacity je J. K-1
+448. Vyberte nesprávné tvrzení:
+A) voda má menší měrnou tepelnou kapacitu než většina běžných látek
+b) voda má větší měrnou tepelnou kapacitu než většina běžných látek
+C) měrná tepelná kapacita dané látky je zcela nezávislá na teplotě
+D) jednotkou měrné tepelné kapacity je J/kg

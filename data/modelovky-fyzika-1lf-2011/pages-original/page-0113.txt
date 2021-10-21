@@ -1,0 +1,44 @@
+834. Magnetická síla Fm působící na přímý vodič s konstantním proudem
+v homogenním magnetickém poli je
+A) kolmá jak na vodič tak na magnetickou indukci
+b) kolmá pouze na vodič
+c) kolmá pouze na magnetickou indukci
+d) nezávislá na poloze vodiče
+835. Směr síly působící na přímý vodičs proudem v homogenním magnetickém poli
+lze určit:
+a) Lenzovým pravidlem
+B) Flemingovým pravidlem levé ruky
+c) Ampérovým pravidlem levé ruky
+d) Ampérovým pravidlem pravé ruky
+836. Velikost síly působící na přímý vodičs proudem v homogenním magnetickém
+poli
+a) nezávisí na orientaci vodiče
+b) je nepřímo úměrná velikosti proudu procházejícího vodičem
+c) je nepřímo úměrná velikosti magnetické indukce
+D) je přímo úměrná velikosti magnetické indukce
+837. Velikost magnetické indukce pole přímého vodiče s proudem je
+a) nepřímo úměrná permeabilitě prostředí
+B) přímo úměrná permeabilitě prostředí
+c) přímo úměrná kvadrátu proudu
+d) nepřímo úměrná proudu
+838. Relativní permeabilita vakua má hodnotu:
+A) 1
+b) 4rt.10-7
+c) 216.10-7
+d) 0
+839. Velikost magnetické indukce magnetického pole nekonečně dlouhé válcové cívky je
+a) nepřímo úměrná permeabilitě
+B) přímo úměrná proudu
+C) přímo úměrná hustotě závitů
+d) nepřímo úměrná hustotě závitů
+840. Hodnota permeability vakua v jednotkách N.A-2 je:
+a) 10-7
+b) 10-7
+C) 411.10-7
+d) 216.10-7
+V
+841. Orientaci magnetických indukčních čar cívky určíme
+a) Flemingovým pravidlem levé ruky
+B) Ampérovým pravidlem pravé ruky
+c) Ampérovým pravidlem levé ruky
+d) Lenzovým pravidlem

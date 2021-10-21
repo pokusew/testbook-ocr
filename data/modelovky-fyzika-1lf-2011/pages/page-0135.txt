@@ -1,0 +1,54 @@
+1010. Okamžitý proud v oscilačním obvodu je posunut vůči napětí o počáteční fázi
+a) 1/2 rad
+b) 1/4 rad
+C) -1/2 rad
+d) -TT/4 rad
+0
+=
+=
+S
+=
+V
+1011. V mechanickém oscilátoru s hmotností m a tuhostí k vzniká vlastní kmitání
+s periodou T, určenou vztahem
+A) T. = 211./(m/k)
+b) T. = V(m/k)
+c) T. = V(m/k) 12
+d) T. = (1/21) (m/k)
+1012. V mechanickém oscilátoru s hmotností m a tuhostí k vzniká vlastní kmitání
+s frekvencí f, určenou vztahem
+a) f. = 211(m/k)
+b) f. = 211(k/m)
+C) f. = (1/21) V(k/m)
+d) f. = (1/21) V(m/k)
+1013. V mechanickém oscilátoru s hmotnosti m a tuhostí k vzniká vlastní kmitání
+S
+s úhlovou frekvencí w, určenou vztahem
+a) w. = (1/21) V(k/m)
+B) w. (k/m)
+c) w. = 211/(m/k)
+d) w. = V(m/k)
+1014. Hmotný bod kmitá s periodou 0,02 s. Jaká je hodnota úhlové frekvence?
+a) 25 1
+b) 50 TE
+c) 751
+D) 100 m
+1015. Procesor počítače kmitá s periodou 2,5 ns. Jakou má frekvenci?
+a) 4 MHz
+b) 40 MHz
+C) 400 MHz
+D) 0,4 GHz
+1016. Rovnice harmonického kmitání má tvar y = 4.10-3.sin 4 nt. Určete dvojici, ve které
+jsou uvedeny správné hodnoty jak amplitudy tak i frekvence
+a) 2.10-3m; 2 Hz
+B) 4.10-3m; 2 Hz
+c) 2.10-3m; 4 Hz
+d) 4.10-3m; 4 Hz
+1017. Značí-li F, sílu pružnosti pružiny mechanického oscilátoru a Al její proloužení,
+je tuhost pružiny k určena vztahem
+a) k = F, 41
+b) k = F, 412
+C) k = F. 41-2
+d) k = F, 41-2
+=
+р

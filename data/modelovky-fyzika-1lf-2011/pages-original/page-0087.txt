@@ -1,0 +1,48 @@
+628. Pomocí permitivity zpravidla charakterizujeme určitou vlastnost
+a) kovu
+B) dielektrika
+c) polovodiče
+d) elektrolytu
+629. Která z následujících látek je typickým dielektrikem?:
+A) porcelán
+B) petrolej
+c) roztok chloridu sodného ve vodě
+d) germanium
+630. Která z následujících látek je typickým dielektrikem?:
+a) ionizovaný plyn
+b) železo
+C) petrolej
+d) křemík
+631. Mezi typické izolanty patří:
+a) sulfid kademnatý
+B) olej
+c) roztok kyseliny sírové
+D) slída
+632. Mezi typické izolanty nepatří
+A) křemík
+b) sklo
+c) slída
+D) sulfid kademnatý
+633. Hodnoty relativních permitivit jsou následující: suchý vzduch - 1,0006,
+parafín – 2,0 až 2,2, voda - 81,6. V kterém prostředí bude za jinak stejných
+podmínek největší intenzita elektrického pole?
+A) ve vakuu
+b) v suchém vzduchu
+c) v parafínu
+d) ve vodě
+634. Hodnoty relativních permitivit jsou následující: suchý vzduch - 1,0006,
+parafín – 2,0 až 2,2, voda - 81,6. V kterém prostředí bude za jinak stejných
+podmínek nejmenší intenzita elektrického pole?
+a) ve vakuu
+b) v suchém vzduchu
+c) v parafínu
+D) ve vodě
+635. Hodnoty relativních permitivit jsou: dusík – 1,00061, transformátorový olej - 2,2,
+sklo - 5 až 16, etanol - 24. V kterém prostředí bude za jinak stejných podmínek
+nejmenší intenzita elektrického pole?
+a) v dusíku
+b) v transformátorovém oleji
+c) ve sklu
+D) v etanolu
+-
+-

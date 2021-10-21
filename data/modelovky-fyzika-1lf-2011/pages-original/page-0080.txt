@@ -1,0 +1,50 @@
+571. Značí-li o povrchové napětí, 1 délku a S velikost povrchu, vyjádříme povrchovou
+sílu F jako
+a) P=/1
+F
+11) F-0.1
+c) P=0/S
+d) F= o. S
+174. Značí-li l délku, F povrchovou sílu a S velikost povrchu, můžeme povrchové
+napětí o vyjádřit vztahem
+a) o=F1
+FS
+C) 0= F/1
+d) o= F/S
+575. Možnost pohybu některých druhů hmyzu běháním po hladině vody lze vysvětlit
+na základu
+a) viskozity
+b) hustoty
+C) povrchového napětí
+d) tlaku
+576. Jednotkou povrchového napětí je
+A) N.m-1
+b) N.m-2
+c) N.m2
+d) N.m
+577. Vyjádřete jednotku povrchového napětí pomocí základních jednotek
+Mezinárodní soustavy jednotek (SI):
+a) kg.m-2.5-2
+B) kg.s-2
+c) kg.m.s-2
+d) kg.s -1
+1
+-2
+-2
+578. N.m-1 je jednotkou
+a) normálového napětí
+B) povrchového napětí
+c) modulu pružnosti v tahu
+d) tlaku
+579. Vyjádření pomocí základních jednotek soustavy SI odpovídá kg.s-2 jednotce
+a) tlaku
+b) momentu síly
+c) normálového napětí
+D) povrchového napětí
+580. Jakou práci je nutno vynaložit k rozprášení 2 dm3 vody na kapičky o poloměru
+0,1 mm (povrchové napětí vody je 0,073 N/m; povrch vody před rozprášením
+považujte za zanedbatelný ve srovnání se součty povrchů vzniklých kapiček)?
+a) 2,19 )
+B) 4,38 )
+c) 8,76 )
+d) 21,9 J

@@ -1,0 +1,46 @@
+235. Při ustáleném proudění protéká hadicí o průměru 1 cm 30 litrů vody za minutu.
+Její koncovka má poloměr 0,25 cm. Za jako dobu se naplní nádoba o objemu
+0,3 m??
+a) 150 s
+b) 300 s
+C 600 s
+d) 1200 s
+6
+236. Práci W vykonanou působením tlaku p kapaliny na píst o ploše S, jehož
+posunutím se změnil objem o AV, můžeme vyjádřit jako
+a) W= p/AV
+B) W = p.AV
+c) W=p/S
+d) W = ps
+237. Ve vodorovné trubici proudí voda rychlostí 2,24 m.s- a má tlak 0,1 MPa.
+V zúženém místě trubice byl naměřen tlak 90 kPa. Jaká je v něm přibližně
+rychlost proudění vody?
+a) 3 m/s
+b) 4 m/s
+C) 5 m/s
+d) 6 m/s
+238. Bernoulliho rovnice je zvláštním případem zákona o zachování
+a) hmotnosti
+B) mechanické energie
+c) hybnosti
+d) rychlosti
+239. Značí-li p tlak, V objem, v rychlost proudění a p hustotu, pak Bernoulliho rovnic
+a
+pro proudění ideální kapaliny ve vodorovné trubici je dána vztahem
+a) PV + pv2/2 = konst.
+b) p + mv2/2 = konst.
+C) p + pv? /2 = konst.
+d) p + pvz = konst.
+240. Bernoulliho rovnice udává konstantnost součtu
+a) tlaku a energie kapaliny
+b) tlaku a kinetické energie kapaliny
+C) tlaku a kinetické energie objemové jednotky kapaliny
+d) tlaku a kinetické energie jednotky hmotnosti kapaliny
+241. Značí-li g gravitační zrychlení a vytéká-li kapalina malým otvorem v nádobě,
+který je v hloubce h pod hladinou, je možno velikost výtokové rychlosti
+v kapaliny o hustotě p vyjádřit jako
+a) v = hpg
+b) v= hg
+c) v = : 2hg
+D) v= v2gh
+=

@@ -1,0 +1,44 @@
+=
+713. Vyberte správné tvrzení:
+a) rozdíl mezi elektromotorickým a svorkovým napětím je tím menší, čím menší je vnější
+odpor
+B) elektromotorické napětí je napětí na svorkách zdroje, kterým neprochází proud
+C) svorkové napětí je na svorkách zdroje, který je zapojen do uzavřeného obvodu
+D) úbytek napětí na zdroji je roven součinu vnitřního odporu a proudu
+714. Uvažujme 3 paralelně zapojené rezistory; hodnoty U, Ra I značí celkové hodnoty
+napětí, odporu a proudu, indexy 1, 2 a 3 se vztahují k jednotlivým rezistorům.
+Který z uvedených vztahů je nesprávný?
+a) I = 11 + 12 + 13
+B) U = U1 + U2 + Uz
+c) U/R = U/R1 + U/R2 + U/R3
+d) 1/R = 1/R1 + 1/R2 + 1/R3
+715. Vyhledejte správné tvrzení: Jsou-li rezistory zapojeny paralelně,
+A) je na všech stejné napětí
+B) celkový proud je roven součtu proudů v jednotlivých větvích
+c) celkový odpor je roven součtu jednotlivých odporů
+D) algebraický součet proudů pro uzel se rovná nule
+716. Zvolte správné tvrzení:
+a) rozsah ampermetru zvětšíme pomocí předřazeného rezistoru
+B) rozsah voltmetru zvětšíme pomocí předřazeného rezistoru
+c) rozsahy voltmetru a ampermetru nelze měnit
+D) rozsah ampermetru zvětšíme připojením bočníku
+717. Zvolte správné tvrzení:
+A) rozsah voltmetru zvětšíme pomocí předřazeného rezistoru
+b) rozsahy přístrojů je možné měnit jedině změnou jejich vnitřního odporu
+c) rozsah voltmetru zvětšíme připojením bočníku
+D) rozsah ampermetru zvětšíme připojením bočníku
+718. Označte správné tvrzení:
+A) odpor voltmetru má být velký
+b) odpor ampermetru má být velký
+C) rozsah voltmetru zvětšíme pomocí předřazeného rezistoru
+D) rozsah ampermetru zvětšíme připojením bočníku
+719. Označte správné tvrzení:
+A) odpor voltmetru má být velký
+B) odpor ampermetru má být malý
+c) rozsah voltmetru zvětšíme připojením bočníku
+D) rozsah ampermetru zvětšíme připojením bočníku
+720. Označte správné tvrzení:
+A) odpor voltmetru má být velký
+B) odpor ampermetru má být malý
+C) rozsah voltmetru zvětšíme pomocí předřazeného rezistoru
+d) rozsah ampermetru zvětšíme pomocí předřazeného rezistoru

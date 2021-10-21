@@ -1,0 +1,48 @@
+0
+682. Vyberte správnou kombinaci uvedeného pojmu a jeho výkladu:
+a) rezistor - elektrická veličina
+b) reostat - kovová součástka se stálým elektrickým odporem
+C) potenciometr – rezistor s posuvným kontaktem sloužící k nastavení vhodného napětí
+v obvodu
+d) reostat - rezistor s posuvným kontaktem sloužící k nastavení vhodného napětí v obvodu
+683. Potenciometr je
+a) rezistor s posuvným kontaktem sloužící k nastavení vhodného proudu v obvodu
+b) jakýkoliv odpor
+c) jakákoliv kovová součástka se stálým elektrickým odporem
+D) rezistor s posuvným kontaktem sloužící k nastavení vhodného napětí v obvodu
+684. Reostat je
+A) rezistor s posuvným kontaktem sloužící k nastavení vhodného proudu v obvodu
+b) rezistor s posuvným kontaktem k nastavení vhodného napětí v obvodu
+c) jakákoliv kovová součástka o stálém elektrickém odporu
+d) stálý elektrický odpor
+685. K nastavení vhodného napětí v elektrickém obvodu používáme
+a) jakkoliv zapojeného rezistoru
+B) rezistoru s posuvným kontaktem zapojeného jako potenciometr
+c) rezistoru s posuvným kontaktem zapojeného jako reostat
+d) jakéhokoliv kovového odporu
+686. Na žárovce jsou uvedeny provozní hodnoty 24 Va 0,1 A. Prochází-li žárovkou
+proud 2,5 mA je na ní napětí 0,045 V a teplota vlákna je prakticky rovna teplotě
+okolí (20 °C). Teplotní součinitel odporu av = 4,4x10-3K-1. Jakou teplotu má
+přibližně vlákno za provozu žárovky?
+a) 1200 °C
+b) 1600 °C
+C) 1400 °C
+D) 2800 °C
+687. Automobilová žárovka koncového světla je určena pro napětí 12 V a proud
+500 mA. Jaký je odpor jejího vlákna?
+A) 24 12
+b) 6012
+c) 24 mΩ
+d) 60 m2
+688. Automobilová žárovka blikače je určena pro napětí 12 V a proud 1,6 A. Jaký je
+odpor jejího vlákna?
+a) 28212
+B) 7,52
+c) 1,75 12
+d) 2.12
+689. Měrný elektrický odpor p látky, ze které je zhotoven vodič o průřezu S, délce 1
+a elektrickém odporu R, je roven
+a) p = RI/S
+b) p = ls/R
+C) p = RS/1
+d) p = RSI

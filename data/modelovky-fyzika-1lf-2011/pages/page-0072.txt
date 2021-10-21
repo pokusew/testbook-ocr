@@ -1,0 +1,47 @@
+512. Uvažujte izochorický děj s ideálním plynem; značí-li p tlak, V objem a T
+termodynamickou teplotu, vyberte správné tvrzení:
+A) P1/T1 = P2/T2
+B) p/T = konst.
+C) V = konst.
+() PV = konst.
+S
+1
+513. Zákon Charlesův platí pro ideální plyn v případu
+A) izochorického děje
+b) izobarického děje
+c) izotermického děje
+d) adiabatického děje
+514. Graf vyjadřující závislost tlaku daného počtu molů ideálního plynu na jeho
+objemu při izochorickém ději je
+a) hyperbola
+b) parabola
+C) přímka rovnoběžná se svislou osou
+d) přímka rovnoběžná s vodorovnou osou
+515. Uvažujte izobarický děj s ideálním plynem; značí-li p tlak, V objem a T
+termodynamickou teplotu, vyberte správné tvrzení:
+A) V/T = konst.
+B) V2/T2 = V2/T2
+C) p = konst.
+d) PV = konst.
+516. Zákon Gay-Lussacův platí pro ideální plyn v případu
+a) izotermického děje
+B) izobarického děje
+c) izochorického děje
+d) adiabatického děje
+517. Graf vyjadřující závislost tlaku daného počtu molů ideálního plynu na jeho
+objemu při izobarickém ději je
+a) hyperbola
+b) parabola
+C) přímka rovnoběžná s vodorovnou osou
+d) přímka rovnoběžná se svislou osou
+518. Při izotermickém ději s ideálním plynem platí pro přírůstek vnitřní energie AU
+A) AU = 0
+b) AU = 0
+c) AU = W
+d) AU = -Q
+519. Ve válci s pístem stlačíme daný plyn za izotermických podmínek. Vnitřní energie
+plynu
+a) se zvýší
+b) se sníží
+c) se zvýší nebo sníží, v závislosti na povaze plynu
+D) se nezmění

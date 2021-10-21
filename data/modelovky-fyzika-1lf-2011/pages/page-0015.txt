@@ -1,0 +1,46 @@
+79. Jestliže počáteční rychlost byla nulová, lze rychlost rovnoměrně zrychleného
+přímočarého pohybu vyjádřit jako
+A) součin skalární a vektorové veličiny
+b) součin dvou skalárních veličin
+c) součin dvou vektorových veličin
+d) součin velikostí dvou vektorových veličin
+80. Vyberte nesprávnou kombinaci veličiny z oblasti kinematiky hmotného bodu
+a jejího grafického znázornění v pravoúhlých souřadnicích v závislosti na čase:
+A) velikost zrychlení rovnoměrně zrychleného pohybu - přímka s nenulovou směrnicí
+b) dráha rovnoměrně zrychleného pohybu - parabola
+C) dráha rovnoměrného přímočarého pohybu - přímka s nulovou směrnicí
+D) velikost rychlosti rovnoměrného přímočarého pohybu - přímka s nenulovou směrnicí
+81. Označte správnou kombinaci veličiny z oblasti kinematiky hmotného bodu
+a jejího grafického znázornění v pravoúhlých souřadnicích v závislosti na čase:
+A) velikost rychlosti rovnoměrně zrychleného pohybu - přímka s nenulovou směrnicí
+B) velikost zrychlení rovnoměrně zrychleného pohybu - přímka s nulovou směrnici
+C) dráha rovnoměrného přímočarého pohybu - přímka s nenulovou směrnicí
+d) dráha rovnoměrně zrychleného pohybu - přímka
+82. Vyberte správnou kombinaci veličiny z oblasti kinematiky hmotného bodu
+a jejího grafického znázornění v pravoúhlých souřadnicích v závislosti na čase:
+A) dráha rovnoměrného přímočarého pohybu – přímka s nenulovou směrnicí
+b) dráha rovnoměrně zrychleného pohybu - přímka
+C) velikost rychlosti rovnoměrně zrychleného pohybu - přímka s nenulovou směrnicí
+d) velikost rychlosti rovnoměrného přímočarého pohybu - přímka s nenulovou směrnicí
+83. Označte správnou kombinaci veličiny z oblasti kinematiky hmotného bodu
+a jejího grafického znázornění v pravoúhlých souřadnicích v závislosti na čase:
+a) velikost rychlosti rovnoměrně zrychleného pohybu – parabola
+B) dráha rovnoměrně zrychleného pohybu – parabola
+C) velikost rychlosti rovnoměrného přímočarého pohybu – přímka s nulovou směrnicí
+D) dráha rovnoměrného přímočarého pohybu - přímka s nenulovou směrnicí
+84. Vyberte nesprávné tvrzení:
+a) volný pád je zvláštním případem pohybu rovnoměrně zrychleného
+B) během volného pádu působí na těleso síla rovnoměrně rostoucí s časem
+C) rychlost volného pádu tělesa ve vakuu závisí na jeho hmotnosti
+D) grafickým znáorněním dráhy tělesa při volném pádu ve vakuu v závislosti na čase je
+přímka
+85. Při volném pádu ve vakuu rychlost tělesa
+a) závisí na jeho hustotě
+b) závisí na jeho hmotnosti
+c) závisí na jeho hustotě a hmotnosti
+D) žádná z nabídnutých odpovědí není správná
+86. Při volném pádu ve vakuu rychlost tělesa závisí na
+a) jeho tíze
+b) jeho hmotnosti
+C) gravitačním zrychlení
+D) době trvání pádu

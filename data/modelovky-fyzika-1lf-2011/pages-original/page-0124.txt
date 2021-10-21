@@ -1,0 +1,57 @@
+<
+m
+922. Reaktance X v obvodu s RLC v sérii
+S
+a) je určena vztahem X = XL+ Xc
+B) závisí na frekvenci
+c) charakterizuje vlastnosti té části obvodu, v niž se elektromagnetická energie mění v teplo
+D) je určena vztahem X = XL - Xc
+923. V obvodu s RLC v sérii dojde k rezonanci, je-li
+A) X = Xc
+b) R = 0.12
+c) X, Xc
+d) X <Xc
+924. Jako usměrňovače střídavého proudu lze použít
+a) transformátoru
+b) kondenzátoru
+C) diody
+d) solenoidu
+925. Okamžitý výkon střídavého proudu v obvodu s odporem se vzhledem k proudu
+a) mění s poloviční frekvencí
+b) nemění
+C) mění s dvojnásobnou frekvencí
+d) je nulový
+926. Značí-li I maximální hodnotu, je efektivní hodnota střídavého proudu I dána
+vztahem
+a) I = V2.1.
+B) I = In/V2
+c) I = 2.1.
+d) I = 1/2
+927. Značí-li Um maximální hodnotu, je efektivní hodnota střídavého napětí U dána
+vztahem
+a) U = V2.U
+b) U = 20
+C) U = U/V2
+d) U = U./2
+928. V obvodu střídavého proudu je v sérii s rezistorem 90 22 zapojená cívka
+o induktivní reaktanci X = 1256 N a kondenzátor o kapacitní reaktanci
+Xc = 1656 12. Jaká je celková impedance?
+a) 29012
+b) 360.12
+C) 410.2
+d) 520.12
+929. Je-li o fázový posún střídavého napětí a proudu, pak pro výkon střídavého
+proudu o napětí U a intenzitě Iv obvodu s odporem platí vztah
+a) P = UICOS(0/2)
+B) P = UI
+c) P = Ulsing
+d) P = UI/2
+m2
+m
+m.
+m
+a
+G
+=
+-
+=

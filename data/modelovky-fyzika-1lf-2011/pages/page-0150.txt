@@ -1,0 +1,48 @@
+sities பாங்க
+1134. Barevná vada čoček spočívá v tom, že
+a) různé barvy bílého světla se různě absorbují
+b) čočky jsou nehomogenně zbarvené
+C) barvy bílého světla se lámou do různých ohnisek
+d) na okrajích čočky se objevují barevné pruhy
+1135. Které z následujících tvrzení o lidském oku je pravdivé?
+A) oko má spojnou optickou soustavu
+B) obraz se vytváří na sítnici
+c) obraz na sítnici je neskutečný, zmenšený a převrácený
+D) informace o obrazu se přenášejí do mozku očním nervem
+1136. Které z následujících tvrzení je pravdivé? Průhledným prostředím v oku je
+A) čočka
+B) oční mok
+c) duhovka
+D) sklivec
+1137. Oko nejvíce akomoduje při pozorování předmětů umístěných
+A) v blízkosti blízkého bodu
+b) v blízkosti vzdáleného bodu
+c) v ohniskové vzdálenosti oka
+d) v nekonečnu
+1138. Na mýdlovou bublinu (n = 1,33) dopadá kolmo svazek bílého světla. V odraženém
+světle převládá zelená barva (a = 532 nm). Jaká je nejmenší tloušťka mýdlové
+blány?
+A) 0,1 um
+b) 0,2 um
+c) 0,3 um
+d) 0,4 um
+1139. Předmět o výšce 3 cm byl spojkou zobrazen tak, že jeho skutečný obraz měl výšku
+18 cm. Když byl předmět posunut o 6 cm, vznikl zdánlivý obraz o výšce 9 cm. Jaká
+byla původní vzdálenost předmětu od čočky?
+A) 14 cm
+b) 15 cm
+c) 16 cm
+d) 17 cm
+1140. Předmět o výšce 3 cm byl spojkou zobrazen tak, že jeho skutečný obraz měl výšku
+18 cm. Když byl předmět posunut o 6 cm, vznikl zdánlivý obraz o výšce 9 cm. Jaká
+byla ohnisková vzdálenost čočky?
+A) 12 cm
+b) 15 cm
+c) 18 cm
+d) 21 cm
+1141. Do jaké vzdálenosti od spojky s optickou mohutností 10 D musíme umístit
+předmět, aby jeho skutečný obraz měl dvojnásobné zvětšení?
+A) 15 cm
+b) 20 cm
+c) 25 cm
+d) 30 cm

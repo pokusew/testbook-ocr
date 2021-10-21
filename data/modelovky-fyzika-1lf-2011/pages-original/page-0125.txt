@@ -1,0 +1,49 @@
+=
+=
+930. Je-li o fázový posun střídavého napětí a proudu, pak výkon střídavého proudu
+o napětí U a intenzitě I v obvodu s impedancí je dán vztahem
+A) P= UIcos
+b) P = Ultgo
+c) P = UI
+d) P = Ulsing
+931. Činný výkon střídavého proudu v obvodu s impedancí má jednotku
+a) watt.s-1
+b) watt.s
+C) watt
+d) watt-1
+932. Činný výkon střídavého proudu v obvodu s impedancí je největší, je-li fázový
+posun
+a) 1/2 rad
+b) 1/4 rad
+c) 1/8 rad
+D O rad
+933. Činný výkon střídavého proudu v RLC obvodu
+a) je největší, je-li induktivní reaktance značně větší než kapacitní reaktance
+b) je největší, je-li induktivní reaktance značně menší než kapacitní reaktance
+C) je největší při rezonanci
+D) závisí na frekvenci střídavého proudu
+934. Činný výkon střídavého proudu v RLC obvodu je nulový, je-li fázový posun
+A) 1/2 rad
+b) 1/4 rad
+c) 1/8 rad
+d) O rad
+935. Vedením přenosové soustavy jednofázového střídavého proudu je přenášen
+výkon 33 MW. Určete ztráty výkonu ve vedení při napětí 22 kV, má-li vedení odpor
+0,12 12.
+a) 0,14 MW
+B) 0,27 MW
+c) 0,42 MW
+d) 0,56 MW
+936. Vedením přenosové soustavy jednofázového střídavého proudu je přenášen
+výkon 33 MW. Určete ztráty výkonu ve vedení při napětí 6,6 kV, má-li vedení
+odpor 0,12 12.
+a) 1 MW
+b) 2 MW
+C) 3 MW
+4 MW
+937. Zařazením kondenzátoru do obvodu střídavého proudu dojde k fázovému posuvu
+proudu vzhledem k napětí o
+a) 1/4 rad
+b) -1/2 rad
+C) 1/2 rad
+d) -T/4 rad

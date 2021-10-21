@@ -1,0 +1,43 @@
+=
+528. Vyberte správné tvrzení:
+A) Poissonův zákon platí pro adiabatický děj s ideálním plynem
+b) Van der Waalsova rovnice má význam k lepšímu vystižení reálného chování plynů než
+pomocí stavové rovnice ideálního plynu zejména při nízkých tlacích
+C) Charlesův zákon platí pro izochorický děj s ideálním plynem
+D) Boylův-Mariottův zákon platí pro izotermický děj s ideálním plynem
+529. Výraz W' = p AV udává práci konanou ideálním plynem při
+a) izotermickém ději
+b) izochorickém ději
+C) izobarickém ději
+d) adiabatickém ději
+530. Práce vykonaná ideálním plynem při izobarické expanzi při tlaku 500 kPa, při
+které se zvětšil objem ze 7 1 na 8 1 má hodnotu
+a) 5)
+b) 50 )
+C) 500)
+d) 5 k}
+531. Plyn uzavřený v nádobě s pohyblivým pístem vykonal při adiabatickém ději práci
+500 J. Změna jeho vnitřní energie AU byla
+a) AU = 500 )
+b) AU = 1000)
+C) AU = -500)
+d) AU - 0]
+532. Práce vykonaná ideálním plynem při izobarické expanzi při tlaku 0,1 MPa byla
+1 kJ. O kolik se zvětšil objem plynu?
+a) 0,11
+b) 11
+C) 101
+d) 1 h
+533. Práce vykonaná ideálním plynem při izobarické expanzi, při které se zvětšil jeho
+objem ze 7 1 na 8 l, byla 100 J. Jaký byl tlak plynu?
+a) 1 kPa
+b) 10 kPa
+C) 0,1 MPa
+d) 1 MPa
+534. Budiž při jednom cyklu kruhového děje teplo převzaté pracovní látkou od
+ohřívače Q1, teplo předané pracovní látkou chladiči (z. Účinnost tohoto
+kruhového děje vyjádříme jako
+A) (Qı - Q2)/Q1
+b) (Qz - Q.)/Q1
+c) Q1/Q2
+d) Q2/Q1

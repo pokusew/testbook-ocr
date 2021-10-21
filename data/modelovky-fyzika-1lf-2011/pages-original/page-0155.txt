@@ -1,0 +1,46 @@
+1175. Jednotkou zářivého toku je
+a) watt.s
+B) watt
+c) watt.s-1
+d) watt.m-2
+1176. Jaký je světelný tok bodového zdroje, je-li jeho svítivost 5 cd?
+a) 40 lm
+B) 62.8 lm
+c) 70 lm
+d) 80 lm
+1177. Jak vysoko nad stolem musí být žárovka o svítivosti 100 cd, aby osvětlení stolu
+pod ní bylo 50 Ix?
+a) 1 m
+B) 1.41 m
+c) 82 m
+d) 2 m
+1178. Jednotkou intenzity vyzařování je
+a) watt
+b) watt.sr-1
+C) watt.m-2
+d) watt.s-1
+1179. Lidské oko je nejcitlivější na světlo
+a) fialové
+b) červené
+C) žlutozelené
+d) bílé
+1180. Lidské oko je nejcitlivější na vlnové délky kolem
+a) 455 nm
+B) 555 nm
+c) 655 nm
+d) 755 nm
+1181. Jak vysoko bude žárovka o svítivosti 540 cd, aby pod ní bylo osvětlení 60 1x?
+a) 9 m
+b) 6 m
+c) 4,5 m
+D) 3 m
+1182. Anizotropní látky jsou látky, které
+a) dobře vedou zvuk
+b) špatně vedou teplo
+C) mají v různých směrech různé fyzikální vlastnosti
+d) propouštějí záření všemi směry stejně
+1183. Určete pravdivé tvrzení: Mezi fotometrické veličiny patří
+a) zářivý tok
+B) svítivost
+C) světelný tok
+D) Osvětlení

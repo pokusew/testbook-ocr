@@ -1,0 +1,49 @@
+V
+1210. Jaká je mezní vlnová délka světla, které způsobí fotoemisi elektronů ze sodíku,
+při velikosti výstupní práce W, = 2,3 eV?
+A) 540 nm
+b) 560 nm
+c) 580 nm
+d) 600 nm
+1211. Poloměr atomového jádra je řádově
+A) 10-15 m
+b) 10-14 m
+c) 10-13 m
+d) 10-12 m
+1212. Jaká je kinetická energie fotoelektronů, jestliže na povrch sodíku s výstupní prací
+W, = 2,3 eV dopadne záření o vlnové délce 200 nm?
+A) 3,9 eV
+b) 4,1 eV
+c) 4,3 eV
+d) 4,5 eV
+1213. Foton má
+a) pouze vlastnosti částice
+b) pouze vlastnosti vlny
+C) částicové i vlnové vlastnosti
+D) nulovou klidovou hmotnost
+1214. Elektron v základním energetickém stavu má
+a) pouze vlastnosti částice
+b) pouze vlastnosti vlny
+J
+c) nulovou klidovou hmotnost
+D) částicové i vlnové vlastnosti
+1215. Avogadrovu konstantu vyjadřujeme v jednotkách
+A) mol-1
+b) mol
+c) mol. 1
+d) mol. 1-1
+1216. Rozměry atomů jsou řádově
+a) 10-7m
+b) 10-8 m
+c) 10-9 m
+D) 10-10 m
+1217. Energie základního stavu elektronu v určitém atomu je
+A) nejnižší možná
+b) kladná
+c) závislá na počtu neutronů jádře
+d) závislá na nukleonovém čísle
+1218. Určete správné tvrzení: Záření laseru je
+A) emitováno na základě stimulované emise
+B) monofrekvenční
+c) divergentní
+D) koherentní

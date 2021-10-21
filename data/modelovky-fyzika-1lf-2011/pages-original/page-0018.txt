@@ -1,0 +1,65 @@
+103. Jednotku síly (1 N) můžeme pomocí základních jednotek soustavy SI vyjádřit jako
+a) kg.m.s
+b) kg.m.s-1
+c) kg.m-15-2
+D) kg.m.s-2
+104. Značí-li a zrychlení a m hmotnost, lze velikost síly F působící na těleso vyjádřit
+jako
+a) F= m/a
+b) F= a/m
+C) F = ma
+d) F = ma?
+105. Značí-li g gravitační zrychlení a m hmotnost, lze velikost tíhové síly G vyjádřit
+jako
+A) G = mg
+b) G= m/g
+c) G=g/m
+d) G = mg?
+106. Těleso se pohybuje rovnoměrným pohybem po kružnici proto, že
+a) na něj nepůsobí žádná síla
+b) na něj působí odstředivá síla
+C) na něj působí dostředivá síla
+d) na něj působí stálá síla ve směru tečny ke kruhové dráze
+107. Velikost dostředivé síly Fa při rovnoměrném pohybu tělesa o hmotnosti m po
+kružnici o poloměru r s úhlovou rychlostí w, můžeme vyjádřit jako:
+a) Fa = m(a)?
+B) Fa = mv2/r
+mwv
+= 417?f?r
+108. Velikost dostředivé síly Fa při rovnoměrném pohybu tělesa o hmotnosti m po
+kružnici o poloměru rs úhlovou rychlostí w, můžeme vyjádřit jako:
+a) Fa= mvr
+B) Fa
+c) Fa = mw/r
+D) F, = 41?mr/T2
+109. Který z uvedených vztahů pro velikost dostředivé síly Fa při rovnoměrném
+pohybu tělesa o hmotnosti m po kružnici o poloměru r s úhlovou rychlostí w je
+nesprávný?
+= mων2
+b) Fa= mw?r
+c) F, = 4nºrm/T?
+d
+=
+d
+C) Fd
+d) Fd
+= mwv
+d
+=
+d
+=
+d
+A) Fa
+d
+D) Fd
+d
+= mwr
+110. Značí-li f frekvenci, T periodu a v rychlost, který z uvedených vztahů pro
+rovnoměrný pohyb hmotného bodu s úhlovou rychlostí w po kružnici
+o poloměru r je správný?
+A) f=1/T
+B) v= 2πη/T
+C) w=
+= 21/T
+d) y =
+v=wr

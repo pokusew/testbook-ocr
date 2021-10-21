@@ -1,0 +1,55 @@
+a
+a
+178. Uvažujte přibližnou hodnotu g = 10 m.s-2 a zanedbejte odpor vzduchu. Za těchto
+podmínek těleso vržené svisle vzhůru rychlostí 20 m/s dosáhne výšky
+a) 50 m
+b) 10 m
+C) 20 m
+d) 40 m
+179. Uvažujte přibližnou hodnotu g = 10 m.s-2 a zanedbejte odpor vzduchu. Kámen
+vržený svisle vzhůru dopadl zpět za 4 s. Jaké nejvyšší výšky dosáhl?
+a) 15 m
+B) 20 m
+c) 25 m
+d) 30 m
+180. Uvažujte přibližnou hodnotu g = 10 m.s-2 a zanedbejte odpor vzduchu. Rychlost
+tělesa, které spadlo z výšky 20 m byla
+a) 10 m/s
+B) 20 m/s
+c) 30 m/s
+d) 40 m/s
+181. Těleso dopadlo volným pádem na zem s rychlostí 30 m/s. Z jaké výšky padalo?
+a) 30 m
+b) 35 m
+c) 40 m
+D) 45 m
+182. Značí-li m hmotnost, v rychlost, a zrychlení, g gravitační zrychlení a h výšku,
+vyberte dvojici, ve které je jak kinetická energie E, tak potenciální energie Ep
+vyjádřena správně:
+A) E = mv2/2; E = mgh
+b) Ex = maʼ/2; E = mgh
+c) Ex = mv2/2; E = mgh
+d) Ex = mv2 /2; E = mgh²/2
+183. Po kolmém odrazu dokonale pružné koule od dokonale tuhé stěny bude mít
+vektor hybnosti ve srovnání s vektorem hybnosti před odrazem
+a) opačný směr a poloviční velikost
+B) opačný směr a stejnou velikost
+c) nulovou velikost
+d) stejný směr a poloviční velikost
+184. Při otáčivém pohybu tuhého tělesa mají všechny body tělesa v libovolném čase
+a) stejnou okamžitou rychlost
+b) stejné dostředivé zrychlení
+c) stejné odstředivé zrychlení
+D) stejnou okamžitou úhlovou rychlost
+185. Velikost momentu síly M vzhledem k ose otáčení kolmé na směr síly F ve
+vzdálenosti rod osy otáčení je rovna
+A) M = Fr
+b) M = Fr/2
+c) M = Fr2
+d) M = Fr/2
+{
+2
+2
+-
+=
+-

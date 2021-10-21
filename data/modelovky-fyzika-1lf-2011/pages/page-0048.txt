@@ -1,0 +1,47 @@
+-1
+133. Vyberte pravdivé tvrzení:
+a) pole okolo bodového náboje není radiální
+B) pole okolo bodového náboje není homogenní
+C) intenzita elektrického pole je vektorová veličina
+d) velikost elektrické síly, kterou na sebe působí 2 bodové náboje je přímo úměrná
+permitivitě prostředí
+234. Označte správné tvrzení:
+A) pro intenzitu elektrického pole užíváme jednotku V.m-
+b) mezi dvěma paralelními, elektricky izolovanými nabitými deskami je radiální elektrické
+pole
+C) elektrické pole okolo bodového náboje není homogenní
+D) velikost elektrické síly, kterou na sebe působí dva bodové náboje, je nepřímo úměrná
+permitivitě prostředí
+135. Označte správné tvrzení:
+a) intenzita elektrického pole je vektor opačného směru ve srovnání s vektorem elektrické
+síly působící na kladný náboj
+B) elektrické pole mezi dvěma izolovanými, rovnoběžnými, elektricky nabitými deskami,
+které nesou stejně velký náboj opačného znaménka, lze prakticky považovat za
+homogenní
+C) okolo bodového elektrického náboje je radiální elektrické pole
+D) elektrické pole okolo bodového elektrického náboje není homogenní
+336. Vyberte pravdivé tvrzení:
+a) intenzita elektrického pole je vektor kolmý na směr vektoru elektrické síly
+B) za prakticky homogenní můžeme považovat elektrické pole mezi dvěma rovnoběžnými,
+izolovanými deskami nabitými stejným nábojem opačného znaménka
+c) pole okolo bodového náboje je homogenní
+D) pole okolo bodového náboje je radiální
+137. Označte správné tvrzení:
+A) podle definice intenzity elektrického pole by bylo možno pro tuto veličinu užít jednotku
+N.C-1
+1) intenzita elektrického pole a elektrická síla působící na kladný náboj jsou vektory
+stejného směru
+©) okolo bodového elektrického náboje je radiální elektrické pole
+d) intenzita elektrického pole je skalární veličina
+338. Uvnitř elektricky nabité koule je elektrický potenciál o = konst # 0. Intenzita
+elektrického pole E uvnitř koule:
+a) E = konst # 0
+B) E= 0
+c) lineárně roste s rostoucí vzdáleností od středu koule
+d) lineárně klesá s rostoucí vzdálenosti od středu koule
+339. Jaká je intenzita elektrického pole ve vakuu ve vzdálenosti 30 cm od bodového
+náboje o velikosti 5 uC?
+a) 5x104 N.C-1
+b) 9x105 N.C-1
+c) 9x106 N.C-1
+D) 5x105 N.C-1

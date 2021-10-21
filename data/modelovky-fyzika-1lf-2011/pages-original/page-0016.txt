@@ -1,0 +1,47 @@
+87. Vyberte nesprávné tvrzení: Při volném pádu ve vakuu rychlost tělesa závisí na
+a) gravitačním zrychlení
+B) jeho hmotnosti
+C) jeho hustotě
+d) čase
+88. Jednotkou tíhového zrychlení v soustavě SI je
+a) m.s-1
+B) m.s-2
+c) m.s
+d) m.s?
+89. Tíhové zrychlení na naší Zemi je zhruba
+a) 1 m.s-2
+B) 10 m.s-2
+c) 100 m.s-2
+d) 1000 m:s-2
+.2
+90. Značí-li m hmotnost a v rychlost, pak velikost hybnosti p hmotného bodu
+vyjádříme jako
+a) p = my?
+B) p = mv
+c) p = mv2/2
+d) p = my-1
+1
+=
+91. Velikost hybnosti tělesa o hmotnosti 10 tun pohybujícího se rychlostí 36 km/hod
+je přibližně
+A) p = 105 kg.m.s-1
+b) p = 106 kg.m.s-1
+c) p = 103 kg.m.s-1
+d) p = 104 kg.m.s-1
+92. Jak velký impuls síly uvedl do pohybu rychlostí 1 m/s původně nehybné těleso
+o hmotnosti 0,5 t?
+a) 50 N.s
+B) 500 N.s
+c) 1000 N.s
+d) 5000 N.S
+93. Hybnost tělesa o hmotnosti 1 tuny činí 104 kg.m.s-1. Jaká je jeho rychlost?
+a) 100 m.s-1
+B) 10 m.s-1
+c) 3,6 km/hod
+D) 36 km/hod
+94. Hybnost tělesa rovnoměrně se pohybujícího rychlostí 36 km/hod činí
+103 kg.m.s-1. Jaká je jeho hmotnost?
+a) 10 kg
+B) 100 kg
+c) 1 tuna
+d) 10 tun

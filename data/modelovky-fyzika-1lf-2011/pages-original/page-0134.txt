@@ -1,0 +1,45 @@
+0
+1002. Při nuceném kmitání oscilátoru
+a) vznikají rázy
+b) oscilátor kmitá vždy s poněkud nižší frekvencí než je jeho vlastní
+c) oscilátor kmitá vždy s frekvencí poněkud vyšší než je jeho vlastní
+D) oscilátor kmitá vždy s frekvencí vnějšího působení
+1003. Vlastnosti soustavy, která nuceně kmitá
+A) nemají vliv na frekvenci kmitání
+b) mají vliv na frekvenci kmitání
+c) neovlivňují amplitudu a fázi nuceného kmitání
+d) určují tlumení
+1004. Které tvrzení je nesprávné? Frekvence nuceného kmitání
+A) závisí na vlastnostech kmitajícího objektu
+B) závisí na hmotnosti soustavy
+c) nezávisí na tuhosti soustavy
+d) závisí na frekvenci působící síly
+1005. Při vynuceném kmitání LC obvodu s vlastní úhlovou frekvencí w. je amplituda
+napětí vynucených kmitů
+a) maximální při úhlové frekvenci oscilátoru w >w.
+b) maximální při úhlové frekvenci oscilátoru w <w.
+C) maximální při úhlové frekvenci oscilátoru w - :w.
+d) minimální při úhlové frekvenci oscilátoru w = W.
+1006. V kmitajícím LC obvodu okamžitý náboj na deskách kondenzátoru
+a) lineárně roste a exponenciálně klesá
+B) je harmonickou funkcí času
+c) je nulový
+d) lineárně klesá a exponenciálně roste
+1007. Které z následujících tvrzení je nesprávné? Okamžité napětí na deskách
+kondenzátoru v kmitajícím LC obvodu
+A) po určitou dobu lineárně roste
+B) po určitou dobu lineárně klesá
+C) je konstantní
+d) je harmonickou funkcí času
+1008. Okamžitý proud v kmitajícím LC obvodu
+a) po určitou dobu lineárně roste
+b) po určitou dobu lineárně klesá
+C) je harmonickou funkcí času
+d) je konstantní
+1009. Značí-li L indukčnost a C kapacitu, je úhlová frekvence w. vlastního kmitání
+oscilačního obvodu dána vztahem
+A) W, = 1/(LC)
+b) w, = 1/(21/(LC))
+c) w. = 1/(LC)
+d) w. = 21/(LC)
+=

@@ -1,0 +1,50 @@
+-
+=
+170. Matematická formulace prvního termodynamického zákona zní
+A) AU = W+Q
+b) AU = W-Q
+c) AU = Q-W
+d) AU = -W-Q
+171. Při adiabatickém ději můžeme přírůstek vnitřní energie soustavy vyjádřit jako
+a) AU = Q
+b) AU = -
+C) AU = W
+d) AU = -W
+472. Při ději, který není spojen s konáním práce, lze přírůstek vnitřní energie
+soustavy AU vyjádřit jako
+a) AU = W
+b) AU = -W
+c) AU = -Q
+D) AU = Q
+473. Vazebná energie molekuly 02 je asi 8,3x10-19 J. Jaká je celková vazebná
+energie 1 mmolu kyslíku? Uvažujte přibližnou hodnotu Avogadrovy konstanty
+6.1023 mol-1.
+a) 200 )
+b) 300 )
+c) 400)
+D) 500
+474. Mosazné těleso o hmotnosti 300 g bylo vloženo do kalorimetru s tepelnou
+kapacitou 100 J.K** obsahujícího 500 g vody o teplotě 20 °C. Po vložení se
+teplota ustálila na 26 °C. Měrná tepelná kapacita vody je 4180 J.kg-1.K», mosazi
+390 J.kg-1.6-1. Teplota tělesa byla přibližně
+a) 50 °C
+b) 100 °C
+C) 130 °C
+d) 180 °C
+475. Kolik molekul chlóru je v tomto plynném halogenu při objemu 4 1, teplotě
+400 K a tlaku 2,49 MPa? Počítejte s přibližnými hodnotami molární plynové
+konstanty 8,3 J. K-2.mol-1 a Avogadrovy konstanty 6.1023mol-?;
+a) 1023
+b) 1,2.1024
+C) 1,8.1024
+d) 2,4.1024
+476. Jaká je přibližně hustota molekul ideálního plynu při tlaku 4 nPa a teplotě 16 °C?
+Pro Boltzmannovu konstantu použijte hodnotu 1,38.10-23 J.K1
+a) 109 m
+-3
+b) 1010 m
+-3
+-3
+m
+c) 1011
+D) 1012 m-3

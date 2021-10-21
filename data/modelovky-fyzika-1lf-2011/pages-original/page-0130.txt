@@ -1,0 +1,45 @@
+971. Superpozicí neizochronních harmonických pohybů o blízkých úhlových
+frekvencích
+a) vzniká harmonický pohyb s větší amplitudou
+b) vzniká harmonický pohyb s menší amplitudou
+c) vzniká složitý harmonický pohyb
+D) vznikají rázy
+972. Mezi dvěma veličinami harmonického pohybu různé frekvence je konstantní
+fázový rozdíl 2kn rad. Pak
+a) mají obě veličiny stejnou fázi
+b) mají obě veličiny opačnou fázi
+c) mají obě veličiny stejnou amplitudu
+D) úvodní tvrzení nemá smysl
+973. Harmonický pohyb mechanického oscilátoru je způsoben sílou F, která
+A) stále směřuje do rovnovážné polohy
+b) stále směřuje z rovnovážné polohy
+C) je přímo úměrná okamžité výchylce
+d) je přímo úměrná kvadrátu výchylky
+974. Úhlová frekvence vlastního kmítání netlumeného mechanického oscilátoru závisí
+A) pouze na vlastnostech oscilátoru, tj. hmotnosti a tuhosti
+b) na velikosti gravitačního zrychlení v daném místě
+c) pouze na hmotnosti oscilátoru
+d) pouze na velikosti vnějších sil
+975. Zrychlení harmonického pohybu je přímo úměrné
+A) výchylce
+b) frekvenci
+c) periodě
+d) gravitačnímu zrychlení
+976. Perioda vlastního kmitání netlumeného mechanického oscilátoru závisí
+A) pouze na vlastnostech oscilátoru, tj. hmotnosti a tuhosti
+b) pouze na hmotnosti oscilátoru
+c) pouze na velikosti vnějších sil
+d) pouze na gravitačním zrychlení
+977. Fázový rozdíl dvou harmonických veličin o stejné frekvenci s počátečními fázemi
+na n/2 činí
+a) TI
+B) 1/2
+c) 1/4
+d) T1/8
+978. Celková energie kmitání mechanického oscilátoru je přímo úměrná
+A) druhé mocnině amplitudy výchylky
+b) amplitudě výchylky
+c) rychlosti vlastního kmitání
+D) druhé mocnině rychlosti vlastního kmitání
+a
+3

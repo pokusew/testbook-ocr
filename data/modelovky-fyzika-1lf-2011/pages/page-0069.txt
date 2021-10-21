@@ -1,0 +1,42 @@
+490. Jaké je látkové množství oxidu siřičitého, který je v nádobě o objemu 3,5 1 při
+tlaku 1,66 MPa a teplotě 77 °C? Při výpočtu použijte přibližné hodnoty molární
+plynové konstanty 8,3 J.K-1.mol-?; při přepočtu °C na K počítejte s celými čísly.
+a) 1 mol
+B) 2 moly
+c) 3 moly
+d) 4 moly
+491. Uvažujte tři typy pohybu molekul plynu (translační, vibrační, rotační). Vyberte
+správnou kombinaci plynu a počtu typů pohybu, které se podílejí na hodnotě
+jeho vnitřní energie v daném stavu:
+a) argon - 2 typy pohybu
+B) helium - 1 typ pohybu
+c) kyslík - 2 typy pohybu
+d) dusík - 1 typ pohybu
+492. Uvažujte tři typy pohybu molekul plynu (translační, vibrační, rotační). Vyberte
+nesprávnou kombinaci plynu a počtu typů pohybu, které se podílejí na hodnotě
+jeho vnitřní energie v daném stavu:
+a) neon - 1 typ
+b) vodík - 3 typy
+c) kyslík - 3 typy
+D) dusík – 1 typ
+493. Křivka vyjadřující Maxwellovo rozdělení molekul plynu podle rychlostí je
+A) křivkou s maximem pro určitou hodnotu rychlosti
+b) monotonně klesající křivkou
+c) monotonně stoupající křivkou
+d) křivkou s minimem pro určitou hodnotu rychlosti
+494. Uved'te správnou jednotku u hodnoty Boltzmannovy konstanty:
+a) )
+b) J. K. kg
+C) J. K-1
+d) J.K
+495. Značí-li k Boltzmannovu konstantu a T termodynamickou teplotu, pak se střední
+kinetická energie molekuly ideálního plynu rovná
+a) (1/2)kt
+B) (3/2)KT
+c) (2/3)KT
+d) (1/2)kT?
+496. Střední kinetická energie molekuly ideálního plynu je
+a) přímo úměrná čtverci termodynamické teploty
+B) přímo úměrná termodynamické teplotě
+c) nepřímo úměrná termodynamické teplotě
+d) nepřímo úměrná čtverci termodynamické teploty

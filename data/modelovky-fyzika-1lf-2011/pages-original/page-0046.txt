@@ -1,0 +1,52 @@
+-2
+317. Těleso o hmotnosti 20 kg spadlo volným pádem z výšky 20 m. Použijte pro
+gravitační zrychlení hodnotu 10 m.s a odpor vzduchu zanedbejte. Jeho
+kinetická energie při dopadu byla
+a) 2 k]
+B) 4 k]
+c) 6 kJ
+d) 8 kJ
+-2
+í
+318. Tělesa spadlo volným pádem z výšky 20 m a jeho kinetická energie při dopadu
+byla 4 kJ. Použijte pro gravitační zrychlení hodnotu 10 m.s-2 a odpor vzduchu
+zanedbejte. Jakou mělo hmotnost?
+a) 10 kg
+B) 20 kg
+C) 30 kg
+d) 40 kg
+319. Těleso spadlo volným pádem a jeho hybnost při dopadu byla 400 kg.m.s-1
+Použijte pro gravitační zrychlení hodnotu 10 m.s-2 a odpor vzduchu zanedbejte.
+Z jaké výšky padalo?
+a) 5 m
+b) 10 m
+c) 20 m
+D) nelze vypočítat
+320. Těleso spadlo volným pádem a jeho kinetická energie při dopadu byla
+4 kJ. Použijte pro gravitační zrychlení hodnotu 10 m.s a odpor vzduchu
+zanedbejte. Z jaké výšky padalo?
+a) 5 m
+b) 10 m
+c) 20 m
+D) nelze vypočítat
+321. Coulombův zákon je formálně podobný
+a) Ohmovu zákonu
+b) zákonu difuze
+C) Newtonovu gravitačnímu zákonu
+d) Archimedovu zákonu
+322. Velikost elektrické síly, kterou na sebe působí dva bodové náboje je
+a) přímo úměrná jejich vzdálenosti
+b) přímo úměrná čtverci jejich vzdálenosti
+c) nepřímo úměrná jejich vzdálenosti
+D) nepřímo úměrná čtverci jejich vzdálenosti
+323. Intenzita elektrického pole je
+a) skalár
+B) vektor stejného směru jako elektrická síla působící na kladný náboj
+c) vektor opačného směru oproti vektoru elektrické síly
+d) vektor kolmý na směr elektrické síly
+324. Pro intenzitu elektrického pole užíváme jednotku
+a) V.m
+b) V-1.m
+C) V.m-1
+d) V-1.m-
+-1

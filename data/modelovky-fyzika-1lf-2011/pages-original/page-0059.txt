@@ -1,0 +1,45 @@
+417. Proces difuze v roztoku můžeme urychlit
+a) snížením teploty
+B) zvýšením teploty
+c) zvýšením tlaku
+d) nemůžeme ovlivnit
+418. Brownův pohyb můžeme pomocí mikroskopu pozorovat na
+a) iontech
+b) malých molekulách
+c) hrubých částicích o velikosti 0,1 mm
+D) částicích zhruba o velikosti 1 um
+419. Střední hodnota druhých mocnin posunutí Brownovy částice je
+A) přímo úměrná době posunutí a teplotě systému
+b) přímo úměrná teplotě a druhé mocnině doby
+c) přímo úměrná době a druhé mocnině teploty
+d) přímo úměrná odmocnině součinu doby a teploty
+420. Které z následujících tvrzení je nesprávné?
+A) soubor částic plazmatu je navenek bud' elektricky pozitivní nebo elektricky negativní
+B) v plazmatu nemohou být elektricky neutrální částice
+c) amorfní látky jsou takové pevné látky, jejichž částice netvoří krystalovou strukturu
+D) většina pevných látek je amorfní povahy
+421. V pevných látkách s pravidelným uspořádáním částic (krystalovou strukturou)
+vykonávají tyto částice převážně pohyb
+a) translační
+B) vibrační
+c) rotační
+d) nevykonávají žádný pohyb
+422. V plazmatu nemohou existovat
+a) volná atomová jádra a volné elektrony
+b) současně kladně nabité částice, záporně nabité částice a molekuly
+c) pouze ionty a elektrony
+D) pouze elektricky neutrální částice
+423. Určete správné tvrzení:
+A) skupenství v prostoru elektrického oblouku (např. při sváření) lze označit jako plazma
+b) atomy v dvouatomové molekule plynu vykonávají pouze dva typy pohybu (translační
+a rotační)
+C) součet nábojů všech částic v daném souboru částic plazmatu (s ohledem na znaménko)
+je nulový
+D) plazma může a nemusí kromě elektricky nabitých částic obsahovat i elektricky neutrální
+atomy či molekuly
+424. Mezi stavové veličiny patří
+A) vnitřní energie
+B) tlak
+c) práce
+D) teplota
+a

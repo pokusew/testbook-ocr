@@ -1,0 +1,56 @@
+Η ων
+134. Značí-li v rychlost a f frekvenci, označte nesprávný vztah pro vyjádření velikosti
+dostředivého zrychlení a, při rovnoměrném pohybu hmotného bodu s úhlovou
+rychlostí w po kružnici o poloměru r:
+A) ay = v/r
+b) ad
+C) ag = wr2
+d) ag = 477?f?r
+135. Značí-li v rychlost a f frekvenci, označte nesprávný vztah pro vyjádření velikosti
+dostředivého zrychlení a, při rovnoměrném pohybu hmotného bodu s úhlovou
+rychlostí w po kružnici o poloměru r:
+a) a = var
+B) ag = wºv
+c) ag = war
+D) ag = 2tefr
+/
+S
+-
+=
+- 2nrf; ad =
+136. Značí-li frekvenci a T periodu, vyberte dvojici, ve které jsou jak velikost rychlosti
+v tak velikost dostředivého zrychlení a při rovnoměrném pohybu hmotného
+bodu s úhlovou rychlostí w po kružnici o poloměru r vyjádřeny správně:
+A) y = 2tr/T; ag = v2/r
+b) v = 4rrf; ag = wv
+c) v=w/r; ag = wa/r
+d) v = 2trT; ag = 41 Tºr
+137. Značí-li frekvenci a T periodu, vyberte dvojici, ve které jsou jak velikost rychlosti
+v tak velikost dostředivého zrychlení a, při rovnoměrném pohybu hmotného
+bodu s úhlovou rychlostí w po kružnici o poloměru r vyjádřeny správně:
+A) v = wr; ad = - 4ntºr/T?
+b) v = 2ttrT; a, = 41f?r
+c) v=
+wy2
+d) v = 2nr/T; ag = v/ra
+138. Značí-li frekvenci a T periodu, vyberte dvojici, ve které jsou jak velikost rychlosti
+v tak velikost dostředivého zrychlení a, při rovnoměrném pohybu hmotného
+bodu s úhlovou rychlostí w po kružnici o poloměru r vyjádřeny správně:
+a) v = 2tr/T; a= v/r
+B) v = 2tarf; ag = wv
+c) v=w/r; ag = w?/r
+d) v = wr; ag = 41?r?/T
+139. Hmotný bod setrvává v pohybu rovnoměrně přímočarém
+A) nepůsobí-li na něj v průběhu pohybu žádná síla
+b) působí-li na něj v průběhu pohybu stálá síla ve směru pohybu
+c) působí-li na něj v průběhu pohybu stálá síla proti směru pohybu
+d) působí-li na něj v průběhu pohybu rovnoměrně proměnná síla
+140. Vztah pro mechanickou práci W = Fs (kde F je síla a s posunutí) platí
+a) obecně
+B) mají-li síla a posunutí stejný směr
+c) je-li směr síly kolmý na směr posunutí
+d) neplatí vůbec
+=
+=
+=
+=
