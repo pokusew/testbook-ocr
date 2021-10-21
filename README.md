@@ -59,7 +59,7 @@ _Note 2:_ Instead of `nodemon`, you can use `node` directly.
    ```bash
    nodemon -r ./register.js scripts/run-ocr.ts \
    testbook-ocr \
-   test/Modelovky_Biologie_1LF_2011.pdfx \
+   test/Modelovky_Biologie_1LF_2011.pdf \
    results/Modelovky_Biologie_1LF_2011
    ```
 
