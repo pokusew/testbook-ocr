@@ -61,19 +61,23 @@ const run = async (bucketName: string, fileName: string, outputPrefix: string) =
 		],
 	};
 
-	console.log('client.asyncBatchAnnotateFiles', request);
+	console.log('operation preview: client.asyncBatchAnnotateFiles =', request);
 
-	console.log('press <enter> key to continue');
+	console.log('press <enter> key to start the operation');
 
 	await waitForKeyPress();
 
+	console.log(`enqueuing operation ...`);
+
 	const [operation] = await client.asyncBatchAnnotateFiles(request);
 
-	console.log(`operation enqueued, name=${operation.name}`, operation.metadata);
+	console.log(`operation enqueued, name = ${operation.name}, metadata =`, operation.metadata);
+
+	console.log(`waiting for the operation to finish ...`);
 
 	const [filesResponse] = await operation.promise();
 
-	console.log('operation finished, filesResponse', filesResponse);
+	console.log('operation finished, filesResponse =', filesResponse);
 
 	const destinationUri = filesResponse.responses?.[0]?.outputConfig?.gcsDestination?.uri;
 
