@@ -80,7 +80,7 @@ before running the OCR using `run-ocr.ts` script.
 
    An example:
    ```bash
-   nodemon -r ./register.js scripts/post-process.ts \
+   nodemon -r ./register.js -i 'data/' scripts/post-process.ts \
    data/modelovky-biologie-1lf-2011/ocr-output/ \
    data/modelovky-biologie-1lf-2011/pages-original/
    ```
@@ -104,7 +104,7 @@ before running the OCR using `run-ocr.ts` script.
 
    An example:
    ```bash
-   nodemon -r ./register.js scripts/parse-questions.ts \
+   nodemon -r ./register.js -i 'data/*/questions/' scripts/parse-questions.ts \
    data/modelovky-biologie-1lf-2011/pages/ \
    data/modelovky-biologie-1lf-2011/questions/
    ```
@@ -120,7 +120,7 @@ before running the OCR using `run-ocr.ts` script.
 
    An example:
    ```bash
-   nodemon -r ./register.js scripts/memorio-transform.ts \
+   nodemon -r ./register.js -i 'data/*/memorio/' scripts/memorio-transform.ts \
    data/modelovky-biologie-1lf-2011/questions/ \
    data/modelovky-biologie-1lf-2011/memorio/
    ```

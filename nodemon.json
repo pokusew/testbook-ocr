@@ -1,11 +1,10 @@
 {
 	"ignore": [
 		"temp/",
-		"data/",
 		"**/test/"
 	],
 	"env": {
 		"NODE_ENV": "development"
 	},
-	"ext": "js,ts"
+	"ext": "js,ts,json,txt"
 }
