@@ -1,0 +1,46 @@
+200) V čisté vodě, kde při teplotě 25 °C je koncentrace [H30+] = [OH-] = 10-7 mol.dm-3, je
+hodnota pH:
+a) 12
+B) 7
+e) 5,5
+d) 14
+201) Neutrální pH je hodnota pH:
+a) 5,5
+B) 7
+d) 14
+c) 0
+202) Pufry:
+A) slouží k udržení hodnoty pH
+B) mění minimálně hodnotu pH po přidání kyseliny či zásady
+c) jsou veškeré roztoky
+d) nenajdeme v našem těle
+283) V žaludku člověka se nachází:
+A) 0,3-0,4 % kyselina chlorovodíková
+b) 0,3- % kyselina sírová
+c) 3-4 % kyselina chlorovodíková
+d) 3-4 % kyselina sírová
+284) Neutralizace je:
+A) reakce mezi kyselinou a zásadou
+b) reakce mezi kyselinou a vodou
+c) reakce mezi zásadou a vodou
+D) exotermická reakce, při níž se uvolňuje teplo
+285) Vede destilovaná voda elektrický proud?
+a) ano, velmi dobře
+B) velmi málo, pokud je zcela čistá
+c) ano, pouze pokud je vystavena slunečnému záření
+D) ano, pokud do ní přisypeme kuchyňskou sůl
+286) Titrace:
+a) je analytická metoda, sloužící ke kvalitativní analýze
+B) je analytická metoda, sloužící ke kvantitativní analýze
+c) slouží ke zjištění struktury chemických látek
+D) slouží ke zjištění koncentrace chemických látek
+287) Indikátor:
+A) mění barvu podle podmínek
+b) v chemii se nevyužívá
+c) nemění barvu ani vlastnosti
+D) je např. fenolftalein, methyloranž
+288) Při acidimetrickém stanovení je titračním činidlem:
+a) zásada
+B) kyselina
+c) methyloranž
+d) voda

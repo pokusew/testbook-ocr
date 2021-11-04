@@ -1,0 +1,43 @@
+-
+611) Počet možných konformací polypeptidového řetězce je velký, ale prakticky je
+omezen:
+A) rigiditou peptidové vazby, která má částečně charakter vazby dvojné
+b) odolností peptidové vazby k hydrolyze
+C) energetickými stavy - řetězec zaujímá konformaci s nejnižší energií
+d) pro konformaci polypeptidového řetězce žádné z uvedených omezení neplatí
+612) Kvartérní struktura:
+A) existuje pouze u proteinů složených z více podjednotek
+b) popisuje nejvyšší úroveň struktury každého proteinu, pokud se nachází v nativní
+konformaci
+C) udává počet a vzájemné vztahy podjednotek v multimerních proteinech
+d) příkladem proteinu s kvartérní strukturou je myoglobin
+613) Denaturace proteinu obvykle znamená:
+A) ztrátu jeho biologické aktivity
+B) ztrátu nativní konformace molekuly proteinu
+c) štěpení peptidových vazeb v polypeptidovém řetězci
+D) disociaci podjednotek
+614) Denaturace proteinu lze dosáhnout:
+A) zvýšením teploty (varem)
+b) snížením teploty (zmražením)
+C) extrémy pH
+d) u hydrofobních polypeptidů působením vody
+615) Proteiny v živých organismech zajišťují:
+A) katalýzu metabolických přeměn
+B) fyzický pohyb
+C) transport přes membrány
+D) strukturu tkání a orgánů
+616) Pro vodné roztoky proteinů platí:
+a) všechny proteiny jsou ve vodě rozpustné
+B) vodné roztoky proteinů jsou analytické disperse
+C) molekuly proteinů jsou tak velké že ve vodném roztoku viditelně rozptylují světlo
+d) molekuly proteinů jsou tak velké že ve vodném roztoku spontánně sedimentují
+617) Želatina, která se přidává do řady potravinářských výrobků, je chemicky:
+a) syntetický škrob
+b) polyvinylchlorid
+c) agar z mořských řas
+D) denaturovaný kolagen
+618) Vyberte pravdivá tvrzení o trávení proteinů:
+a) proteiny z potravy jsou hydrolyzovány působením žaludeční HCI
+B) žaludeční šťáva je tak kyselá že proteiny přijaté v potravě denaturuje
+c) žaludeční proteasa pepsin nejlépe účinkuje při mírně zásaditém pH
+d) v tenkém střevě se resorbují jen esenciální aminokyseliny

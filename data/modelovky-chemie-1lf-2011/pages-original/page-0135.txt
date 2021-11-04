@@ -1,0 +1,43 @@
+1105) U exotermických dějů má hodnota entalpie
+a) kladné znaménko, soustava odevzdává teplo do okolí
+B) záporné znaménko, soustava odevzdává teplo do okolí
+c) kladné znaménko, soustava si ponechává teplo
+d) záporné znaménko, soustava přijímá teplo
+1106) Reakční mechanismus je
+A) sled elementárních reakcí, který v konečném výsledku vede k chemické přeměně
+B) podrobný popis procesu, ve kterém se částice výchozí látky přeorganizují na aktivovaný
+komplex, který se nakonec přemění na výsledné produkty reakce
+c) popis jednotlivých kroků při vícestupňové syntéze
+d) popis procesu, při kterém se z monomerů stává polymer
+1107) Rovnovážná konstanta reakce se se změnou teploty
+a) nemění
+B) mění
+c) nemění, pokud se nemění zároveň i tlak
+d) nemění, pokud se jedná o endotermní reakci
+1108) Jeden mol elektronů je
+a) nesmysl, mol je definován jen pro atomy
+B) 6,022 x 1023 elektronů
+c) taková hmotnost elektronů, kterou má 0,012 kg uhlíku 12C
+d) počet elektronů, které má jakákoli látka v jednom molu
+1109) Entropie je
+A) termodynamická veličina, kterou lze charakterizovat míru neurčitosti nebo
+neuspořádanosti systému
+b) teplo, které přijme soustava, která nekoná žádnou objemovou práci
+c) molární teplo uvolněné rozpadem jednoho gramu látky
+d) pojmenování pro uspořádání menších částí, platí pouze v rámci velké definované
+struktury
+1110) PV=nRT platí pouze
+a) při konstantní teplotě a tlaku pro všechny plyny
+B) pro ideální plyn
+c) pro reakci, ve které jsou všechny složky kapalné
+d) pro hlavní kvantové číslo n = 1 a 2
+1111) Iontová vazba je
+a) kovalentní vazba mezi dvěma atomy s odlišnou elektronegativitou
+B) realizována na principu vzájemné přitažlivosti obráceně nabitých částic
+C) elektrostatická interakce mezi kationtem a aniontem
+d) kovalentní vazba, ve které se uplatňují ionty
+1112) Mezi kovalentní vazby nepatří - vyberte možnosti, kde jsou jen nekovalentní vazby
+a) elektrostatické síly, koordinační vazby, van de Waalsovy síly a vodíkové můstky
+B) elektrostatické interakce a van der Waalsovy síly
+c) vodíkové můstky, van der Waalsovy síly a násobné vazby u nenasycených uhlovodíků
+d) konjugované vazby, vodíkové můstky a van der Waalsovy síly

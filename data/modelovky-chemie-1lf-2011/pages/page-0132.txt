@@ -1,0 +1,45 @@
+1083) První termochemický zákon říká
+a) soustava při reakci uvolňuje nebo spotřebovává tepelnou energii
+b) H = U + PV
+c) reakční teplo určité reakce je stejné jako součet reakčních tepel postupně prováděných
+reakcí, vycházejících ze stejných výchozích látek a končících stejnými produkty
+D) žádný z předešlých výroků v této otázce není správný
+1084) Druhý termochemický zákon říká
+a) soustava při reakci uvolňuje nebo spotřebovává tepelnou energii
+b) reakční teplo určité reakce a reakční teplo téže reakce probíhající za stejných podmínek
+opačným směrem je až na znaménko stejné
+C) reakční teplo určité reakce je stejné jako součet reakčních tepel postupně prováděných
+reakcí, vycházejících ze stejných výchozích látek a končících stejnými produkty
+d) celkové slučovací teplo reakce je vždy nulové
+1085) Jestliže je reakce exotermní, pak platí
+a) ΔΗ > 0
+B) AH< 0
+c) AG > 0
+d) AG < 0
+1086) První termodynamický zákon
+A) nelze sestrojit stroj, který by trvale dodával mechanickou energii, aniž by spotřeboval
+odpovídající množství energie jiného druhu
+b) teplo nemůže při styku dvou těles různých teplot samovolně přecházet z tělesa
+chladnějšího na těleso teplejší
+C) celkové množství energie (všech druhů) izolované soustavy zůstává zachováno
+d) při absolutní nulové teplotě je entropie čisté látky pevného nebo kapalného skupenství
+rovna nule
+1087) Druhý termodynamický zákon
+a) nelze sestrojit stroj, který by trvale dodával mechanickou energii, aniž by spotřeboval
+odpovídající množství energie jiného druhu
+B) teplo nemůže při styku dvou těles různých teplot samovolně přecházet z tělesa
+chladnějšího na těleso teplejší
+c) celkové množství energie (všech druhů) izolované soustavy zůstává zachováno
+D) nelze sestrojit perpetuum mobile druhého druhu
+1088) Třetí termodynamický zákon
+a) nelze sestrojit stroj, který by trvale dodával mechanickou energii, aniž by spotřeboval
+odpovídající množství energie jiného druhu
+B) při absolutní nulové teplotě je entropie čisté látky pevného nebo kapalného skupenství
+rovna nule
+C) čistou pevnou látku nelze konečným pochodem ochladit na absolutní nulovou teplotu
+d) nelze sestrojit perpetuum mobile druhého druhu
+1089) Brönstedova kyselina
+a) je látka, která je schopná přijímat od jiné látky proton
+B) je látka, která je schopná předávat jiné látce proton
+c) je látka s volným elektronovým párem, který může sdílet s jinou látkou
+d) je látka zvyšující koncentraci elektronů v roztoku

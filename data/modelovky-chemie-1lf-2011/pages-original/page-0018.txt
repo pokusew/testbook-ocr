@@ -1,0 +1,43 @@
+135) Aktivační energie reakce:
+A) má vztah k rychlosti chemické reakce
+B) je ovlivněná přítomností katalyzátoru
+c) závisí na reakčním teple
+d) závisí na rovnovážné konstantě
+136) Chemická rovnováha reakce 2 HBr + H2 + Br2 s hodnotou reakčního tepla
+Qm = +70 kJ. mol-? se posune na stranu reaktantu:
+a) zvýšením teploty
+B) snížením teploty
+c) odstraněním H2 z reakční směsi
+d) přidáním HBr do reakční směsi
+137) Osmotický tlak (TT):
+A) závisí na počtu částic v roztoku
+b) je nepřímo úměrný koncentraci rozpuštěných látek
+C) u zředěných roztoků můžeme vyjádřit vztahem: = i.c.R.T
+d) je stejný při různých teplotách
+138) O osmóze platí:
+A) je důležitá při podání injekcí do žíly
+B) při osmóze se zmenšuje koncentrace látek v koncentrovanějším roztoku
+c) pomocí osmózy je možné z vodného roztoku oddělit hemoglobin od NaCl
+d) pokud dáme červené krvinky do roztoku NaCl o koncentraci c = 0,3 mol/l, zůstanou
+nezměněné
+139) Difúze:
+a) je formálně opakem osmózy
+B) je samovolný přechod částic látky z míst s větší koncentrací do míst s menší koncentrací
+c) je přechod rozpouštědla přes polopropustnou membránu
+d) je formálně opakem dialýzy
+140) Rozpouštění:
+A) závisí na chemické struktuře rozpouštěné látky, na typu rozpouštědla a na teplotě
+b) kapalných látek ve vodě se vyjadřuje konstantami rozpustnosti
+c) nezávisí na teplotě
+D) u plynů závisí i na tlaku plynu nad roztokem
+141) Mírou rozpustnosti látky je:
+A) koncentrace jejího nasyceného roztoku při daných podmínkách
+b) hodnota jejího solvatačního tepla
+c) množství tepla, které se uvolní při rozpouštění
+d) množství látky, které zůstane nerozpuštěné v nasyceném roztoku
+142) Směšovací rovnici:
+a) můžeme vyjádřit vztahem: C(A) = m(A)/V x M(A)
+b) můžeme použít pro výpočet pH pufrů po jejich přípravě ze dvou základních roztoků
+c) používáme na výpočet hodnot ionizačních konstant aminokyselin
+D) používáme na výpočet složení výsledného roztoku po smísení dvou roztoků s různou
+koncentrací

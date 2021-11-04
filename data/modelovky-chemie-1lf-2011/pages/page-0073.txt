@@ -1,0 +1,45 @@
+603) Obojetný ion (amfoion):
+A) je např. NH3-CH2-C00-
+b) nemůže existovat
+C) je každá struktura, která je zároveň kationtem i aniontem
+d) je např. 100C-C00-
+604) Jako N-konec polypeptidového řetězce označujeme:
+A) zač řetězce s volnou aminoskupinou
+b) začátek řetězce pokud první aminokyselina zůstává neznámá
+c) začátek řetězce s volným karboxylem
+d) začátek nově syntetizovaného peptidu pokud první aminokyselina je N-formyl-methionin
+605) Tzv. biuretovou reakci dávají proteiny a jejich štěpné produkty pokud obsahují
+alespoň dvě peptidové vazby. Dle této informace je možno předpokládat, že
+biuretová reakce bude pozitivní i pro:
+a) dipeptid
+B) tripeptid
+C) pentapeptid
+D) dekapeptid
+606) Máme syntetický peptid o struktuře: Ala-Gly-Leu-Ile-Ile-Ala-Val-Ile. Na základě této
+primární struktury lze předpovědět že peptid bude:
+a) výborně rozpustný ve vodě
+b) výrazně kyselý
+c) výrazně zásaditý
+D) ve vodě prakticky nerozpustný
+607) Máme syntetický peptid o struktuře: Ala-Arg-Lys-Arg-Arg-Gln-Lys-His. Na základě
+této primární struktury lze předpovědět že peptid bude:
+A) výborně rozpustný ve vodě
+b) výrazně kyselý
+C) výrazně zásaditý
+d) ve vodě prakticky nerozpustný
+608) Která z následujících vazebných interakcí, které pomáhají stabilizovat konformaci
+proteinu, má charakter vazby kovalentní:
+a) vodíkové můstky
+b) van der Waalsovy síly
+C) disulfidové můstky
+d) žádná z uvedených možností
+609) Disulfidové můstky ve struktuře proteinu tvoří aminokyselina:
+a) prolin
+b) methionin
+C) cystein
+d) cytosin
+610) V rámci sekundární struktury proteinu může polypeptidový řetězec nabývat tvaru:
+a) antiparalelní dvojšroubovice
+B) šroubovice označené jako a-helix
+C) skládaného listu
+d) vlákna nataženého do přímky

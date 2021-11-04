@@ -1,0 +1,46 @@
+1013) V periodické soustavě prvků jsou atomy seřazeny podle
+a) podle struktury jádra
+B) podle rostoucích atomových čísel prvků
+C) podle rostoucí relativní atomové hmotnosti prvků, s několika výjimkami
+d) podle klesajícího mocenství
+1014) Pro atomy vzácných plynů, kromě helia, v základním stavu platí
+a) všechny mají plně obsazenou pouze valenční vrstvu elektronů
+B) ve všech obsazovaných orbitalech mají plný (maximální) počet elektronů
+c) jejich mocenství je pouze osm
+D) mají analogickou vnější elektronovou vrstvu, ve které je vždy osm elektronů
+1015) Helium
+a) je plynný prvek, který má ve vnější elektronové vrstvě jeden elektron v orbitale s a jeden
+v orbitale p
+B) má dva elektrony v orbitalu s
+c) má jeden valenční elektron
+D) může vzniknout jadernou fúzí ze dvou atomů vodíku H
+1016) Mezi vnitřně přechodné prvky
+A) patří lanthanoidy
+B) patří aktinoidy
+C) patří transurany
+d) patří prvky, jejichž dvě vnější slupky tvoří pouze forbitaly
+1017) První perioda Mendělejevovy periodické tabulky prvků obsahuje
+a) vodík
+B) vodík a helium
+c) alkalické kovy
+d) vodík a alkalické kovy
+1018) Ve třetí periodě Mendělejevovy periodické tabulky prvků nalezneme
+a) Be, Mg, Ca, Sr, Ba, Ra
+b) B, Al Ga, In, Tl
+C) Na, Mg, Al, Si
+D) Si, P, S, CI
+1019) Prvky první periody
+A) mají zaplněnou jedinou vrstvu K
+b) mají zaplněné s a d orbitaly
+c) končí vzácným plynem s konfigurací vnější vrstvy ns? np
+d) nekončí jako jediné v tabulce vzácným plynem
+1020) Mezi přechodné prvky patří
+a) kovy i nekovy, musí mít ale elektrony v orbitalech d
+b) pouze kovy, ve valenční sféře mají pouze orbitaly f
+c) kovy, nemají nikdy zaplněné forbitaly
+D) patří také prvky v řadě mezi 21Sc-30Zn
+1021) Najděte správné výroky
+a) prvky zařazené v B periodách se označují jako přechodné
+B) všechny lanthanoidy mají zaplněné f orbitaly
+C) všechny aktinoidy mají zaplněné f orbitaly
+d) spinová magnetická čísla ve zcela zaplněných atomových orbitalech jsou stejná

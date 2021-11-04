@@ -1,0 +1,55 @@
+1090) Brönstedova zásada
+A) je látka, která je schopná přijímat od jiné látky proton
+b) je látka, která je schopná předávat jiné látce proton
+C) je látka s volným elektronovým párem, který může sdílet s jinou látkou
+d) je látka zvyšující koncentraci elektronů v roztoku
+1091) Vacidobazické rovnovážné reakci popsané rovnicí
+CH3COOH + H20 H30* + CH3C00
+Jsou tyto konjugované páry (ve smyslu Brönstedovy teorie kyselin a zásad)
+a) kyselina octová a voda (levá strana rovnice)
+b) kation H30+ a anion CH3C00- (pravá strana rovnice)
+C) kyselina octová a anion CH3C00-
+D) voda a kation H30+
+1092) Vacidobazické rovnovážné reakci popsané reakcí:
+CH3COOH + H20 H30* + CH3C00-
+je rovnovážná konstanta Kc vyjádřena vzorcem (koncentrace v hranatých
+závorkách představují rovnovážné koncentrace)
+[CH3COOH][H20]
+a)
+[CH, C00-][H3O+]
+[CH3C00-][H3O+]
+b)
+[CH, COOH]
+[CH2C00-][H3O+]
+C)
+[CH3COOH][H20]
+[H3O+][H20]
+d)
+[CH3COO-[CH3COOH]
+1093) Zacidobazické rovnovážné reakce popsané reakcí:
+CH3COOH + H20 H30* + CH3C00-
+můžeme vyjádřit disociační konstantu kyseliny octové K, výrazem
+[CH3COOH][H20]
+a)
+[CH2 C00-][H20+]
+[CH3COO-][H3O+]
+B)
+[CH3COOH]
+[CH3COO-][H20+]
+c)
+[CH2COOH][H2O]
+[H3O+][H20]
+d)
+[CH, C00-][CH3COOH]
+1094) Iontový součin autoprotolýzy vody, tj. reakce 2H20 H30* + oHº má při 25°C
+přibližně hodnotu (předpokládáme, že roztok se chová ideálně)
+a) 1014
+B) 10-14
+c) 10-7
+d) 1
+1095) Pro kyselé vodné roztoky platí
+a) [H3O+] <[OH-]
+B) [H3O+] > [OH-]
+c) [H30+] = [OH-]
+d) [H3O+] = [OH-]
+<

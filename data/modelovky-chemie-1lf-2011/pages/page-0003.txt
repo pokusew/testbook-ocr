@@ -1,0 +1,45 @@
+10) Prvek je
+A) chemicky čistá látka
+B) tvořen atomy
+c) tvořen atomy se stejným nukleonovým číslem
+D) tvořen atomy se stejným atomovým číslem
+11) Prvek je:
+A) volný atom (například He)
+B) atom vázaný v molekule (například Cl2)
+C) atom přítomný v krystalové struktuře (diamant)
+d) žádná odpověď není správná
+12) Sloučenina obsahuje:
+a) různé molekuly tvořené ze dvou nebo více různých atomů
+b) různé molekuly tvořené atomy jednoho prvku
+C) stejné molekuly tvořené ze dvou nebo více různých atomů
+d) stejné molekuly tvořené atomy jednoho prvku
+13) Sloučenina je:
+A) CO2
+b) Cl2
+C) Naci
+d) H2
+14) Pořadí a způsob jakým jsou atomy v molekule vázány je vyjádřen vzorcem:
+a) sumárním
+b) empirickým
+c) stechiometrickým
+D) konstitučním
+15) Prostorové uspořádání atomů nebo iontů v molekule je vyjádřeno vzorcem:
+a) sumárním
+B) geometrickým
+c) stechiometrickým
+d) konstitučním
+16) Vaznost atomu:
+A) určuje počet kovalentních vazeb vycházejících z atomu prvku ve sloučenině
+B) odpovídá počtu vazebných elektronových párů, které atom sdílí s jinými atomy
+c) lze odvodit z elektronové konfigurace atomu v základním stavu
+d) se vždy řídí podle oktetového pravidla
+17) Která z uvedených sloučenin nemůže existovat?
+a) PC13
+b) PC15
+c) NC13
+D) NCI
+18) Jednotkou látkové koncentrace je:
+a) mol.dm3
+b) g.mol-1
+C) mol.dm-3
+d) g.mol

@@ -1,0 +1,50 @@
+=
+205) Jaké látkové množství síranu vápenatého vzniklo při reakci 3 kg chloridu
+vápenatého s kyselinou sírovou? Počítejte se stoprocentní výtěžností reakce.
+Ar(Ca) = 40, Ar(Cl) = 35, Ar(S) = 32, Ar(0) = 16
+A) 27,27 mol
+b) 40,12 mol
+c) 15,16 mol
+d) 19,65 mol
+206) Kolik chlorovodíku bylo uvolněno při reakci 10 kg chloridu vápenatého s kyselinou
+sírovou při úplné konverzi chloridu? Ar(Ca) = 40, Ar(Cl) = 35, Ar(S) = 32,
+Ar(0) = 16, Ar(H) = 1
+a) 6645 g
+b) 7646g
+c) 6846g
+D) 6545 g
+207) Jaký je objem chlorovodíku, který vznikne při reakci 30 mol chloridu vápenatého
+s kyselinou sírovou? Počítejte se stoprocentní konverzí reakce a podmínkami,
+při kterých 1 mol ideálního plynu zaujímá 22, 4 dm3. Ar(Ca) = 40, Ar(CI) = 35,
+Ar(S) = 32, Ar(0) = 16, Ar(H) = 1
+a) 9384 dm3
+b) 789 dm3
+C) 1,344 m3
+d) 1,838 dm3
+208) Jaký je objem chlorovodíku, který vznikne při reakci 3,3 kg chloridu vápenatého
+s kyselinou sírovou? Počítejte se stoprocentní konverzí reakce a podmínkami,
+při kterých 1 mol ideálního plynu zaujímá 22,4 dm3. Ar(Ca) = 40, Ar(CI) = 35,
+Ar(S) = 32, Ar(0) = 16, Ar(H) = 1
+a) 9384 dm3
+b) 789 dm3
+C) 1,344 m3
+d) 1,838 dm3
+209) Jaký bude objem vodíku, který vznikne reakcí 8 molů sodíku s vodou? Uvažujte
+podmínky, při kterých 1 mol ideálního plynu zaujímá 22,4 dm3.
+A) 89,6 dm3
+b) 98,6 dm3
+c) 68,9 dm3
+d) 96,8 dm3
+210) Jaký bude objem vodíku, který vznikne reakcí 92 g sodíku s vodou? Uvažujte
+podmínky, při kterých 1 mol ideálního plynu zaujímá 22,4 dm3. Ar(Na) = 23
+a) 0,448 m3
+b) 448 dm3
+c) 4,48 dm3
+D) 44,8 dm3
+211) Při reakci sodíku s vodou vzniklo 1000 dm3 vodíku. Kolik sodíku bylo použito
+při této reakci? Uvažujte podmínky, při kterých 1 mol ideálního plynu zaujímá
+22,4 dm.
+a) 79,28 mol
+B) 89,28 mol
+c) 99,82 mol
+d) 44,6 mol

@@ -1,0 +1,46 @@
+1054) Obsazování jednotlivých orbitalů elektrony, neboli elektronová konfigurace atomu
+v základním stavu se řídí následujícími principy
+A) Pauliho vylučovací princip
+c) Heisenbergův princip neurčitosti
+C) výstavbový princip - princip minimální energie
+D) Hundovo pravidlo
+1055) Pauliho vylučovací princip pro obsazování jednotlivých orbitalů elektrony
+v základním stavu zní
+a) každý orbital, charakterizovaný třemi kvantovými čísly n, l, m může být obsazen nejvýše
+jedním elektronem. Takto obsazené orbitaly musí obsahovat elektrony s odlišným
+čtvrtým kvantovým číslem - spinově magnetickým kvantovým číslem
+B) každý orbital, charakterizovaný třemi kvantovými čísly n, l, m může být obsazen nejvýše
+dvěma elektrony, které se liší čtvrtým kvantovým číslem – spinově magnetickým
+kvantovým číslem
+c) každý orbital, charakterizovaný třemi kvantovými čísly n, 1, m může být obsazen nejvýše
+třemi elektrony, které se liší čtvrtým kvantovým číslem - spinově magnetickým
+kvantovým číslem
+d) každý orbital, charakterizovaný třemi kvantovými čísly n, l, m může být obsazen nejvýše
+čtyřmi elektrony, které se liší čtvrtým kvantovým číslem - spinově magnetickým
+kvantovým číslem
+1056) Vyberte správný/é výrok/y
+A) orbitaly se stejnou energií – tzv. degenerované orbitaly - se obsazují nejdříve po jednom
+elektronu. Spinová magnetická kvantová čísla elektronů v takto zpola zaplněných
+orbitalech jsou stejná
+b) orbitaly se stejnou energií – tzv. degenerované orbitaly - se obsazují nejdříve po jednom
+elektronu. Spinová magnetická kvantová čísla elektronů v takto zpola zaplněných
+orbitalech jsou různá
+C) elektrony, obsazují energetické hladiny tak, aby měl ve výsledku systém co nejnižší
+energii
+d) ani jedna z variant a) až c) nejsou vyjádřením výstavbového principu
+1057) Hundovo pravidlo pro obsazování jednotlivých orbitalů elektrony v základním
+stavu zní
+A) orbitaly se stejnou energií – tzv. degenerované orbitaly - se obsazují nejdříve po jednom
+elektronu. Spinová magnetická kvantová čísla elektronů v takto zpola zaplněných
+orbitalech jsou stejná
+b) orbitaly se stejnou energií – tzv. degenerované orbitaly - se obsazují nejdříve po jednom
+elektronu. Spinová magnetická kvantová čísla elektronů v takto zpola zaplněných
+orbitalech jsou různá
+c) elektrony, které v atomu s rostoucím protonovým číslem přibývají, obsazují hladiny tak,
+aby měl ve výsledku systém co nejnižší energii
+d) ani jedna z variant a) až c) nejsou vyjádřením Hundova pravidla
+1058) Elektronegativní může být
+a) molekula
+B) atom
+c) molekula i atom
+d) jakákoliv látka, která přitahuje elektrony

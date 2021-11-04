@@ -1,0 +1,49 @@
+=
+190) Při reakci 30 g zinku s kyselinou chlorovodíkovou vznikne x gramů chloridu
+zinečnatého. Jaká je hodnota x? Počítejte se stoprocentní konverzí reakce.
+Ar(Zn) = 65, Ar(CI) = 35
+a) x=50g
+B) X=62 g
+c) X=30 g
+d) x=72 g
+199) Jaké množství NaCl vznikne rozkladem 318 g uhličitanu sodného kyselinou
+chlorovodíkovou? Počítejte se stoprocentní konverzí reakce. Mr(Na2CO3) = 106,
+Ar(CI) = 35, Ar(Na) = 23
+A) 348 g
+b) 174 g
+c) 348 mg
+d) 328 g
+200) Jaké množství CO2 vznikne rozkladem 318 g uhličitanu sodného kyselinou
+chlorovodíkovou? Počítejte se stoprocentní konverzí reakce. Mr(Na2CO3) = 106,
+Ar(Na) = 23, Ar(C) = 12
+a) 105 mg
+b) 85 mg
+C) 132 g
+d) 15 g
+201) Kolik vody je obsaženo v 15 g pentahydrátu síranu měďnatého? Mr(CuSO4) = 160,
+Ar(0) = 16
+a) 10,8 g
+b) 1080 mg
+c) 2,9 g
+D) 5,4 g
+202) Jaké látkové množství zinku musíte přidat do HCl, aby vzniklo 100 g chloridu
+zinečnatého? Počítejte se 100% konverzí reakce. Ar(Zn) = 65, Ar(CI) = 35
+A) 0,74 mol
+b) 1,48 mol
+c) 0,37 mol
+d) 74 mmol
+203) Jaké množství sacharosy musíte podat pacientovi, aby mu při hydrolýze celého
+množství tohoto cukru bylo dodáno 30 g fruktosy? Mr(sacharosa) = 342,
+Mr(glukosa) = 180
+a) 63 g
+B) 57 g
+c) 60g
+d) 65 g
+204) Při reakci chloridu vápenatého s kyselinou sírovou vzniklo 100 g síranu
+vápenatého. Výtěžnost reakce byla 100 %. Kolik chloridu vápenatého vstoupilo
+do reakce? Ar(Ca) = 40, Ar(CI) = 35, Ar(S) = 32, Ar(0) = 16
+a) 40,9 g
+b) 60,3 g
+c) 70,5g
+D) 80,8 g
+=

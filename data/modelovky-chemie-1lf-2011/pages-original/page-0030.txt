@@ -1,0 +1,49 @@
+a
+228) Aktivovaný komplex:
+A) vzniká při přibližování molekul k sobě a oslabování vazeb uvnitř nich
+b) vzniká pouze v přítomnosti katalyzátoru
+c) vzniká po absorpci záření reaktantem
+d) je komplex reaktantu s radioaktivním izotopem
+229) Katalyzátor:
+A) způsobí, že reakce probíhá jiným mechanismem
+B) způsobí, že v průběhu reakce vznikají jiné meziprodukty
+C) stejnou měrou urychlí dopřednou i vratnou reakci
+d) zvýší rovnovážnou konstantu
+230) Uvažujme děj, který probíhá v pevné uzavřené nádobě. Přes stěny nádoby se může
+předávat teplo. Takový děj je nutně:
+a) izotermický
+b) izobarický
+C) izochorický
+d) adiabatický
+231) Uvažujme děj, který probíhá v nádobě uzavřené volně pohyblivým pístem, v okolí
+nádoby je konstantní tlak. Přes stěny nádoby se může předávat teplo. Takový děj
+je nutně:
+a) izotermický
+B) izobarický
+c) izochorický
+d) adiabatický
+232) Uvažujme děj, který probíhá v nádobě izolované od okolí, aby nemohlo docházet
+k výměně tepla. Takový děj je nutně:
+a) izotermický
+b) izobarický
+c) izochorický
+D) adiabatický
+233) Uvažujme děj, který probíhá v nádobě umístěné ve vodní lázni. Teplota lázně je
+udržována na stálé hodnotě. Obsah nádoby je dobře promícháván, takže jeho
+teplota je stejná jako teplota lázně. Takový děj je nutně:
+A) izotermický
+b) izobarický
+c) izochorický
+d) adiabatický
+234) Reakční teplo lze vypočítat jako:
+A) součet slučovacích tepel reakčních produktů zmenšený o součet slučovacích tepel
+výchozích látek
+B) součet spalných tepel výchozích látek zmenšený o součet spalných tepel reakčních
+produktů
+c) součet slučovacích a spalných tepel reakčních produktů
+d) součet spalných tepel reakčních produktů zmenšený o součet jejich slučovacích tepel
+235) Exotermické skladné reakce, tj. reakce, jejichž AH<0 a AS > 0:
+A) mohou z termodynamického hlediska vždy probíhat samovolně
+b) nemohou probíhat samovolně
+c) mohou z termodynamického hlediska probíhat samovolně za vhodné teploty
+d) se v přírodě nevyskytují

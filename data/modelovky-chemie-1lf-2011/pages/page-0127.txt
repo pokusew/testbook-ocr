@@ -1,0 +1,45 @@
+1046) Ionizační energie v řadě Li, Na, K, Rb, Cs
+a) klesá, protože roste počet elektronů, které jsou ve vnějších slupkách atomu a tyto shodně
+nabité části se navzájem odpuzují
+b) stoupá, protože roste počet elektronů, které jsou ve vnějších slupkách atomu a tyto
+shodně nabité části se navzájem odpuzují
+C) klesá, protože roste atomový poloměr a tím přitažlivá síla jádra
+d) stoupá, protože roste atomový poloměr a tím přitažlivá síla jádra
+1047) Vyberte správnou/é definici/definice. Orbital je
+a) označení pro dráhu valenčního elektronu
+b) dráha elektronu, která může být např. kruhová
+C) prostor, v němž je v okolí jádra nejpravděpodobnější výskyt elektroru
+d) druh nebo stav elektronu
+1048) Vazebnou energií nazýváme
+A) energii, která je nutná k rozštěpení dané vazby
+B) energii, která se uvolní při vzniku vazby
+c) energii, která je potřeba k vytvoření jednoho molu sloučeniny
+d) energii, která je potřeba k přechodu do excitovaného stavu
+1049) V molekule NH4Cl nalezneme vazby
+a) kovalentní nepolární
+B) kovalentní polární
+C) iontové
+d) kovové
+1050) Vznik chemické vazby mezi dvěma atomy
+A) je vždy spojen s uvolněním energie
+b) je někdy spojen s uvolněním, někdy se spotřebou energie
+C) je založen na sdílení elektronů
+d) je založen na sdílení elektronů nebo přeskupení protonů
+1051) Excitovaný stav je
+a) stav, který je schopen uchovávat energii pro pozdější použití, např. ATP je excitovaným
+stavem ADP
+B) je fyzikální jev, při kterém jsou elektrony přeneseny na vyšší energetickou hladinu než je
+jejich normální hladina
+c) je stav, kdy se molekula nachází ve svém energetickém maximu, lze toho dosáhnout
+dodáním energie teplem
+d) stav molekuly, kdy se extrémně zrychlí Brownův pohyb částic
+1052) Elektronová konfigurace 2s 2p² patří
+A) excitovanému stavu boru
+b) základnímu stavu boru
+c) excitovanému stavu uhlíku
+d) základnímu stavu uhlíku
+1053) Stav atomu o nejnižší energii se nazývá
+A) základní
+b) primární
+c) 1. excitovaný
+d) neaktivní

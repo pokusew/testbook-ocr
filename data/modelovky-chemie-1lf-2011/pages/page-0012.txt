@@ -1,0 +1,45 @@
+BO) Halogeny:
+a) všechny, vyjma astatu, nabývají oxidačního stavu -1 až +VII
+b) všechny soli halogenvodíků jsou dobře rozpustné ve vodě
+C) jsou silně jedovaté, leptají sliznice
+d) všechny velice ochotně reagují s vodou
+017) Vodík:
+a) jako jediný prvek nikdy nemá v atomovém jádře neutron
+B) je významné redukční činidlo
+C) při vyšších teplotách oxiduje alkalické kovy
+d) je to nejrozšířenější prvek na Zemi
+88) Beketovova řada kovů:
+A) je seřazená dle hodnot jejich standardního elektrodového potenciálu
+b) obsahuje pouze kovy, které mají za pokojové teploty pevné skupenství
+c) neobsahuje vodík
+D) poskytuje informace především o oxidačně-redukčních vlastnostech kovů
+89) Redoxní potenciál:
+a) nabývá pouze kladných hodnot
+b) nabývá pouze záporných hodnot
+C) nabývá kladných i záporných hodnot
+d) za žádných okolností není roven nule
+90) Jednotkou elektrodového potenciálu je:
+A) volt
+b) joule
+c) kalorie
+d) watt
+91) Termodynamická teplota:
+A) nabývá kladných hodnot
+b) nabývá kladných i záporných hodnot
+C) nabývá pouze kladných hodnot a nuly
+d) je exponenciální funkcí tzv. absolutní teploty
+92) V soustavě SI se termodynamická teplota se vyjadřuje v:
+A) Kelvinech
+b) stupních Kelvina
+c) stupních Celsia
+d) stupních Fahrenheita
+93) Skleněná elektroda:
+A) je typ iontově selektivní elektrody
+B) je elektroda určená především pro měření pH
+c) je nejběžnější typ referentní elektrody
+d) slouží výhradně pro měření koncentrace chloridových iontů
+94) Elektromotorické napětí skleněné elektrody:
+A) je ovlivněno aktivitou iontů měřeného roztoku
+B) je ovlivněno koncentrací iontů měřeného roztoku
+C) je ovlivněno teplotou měřeného roztoku
+d) není závislé na aktivitních koeficientech iontů měřeného roztoku

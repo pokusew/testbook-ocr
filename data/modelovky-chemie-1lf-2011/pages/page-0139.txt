@@ -1,0 +1,48 @@
+X
+1138) Součin rozpustnosti síranu barnatého ve vodě je 1,5x10-9 a sádry, za stejných
+podmínek, je 3x10-5.S použitím této informace vyberte správné/správná tvrzení
+A) síran barnatý je ve vodě méně rozpustný než sádra
+b) sádra je ve vodě méně rozpustná než síran barnatý
+C) síranové ionty můžeme srážet rozpustnými solemi barya (např. chloridem barnatým)
+d) vápenaté ionty můžeme dokázat reakcí s jakýmkoli síranem
+1139) Hodnota pH vodného roztoku závisí na
+a) bodu varu a koncentraci kyseliny
+B) na teplotě, koncentraci a sytnosti kyseliny
+c) na koncentraci a sytnosti, ne na teplotě
+D) na koncentraci H30+ iontů v roztoku
+1140) Amfoterní látka je taková, která
+a) je bazická v bazickém a kyselá v kyselém prostředí
+b) reaguje s kyselinou na sůl a s bazí na kyselinu
+C) může reagovat kysele nebo zásaditě
+D) poskytuje kationt nebo aniont
+1141) Iontový součin vody
+A) má za standardních podmínek hodnotu přibližně 10-14
+b) má v čitateli koncentraci produktů a ve jmenovateli výchozích látek
+c) je dán vztahem Ky = [H20] * [H20]
+D) popisuje autoprotolýzu vody
+1142) Která z následujících látek představuje binární sloučeninu?
+a) síran draselný
+B) hydrid draselný
+c) hydroxid draselný
+d) kyanid draselný
+1143) Který vzorec patří ke sloučenině s názvem oxalát sodný?
+a) CH3COONa
+b) HCOONa
+c) CH3ONa
+D) Na2C204
+1144) Kolik je numerický součet všech koeficientů ve správně vyčíslené rovnici
+Al + 0 2 = Al203? K vyčíslení použijte pouze nejmenší možná celá čísla.
+A) 9
+b) 7
+c) 12
+d) 18
+1145) Kolik atomů celkem obsahuje sloučenina se vzorcem CuSO4 * 5H20
+a) 6
+b) 9
+c) 17
+D) 21
+1146) Kolik atomů obsahují 2 moly niklu (rel. atomová hmotnost niklu je 58,9)?
+a) 58,9
+b) 117,8
+C) 1,2 x 1024
+d) 6,02 x 1023

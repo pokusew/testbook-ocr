@@ -1,0 +1,48 @@
+95) Tvrzení,energie může existovat nezávisle na hmotě“:
+a) je zcela správné
+b) je správné, ale jen za určitých okolností
+C) je nesprávné
+d) nelze posoudit
+96) Mezi energií vlnění a jeho frekvencí existuje:
+a) nepřímá úměra
+B) přímá úměra
+c) složitější závislost
+d) žádný explicitní vztah mezi nimi není
+97) Energie ultrafialového záření je oproti energii infračerveného záření:
+A) větší
+b) menší
+c) záleží na dalších proměnných systému
+d) stejná
+98) Pro posouzení samovolnosti reakce je zcela postačující informace o:
+a) exotermnosti reakce
+b) endotermnosti reakce
+c) změně entalpie v průběhu reakce za konstantní teploty a tlaku
+D) změně Gibbsovy energie v průběhu reakce za konstantní teploty a tlaku
+99) Množství vznikajících finálních produktů v ideální chemické reakci lze zvýšit:
+A) přidáváním výchozích látek
+B) odebíráním produktů z reakce
+C) v plynném skupenství zvýšením tlaku, pokud je počet molů vznikající látky menší než
+počet molů výchozích látek
+d) v kapalném a pevném skupenství snížením tlaku, pokud je počet molů vznikající látky
+větší než počet molů výchozích látek
+100) Solení chodníků v zimě se provádí především proto, aby:
+a) hygroskopická sůl na sebe navázala vodu
+b) sůl pokryla plochu souvislou vrstvou a neumožnila přilnutí vrstvy ledu k asfaltovému
+povrchu
+C) rozpuštěná sůl snížila bod tuhnutí vody
+d) se v zemích vzdálených od moře při následném tání ze soli odpařil jód, který je potřebný
+pro zdraví populace
+101) Pokud poměr výchozích látek a produktů dosáhl termodynamické rovnováhy,
+probíhá reakce:
+A) zleva doprava
+B) zprava doleva
+c) neprobíhá žádná reakce
+D) probíhá oběma směry stejnou rychlostí
+102) Poranění vzniklá působením vodní páry o teplotě 100°C za normálního tlaku
+v porovnání s poraněními vzniklými působením stejného množství kapalné vody
+o stejné teplotě jsou:
+a) stejná
+b) mnohem menší
+C) mnohem větší
+d) nelze posoudit, protože kapalná voda za této teploty již neexistuje
+a

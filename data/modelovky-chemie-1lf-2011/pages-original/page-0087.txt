@@ -1,0 +1,47 @@
+720) Atom je popsán protonovým (atomovým) číslem, které udává
+A) pouze počet protonů
+b) součet protonů a elektronů
+c) součet protonů a neutronů
+d) součet protonů, neutronů a elektronů
+721) Počet protonů v atomu je shodný s počtem
+a) neutronů
+B) elektronů
+c) neutronů plus elektronů
+d) neutronů minus elektronů
+722) Orbital je
+a) místo, kde se nachází největší hustota elektronů kovalentní vazby mezi dvěma atomy
+B) vlnová funkce
+C) vyjádření popisu chování elektronu v atomu
+d) vyjádření chování každé částice v atomu
+723) V organické chemii mají největší význam orbitaly (vyznačené tučně)
+a) pad
+b) daf
+C) sap
+d) paf
+724) Elektronová konfigurace základního stavu vodíku je
+A) 1s1
+b) 1s2
+c) 1s+ pro izotop 1H a 1s? pro deuterium
+d) 1s4 pro izotop ‘H a 1s? pro deuterium a 1s²2p- pro tritium
+725) Která z pravidel skutečně popisují uspořádání atomu s nejnižší energií,
+tj. elektronovou konfiguraci v základním stavu atomu
+A) nejprve se zaplňují orbitaly s nejnižší energií
+b) nejprve se zaplňují všechny orbitaly s, potom orbitaly pad
+C) každý orbital je obsazen maximálně dvěma elektrony, tyto elektrony mají opačný spin
+D) jsou-li k dispozici dva orbitaly, které jsou neobsazené a mají stejnou energii, pak je každý
+z nich obsazován jedním elektronem a oba tyto elektrony mají stejný spin
+726) Uhlík má
+a) čtyři elektrony a konfigurace jeho základního stavu je 1s? 2s?
+b) pět elektronů a konfigurace jeho základního stavu je 1s? 2s? 2p1
+C) šest elektronů a konfigurace jeho základního stavu je 182 2s²2p2
+d) sedm elektronů a konfigurace jeho základního stavu je 1s? 2s²2p3s1
+727) Kolik elektronů má ve vnější elektronové slupce draslík?
+a) žádný
+B) jeden
+c) dva
+d) více než 3
+728) Kolik elektronů má ve vnější elektronové slupce hořčík?
+a) jeden
+B) dva
+c) tři
+d) jako čistý kov nemá žádný

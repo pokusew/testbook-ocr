@@ -1,0 +1,45 @@
+a
+1059) Pevnost chemické vazby se hodnotí podle
+a) počtu elektronů, které jsou v dané vazbě sdíleny
+b) rozdílu elektronegativit atomů, mezi kterými vazba existuje
+C) energie potřebné k jejímu rozštěpení
+d) hodnoty vlnové funkce molekulárního orbitalu
+1060) O kovalentní vazbě platí
+A) je založena na sdílení elektronů (tj. na překryvu atomových orbitalů), vzájemně vázaných
+atomů
+B) je založena na sdílení elektronů, převážně jejich dvojic
+C) vzniká při ní také nevazebný molekulový orbital
+d) vzniká překryvem libovolných orbitalů valenční vrstvy
+1061) Kovalentní vazba nemůže vzniknout tímto postupem
+a) vzájemným sdílením elektronů valenční vrstvy
+B) odtržením elektronů od atomu - donoru a jejich převodem k atomu - akceptoru
+c) nabídnutím elektronového páru donorového atomu na sdílení s akceptorovým atomem,
+který má prázdný orbital (donor-akceptorová vazba)
+C) excitací elektronů do vyšší valenční vrstvy
+1062) Které z následujících výroků o kovalentní vazbě o jsou pravdivé
+a) je to typ iontové vazby mezi atomy s nižšími rozdíly v elektronegativitě
+B) vznikne obsazením vazebného molekulového orbitalu o, který má osu souměrnosti
+totožnou se spojnicí vázaných atomových jader a velkou elektronovou hustotou na této
+spojnici
+c) vznikne obsazením vazebného atomového orbitalu o, který má osu souměrnosti
+totožnou se spojnicí vázaných atomových jader a velkou elektronovou hustotou na této
+spojnici
+d) vzniká překryvem libovolných orbitalů valenční vrstvy
+1063) Jednoduchá kovalentní vazba je
+a) téměř vždy tvořena vazebným molekulovým orbitalem i
+B) téměř vždy tvořena vazebným molekulovým orbitalem o
+c) téměř vždy tvořena atomovými orbitaly d
+d) téměř vždy tvořena atomovými orbitaly f
+1064) Vazby C-H v metanu jsou tvořeny
+a) kombinací kovalentních vazeb orbitalů p uhlíku s orbitaly s vodíku. To platí pouze pro
+dvě vazby. Další dvě jsou tvořeny donor-akceptorovou vazbou, kde akceptorem je uhlík,
+poskytující vakantní orbitaly d a dva vodíky poskytují dva volné elektrony. Důvodem
+tohoto uspořádání je elektronová konfigurace 1s22p2. Orbital s atomu uhlíku je zaplněn
+a nemůže se tedy účastnit žádné chemické vazby, orbitaly p obsahují pouze dva
+elektrony, a to je důvod existence donor-akceptorové vazby u dvou vazeb ze čtyř
+b) jeden elektron z orbitalu 1s atomu uhlíku je excitován do orbitalu p. Tím vzniknou čtyři
+nepárové elektrony, které se účastní kovalentní vazby s atomy vodíku
+C) orbital vrstvy K (tj. orbital 1s) a tři orbitaly vrstvy L (tj. orbitaly 2px 2py, 2pz) vytvoří
+hybridizovaný orbital - sp3, který se účastní vazeb s orbitaly atomů vodíku
+d) vazba C-H je zvláštní kovalentní vazba, jejíž vlastnosti neodpovídají ani jednomu z výše
+uvedených popisů

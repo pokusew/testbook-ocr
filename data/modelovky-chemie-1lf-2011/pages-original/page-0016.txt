@@ -1,0 +1,45 @@
+119) Pro reakce vratné platí:
+a) výchozí látky reagují za vzniku různých produktů
+b) produkt reakce je výchozí látkou pro reakci následující
+C) z reaktantů vznikají produkty a současně z produktů zpět reaktanty
+d) ani jedna možnost není správná
+120) Rychlost chemické reakce:
+A) u plynů závisí na tlaku
+B) závisí na teplotě
+C) závisí na koncentraci výchozích látek
+d) nezávisí na velikosti aktivační energie
+121) Arrheniova rovnice:
+a) popisuje rychlost chemické reakce
+B) popisuje závislost rychlostní konstanty na teplotě
+c) vypadá takto: v=k.[A].[B]
+D) vypadá takto: k = A.e-EA/RT
+122) Aktivovaný komplex:
+a) je stabilní meziprodukt chemické reakce
+B) je nestabilní celek
+c) vzniká při aktivaci komplexních sloučenin
+d) obsahuje vazby silnější než ve výchozích látkách
+123) Katalyzátor:
+a) po skončení reakce se změní jeho struktura
+B) může zvýšit rychlost chemické reakce
+c) zpravidla zvyšuje aktivační energii katalyzované reakce
+D) vede reakci jiným reakčním mechanismem
+124) Chemická termodynamika studuje:
+a) rychlost chemických reakcí
+B) energetickou stránku soustav a jejich změn
+C) uskutečnitelnost chemických reakcí
+D) rovnováhy v reakčních soustavách
+125) První termodynamický zákon:
+a) je zákon zachování tepla
+B) je zákon zachování energie
+c) je popsán rovnicí: AU = Q-W
+D) je popsán rovnicí: AU = Q+W
+126) Mezi stavové funkce patří:
+A) vnitřní energie U
+B) teplota T
+C) objem V
+d) práce W
+127) Entalpie:
+a) není stavová funkce
+b) zavádí se pro děje izotermické
+C) zavádí se pro děje izobarické
+D) je definována vztahem: H=U+px V

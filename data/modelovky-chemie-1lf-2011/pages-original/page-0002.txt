@@ -1,0 +1,45 @@
+1) Atom uhlíku obsahuje:
+a) pouze protony a elektrony
+b) pouze protony a neutrony
+C) protony, neutrony a elektrony
+D) nukleony a elektrony
+2) Elektrony v atomu jsou lokalizovány:
+a) v jádře i elektronovém obalu
+b) pouze v jádře
+C) pouze v elektronovém obalu
+d) žádná odpověď není správná
+3) Atomy se stejným počtem protonů a rozdílným počtem neutronů se nazývají:
+A) izotopy
+b) izotypy
+c) nuklidy
+d) nukleotidy
+4) Izotopy jednoho prvku mají:
+A) stejné chemické vlastnosti
+b) stejné fyzikální vlastnosti
+c) rozdílné chemické vlastnosti
+D) rozdílné fyzikální vlastnosti
+5) Hlavní kvantové číslo n:
+a) určuje tvar a energii orbitalu
+b) charakterizuje rotační pohyb elektronů
+C) určuje příslušnost elektronu k jedné energetické vrstvě
+d) určuje orientaci orbitalu v prostoru
+6) Vedlejší kvantové číslo 1:
+a) je značeno čísly 1, 2, 3, 4... a písmeny K, L, M, N
+B) nabývá hodnot 0 až (n-1)
+C) nabývá hodnot přirozených čísel
+D) určuje tvar a energii orbitalu
+7) Vedlejší kvantové číslo l=1 charakterizuje stav nebo také elektrony:
+a) f
+b) d
+C) p
+d) s
+8) Vyberte atomy se správně zapsanou elektronovou konfigurací v základním stavu:
+a) uhlík 6C: 1s7, 2s, 2p4
+B) kation lithny Li*: 1s
+C) síra 16S: 1s2, 2s?, 2p6, 3s2, 3p4
+D) hořčík 12Mg: [Ne] 3s?
+9) Vyberte správné tvrzení:
+A) He má ve valenční vrstvě 2 elektrony.
+b) p-prvky mají valenční elektrony pouze v orbitalech p
+C) s-prvky mají valenční elektrony pouze v orbitalech s
+D) d-prvky mají valenční elektrony v orbitalech ns a (n-1)d

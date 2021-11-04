@@ -1,0 +1,46 @@
+657) Která z následujících dusíkatých basí se vyskytuje pouze v nukleotidech RNA:
+A) uracil
+b) cytosin
+c) thymin
+d) adenin
+658) Dusíkaté base nukleotidů jsou odvozeny od:
+A) purinu
+b) pyranu
+C) pyrimidinu
+d) ribosy
+659) V nukleotidech je dusíkatá base vázána k cukru:
+a) esterovou vazbou
+B) N-glykosidovou vazbou
+c) O-glykosidovou vazbou
+d) vodíkovými můstky
+660) V nukleotidech je fosfát vázán k cukru:
+A) esterovou vazbou
+b) N-glykosidovou vazbou
+c) O-glykosidovou vazbou
+d) vodíkovými můstky
+661) V molekule DNA jsou komplementární dusíkaté base navzájem spojeny:
+a) esterovými vazbami
+B) vodíkovými můstky
+c) disulfidovými můstky
+d) glykosidovými vazbami
+662) Nukleosid je tvořen:
+a) cukrem, dusíkatou basí a fosfátem
+b) cukrem a fosfátem
+c) dusíkatou basí a fosfátem
+D) cukrem a dusíkatou basí
+663) Základní řetězec nukleové kyseliny je tvořen:
+a) střídavě pentosou a dusíkatou basí
+B) střídavě pentosou a fosfátem
+c) pouze pentosou
+d) pouze dusíkatou basí
+664) Vyberte správné tvrzení o nukleových kyselinách:
+a) sacharidovou složkou v DNA je ribulosa
+B) sacharidovou složkou v RNA je ribosa
+C) sacharidovou složkou v DNA je 2-deoxyribosa
+d) sacharidovou složkou v DNA je ribosa
+665) Vyberte správné tvrzení o nukleových kyselinách:
+a) jejich primární struktura je dána počtem nukleotidů v polynukleotidovém řetězci
+B) vlákna DNA jsou uspořádána do dvojité spirály (helixu)
+C) jejich primární struktura je určena pořadím nukleotidů v polynukleotidovém řetězci
+D) primární struktura může obsahovat genetickou informaci
+a

@@ -1,0 +1,44 @@
+111) Separační metoda, jež rozděluje kapalné látky na základě rozdílů v bodu varu, se
+nazývá:
+A) destilace
+b) difuze
+c) osmóza
+d) extrakce
+112) Molekula, jež obsahuje hydrofilní a hydrofobní část:
+a) neexistuje
+b) existuje, avšak je za normálních podmínek velmi nestabilní a ihned se rozpadá
+c) existuje pouze v plynném skupenství
+D) existuje, jedná se o běžnou molekulu
+113) Vyberte pravdivé tvrzení pro rozpustnost fosfolipidů ve vodě za laboratorní
+teploty:
+a) jsou dokonale rozpustné, tvoří pravé roztoky
+b) jsou téměř nerozpustné, protože jejich molekula je kompletně hydrofobní
+C) rozpouští se omezeně za tvorby micelárních roztoků
+d) jsou dokonale rozpustné, protože jejich molekula je kompletně hydrofilní
+114) Pokud při výpočtu pH zanedbáváme aktivitní koeficient, považujeme jej za:
+A) rovný 1
+b) blížící se plus nekonečnu
+c) blížící se mínus nekonečnu
+d) rovný 0
+115) Aktivitní koeficient při výpočtu pH lze s přijatelnou mírou nepřesnosti zanedbat
+(považovat za přibližně rovný 1) v případě roztoků:
+A) velmi zředěných
+b) velmi koncentrovaných
+c) nasycených
+d) přesycených
+116) Voda byla kontaminována chloridem olovnatým. Snížit koncentraci olovnatých
+iontů ve vzniklém roztoku lze:
+A) přidáním chloridových iontů
+B) přidáním kuchyňské soli
+C) přidáním síranových iontů
+d) vložením olověné desky, na níž se olovnaté ionty vysráží
+117) Iontová síla roztoku:
+A) je funkcí koncentrace rozpuštěných látek
+B) je funkcí náboje rozpuštěných látek
+C) se užívá při výpočtu aktivitního koeficientu
+d) je zanedbatelná v případě všech koncentrovaných roztoků
+118) Reakční kinetika studuje:
+A) rychlost chemických reakcí
+b) možnost průběhu chemických reakcí z energetického hlediska
+C) faktory, které ovlivňují rychlost chemické reakce
+d) energetický stav výchozích látek a produktů

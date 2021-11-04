@@ -1,0 +1,46 @@
+966) Která ze sloučenin bude barevná a proč (tj. sloučenina nebude bezbarvá a bude
+mít jinou barvu než bílou)?
+a) NaOH, protože všechny louhy jsou barevné
+B) CuSO4, protože barevnost je typická pro přechodové prvky
+c) CaCl2, barevné jsou všechny chloridy (žluté jako chlor)
+d) BaSO4 je barevný, protože je nerozpustný
+967) Který z uvedených prvků má nejvíce kovový charakter?
+a) fosfor
+b) dusík
+C) vizmut
+d) arsen
+968) Který z následujících halogenů můžeme čistit za laboratorní teploty sublimací?
+a) fluor
+b) brom
+c) chlor
+D) jod
+969) Při tvorbě sloučeniny mezi kovem a nekovem dochází k tomu, že
+a) kov vždy ztrácí elektron, stává se kationtem
+b) kov vždy přijímá elektron, stává se aniontem
+C) platí někdy a) a někdy b), podle umístění kovu a nekovu v periodické tabulce
+d) mezi kovem a nekovem existuje pouze iontová vazba, takže nedochází vůbec k žádnému
+pohybu elektronů
+970) Atomy, které jsou v jedné skupině periodické tabulky mají určité shodné nebo
+velmi blízké parametry. Těmi jsou
+a) počty energetických hladin pro elektrony
+b) atomové hmotnosti
+c) atomová čísla
+D) počty valenčních elektronů
+971) Který z následujících prvků má největší schopnost přitáhnout elektrony?
+a) sodík, protože snadno tvoří kladný aniont a ten přitáhne elektrony
+b) brom, je elektronegativní a jeho atom má velký poloměr
+C) chlor, je elektronegativní a má malý poloměr atomu
+d) osmium, stabilizuje tím elektronovou konfiguraci, proto jej nelze snadno oxidovat
+972) Za standardní teploty a tlaku (podle definice IUPAC) jsou vzácné plyny
+jednoatomové, ostatní plyny tvoří dvouatomové molekuly. Důvodem je, že
+a) vzácné plyny mají tak velké atomy, že by dvouatomové molekuly byly příliš objemné
+b) vzácné plyny mají příliš nízkou elektronegativitu
+C) vzácné plyny mají kompletní elektronový oktet, takové sloučeniny jsou minimálně
+reaktivní a netvoří dvouatomové molekuly
+d) vzácné plyny nemají dostatečný rozdíl elektronegativit k tomu, aby se mohla vytvořit
+taková molekula
+973) Proces, ve kterém dochází k 12 (s) → 12 (g) se nazývá
+a) destilace
+B) sublimace
+c) kondenzace
+d) var

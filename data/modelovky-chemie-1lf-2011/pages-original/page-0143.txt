@@ -1,0 +1,47 @@
+1167) Jaký je objem vodného roztoku NaCl o koncentraci 3 mol/l, který připravíme
+z 526,5 g soli? Molekulová hmotnost NaCl je 58,5 g/mol.
+a) 1,51
+b) 21
+C) 31
+d) 17,981
+1168) Kolik molů CaCl2 bude použito k přípravě 5,00 x 102 cmº roztoku o molární
+koncentraci 5,0 mol/l?
+a) 1
+B) 2,5
+c) 10
+d) 25
+1169) Kolik procent molekuly CO2 je tvořeno uhlíkem? Relativní atomová hmotnost
+uhlíku je 12, kyslíku 16 (obojí v g/mol).
+a) 0,27
+B) 27,27
+c) 0,32
+d) 32
+1170) Jaké je procentové zastoupení jednotlivých prvků v glukóze? Sumární vzorec
+glukosy je C6H1206, relativní atomové hmotnosti (g/mol): uhlík: 12, kyslík: 16,
+vodík 1. Najděte a označte správné možnosti.
+A) C: 40,0 %
+b) C: 30,8 %
+C) H: 6,7 %
+d) H: 5,9 %
+1171) Jaký bude objem oxidu uhličitého, který vynikne reakcí glukosy
+s přebytkem kyslíku podle níže uvedené rovnice, za standardních
+podmínek? Pozor, rovnici je nejprve třeba řádně vyčíslit. Rovnice přeměny
+C6H1206(s) + O2(g) → H2O(g) + CO2(g)
+A) 67,21
+b) 134,41
+c) 13,41
+d) 201,11
+1172) Vypočtěte procentický obsah síranu zinečnatého (molekulová hmotnost
+161,5 g/mol) v heptahydrátu síranu zinečnatého (molekulová hmotnost
+287,6 g/mol).
+a) 5,62 %
+B) 56,2 %
+c) 1,79 %
+d) 17,9 %
+1173) Jaká je molární koncentrace roztoku, který vznikl rozpuštěním 26 g síranu
+železnatého (M = 151,9 g/mol) ve 100 g vody, přičemž výsledný roztok má hustotu
+r = 1,095 g/ml?
+a) 0,12 mol/l
+B) 1,489 mol/l
+c) 0,016 mol/l
+d) 1,6 mmol/l

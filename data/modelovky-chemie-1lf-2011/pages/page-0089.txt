@@ -1,0 +1,48 @@
+738) Molekula benzenu
+a) je prostorovým útvarem, může zaujímat vaničkovou nebo židličkovou konformaci
+b) je prostorovým útvarem, může zaujímat vaničkovou nebo židličkovou konfiguraci
+C) je planární molekulou
+D) obsahuje šest uhlíků a šest vodíků
+a
+739) Štěpení vazby mezi dvěma uhlíky v organické sloučenině může probíhat
+a) elektrofilně
+b) nukleofilně
+C) iontově
+D) radikálově
+740) Homolytické štěpení vazby v organické chemii znamená,
+a) že ze štěpené sloučeniny vznikne kationt a aniont
+B) že ze štěpené sloučeniny vzniknou dva radikály
+C) že ze štěpené sloučeniny vzniknou dvě částice s nepárovým elektronem
+d) že ze štěpené sloučeniny vzniknou vždy dvě částice o stejném skupenství
+741) organických sloučeninách se donorakceptorová (dativní) vazba
+a) nevyskytuje
+B) vyskytuje, příkladem jsou např. tetraalkylamoniové soli
+c) vyskytuje, ale v tetraalkylamoniových solích se tato vazba neuplatňuje
+D) nevyskytuje, pokud sloučenina neobsahuje donorový atom jako je např. atom dusíku
+742) Pro homolytické reakce je typické
+A) že probíhají při vysokých teplotách
+b) že probíhají v roztoku v přítomnosti katalyzátoru
+C) že probíhají v plynné fázi a bývají iniciovány světelným kvantem, vysokou teplotou nebo
+látkami, které produkují volné radikály
+d) že nejsou ovlivněny látkami produkujícími volné radikály a většinou neprobíhají v plynné
+fázi
+743) Hydrolýza alkylhalogenidu je
+A) nukleofilní substituce
+b) elektrofilní substituce
+c) nukleofilní adice
+d) elektrofilní adice
+744) Nitrace benzenu do I. stupně pomocí nitrační směsi je
+a) nukleofilní substituce
+B) elektrofilní substituce
+c) adice
+d) radikálová reakce
+745) Katalytická hydrogenace alkenů
+A) se většinou katalyzuje kovovými katalyzátory (Pt, Ni)
+B) je radikálovou adicí
+C) je oxidačně-redukčním dějem
+d) probíhá v plynné fázi za katalýzy světlem nebo peroxidy
+746) Existují v rámci organické chemie uhlíkové anionty?
+a) ne, nebyla by splněna podmínka vaznosti
+B) ano, uhlík je v nich trojvazný a má dvojici nevazebných elektronů
+c) ne, uhlík nemůže být záporně nabitý
+d) ano, budou mít jeden nepárový elektron

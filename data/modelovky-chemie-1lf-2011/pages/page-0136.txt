@@ -1,0 +1,46 @@
+1113) Heterogenní směsí je
+a) roztok
+B) dým
+C) suspenze
+d) slitina kovů
+1114) Izotopy daného prvku se od sebe
+a) nedají oddělit
+B) dají oddělit fyzikálními metodami
+c) dají oddělit pouze chemickými metodami
+d) se od sebe dají oddělit pouze, pokud je izotop radiokativní
+1115) Aktivační energie reakce je
+A) podle srážkové teorie minimální energie, kterou částice musí mít aby proběhla chemická
+reakce
+b) je rozdílem energií produktů a výchozích látek
+C) je rozdílem energií aktivovaného komplexu a výchozích látek
+d) je rozdílem energií aktivovaného komplexu a produktů
+1116) Složení reakční směsi v rovnováze mohu ovlivnit
+A) teplotou
+B) tlakem
+C) koncentrací výchozích látek nebo produktů
+d) katalyzátorem
+1117) Poločas (např. rozpadu) je u chemických přeměn
+a) doba, za kterou látka zreaguje, rozpadne se ap.
+B) doba, za kterou se koncentrace výchozí látky se sníží o 50 %
+c) doba, za kterou se u reakcí 1. řádu dosáhne nulové koncentrace výchozích látek
+d) doba, za kterou se dosáhne rovnovážného stavu
+1118) Pomocí Hessova zákona lze
+a) určit objem ideálního plynu při dané teplotě
+b) určit tlak, za kterého daná látka vytvoří výbušnou směs
+C) zjistit reakční entalpii při standardních podmínkách reakce
+d) určit reakční rychlost v závislosti na teplotě a tlaku
+1119) Rozměr univerzální plynové konstanty ve stavové rovnici PV=nRT je
+A) JK-7 mol-1
+b) je bezrozměrná
+c) Pa.m3
+d) Pa
+1120) Exotermní reakce bude vykazovat
+a) kladnou změnu entalpie
+B) zápornou změnu entalpie
+c) podle průběhu reakce buď kladnou nebo zápornou změnu
+d) zápornou změnu, pokud všechny
+1121) Endotermní reakce bude vykazovat
+A) kladnou změnu entalpie
+b) zápornou změnu entalpie
+c) podle průběhu reakce bud' kladnou nebo zápornou změnu
+d) zápornou změnu, pokud všechny

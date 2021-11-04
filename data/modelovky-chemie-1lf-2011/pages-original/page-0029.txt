@@ -1,0 +1,46 @@
+219) Eliminace:
+a) je typem skladné reakce
+B) je opakem adice
+c) je typem substituce
+D) je reakce, při které dochází ke štěpení a vzniku vazeb
+220) Radikál:
+A) obsahuje nepárový elektron
+B) může vzniknout homolytickým štěpením kovalentní vazby
+c) jde vždy o ion
+D) je zpravidla reaktivní částice
+221) Při oxidaci:
+A) oxidační číslo se zvětšuje
+b) dochází k přenosu protonů
+c) oxidovaná látka přijímá elektrony
+D) mění se elektronová konfigurace
+222) Při redukci:
+a) oxidační číslo se zvětšuje
+b) dochází k přenosu protonů
+C) redukovaná látka přijímá elektrony
+D) mění se elektronová konfigurace
+223) Většina anorganických reakcí ve vodných roztocích má charakter reakcí:
+A) iontových
+b) radikálových
+c) skladných
+d) přesmyků
+224) Reakční rychlost reakce N2 + 3 H2 → 2 NH3 můžeme vyjádřit:
+A) V=-d[N2]/dt
+b) v=d[N2]/dt
+c) v=-d[H2]/dt
+d) v=-d[NH3]/dt
+225) Sníží-li se teplota o 10 °C, rychlost reakce se za jinak konstantních podmínek:
+a) zvýší
+b) může zvýšit, snížit či zůstat beze změny
+C) sníží
+d) nezmění
+226) Aby podle srážkové teorie mohla proběhnout reakce mezi dvěma částicemi, musí
+být splněny následující podmínky:
+A) částice jsou vhodně orientované
+B) srážka má dostatečnou energii
+c) okolí má dostatečnou termodynamickou teplotu
+d) koncentrace produktu je nízká
+227) Zvýší-li se teplota o 10 °C, rychlost reakce se za jinak konstantních podmínek:
+A) zvýší asi 2-4x
+b) zvýší asi 5-20%
+c) zvýší asi 100-300x
+d) zvýší asi 1000-1000 000x

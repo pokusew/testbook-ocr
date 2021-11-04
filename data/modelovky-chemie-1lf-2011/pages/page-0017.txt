@@ -1,0 +1,44 @@
+128) Které z uvedených tvrzení je správné:
+a) pro exotermické reakce platí AH > 0
+b) pro exergonické reakce platí AH > 0
+c) pro endergonické reakce platí AG<0
+D) žádná z uvedených možností není správná
+129) Pro termochemické zákony platí:
+A) první zákon tvrdí: reakční teplo určité reakce a reakční teplo téže reakce probíhající za
+stejných podmínek opačným směrem je až na znaménko stejné
+b) první zákon tvrdí: reakční teplo určité reakce a reakční teplo téže reakce probíhající za
+stejných podmínek opačným směrem je úplně stejné
+c) druhý zákon tvrdí: reakční teplo určité reakce je stejné jako součet reakčních tepel
+postupně prováděných reakcí, vycházejících z jakýchkoliv výchozích látek, ale končících
+stejnými produkty
+D) druhý zákon tvrdí: reakční teplo určité reakce je stejné jako součet reakčních tepel
+postupně prováděných reakcí, vycházejících ze stejných výchozích látek a končících
+stejnými produkty
+130) Druhý termodynamický zákon:
+a) zavádí do termodynamiky vnitřní energii U
+B) zavádí do termodynamiky entropii S
+C) zkoumá, kolik tepla přijatého od okolí může soustava přeměnit na práci
+D) určuje přirozený směr, kterým přírodní procesy probíhají
+131) Guldberg-Waagův zákon:
+A) vystihuje vztah pro rovnovážnou konstantu chemické reakce Kc
+B) je formulován: Součin rovnovážných koncentrací produktů dělený součinem
+rovnovážných koncentrací výchozích látek je konstantní a rovná se rovnovážné
+konstantě dané reakce.
+c) říká, že rovnováha chemické reakce je závislá na velikosti aktivační energie
+d) říká, že rovnováha chemické reakce se rovná součtu koncentrací výchozích látek
+a produktů
+132) Posun chemické rovnováhy:
+A) charakterizuje Le Chatelierův princip akce a reakce
+B) je způsoben změnou vnějších podmínek reakce
+c) je vyvolaný přítomností katalyzátorů
+D) nelze ovlivnit přítomností katalyzátorů
+133) Rovnováha chemické reakce:
+A) znamená konstantní složení reakční směsi při daných podmínkách
+B) má dynamický charakter
+C) je kvantitativně vyjádřená rovnovážnou konstantou
+d) závisí na velikosti aktivační energie
+134) Rovnovážný stav reakce:
+A) je stav, při kterém reakce probíhá stejnou rychlostí v obou směrech
+b) je stav, kdy se reaktanty úplně přeměnily na produkty
+C) Ize ovlivnit změnou teploty reakční směsi
+D) Ize ovlivnit změnou koncentrace produktů
