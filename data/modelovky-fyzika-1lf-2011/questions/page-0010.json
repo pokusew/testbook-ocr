@@ -35,7 +35,7 @@
 		"id": 38,
 		"category": 1,
 		"number": 38,
-		"text": "Předpona peta- (P) před značkou jednotky znač :",
+		"text": "Předpona peta- (P) před značkou jednotky značí",
 		"choices": [
 			{
 				"id": 1,
@@ -90,7 +90,7 @@
 			{
 				"id": 4,
 				"name": "d",
-				"text": "101 2",
+				"text": "1018",
 				"correct": true
 			}
 		]
@@ -218,7 +218,7 @@
 			{
 				"id": 4,
 				"name": "d",
-				"text": "5.10 -1 km 3",
+				"text": "5.106",
 				"correct": true
 			}
 		]
@@ -282,7 +282,7 @@
 			{
 				"id": 4,
 				"name": "d",
-				"text": "3.108 cm 2",
+				"text": "3.108 cm?",
 				"correct": true
 			}
 		]

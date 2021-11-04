@@ -1,0 +1,258 @@
+[
+	{
+		"id": 834,
+		"category": 1,
+		"number": 834,
+		"text": "Magnetická síla Fm působící na přímý vodič s konstantním proude v homogenním magnetickém poli je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kolmá jak na vodič tak na magnetickou indukci",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kolmá pouze na vodič",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kolmá pouze na magnetickou indukci",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nezávislá na poloze vodiče",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 835,
+		"category": 1,
+		"number": 835,
+		"text": "Směr síly působící na přímý vodičs proudem v homogenním magnetickém pol lze určit:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Lenzovým pravidlem",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Flemingovým pravidlem levé ruky",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Ampérovým pravidlem levé ruky",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Ampérovým pravidlem pravé ruky",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 836,
+		"category": 1,
+		"number": 836,
+		"text": "Velikost síly působící na přímý vodičs proudem v homogenním magnetické poli",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nezávisí na orientaci vodiče",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je nepřímo úměrná velikosti proudu procházejícího vodičem",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je nepřímo úměrná velikosti magnetické indukce",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je přímo úměrná velikosti magnetické indukce",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 837,
+		"category": 1,
+		"number": 837,
+		"text": "Velikost magnetické indukce pole přímého vodiče s proudem je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nepřímo úměrná permeabilitě prostředí",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "přímo úměrná permeabilitě prostředí",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "přímo úměrná kvadrátu proudu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nepřímo úměrná proudu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 838,
+		"category": 1,
+		"number": 838,
+		"text": "Relativní permeabilita vakua má hodnotu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "4rt.10-7",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "216.10-7",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "0",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 839,
+		"category": 1,
+		"number": 839,
+		"text": "Velikost magnetické indukce magnetického pole nekonečně dlouhé válcové cívky je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nepřímo úměrná permeabilitě",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "přímo úměrná proudu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "přímo úměrná hustotě závitů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nepřímo úměrná hustotě závitů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 840,
+		"category": 1,
+		"number": 840,
+		"text": "Hodnota permeability vakua v jednotkách N.A-2 je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "10-7",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "10-7",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "411.10-7",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "216.10- V",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 841,
+		"category": 1,
+		"number": 841,
+		"text": "Orientaci magnetických indukčních čar cívky určíme",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Flemingovým pravidlem levé ruky",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Ampérovým pravidlem pravé ruky",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Ampérovým pravidlem levé ruky",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Lenzovým pravidlem",
+				"correct": false
+			}
+		]
+	}
+]

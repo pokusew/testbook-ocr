@@ -1,0 +1,290 @@
+[
+	{
+		"id": 1184,
+		"category": 1,
+		"number": 1184,
+		"text": "Mezi radiometrické veličiny patří",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zářivý tok",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "světelný tok",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "svítivost",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "hustota zářivého tok =",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1185,
+		"category": 1,
+		"number": 1185,
+		"text": "Velikost plného prostorového úhlu je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1/2 sr",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "i sr",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "21 sr",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "41 sr",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1186,
+		"category": 1,
+		"number": 1186,
+		"text": "Wienův posunovací zákon má tvar",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "imaxT = b",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Amaz/T = b",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Imax = T. b",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "max = 1/(Tb)",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1187,
+		"category": 1,
+		"number": 1187,
+		"text": "Vlnová délka, při níž nastává maximum vyzařování absolutně černého tělesa je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nezávislá na teplotě",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "přímo úměrná čtvrté mocnině termodynamické teploty",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "přímo úměrná termodynamické teplotě",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nepřímo úměrná termodynamické teplotě",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1188,
+		"category": 1,
+		"number": 1188,
+		"text": "Intenzita vyzařování absolutně černého tělesa je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "přímo úměrná termodynamické teplotě",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "přímo úměrná čtvrté mocnině termodynamické teploty",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nepřímo úměrná termodynamické teplotě",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "přímo úměrná druhé mocnině termodynamické teploty",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1189,
+		"category": 1,
+		"number": 1189,
+		"text": "Nejvíce zastoupenou vlnovou délku ve spektru absolutně černého tělesa určuje",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Stefan-Boltzmannův zákon",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Wienův zákon",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Planckův zákon",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Snellův zákon",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1190,
+		"category": 1,
+		"number": 1190,
+		"text": "Určete pravdivé tvrzené: Rentgenové záření",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je silně pohlcováno vodou",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vyvolává fluorescenci",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ionizuje vzduch",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "umožňuje získání informace o struktuře molekul",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1191,
+		"category": 1,
+		"number": 1191,
+		"text": "Určete pravdivé tvrzení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ultrafialové záření má delší vlnové délky než rentgenové záření",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "viditelné světlo má kratší vlnové délky než infračervené záření",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "rentgenové záření má delší vlnové délky než ultrafialové záření",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "rentgenové záření má kratší vlnové délky než viditelné světlo",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1192,
+		"category": 1,
+		"number": 1192,
+		"text": "Mřížková konstanta optické mřížky je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "počet štěrbin na 1 mm",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "šířka štěrbiny",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vzdálenost středů dvou štěrbin",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "převrácená hodnota počtu štěrbin na 1 mm",
+				"correct": false
+			}
+		]
+	}
+]

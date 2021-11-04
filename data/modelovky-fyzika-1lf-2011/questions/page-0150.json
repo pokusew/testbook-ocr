@@ -1,0 +1,258 @@
+[
+	{
+		"id": 1134,
+		"category": 1,
+		"number": 1134,
+		"text": "Barevná vada čoček spočívá v tom, že",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "různé barvy bílého světla se různě absorbují",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "čočky jsou nehomogenně zbarvené",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "barvy bílého světla se lámou do různých ohnisek",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "na okrajích čočky se objevují barevné pruhy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1135,
+		"category": 1,
+		"number": 1135,
+		"text": "Které z následujících tvrzení o lidském oku je pravdivé?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "oko má spojnou optickou soustavu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "obraz se vytváří na sítnici",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "obraz na sítnici je neskutečný, zmenšený a převrácený",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "informace o obrazu se přenášejí do mozku očním nervem",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1136,
+		"category": 1,
+		"number": 1136,
+		"text": "Které z následujících tvrzení je pravdivé? Průhledným prostředím v oku je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "čočka",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "oční mok",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "duhovka",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "sklivec",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1137,
+		"category": 1,
+		"number": 1137,
+		"text": "Oko nejvíce akomoduje při pozorování předmětů umístěných",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v blízkosti blízkého bodu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v blízkosti vzdáleného bodu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v ohniskové vzdálenosti oka",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v nekonečnu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1138,
+		"category": 1,
+		"number": 1138,
+		"text": "Na mýdlovou bublinu (n = 1,33) dopadá kolmo svazek bílého světla. V odražené světle převládá zelená barva (a = 532 nm). Jaká je nejmenší tloušťka mýdlov blány?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,1 um",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,2 um",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "0,3 um",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "0,4 um",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1139,
+		"category": 1,
+		"number": 1139,
+		"text": "Předmět o výšce 3 cm byl spojkou zobrazen tak, že jeho skutečný obraz měl výšk 18 cm. Když byl předmět posunut o 6 cm, vznikl zdánlivý obraz o výšce 9 cm. Jak byla původní vzdálenost předmětu od čočky?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "14 cm",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "15 cm",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "16 cm",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "17 cm",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1140,
+		"category": 1,
+		"number": 1140,
+		"text": "Předmět o výšce 3 cm byl spojkou zobrazen tak, že jeho skutečný obraz měl výšk 18 cm. Když byl předmět posunut o 6 cm, vznikl zdánlivý obraz o výšce 9 cm. Jak byla ohnisková vzdálenost čočky?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "12 cm",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "15 cm",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "18 cm",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "21 cm",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1141,
+		"category": 1,
+		"number": 1141,
+		"text": "Do jaké vzdálenosti od spojky s optickou mohutností 10 D musíme umísti předmět, aby jeho skutečný obraz měl dvojnásobné zvětšení?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "15 cm",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "20 cm",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "25 cm",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "30 cm",
+				"correct": false
+			}
+		]
+	}
+]

@@ -1,0 +1,258 @@
+[
+	{
+		"id": 551,
+		"category": 1,
+		"number": 551,
+		"text": "V krystalech germania je vazba",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kovalentní",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "iontová",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kovová",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "van der Waalsova",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 552,
+		"category": 1,
+		"number": 552,
+		"text": "Typů jednoduchých deformací pevného tělesa je celkem",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "3",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "4",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "5",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "6",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 553,
+		"category": 1,
+		"number": 553,
+		"text": "Jednotkou normálového napětí (které podává kvantitativní informaci o stav napjatosti při deformaci tahem) je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "N",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Pa",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "N.m^-1",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "V",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 554,
+		"category": 1,
+		"number": 554,
+		"text": "Označíme-li tlakovou sílu F, a průřez tyče S, je normálové napětí o, je definován jako",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "sigma_n = F/S",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "sigma_n = S/FR",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "sigma_n = S.F,",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "sigma_n = F/r",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 555,
+		"category": 1,
+		"number": 555,
+		"text": "Označíme-li modul pružnosti v tahu E, normálové napětí on, délku la sílu F, j možno relativní prodloužení tahem vypočítat jako",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Elon",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "EF/0.",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "El/on",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "On/E",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 556,
+		"category": 1,
+		"number": 556,
+		"text": "Jednotkou modulu pružnosti v tahu je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Pa",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "N",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "N.m-1",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "N.m",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 557,
+		"category": 1,
+		"number": 557,
+		"text": "Hookův zákon pro vyjádření relativního prodloužení platí",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "od počátku použití tahové síly až po přetržení objektu (tyče)",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ve třetí oblasti deformační křivky",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ve druhé oblasti deformační křivky",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v první oblasti, pro kterou platí přímá úměrnost mezi relativním prodloužení a normálovým napětím",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 558,
+		"category": 1,
+		"number": 558,
+		"text": "Známe-li velikost síly F působící deformaci tahem, původní délku tyče lı, průře tyče S a modul pružnosti v tahu E, je prodloužení tyče Al rovno",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "FE/(SIL)",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Fl1/(ES)",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "FS/(El)",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "FS/(Flı)",
+				"correct": false
+			}
+		]
+	}
+]

@@ -1,4 +1,3 @@
-0
 304. Kolik sekund musí těleso, které je původně v klidu, padat volným pádem, aby
 urazilo stejnou dráhu jako při rovnoměrném pohybu rychlostí v. = 10 m.s-1?
 Použijte pro gravitační zrychlení hodnotu 10 m.s-2 a odpor vzduchu zanedbejte.
@@ -19,8 +18,8 @@ a) 1 m
 B) 2 m
 c) 3 m
 d) 4 m
-307. Jaká je kinetická energie koule o hmotnosti 10 kg, která původně byla v klidu,
-a spadla z výšky 5 m? Použijte pro gravitační zrychlení hodnotu 10 m.s-2 a odpor
+307. Jaká je kinetická energie koule o hmotnosti 10 kg, která původně byla v klidu, a
+spadla z výšky 5 m? Použijte pro gravitační zrychlení hodnotu 10 m.s-2 a odpor
 vzduchu zanedbejte.
 a) 100 J
 b) 200
@@ -28,8 +27,7 @@ C) 500)
 d) 1 kJ
 308. Jakou dobu musí padat koule o hmotnosti 2 kg, která původně byla v klidu,
 aby její kinetická energie byla 1,6 kJ? Použijte pro gravitační zrychlení hodnotu
-10 m.s
-a odpor vzduchu zanedbejte.
+10 m.s a odpor vzduchu zanedbejte.
 a) 1s
 b) 2 s
 c) 3 s
@@ -46,5 +44,3 @@ a) 1s
 b) 2 s
 c) 3s
 D) 45
-2
-2

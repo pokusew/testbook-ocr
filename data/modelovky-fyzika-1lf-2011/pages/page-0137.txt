@@ -1,6 +1,3 @@
-1
-10
-10
 1026. Tlakové změny, kterými se šíří zvuková vlna, jsou
 A) adiabatické
 b) izochorické
@@ -13,12 +10,12 @@ c) stejnou amplitudu
 d) je-li jejich postupná rychlost šíření stejná
 1028. Fázový rozdíl Aq dvou vlnění o stejné vlnové délce à souvisí s jejich dráhovým
 rozdílem Ax vztahem
-Α) Δφ = (2π/λ).Δx
+A) Δφ = (2π/λ).Δx
 b) Δφ.Δx = 2π/λ
 c) Δφ.Δx =1
 d) Δφ/Δx = 2πλ
-1029. Šíří-li se vlnění z prostředí s rychlostí šíření V, do prostředí s rychlostí šíření v2
-a je-li v2 <V1, pak na rozhraní
+1029. Šíří-li se vlnění z prostředí s rychlostí šíření v_1, do prostředí s rychlostí šíření v_2 a
+je-li v_2 < v_1, pak na rozhraní
 A) dochází k odrazu s opačnou fází
 b) dochází k odrazu se stejnou fází
 c) dochází střídavě k odrazu se stejnou a opačnou fází

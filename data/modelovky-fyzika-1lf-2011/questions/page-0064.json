@@ -1,0 +1,226 @@
+[
+	{
+		"id": 456,
+		"category": 1,
+		"number": 456,
+		"text": "Do 10 l vody o teplotě 60 °C bylo přidáno 2 kg ledu o teplotě 0 °C. Jaká byl přibližně výsledná teplota směsi? Měrné skupenské teplo tání ledu je 330 kJ. kg-1 měrná tepelná kapacita vody je 4,2 kJ. kg-1.K-1.",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "31 °C",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "33 °C",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "35 °C",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "37 °C",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 457,
+		"category": 1,
+		"number": 457,
+		"text": "Kolik tepla je přibližně zapotřebí k přeměně 10 kg ledu o teplotě -5°C na vod o teplotě 0 °C? Měrné skupenské teplo tání ledu je 330 kJ. kg-1, měrná tepeln kapacita ledu je 2,1 kJ. kg-1.K-1,",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "2,5 MJ",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "3,0 MJ",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "3,4 MJ",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "3,8 MJ",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 458,
+		"category": 1,
+		"number": 458,
+		"text": "Voda o hmotnosti 5 kg a teplotě 20 °C se ohřála na teplotu 100 °C a pak se všechn vypařila. Měrné skupenské teplo výparné vody je 2,26 MJ.kg-1, měrná tepeln kapacita je 4,18 kJ. kg-1. K-1. Určete množství dodaného tepla.",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "2,5 MJ",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "10 MJ",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "13 MJ",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "26 MJ",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 459,
+		"category": 1,
+		"number": 459,
+		"text": "Průtokový ohřívač ohřeje za 1 minutu 1 litr vody z 15 °C na 80 °C. Měrná tepeln kapacita vody je 4,2 kJ. kg-1. K-1. Jaký je příkon ohřívače?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "3,55 kW",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "4,55 kW",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "5,55 kW",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "6,55 kW",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 460,
+		"category": 1,
+		"number": 460,
+		"text": "Jaký je výkon varné konvice, jestliže ohřeje 0,5 kg vody teplé 20 °C za 3 minuty Měrná tepelná kapacita vody je 4,2 kJ. kg-1.K-1",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "920W",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1020W",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1120 W",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1220 W",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 461,
+		"category": 1,
+		"number": 461,
+		"text": "Atomová hmotnostní konstanta je definována jako",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hmotnost atomu nuklidu vodíku 1H",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1/12 hmotnosti atomu nuklidu uhlíku 12C",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1/16 hmotnosti atomu nuklidu kyslíku 160",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1/14 hmotnosti atomu nuklidu dusíku 14N",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 462,
+		"category": 1,
+		"number": 462,
+		"text": "Počet druhů pohybu molekuly kyslíku je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "2",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "3",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "4",
+				"correct": false
+			}
+		]
+	}
+]

@@ -1,0 +1,258 @@
+[
+	{
+		"id": 1026,
+		"category": 1,
+		"number": 1026,
+		"text": "Tlakové změny, kterými se šíří zvuková vlna, jsou",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "adiabatické",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "izochorické",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "izotermické",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "izobarické",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1027,
+		"category": 1,
+		"number": 1027,
+		"text": "Dvě vlnění jsou koherentní, mají-li",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "stejnou intenzitu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "konstantní fázový rozdíl",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "stejnou amplitudu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je-li jejich postupná rychlost šíření stejná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1028,
+		"category": 1,
+		"number": 1028,
+		"text": "Fázový rozdíl Aq dvou vlnění o stejné vlnové délce à souvisí s jejich dráhový rozdílem Ax vztahem",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Δφ = (2π/λ).Δx",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Δφ.Δx = 2π/λ",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Δφ.Δx =1",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Δφ/Δx = 2πλ",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1029,
+		"category": 1,
+		"number": 1029,
+		"text": "Šíří-li se vlnění z prostředí s rychlostí šíření v_1, do prostředí s rychlostí šíření v_2 je-li v_2 < v_1, pak na rozhraní",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dochází k odrazu s opačnou fází",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dochází k odrazu se stejnou fází",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dochází střídavě k odrazu se stejnou a opačnou fází",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nedochází k odrazu vůbec",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1030,
+		"category": 1,
+		"number": 1030,
+		"text": "Celková energie kmitání mechanického oscilátoru",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je přímo úměrná druhé mocnině amplitudy výchylky",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je nepřímo úměrná druhé mocnině amplitudy výchylky",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je přímo úměrná druhé mocnině amplitudy rychlosti vlastního kmitání",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je nepřímo úměrná druhé mocnině amplitudy rychlosti vlastního kmitání",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1031,
+		"category": 1,
+		"number": 1031,
+		"text": "Těleso zavěšené na pružině o tuhosti 10 N.m-vykonalo 30 kmitů za minutu Jeho hmotnost je přibližně",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,1 kg",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,25 kg",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "0,5 kg",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1 kg",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1032,
+		"category": 1,
+		"number": 1032,
+		"text": "Těleso o hmotnosti 3,6 kg kmitalo na pružině o tuhosti 10 N.m-1 Kolik kmit vykonalo za 1 minutu?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "128",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "64",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "32",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "16",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1033,
+		"category": 1,
+		"number": 1033,
+		"text": "Mechanický oscilátor tvořený tělesem o hmotnosti 100 g zavěšeným na pružin o tuhosti 10 N.m-1 kmitá s amplitudou 4 cm. Rychlost tělesa při průchod rovnovážnou polohou je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,1 m.s-1",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,2 m.s-1",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "0,3 m.s-1",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "0,4 m.s- 10 10 - 10 104",
+				"correct": true
+			}
+		]
+	}
+]

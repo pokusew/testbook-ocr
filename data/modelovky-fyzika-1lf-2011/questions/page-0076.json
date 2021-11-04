@@ -1,0 +1,258 @@
+[
+	{
+		"id": 543,
+		"category": 1,
+		"number": 543,
+		"text": "Mezi krystalické látky nepatří",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vápenec",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "sklo",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jantar",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "celulóza",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 544,
+		"category": 1,
+		"number": 544,
+		"text": "Mezi krystalické látky nepatří",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "asfalt",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "křemík",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pryskyřice",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "polyvinylchlorid",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 545,
+		"category": 1,
+		"number": 545,
+		"text": "Jaké je normálové napětí v lanku o průměru 2 mm nesoucím hmotnos 6,28 kg?Počítejte s tíhovým zrychlením g = 10 m.s-2",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "10MPa",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "20 MPa",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "50 MPa",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "100 MPa",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 546,
+		"category": 1,
+		"number": 546,
+		"text": "Jaký musí být minimální průměr ocelového lanka s normálový napětím 100 MPa aby uneslo hmotnost 125,6 kg? Počítejte s tíhový zrychlením g=10 m.s-2",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,4 mm",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1 mm",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "2 mm",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "4 mm",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 547,
+		"category": 1,
+		"number": 547,
+		"text": "Normálové napětí v tyči o průřezu 4 cm², na kterou působí tahem síla o velikost 4 kN je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,1 MPa",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1 MPa",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "10 MPa",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "20 MPa",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 548,
+		"category": 1,
+		"number": 548,
+		"text": "Normálové napětí v tyči, na kterou působí tahem síla o velikosti 2 kN je 20 MPa Jaký je průřez tyče?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,1 cm?",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,2 cm2",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1 cm?",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "2 cm2",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 549,
+		"category": 1,
+		"number": 549,
+		"text": "Normálové napětí v tyči o průřezu 2 cm² na kterou působí tahem síla je 50 MPa Jak velká je síla?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1 kN",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "10 kN",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "20 kN",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "50 KN",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 550,
+		"category": 1,
+		"number": 550,
+		"text": "Siontovou vazbou v pevných látkách se setkáváme u oxidu",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "křemičitého",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hlinitého",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "arzeničného",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vápenatého",
+				"correct": true
+			}
+		]
+	}
+]

@@ -1,0 +1,258 @@
+[
+	{
+		"id": 596,
+		"category": 1,
+		"number": 596,
+		"text": "Vztah pro výpočet výšky, do které vystoupí kapalina v kapiláře během kapilárn elevace vyplývá z podmínky rovnosti mezi",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kapilárním tlakem a povrchovým napětím",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kapilárním tlakem a tíhou sloupce kapaliny",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kapilárním tlakem a hydrostatickým tlakem",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "povrchovým napětím a tíhou kapaliny",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 597,
+		"category": 1,
+		"number": 597,
+		"text": "Při změně teploty o hodnotu At se původní objem Vį u většiny kapalin změní n objem V, který můžeme použitím součinitele teplotní objemové roztažnosti přibližně vyjádřit jako",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "V = V1 BA",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "V = V1 (1 + B At)",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "V = V1 (1 - B At)",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "V = V1 + B At",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 598,
+		"category": 1,
+		"number": 598,
+		"text": "Jednotkou součinitele teplotní objemové roztažnosti j =",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "K.m- 3",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "m /K",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "K-2.m-1",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "K-1",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 599,
+		"category": 1,
+		"number": 599,
+		"text": "Označte pravdivé tvrzení",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "voda má největší hustotu při 284 K",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "u většiny kapalin objem s rostoucí teplotou roste",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jednotkou součinitele teplotní objemové roztažnosti kapalin je K-1",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "u většiny kapalin hustota s rostoucí teplotou klesá",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 600,
+		"category": 1,
+		"number": 600,
+		"text": "Označte nepravdivé tvrzení týkající se součinitele teplotní objemové roztažnost kapalin:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je obecně menší než u pevných látek",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jeho jednotkou je K-1",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jeho jednotkou je mº. K-1",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je pro většinu kapalin záporný v celém teplotním rozmezí",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 601,
+		"category": 1,
+		"number": 601,
+		"text": "Označte alternativu, ve které je jednotka správně uvedena:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "tepelná kapacita - J. K-1",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "měrná tepelná kapacita - J. kg-1, K-1",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Boltzmannova konstanta - J. K-1.mol-1",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "normálové napětí - Pa",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 602,
+		"category": 1,
+		"number": 602,
+		"text": "Označte alternativu, ve které je jednotka uvedena nesprávně:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "tepelná kapacita - J. kg-1",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "měrná tepelná kapacita - J. kg-1",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "měrné skupenské teplo tání - J. kg-1",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jednotka konstanty v Boylově-Mariottově zákonu – J. kg-1",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 603,
+		"category": 1,
+		"number": 603,
+		"text": "Označte variantu, ve které obě uvedené veličiny či konstanty nemají stejno jednotku:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "normálové napětí a povrchové napětí",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Avogadrova konstanta a Boltzmannova konstanta",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "součinitel teplotní délkové roztažnosti a součinitel teplotní objemové roztažnosti",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "měrné skupenské teplo tání a měrná tepelná kapacit -1",
+				"correct": true
+			}
+		]
+	}
+]

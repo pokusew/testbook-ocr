@@ -1,0 +1,290 @@
+[
+	{
+		"id": 1175,
+		"category": 1,
+		"number": 1175,
+		"text": "Jednotkou zářivého toku je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "watt.s",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "watt",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "watt.s-1",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "watt.m-2",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1176,
+		"category": 1,
+		"number": 1176,
+		"text": "Jaký je světelný tok bodového zdroje, je-li jeho svítivost 5 cd?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "40 lm",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "62.8 lm",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "70 lm",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "80 lm",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1177,
+		"category": 1,
+		"number": 1177,
+		"text": "Jak vysoko nad stolem musí být žárovka o svítivosti 100 cd, aby osvětlení stol pod ní bylo 50 Ix?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1 m",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1.41 m",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "82 m",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "2 m",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1178,
+		"category": 1,
+		"number": 1178,
+		"text": "Jednotkou intenzity vyzařování je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "watt",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "watt.sr-1",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "watt.m-2",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "watt.s-1",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1179,
+		"category": 1,
+		"number": 1179,
+		"text": "Lidské oko je nejcitlivější na světlo",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "fialové",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "červené",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "žlutozelené",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "bílé",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1180,
+		"category": 1,
+		"number": 1180,
+		"text": "Lidské oko je nejcitlivější na vlnové délky kolem",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "455 nm",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "555 nm",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "655 nm",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "755 nm",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1181,
+		"category": 1,
+		"number": 1181,
+		"text": "Jak vysoko bude žárovka o svítivosti 540 cd, aby pod ní bylo osvětlení 60 1x?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "9 m",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "6 m",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "4,5 m",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "3 m",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1182,
+		"category": 1,
+		"number": 1182,
+		"text": "Anizotropní látky jsou látky, které",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dobře vedou zvuk",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "špatně vedou teplo",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mají v různých směrech různé fyzikální vlastnosti",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "propouštějí záření všemi směry stejně",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1183,
+		"category": 1,
+		"number": 1183,
+		"text": "Určete pravdivé tvrzení: Mezi fotometrické veličiny patří",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zářivý tok",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "svítivost",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "světelný tok",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Osvětlení",
+				"correct": true
+			}
+		]
+	}
+]

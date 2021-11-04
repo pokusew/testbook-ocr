@@ -3,9 +3,7 @@ termodynamickou teplotu, vyberte správné tvrzení:
 A) P1/T1 = P2/T2
 B) p/T = konst.
 C) V = konst.
-() PV = konst.
-S
-1
+d) pV = konst.
 513. Zákon Charlesův platí pro ideální plyn v případu
 A) izochorického děje
 b) izobarického děje

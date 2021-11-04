@@ -1,0 +1,226 @@
+[
+	{
+		"id": 470,
+		"category": 1,
+		"number": 470,
+		"text": "Matematická formulace prvního termodynamického zákona zní",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "AU = W+Q",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "AU = W-Q",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "AU = Q-W",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "AU = -W-Q",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 471,
+		"category": 1,
+		"number": 471,
+		"text": "Při adiabatickém ději můžeme přírůstek vnitřní energie soustavy vyjádřit jako",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "AU = Q",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "AU = -",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "AU = W",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "AU = -W",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 472,
+		"category": 1,
+		"number": 472,
+		"text": "Při ději, který není spojen s konáním práce, lze přírůstek vnitřní energi soustavy AU vyjádřit jako",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "AU = W",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "AU = -W",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "AU = -Q",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "AU = Q",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 473,
+		"category": 1,
+		"number": 473,
+		"text": "Vazebná energie molekuly 02 je asi 8,3x10-19 J. Jaká je celková vazebn energie 1 mmolu kyslíku? Uvažujte přibližnou hodnotu Avogadrovy konstant 6.1023 mol-1.",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "200 )",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "300 )",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "400)",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "500",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 474,
+		"category": 1,
+		"number": 474,
+		"text": "Mosazné těleso o hmotnosti 300 g bylo vloženo do kalorimetru s tepelno kapacitou 100 J.K** obsahujícího 500 g vody o teplotě 20 °C. Po vložení s teplota ustálila na 26 °C. Měrná tepelná kapacita vody je 4180 J.kg-1.K», mosaz 390 J.kg-1.6-1. Teplota tělesa byla přibližně",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "50 °C",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "100 °C",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "130 °C",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "180 °C",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 475,
+		"category": 1,
+		"number": 475,
+		"text": "Kolik molekul chlóru je v tomto plynném halogenu při objemu 4 1, teplot 400 K a tlaku 2,49 MPa? Počítejte s přibližnými hodnotami molární plynov konstanty 8,3 J. K-2.mol-1 a Avogadrovy konstanty 6.1023mol-?;",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1023",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1,2.1024",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1,8.1024",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "2,4.1024",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 476,
+		"category": 1,
+		"number": 476,
+		"text": "Jaká je přibližně hustota molekul ideálního plynu při tlaku 4 nPa a teplotě 16 °C Pro Boltzmannovu konstantu použijte hodnotu 1,38.10-23 J.K1",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "10^9 m^-3",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "10^10 m^-3",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "10^11 m^-3",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "10^12 m^-3",
+				"correct": true
+			}
+		]
+	}
+]

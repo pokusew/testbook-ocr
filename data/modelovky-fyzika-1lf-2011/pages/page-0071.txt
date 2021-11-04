@@ -1,4 +1,3 @@
-=
 504. Ve stavové rovnici ideálního plynu pV = nRT
 a) označují všechny symboly stavové veličiny
 b) stavovými veličinami jsou pouze p, Va T
@@ -14,8 +13,7 @@ a) adiabatického děje
 b) izochorického děje
 c) izobarického děje
 D) izotermického děje
-507. Značí-li p tlak, V objem a T termodynamickou teplotu, pak zákon Boylův-
-Mariottův lze vyjádřit takto:
+507. Značí-li p tlak, V objem a T termodynamickou teplotu, pak zákon Boylův-Mariottův lze vyjádřit takto:
 a) pV/T = konst.
 B) PV = konst.
 c) V/T = konst.

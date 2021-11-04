@@ -1,0 +1,226 @@
+[
+	{
+		"id": 864,
+		"category": 1,
+		"number": 864,
+		"text": "Jaká je velikost magnetické síly působící na elektron, který se pohybuje rychlost 7x105 m/s kolmo ke směru indukčních čar pole o magnetické indukci 200 mt Náboj elektronu je 1,6x10-19 C.",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1,12x10-14 N",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "2,24x10-14 N",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "4,48x10-15 N",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "2,24x10-15 N",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 865,
+		"category": 1,
+		"number": 865,
+		"text": "Na elektron s nábojem 1,6x10-19 C, který se pohybuje kolmo ke směru indukčníc čar pole o magnetické indukci 500 mt působí síla 8x10-14 N. Jaká je rychlos elektronu?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "104 m/s",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "105 m/s",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "10 m/s",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "107 m/s",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 866,
+		"category": 1,
+		"number": 866,
+		"text": "Na elektron s nábojem 1,6x10-19 C, který se pohybuje rychlostí 10 m/ v magnetickém poli kolmo ke směru indukčních čar, působí magnetická síl N. Jaká je magnetická indukce tohoto pole?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "5 mT",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "25 mT",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "50 ml",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "500 mT",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 867,
+		"category": 1,
+		"number": 867,
+		"text": "Do homogenního magnetického pole o B = 1,875x10-2 T vlétne částice o hmotnosti 6x10-27 kg rychlostí 5x105 m.s-- kolmo k indukčním čarám. Určet poloměr její trajektorie 8x10-15",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "15 c =",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "25 cm",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "50 cm",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "75 cm",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 868,
+		"category": 1,
+		"number": 868,
+		"text": "Velikost momentu M dvojice sil působících na rovinný závit o ploše S sproude I v homogenním magnetickém poli o indukci B (úhel mezi normálou k ploš závitu a magnetickou indukcí je a) je dána vztahem:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "M = BISsina",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "M = BIsina/S",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "M = BI’Ssina",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "M = BIS sina",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 869,
+		"category": 1,
+		"number": 869,
+		"text": "Rovinným závitem, jehož plocha o velikosti 4000 cm² je kolmá k čárá homogenního magnetického pole o indukci 200 mt, prochází proud 5 A. Jak velk je moment dvojice sil, která na závit působí?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "O N.m",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,4 N.m",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "0,8 N.m",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "4 N.m",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 870,
+		"category": 1,
+		"number": 870,
+		"text": "Velikost momentu dvojice sil působících na rovinný závit o ploše 50 cm, jeho plocha je rovnoběžná s indukčními čárami homogenního magnetického pol o magnetické indukci 200 mT, kterým prochází proud 5 A je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "5 N.m",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,5 N.m",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "5 mN.m",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "O N.m",
+				"correct": false
+			}
+		]
+	}
+]

@@ -1,0 +1,258 @@
+[
+	{
+		"id": 317,
+		"category": 1,
+		"number": 317,
+		"text": "Těleso o hmotnosti 20 kg spadlo volným pádem z výšky 20 m. Použijte pr gravitační zrychlení hodnotu 10 m.s a odpor vzduchu zanedbejte. Jeh kinetická energie při dopadu byla",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "2 k]",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "4 k]",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "6 kJ",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "8 kJ",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 318,
+		"category": 1,
+		"number": 318,
+		"text": "Tělesa spadlo volným pádem z výšky 20 m a jeho kinetická energie při dopad byla 4 kJ. Použijte pro gravitační zrychlení hodnotu 10 m.s-2 a odpor vzduch zanedbejte. Jakou mělo hmotnost?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "10 kg",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "20 kg",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "30 kg",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "40 kg",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 319,
+		"category": 1,
+		"number": 319,
+		"text": "Těleso spadlo volným pádem a jeho hybnost při dopadu byla 400 kg.m.s- Použijte pro gravitační zrychlení hodnotu 10 m.s-2 a odpor vzduchu zanedbejte Z jaké výšky padalo?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "5 m",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "10 m",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "20 m",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nelze vypočítat",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 320,
+		"category": 1,
+		"number": 320,
+		"text": "Těleso spadlo volným pádem a jeho kinetická energie při dopadu byl 4 kJ. Použijte pro gravitační zrychlení hodnotu 10 m.s a odpor vzduch zanedbejte. Z jaké výšky padalo?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "5 m",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "10 m",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "20 m",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nelze vypočítat",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 321,
+		"category": 1,
+		"number": 321,
+		"text": "Coulombův zákon je formálně podobný",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Ohmovu zákonu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zákonu difuze",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Newtonovu gravitačnímu zákonu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Archimedovu zákonu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 322,
+		"category": 1,
+		"number": 322,
+		"text": "Velikost elektrické síly, kterou na sebe působí dva bodové náboje je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "přímo úměrná jejich vzdálenosti",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "přímo úměrná čtverci jejich vzdálenosti",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nepřímo úměrná jejich vzdálenosti",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nepřímo úměrná čtverci jejich vzdálenosti",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 323,
+		"category": 1,
+		"number": 323,
+		"text": "Intenzita elektrického pole je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "skalár",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vektor stejného směru jako elektrická síla působící na kladný náboj",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vektor opačného směru oproti vektoru elektrické síly",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vektor kolmý na směr elektrické síly",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 324,
+		"category": 1,
+		"number": 324,
+		"text": "Pro intenzitu elektrického pole užíváme jednotku",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "V*m",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "(V^-1)*m",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "V*m^-1",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "V^-1*m^-1",
+				"correct": false
+			}
+		]
+	}
+]

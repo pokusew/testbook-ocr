@@ -1,0 +1,226 @@
+[
+	{
+		"id": 333,
+		"category": 1,
+		"number": 333,
+		"text": "Vyberte pravdivé tvrzení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pole okolo bodového náboje není radiální",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pole okolo bodového náboje není homogenní",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "intenzita elektrického pole je vektorová veličina",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "velikost elektrické síly, kterou na sebe působí 2 bodové náboje je přímo úměrn permitivitě prostředí",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 334,
+		"category": 1,
+		"number": 334,
+		"text": "Označte správné tvrzení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pro intenzitu elektrického pole užíváme jednotku V.m-",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mezi dvěma paralelními, elektricky izolovanými nabitými deskami je radiální elektrick pole",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "elektrické pole okolo bodového náboje není homogenní",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "velikost elektrické síly, kterou na sebe působí dva bodové náboje, je nepřímo úměrn permitivitě prostředí",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 335,
+		"category": 1,
+		"number": 335,
+		"text": "Označte správné tvrzení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "intenzita elektrického pole je vektor opačného směru ve srovnání s vektorem elektrick síly působící na kladný náboj",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "elektrické pole mezi dvěma izolovanými, rovnoběžnými, elektricky nabitými deskami které nesou stejně velký náboj opačného znaménka, lze prakticky považovat z homogenní",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "okolo bodového elektrického náboje je radiální elektrické pole",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "elektrické pole okolo bodového elektrického náboje není homogenní",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 336,
+		"category": 1,
+		"number": 336,
+		"text": "Vyberte pravdivé tvrzení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "intenzita elektrického pole je vektor kolmý na směr vektoru elektrické síly",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "za prakticky homogenní můžeme považovat elektrické pole mezi dvěma rovnoběžnými izolovanými deskami nabitými stejným nábojem opačného znaménka",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pole okolo bodového náboje je homogenní",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pole okolo bodového náboje je radiální",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 337,
+		"category": 1,
+		"number": 337,
+		"text": "Označte správné tvrzení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "podle definice intenzity elektrického pole by bylo možno pro tuto veličinu užít jednotk N.C-1",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "intenzita elektrického pole a elektrická síla působící na kladný náboj jsou vektor stejného směru",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "okolo bodového elektrického náboje je radiální elektrické pole",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "intenzita elektrického pole je skalární veličina",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 338,
+		"category": 1,
+		"number": 338,
+		"text": "Uvnitř elektricky nabité koule je elektrický potenciál o = konst # 0. Intenzit elektrického pole E uvnitř koule:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "E = konst # 0",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "E= 0",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "lineárně roste s rostoucí vzdáleností od středu koule",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "lineárně klesá s rostoucí vzdálenosti od středu koule",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 339,
+		"category": 1,
+		"number": 339,
+		"text": "Jaká je intenzita elektrického pole ve vakuu ve vzdálenosti 30 cm od bodovéh náboje o velikosti 5 uC?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "5x104 N.C-1",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "9x105 N.C-1",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "9x106 N.C-1",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "5x105 N.C-1",
+				"correct": true
+			}
+		]
+	}
+]

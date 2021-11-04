@@ -1,0 +1,258 @@
+[
+	{
+		"id": 425,
+		"category": 1,
+		"number": 425,
+		"text": "Mezi stavové veličiny patří",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "teplota",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vnitřní energie",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "teplo",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "objem",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 426,
+		"category": 1,
+		"number": 426,
+		"text": "Vyberte nesprávné tvrzení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "teplo je stavovou veličinou",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vnitřní energie je stavovou veličinou",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "objem není stavovou veličinou",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "práce je stavovou veličinou",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 427,
+		"category": 1,
+		"number": 427,
+		"text": "Vyberte správné tvrzení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "teplo je stavovou veličinou",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "práce není stavovou veličinou",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vnitřní energie je stavovou veličinou",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "objem je stavovou veličinou",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 428,
+		"category": 1,
+		"number": 428,
+		"text": "Která z následujících veličin závisí nikoliv pouze na stavu soustavy, ale na cestě kterou se soustava dostala z jednoho stavu do druhého?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vnitřní energie",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "objem",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "tlak",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "práce dodaná do systému či odebraná ze systému",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 429,
+		"category": 1,
+		"number": 429,
+		"text": "Která z následujících veličin závisí nikoliv pouze na stavu soustavy, ale n způsobu, kterým byla soustava přivedena z jednoho stavu do druhého",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "objem",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "teplo dodané do systému či odebrané ze systému",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vnitřní energie",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "teplota",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 430,
+		"category": 1,
+		"number": 430,
+		"text": "Vyberte nesprávné tvrzení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v rovnovážném stavu se stavové veličiny dané soustavy nemění",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v rovnovážném stavu se některé stavové veličiny dané soustavy mění, jiné nikoliv",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v rovnovážném stavu se částice látky dané soustavy nepohybují",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v rovnovážném stavu na sebe částice látky dané soustavy navzájem nepůsobí",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 431,
+		"category": 1,
+		"number": 431,
+		"text": "Vyberte dvojici, ve které jsou obě uvedené veličiny veličinami stavovými (Q znač teplo, T termodynamickou teplotu, p tlak, U vnitřní energii, V objem a W práci):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "UT",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "p, Q",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "V, p",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Wp",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 432,
+		"category": 1,
+		"number": 432,
+		"text": "Vyberte dvojici, ve které jsou obě uvedené veličiny veličinami stavovými (Q znač teplo, T termodynamickou teplotu, p tlak, U vnitřní energii, V objem a W práci):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "QT",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "p, T",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "U V",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "WQ",
+				"correct": false
+			}
+		]
+	}
+]

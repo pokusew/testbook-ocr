@@ -1,0 +1,258 @@
+[
+	{
+		"id": 1126,
+		"category": 1,
+		"number": 1126,
+		"text": "Při zobrazení rozptylkou je obraz předmětu nacházejícího se v ohnisku čočky",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "skutečný",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zvětšený",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "převrácený",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zmenšený",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1127,
+		"category": 1,
+		"number": 1127,
+		"text": "Jednotkou zářivosti je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "W.sr-1",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "W.sr",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "W",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Im",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1128,
+		"category": 1,
+		"number": 1128,
+		"text": "Jednotkou optické mohutnosti v oční optice je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dioptrie",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dioptrie-1",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dioptrie.m",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "dioptrie.m-1",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1129,
+		"category": 1,
+		"number": 1129,
+		"text": "Pro příčné zvětšení z čočky platí",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Z= -a'/a",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Z = (a - f)/a",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Z = (a' – f)/a",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Z=-(a' - f)/f",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1130,
+		"category": 1,
+		"number": 1130,
+		"text": "Při zobrazení rozptylkou vzniká vždy obraz",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "neskutečný",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "skutečný",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "přímý",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zvětšený",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1131,
+		"category": 1,
+		"number": 1131,
+		"text": "Při zobrazení rozptylkou je obraz předmětu nacházejícího se mezi ohniskem středem čočky",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "skutečný",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "přímý",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zvětšený",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zmenšený",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1132,
+		"category": 1,
+		"number": 1132,
+		"text": "Při zobrazení spojkou je obraz předmětu nacházejícího se mezi ohniskem středem čočky",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zmenšený",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "převrácený",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zvětšený",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "skutečný",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1133,
+		"category": 1,
+		"number": 1133,
+		"text": "Při zobrazení spojkou je obraz předmětu nacházejícího se ve dvojnásobn ohniskové vzdálenosti",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "přímý",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zvětšený",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zmenšený",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "stejně velký",
+				"correct": true
+			}
+		]
+	}
+]

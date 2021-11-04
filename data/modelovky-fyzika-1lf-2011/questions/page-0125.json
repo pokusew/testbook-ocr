@@ -1,0 +1,258 @@
+[
+	{
+		"id": 930,
+		"category": 1,
+		"number": 930,
+		"text": "Je-li o fázový posun střídavého napětí a proudu, pak výkon střídavého proud o napětí U a intenzitě I v obvodu s impedancí je dán vztahem",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "P= UIcos",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "P = Ultgo",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "P = UI",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "P = Ulsing",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 931,
+		"category": 1,
+		"number": 931,
+		"text": "Činný výkon střídavého proudu v obvodu s impedancí má jednotku",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "watt.s-1",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "watt.s",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "watt",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "watt-1",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 932,
+		"category": 1,
+		"number": 932,
+		"text": "Činný výkon střídavého proudu v obvodu s impedancí je největší, je-li fázov posun",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1/2 rad",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1/4 rad",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1/8 rad",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "O rad",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 933,
+		"category": 1,
+		"number": 933,
+		"text": "Činný výkon střídavého proudu v RLC obvodu",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je největší, je-li induktivní reaktance značně větší než kapacitní reaktance",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je největší, je-li induktivní reaktance značně menší než kapacitní reaktance",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je největší při rezonanci",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "závisí na frekvenci střídavého proudu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 934,
+		"category": 1,
+		"number": 934,
+		"text": "Činný výkon střídavého proudu v RLC obvodu je nulový, je-li fázový posun",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1/2 rad",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1/4 rad",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1/8 rad",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "O rad",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 935,
+		"category": 1,
+		"number": 935,
+		"text": "Vedením přenosové soustavy jednofázového střídavého proudu je přenáše výkon 33 MW. Určete ztráty výkonu ve vedení při napětí 22 kV, má-li vedení odpo 0,12 12.",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,14 MW",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,27 MW",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "0,42 MW",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "0,56 MW",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 936,
+		"category": 1,
+		"number": 936,
+		"text": "Vedením přenosové soustavy jednofázového střídavého proudu je přenáše výkon 33 MW. Určete ztráty výkonu ve vedení při napětí 6,6 kV, má-li veden odpor 0,12 12.",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1 MW",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "2 MW",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "3 MW",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "4 MW",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 937,
+		"category": 1,
+		"number": 937,
+		"text": "Zařazením kondenzátoru do obvodu střídavého proudu dojde k fázovému posuv proudu vzhledem k napětí o",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1/4 rad",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "-1/2 rad",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1/2 rad",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "-T/4 rad",
+				"correct": false
+			}
+		]
+	}
+]

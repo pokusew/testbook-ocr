@@ -1,0 +1,226 @@
+[
+	{
+		"id": 297,
+		"category": 1,
+		"number": 297,
+		"text": "Rychlost tělesa při volném pádu v závislosti na čase znázorníme v pravoúhlýc souřadnicích jako",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "přímku rovnoběžnou s vodorovnou osou",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "přímku o směrnici g",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "parabolu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "hyperbolu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 298,
+		"category": 1,
+		"number": 298,
+		"text": "Zrychlení tělesa při volném pádu v závislosti na čase znázorníme v pravoúhlýc souřadnicích jako",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "přímku rovnoběžnou s vodorovnou osou",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "přímku o směrnici g",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "parabolu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "hyperbolu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 299,
+		"category": 1,
+		"number": 299,
+		"text": "Označíme-li gravitační zrychlení g, pak pro těleso vržené svisle vzhůru rychlost o velikosti v, lze vyjádřit výšku výstupu h jako",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "h = Vog",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "h = vo/g",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "h = (vo)?/g",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "h = (v.)?/(28)",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 300,
+		"category": 1,
+		"number": 300,
+		"text": "Označíme-li gravitační zrychlení g, pak těleso, které bylo vrženo svisle vzhůru dosáhlo výšky h dopadne zpět na povrch Země rychlostí v danou vztahem",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v = 2gh",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v= (2gh)?",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v = 2gh?",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "y= 2gh",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 301,
+		"category": 1,
+		"number": 301,
+		"text": "Těleso bylo vrženo svisle vzhůru rychlostí vo při gravitačním zrychlení g. Dopadl zpět na povrch Země rychlostí v. Odpor vzduchu zanedbáváme. Platí, že",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v = vo/2",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v = Vo",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v = = 2vo",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v = gvo",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 302,
+		"category": 1,
+		"number": 302,
+		"text": "Při vodorovném vrhu je výsledné posunutí za určitý čas rovno",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "skalárnímu součtu dvou posunutí",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vektorovému součtu dvou posunutí, kde obě posunutí odpovídají rovnoměrném přímočarému pohybu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vektorovému součtu dvou posunutí, kde jedno odpovídá rovnoměrnému přímočarému druhé rovnoměrně zrychlenému přímočarému pohybu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vektorovému součtu dvou posunutí, kde obě odpovídají rovnoměrně zrychleném přímočarému pohybu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 303,
+		"category": 1,
+		"number": 303,
+		"text": "Dráha, kterou těleso vykoná během prvých 5 sekund od počátku volného pád z původně klidové polohy, při zanedbatelném odporu vzduchu, je přibližně",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "20 m",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "40 m",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "90 m",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "125 m",
+				"correct": true
+			}
+		]
+	}
+]

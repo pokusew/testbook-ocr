@@ -1,0 +1,258 @@
+[
+	{
+		"id": 729,
+		"category": 1,
+		"number": 729,
+		"text": "Voltmetr o odporu 50 12 ukazuje napětí 1,75 V. Jaký náboj jím projde za 2 minuty?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1,20",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "2,2 C",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "3,20",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "4,2 C",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 730,
+		"category": 1,
+		"number": 730,
+		"text": "Je-li odpor voltmetru R, a máme-li jeho rozsah zvětšit 5krát, předřadíme m rezistor s odporem",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "4R,",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "5R",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "R/4",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Ry/5",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 731,
+		"category": 1,
+		"number": 731,
+		"text": "Předřadíme-li voltmetru o odporu R, rezistor o odporu 5Ry, zvětšíme jeho rozsah",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "3krát",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "4krát",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "5krát",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "6krát",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 732,
+		"category": 1,
+		"number": 732,
+		"text": "Voltmetr s odporem Ry a rozsahem do 60 V má být použit k měření napětí d 300 V. K příslušnému zvětšení rozsahu přístroje je třeba předřadit rezisto odporu",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "5R,",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "4R",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Ry/5",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Ry/4",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 733,
+		"category": 1,
+		"number": 733,
+		"text": "Předřadíme-li voltmetru o odporu Ry a rozsahu 6 V rezistor o odporu 4 R, bud možno měřit napětí do",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "18 V",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "24 V",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "30 V",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "36 V",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 734,
+		"category": 1,
+		"number": 734,
+		"text": "Máme voltmetr o odporu 24 kl2, jehož rozsah je do 12 V. Potřebujeme-li tímt přístrojem měřit v rozsahu do 60 V",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "předřadíme mu rezistor o odporu 96 kn",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "předřadíme mu rezistor o odporu 120 kN2",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "přiřadíme k němu bočník o odporu 6 k12",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "přiřadíme k němu bočník o odporu 4,8 ks",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 735,
+		"category": 1,
+		"number": 735,
+		"text": "Dva rezistory, každý o odporu 30 k12, jsou zapojeny sériově (za sebou). Výsledn odpor činí",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "7,5 kΩ",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "60 k12",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "0,15 kΩ",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "15 k22",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 736,
+		"category": 1,
+		"number": 736,
+		"text": "Dva rezistory, každý o odporu 20 k12, jsou zapojeny sériově (za sebou). Výsledn odpor činí",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "20 k12",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,1 k12",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "40 k12",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "10 k.12",
+				"correct": false
+			}
+		]
+	}
+]

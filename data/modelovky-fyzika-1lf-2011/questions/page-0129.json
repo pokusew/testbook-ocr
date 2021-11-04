@@ -1,0 +1,258 @@
+[
+	{
+		"id": 963,
+		"category": 1,
+		"number": 963,
+		"text": "Jednotkou úhlové frekvence je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "rad.s-1",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "rad.s",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "rad-1",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "rad",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 964,
+		"category": 1,
+		"number": 964,
+		"text": "Které tvrzení je správné? Úhlová frekvence",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je nepřímo úměrná periodě",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je nepřímo úměrná frekvenci",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je přímo úměrná frekvenci",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "má jednotku radián.sekunda",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 965,
+		"category": 1,
+		"number": 965,
+		"text": "Které z následujících tvrzení je nesprávné? Jednoduchý kmitavý pohyb je pohyb",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "aperiodický, přímočarý a nerovnoměrný",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "periodický, přímočarý a rovnoměrný",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "periodický, přímočarý a nerovnoměrný",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "periodický, křivočarý a nerovnoměrný",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 966,
+		"category": 1,
+		"number": 966,
+		"text": "Zrychlení kmitavého pohybu je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "přímo úměrné okamžité výchylce a v každém okamžiku má opačný směr",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nepřímo úměrné okamžité výchylce a v každém okamžiku má opačný směr",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "přímo úměrné okamžité výchylce a v každém okamžiku má souhlasný směr",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nepřímo úměrné okamžité výchylce a v každém okamžiku má souhlasný směr",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 967,
+		"category": 1,
+		"number": 967,
+		"text": "Rychlost kmitavého pohybu je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "konstantní",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "lineárně rostoucí s časem",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "harmonickou funkcí času",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nezávislá na úhlové frekvenci",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 968,
+		"category": 1,
+		"number": 968,
+		"text": "Který převodní vztah je správný?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "30º = 17/4 rad",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "30º = 1/6 rad",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "45º = 1/6 rad",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "45º = 1/3 rad",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 969,
+		"category": 1,
+		"number": 969,
+		"text": "Mezi dvěma veličinami harmonického pohybu stejné frekvence je fázový rozdí 2kt rad. Pak obě veličiny",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mají stejnou fázi",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mají opačnou fázi",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dosahují maximální amplitudy v časech posunutých o T/4",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "dosahují maximální amplitudy v časech posunutých o 3/2 T",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 970,
+		"category": 1,
+		"number": 970,
+		"text": "Mezi dvěma veličinami harmonického pohybu stejné frekvence je fázový rozdí (2k+1)n rad. Pak obě veličiny",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mají stejnou fázi",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nají opačnou fázi",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dosahují maximální amplitudy v časech posunutých o T/4",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "dosahují maximální amplitudy v časech posunutých o 3T/ !",
+				"correct": false
+			}
+		]
+	}
+]

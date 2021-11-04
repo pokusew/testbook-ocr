@@ -6,23 +6,20 @@ d) van der Waalsova
 552. Typů jednoduchých deformací pevného tělesa je celkem
 a) 3
 b) 4
+C) 5
 d) 6
 553. Jednotkou normálového napětí (které podává kvantitativní informaci o stavu
 napjatosti při deformaci tahem) je
 a) N
 B) Pa
-c) N.m-1
+c) N.m^-1
 d) V
-р
-=
-=
-p
 554. Označíme-li tlakovou sílu F, a průřez tyče S, je normálové napětí o, je definováno
 jako
-A) 0,= F/S
-b) 0,= S/FR
-c) 0,= S.F,
-d) on = F/r
+A) sigma_n = F/S
+b) sigma_n = S/FR
+c) sigma_n = S.F,
+d) sigma_n = F/r
 555. Označíme-li modul pružnosti v tahu E, normálové napětí on, délku la sílu F, je
 možno relativní prodloužení tahem vypočítat jako
 a) Elon

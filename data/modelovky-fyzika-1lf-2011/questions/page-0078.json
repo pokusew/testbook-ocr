@@ -1,0 +1,226 @@
+[
+	{
+		"id": 559,
+		"category": 1,
+		"number": 559,
+		"text": "Jak velká síla způsobí prodloužení ocelové tyče průřezu 3 cm? o 0,1% původn délky (E = 0,2 TPa)?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "20 kN",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "30 kN",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "60 kN",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "80 kN",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 560,
+		"category": 1,
+		"number": 560,
+		"text": "Jednotkou součinitele délkové teplotní roztažnosti je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "K-1",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "K.m-1",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "K.m",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "K.m-2",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 561,
+		"category": 1,
+		"number": 561,
+		"text": "Jaký bude rozdíl mezi nejdelší a nejkratší délkou elektrického veden z měděného drátu (acu = 1,7.10-56-?), jehož délka při 0 °C je 50 m, počítáme-li s změnami teplot v průběhu roku mezi -20 °C a +30 °C?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "22,5 mm",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "42,5 mm",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "62,5 mm",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "82,5 mm",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 562,
+		"category": 1,
+		"number": 562,
+		"text": "Jaký teplotní rozdíl (zaokrouhleno na celé číslo) odpovídá relativním prodloužení hliníkového drátu (Qai = 2,4.10-SK-?) o 0,1%?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "20 K",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "206 K",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "87 K",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "42 K",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 563,
+		"category": 1,
+		"number": 563,
+		"text": "Jaký bude relativní délkový rozdíl vyjádřený v procentech pro železnou ty (afe = 1,2.10-5K-?) při změnách teploty mezi -20 a 30 °C?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,06%",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,12%",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "0,18%",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "0,24%",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 564,
+		"category": 1,
+		"number": 564,
+		"text": "Dva dráty, z hliníku a mědi, mají při 20 °C délku 100 m. Jaký bude rozdíl jejic délek při –20 °C (aa = 2,4.10-56-1, acu = 1,7.10-56-?)?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "96 mm",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "68 mm",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "28 mm",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "164 mm",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 565,
+		"category": 1,
+		"number": 565,
+		"text": "Uvažujme železnou odměrnou nádobu kalibrovanou na objem 10 dm3 z předpokladu teploty měřené kapaliny 20 °C. Jaké absolutní chyby se zhrub dopustíme, budeme-li měřit objem při teplotě 80 °C (afe = 1,2.10-5K-)?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "3 ml",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "21,6 ml",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "300 ml",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "3 பகை",
+				"correct": false
+			}
+		]
+	}
+]

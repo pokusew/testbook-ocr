@@ -1,0 +1,258 @@
+[
+	{
+		"id": 628,
+		"category": 1,
+		"number": 628,
+		"text": "Pomocí permitivity zpravidla charakterizujeme určitou vlastnost",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kovu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dielektrika",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "polovodiče",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "elektrolytu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 629,
+		"category": 1,
+		"number": 629,
+		"text": "Která z následujících látek je typickým dielektrikem?:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "porcelán",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "petrolej",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "roztok chloridu sodného ve vodě",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "germanium",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 630,
+		"category": 1,
+		"number": 630,
+		"text": "Která z následujících látek je typickým dielektrikem?:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ionizovaný plyn",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "železo",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "petrolej",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "křemík",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 631,
+		"category": 1,
+		"number": 631,
+		"text": "Mezi typické izolanty patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "sulfid kademnatý",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "olej",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "roztok kyseliny sírové",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "slída",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 632,
+		"category": 1,
+		"number": 632,
+		"text": "Mezi typické izolanty nepatří",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "křemík",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "sklo",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "slída",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "sulfid kademnatý",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 633,
+		"category": 1,
+		"number": 633,
+		"text": "Hodnoty relativních permitivit jsou následující: suchý vzduch - 1,0006 parafín – 2,0 až 2,2, voda - 81,6. V kterém prostředí bude za jinak stejnýc podmínek největší intenzita elektrického pole?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ve vakuu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v suchém vzduchu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v parafínu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ve vodě",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 634,
+		"category": 1,
+		"number": 634,
+		"text": "Hodnoty relativních permitivit jsou následující: suchý vzduch - 1,0006 parafín – 2,0 až 2,2, voda - 81,6. V kterém prostředí bude za jinak stejnýc podmínek nejmenší intenzita elektrického pole?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ve vakuu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v suchém vzduchu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v parafínu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ve vodě",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 635,
+		"category": 1,
+		"number": 635,
+		"text": "Hodnoty relativních permitivit jsou: dusík – 1,00061, transformátorový olej - 2,2 sklo - 5 až 16, etanol - 24. V kterém prostředí bude za jinak stejných podmíne nejmenší intenzita elektrického pole?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v dusíku",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v transformátorovém oleji",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ve sklu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v etanol -",
+				"correct": true
+			}
+		]
+	}
+]

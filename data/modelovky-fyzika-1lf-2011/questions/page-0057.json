@@ -1,0 +1,258 @@
+[
+	{
+		"id": 401,
+		"category": 1,
+		"number": 401,
+		"text": "Kapacita nabitého deskového kondenzátoru ve vakuu je 5 pF. Použijeme-li jak dielektrikum sklo (Ex = 6) bude jeho kapacita",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,83 pF",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1,2 pF",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "30 pF",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "180 pF",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 402,
+		"category": 1,
+		"number": 402,
+		"text": "Intenzita elektrického pole nabitého deskového kondenzátoru ve vakuu j 6 kV.m-1. Použijeme-li jako dielektrikum sklo (Ex = 6), bude intenzita jeh elektrického pole",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1 kV.m-1",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "6 kV.m-1",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "36 kv.m-1",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "60 kV.m-1",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 403,
+		"category": 1,
+		"number": 403,
+		"text": "Plošná hustota elektrického náboje je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "přímo úměrná intenzitě elektrického pole při vnějším povrchu vodiče",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nepřímo úměrná intenzitě elektrického pole při vnějším povrchu vodiče",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "přímo úměrná kvadrátu intenzity elektrického pole při vnějším povrchu vodiče",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nepřímo úměrná kvadrátu intenzity elektrického pole při vnějším povrchu vodiče",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 404,
+		"category": 1,
+		"number": 404,
+		"text": "Plošná hustota elektrického náboje na povrchu kovové koule o průměru 20 cm je-li na něm rovnoměrně rozmístěn náboj 12,56 mC je přibližně",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "100 mC.m-2",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "50 mC.m-2",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "25 mC.m-2",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "10 mC.m-2",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 405,
+		"category": 1,
+		"number": 405,
+		"text": "Grafickým znázorněním sil působících mezi dvěma částicemi (např.molekulami jako funkce vzdálenosti je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "přímka",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "monotonně klesající křivka",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "monotonně stoupající křivka",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "křivka s extrémní hodnotou v určité krátké vzdálenosti",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 406,
+		"category": 1,
+		"number": 406,
+		"text": "Uvažujeme-li závislost sil působících mezi dvěma částicemi (např.molekulami na jejich vzdálenosti",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jde pouze o přitažlivé síly",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jde pouze o odpudivé síly",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jde o přitažlivé i odpudivé síly a výsledná křivka je součtem křivek pro tyto dva typy sil",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mezi dvěma molekulami nepůsobí žádné síla",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 407,
+		"category": 1,
+		"number": 407,
+		"text": "Budiž r vzdálenost dvou částic v rovnovážné poloze. Ve vzdálenosti větší nežr j výsledná síla mezi částicemi",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "přitažlivá",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "odpudivá",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nulová",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "přitažlivá nebo odpudivá, v závislosti na velikosti částic",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 408,
+		"category": 1,
+		"number": 408,
+		"text": "Vyberte nesprávné tvrzení: Pro vzdálenost r mezi dvěma částicemi (např.mez dvěma molekulami vody), která odpovídá rovnovážné poloze, je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "výsledná síla přitažlivá",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "výsledná síla nulová",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "výsledná síla odpudivá",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nelze jednoznačně odpovědět",
+				"correct": true
+			}
+		]
+	}
+]

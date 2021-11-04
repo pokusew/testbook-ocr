@@ -1,0 +1,258 @@
+[
+	{
+		"id": 955,
+		"category": 1,
+		"number": 955,
+		"text": "Výkon transformátoru připojeného na sítové napětí 230 V je 4,6 kW. Ja velký proud prochází sekundární cívkou při transformačním poměru k = 0,4 účinnosti transformátoru 1?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "10 A",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "20 A",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "30 A",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "50 A",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 956,
+		"category": 1,
+		"number": 956,
+		"text": "Příkon transformátoru je 1 kW, účinnost 95%. Jaký proud prochází sekundární vinutím, ke kterému je připojen rezistor, jestliže sekundární napětí je 50 V?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "12 A",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "16 A",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "19 A",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "24 A",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 957,
+		"category": 1,
+		"number": 957,
+		"text": "Transformátor je připojen na sítové napětí 230 V. Ze sekundárního vinutí chcem odebírat proud 2 A při napětí 10 V. Jaký proud prochází primárním vinutím Ztráty neuvažujte.",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "87 mA",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "100 mA",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "124 mA",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "174 mA",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 958,
+		"category": 1,
+		"number": 958,
+		"text": "Ztráty výkonu v elektrické rozvodné síti jsou",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "úměrné kvadrátu proudu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "úměrné proudu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "úměrné odmocnině z proudu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nezávislé na proudu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 959,
+		"category": 1,
+		"number": 959,
+		"text": "Kapacitní reaktance kondenzátoru o kapacitě 300 uF v obvodu střídavéh proudu s frekvencí 50 Hz je přibližně",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,112",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1.12",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "10.12",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "10012",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 960,
+		"category": 1,
+		"number": 960,
+		"text": "Časový průběh napětí v elektrovodné síti nelze zjistit",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "potenciometrem",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "osciloskopem",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "voltmetrem",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ampermetrem",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 961,
+		"category": 1,
+		"number": 961,
+		"text": "Frekvence srdeční činnosti člověka je kolem",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1 mHz",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1 Hz",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "10 Hz",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "70 Hz",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 962,
+		"category": 1,
+		"number": 962,
+		"text": "Rozsah fáze harmonicky proměnné veličiny je od 0 do",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pi/2",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pi",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "3pi/2",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "2pi",
+				"correct": true
+			}
+		]
+	}
+]

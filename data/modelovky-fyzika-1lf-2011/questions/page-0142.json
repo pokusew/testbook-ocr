@@ -1,0 +1,258 @@
+[
+	{
+		"id": 1068,
+		"category": 1,
+		"number": 1068,
+		"text": "Které z následujících tvrzení je správné? Ultrazvuk",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nevnímáme sluchem",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "má malou absorpci v plynech",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "má malou absorpci v kapalinách",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "má malou absorpci v pevných látkách",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1069,
+		"category": 1,
+		"number": 1069,
+		"text": "Které z následujících tvrzení je správné? Infrazvuk",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se špatně šíří ve vodě",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "má frekvenci nižší než 16 Hz",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je neslyšitelný",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "má větší vlnovou délku než slyšitelný zvuk",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1070,
+		"category": 1,
+		"number": 1070,
+		"text": "Ultrazvuk",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "může člověk ve vodě slyšet",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se silně absorbuje v plynech",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se málo absorbuje v kapalinách",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se silně absorbuje v pevných látkách",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1071,
+		"category": 1,
+		"number": 1071,
+		"text": "Absolutní výška tónu je určena",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "rezonanční skříní zdroje",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "amplitudou kmitů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "frekvencí zdroje",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "obsahem vyšších harmonických tónů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1072,
+		"category": 1,
+		"number": 1072,
+		"text": "Frekvence slyšitelné lidským uchem mají rozsah",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "16 Hz až 16 kHz",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "50 Hz až 20 kHz",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1 Hz až 16 kHz",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "50 Hz až 16 kHz",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1073,
+		"category": 1,
+		"number": 1073,
+		"text": "Sluchové ústrojí člověka je nejcitlivější na zvuk o frekvenci",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "16 až 50 Hz",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "300-400 Hz",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "600-6000 Hz",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "7-10 kHz",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1074,
+		"category": 1,
+		"number": 1074,
+		"text": "Vlnová délka elektromagnetické vlny ve vakuu při frekvenci 50 Hz je přibližně",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "60 km",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "600 km",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "6000 km",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "60000 km",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1075,
+		"category": 1,
+		"number": 1075,
+		"text": "Elektromagnetické vlnění o vlnové délce 300 m proniká ze vzduchu d homogenního prostředí, v němž se šíří rychlostí 2x108 m.s-1. Určete jeho vlnovo délku v tomto prostředí.",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "350 m",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "300 m",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "250 m",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "200 m",
+				"correct": true
+			}
+		]
+	}
+]

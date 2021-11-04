@@ -1,5 +1,3 @@
-V
-m
 979. Perioda vlastních kmitů kyvadla závisí na
 A) délce kyvadla
 b) hmotnosti závaží
@@ -11,8 +9,8 @@ A) Vm=w.ym
 b) v.= (w/21]ym
 C) Vm = 2t1f.ym
 D) = (2TT/T)ym
-981. Amplituda složeného kmitání dvou harmonických kmitání stejného směru
-a stejné frekvence je nejmenší, když pro jejich fázový rozdíl Aą platí
+981. Amplituda složeného kmitání dvou harmonických kmitání stejného směru a
+stejné frekvence je nejmenší, když pro jejich fázový rozdíl Aą platí
 a) Δφ = 0
 b) Δφ = π/2
 C) Δφ = π
@@ -22,7 +20,7 @@ dána vztahem
 A) T = 21/(l/g)
 b) T = 1/(21/(l/g))
 c) T = 211/(g/1))
-T = 1/(21/(g/l))
+d) T = 1/(21/(g/l))
 983. Jaká je doba kyvu kuličky zavěšené na niti dlouhé 10 cm? Uvažujte hodnotu
 gravitačního zrychlení 10 m.s-?.
 A) 0,314 s

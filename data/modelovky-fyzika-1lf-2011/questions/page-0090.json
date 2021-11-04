@@ -1,0 +1,226 @@
+[
+	{
+		"id": 652,
+		"category": 1,
+		"number": 652,
+		"text": "Střední rychlost pohybu volných elektronů v kovu",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je při teplotě 0 K nulová",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je téměř nezávislá na teplotě",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "závisí na teplotě stejným způsobem jako střední rychlost pohybu molekul plynu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "roste se stoupající teplotou",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 653,
+		"category": 1,
+		"number": 653,
+		"text": "Uved'te správné tvrzení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "existence elektrického odporu v kovu je dána předáváním hybnosti elektronu částící krystalové mřížky",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "po připojení kovového vodiče ke zdroji elektromotorického napětí nastane pouz částečně uspořádaný pohyb elektronů",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pohyb elektronů v kovovém vodiči po připojení zdroje elektromotorického napětí j přísně uspořádaný",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "rychlost elektronů způsobená silami elektrického pole je nízká ve srovnání se středn rychlostí neuspořádaného pohybu elektronů",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 654,
+		"category": 1,
+		"number": 654,
+		"text": "Tři druhy částic (kladně nabité ionty, záporně nabité ionty a elektrony) s podílejí na přenosu náboje",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v kovech",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v elektrolytech",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v polovodičích",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vionizovaném plynu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 655,
+		"category": 1,
+		"number": 655,
+		"text": "Značí-li Q náboj a t čas, je intenzita I konstantního proudu procházejícíh vodičem dána vztahem",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "I = Q/t",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1 = Q.t",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "I = U/t",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "I = C/t",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 656,
+		"category": 1,
+		"number": 656,
+		"text": "Vodičem prochází konstantní proud 20 mA. Jaký náboj prošel průřezem vodiče z 50 min?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "10 C",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "15 C",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "30 C",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "60 C",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 657,
+		"category": 1,
+		"number": 657,
+		"text": "Za 5 hodin byl při konstantním proudu přenesen náboj 7,2 kС. Jaká byla hodnot proudu?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,6 A",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,4 A",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "0,2 A",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "0,1 A",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 658,
+		"category": 1,
+		"number": 658,
+		"text": "Vodičem prochází konstantní proud 25 mA. Určete celkový náboj částic, kter prošly průřezem vodiče za 40 minut.",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "10C",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "30C",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "60 C",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "60 k =",
+				"correct": false
+			}
+		]
+	}
+]

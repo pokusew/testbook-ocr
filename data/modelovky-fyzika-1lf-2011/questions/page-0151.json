@@ -1,0 +1,258 @@
+[
+	{
+		"id": 1142,
+		"category": 1,
+		"number": 1142,
+		"text": "Lupa zvětšuje při pozorování okem bez akomodace 10krát. Jaká je její optick mohutnost?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "40 D",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "30 D",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "20 D",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "10 D",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1143,
+		"category": 1,
+		"number": 1143,
+		"text": "Konvenční zraková vzdálenost je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "15 cm",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "20 cm",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "25 cm",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "35 cm",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1144,
+		"category": 1,
+		"number": 1144,
+		"text": "Které z následujících tvrzení je správné? Oko je krátkozraké",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "má-li čočka příliš malou optickou mohutnost",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "má-li čočka příliš velkou optickou mohutnosť",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "má-li daleký bod v konečné vzdálenosti před okém",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je-li vůči normálnímu oku protažené do délky",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1145,
+		"category": 1,
+		"number": 1145,
+		"text": "Oko je krátkozraké",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "má-li daleký bod v nekonečné vzdálenosti a blízký bod posunutý dále od oka",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "má-li čočka příliš velkou optickou mohutnost",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "utváří-li se obraz předmětu za sítnicí",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je-li nutné použít ke korekci rozptylku",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1146,
+		"category": 1,
+		"number": 1146,
+		"text": "Dalekozraké oko",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "má blízký bod ve vzdálenosti větší než konvenční zraková vzdálenost",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "má blízký bod v konvenční zrakové vzdálenosti",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je korigováno spojkou",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je korigováno rozptylkou",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1147,
+		"category": 1,
+		"number": 1147,
+		"text": "Na sítnici se tvoří přiměřeně osvětlený obraz adaptaci",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "čočky",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "rohovky",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "cévnatky",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "duhovky",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1148,
+		"category": 1,
+		"number": 1148,
+		"text": "Krátkodobý zrakový vjem se při normálním osvětlení zachovává po dob přibližně",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1 ms",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "10 ms",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "0,05 s",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "0,1 s",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1149,
+		"category": 1,
+		"number": 1149,
+		"text": "Oko je schopno rozlišit dva body, když je vidí pod zorným úhlem alespoň",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1\"",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "10\"",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "25\"",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1'",
+				"correct": true
+			}
+		]
+	}
+]

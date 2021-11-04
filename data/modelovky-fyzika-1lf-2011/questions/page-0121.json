@@ -1,0 +1,290 @@
+[
+	{
+		"id": 896,
+		"category": 1,
+		"number": 896,
+		"text": "Který z následujících vztahů je správný?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1Wb = 1T. 1m2",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1Wb = 1T/1m2",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1Wb = 1N. 1A",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1Wb = 1T/1m",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 897,
+		"category": 1,
+		"number": 897,
+		"text": "Permeabilita je veličina charakterizující",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "difúzi látek",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "magnetické vlastnosti prostředí",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "viskozitu plynů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "elektrické vlastnosti prostředí",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 898,
+		"category": 1,
+		"number": 898,
+		"text": "Relativní permeabilità paramagnetických látek je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nepatrně menší než 1",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nepatrně větší než 1",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kolem 10",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "až 100000",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 899,
+		"category": 1,
+		"number": 899,
+		"text": "Relativní permeabilita diamagnetických látek je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nulová",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nepatrně menší než 1",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nepatrně větší než 1",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kolem 10",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 900,
+		"category": 1,
+		"number": 900,
+		"text": "Které tvrzení je správné? Mezi feromagnetické látky patří",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "měd",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "železo",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ocel",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nikl",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 901,
+		"category": 1,
+		"number": 901,
+		"text": "Mezi paramagnetické látky patří",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zlato",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "platina",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "měd",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "hliník",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 902,
+		"category": 1,
+		"number": 902,
+		"text": "Mezi diamagnetické látky patří",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kyslík",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zlato",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "měď",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "rtuť",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 903,
+		"category": 1,
+		"number": 903,
+		"text": "Mezi diamagnetické látky patří",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hliník",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zlato",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "rtuť",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mangan",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 904,
+		"category": 1,
+		"number": 904,
+		"text": "Odpor R rezistoru v jednoduchém obvodu střídavého proudu je vzhlede k obvodu stejnosměrného proudu",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "větší",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "stejný",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "menší",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "příčinou fázového posuvu střídavého napětí a proudu",
+				"correct": false
+			}
+		]
+	}
+]

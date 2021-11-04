@@ -1,0 +1,258 @@
+[
+	{
+		"id": 979,
+		"category": 1,
+		"number": 979,
+		"text": "Perioda vlastních kmitů kyvadla závisí na",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "délce kyvadla",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hmotnosti závaží",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "amplitudě výchylky",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "gravitačním zrychlení",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 980,
+		"category": 1,
+		"number": 980,
+		"text": "Značí-li w úhlovou rychlost, T periodu, f frekvenci a ym maximální výchylku, j amplituda rychlosti kmitavého pohybu vm určena vztahem",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Vm=w.ym",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v.= (w/21]ym",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Vm = 2t1f.ym",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "= (2TT/T)ym",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 981,
+		"category": 1,
+		"number": 981,
+		"text": "Amplituda složeného kmitání dvou harmonických kmitání stejného směru stejné frekvence je nejmenší, když pro jejich fázový rozdíl Aą platí",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Δφ = 0",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Δφ = π/2",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Δφ = π",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Δφ = {3/2).π",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 982,
+		"category": 1,
+		"number": 982,
+		"text": "Značí-li g gravitační zrychlení, je perioda T vlastních kmitů kyvadla o délce dána vztahem",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "T = 21/(l/g)",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "T = 1/(21/(l/g))",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "T = 211/(g/1))",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "T = 1/(21/(g/l))",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 983,
+		"category": 1,
+		"number": 983,
+		"text": "Jaká je doba kyvu kuličky zavěšené na niti dlouhé 10 cm? Uvažujte hodnot gravitačního zrychlení 10 m.s-?.",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,314 s",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1,25 s",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "2,5 s",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "5s",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 984,
+		"category": 1,
+		"number": 984,
+		"text": "Těleso zavěšené na pružině o tuhosti 20 N.m-- vykoná 10 kmitů za 3,14 s. Jaká j hmotnost tělesa?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "25 g",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "50 g",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "60 g",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "80 g",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 985,
+		"category": 1,
+		"number": 985,
+		"text": "Na pružině kmitá zavěšené těleso s periodou 1 s. Zvýšíme-li jeho hmotnost o 3 k pak je perioda kmitů 2 s. Jaká je hmotnost tělesa?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,5 kg",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1 kg",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "2 kg",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "4 kg",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 986,
+		"category": 1,
+		"number": 986,
+		"text": "Na pružině kmitá zavěšené těleso s periodou 1 s. Zvýšíme-li jeho hmotnost o 3 k pak je perioda kmitů 2 s. Jaká je přibližně tuhost pružiny?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "20 N.m-1",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "40 N.m-1",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "60 N.m-1",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "80 N.m- 7",
+				"correct": false
+			}
+		]
+	}
+]

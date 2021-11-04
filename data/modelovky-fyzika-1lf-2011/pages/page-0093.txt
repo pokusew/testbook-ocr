@@ -4,7 +4,7 @@ jeho 50% vybití?
 a) 1 hodinu
 B) 3 hodiny
 c) 6 hodin
-30 hodin
+d) 30 hodin
 676. Během úplného vybití akumulátoru by se přenesl celkový náboj 252 kС. Jak
 dlouho můžeme nejvýše akumulátor vybíjet proudem 14 A, nemáme-li překročit
 jeho 50% vybití?

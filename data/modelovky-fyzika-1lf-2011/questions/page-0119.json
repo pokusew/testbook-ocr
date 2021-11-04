@@ -1,0 +1,290 @@
+[
+	{
+		"id": 878,
+		"category": 1,
+		"number": 878,
+		"text": "Magnetické domény jsou vytvářeny atomy, jejichž magnetické momenty jsou",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "navzájem kolmé",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "opačně orientovány",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "stejně orientovány",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "orientovány na sobě nezávisle",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 879,
+		"category": 1,
+		"number": 879,
+		"text": "Curieova teplota je teplota, při níž",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dochází k rozpadům radioaktivních atomů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dochází k sublimaci",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "feromagnetická látka přestává být feromagnetickou",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "končí křivka vypařování v pt diagramu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 880,
+		"category": 1,
+		"number": 880,
+		"text": "Ferity",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mají relativní permeabilitu kolem 1",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou sloučeniny oxidu železa s oxidy jiných kovů",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mají značně větší měrný elektrický odpor než kovová feromagnetika",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "patří do skupiny diamagnetických látek",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 881,
+		"category": 1,
+		"number": 881,
+		"text": "Jednotkou intenzity magnetického pole je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "A.m-1",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "A.m",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "A.m2",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "A-2.m",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 882,
+		"category": 1,
+		"number": 882,
+		"text": "Velikost intenzity magnetického pole dlouhé cívky je určena",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pouze protékajícím proudem",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pouze počtem závitů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "délkou cívky",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "součinem proudu a hustoty závitů",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 883,
+		"category": 1,
+		"number": 883,
+		"text": "Relativní permeabilita feromagnetických látek",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je konstantní",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nezávisí na velikosti intenzity magnetického pole v látce",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je zhruba stejná jako permeabilita yakua",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "závisí na velikosti intenzity magnetického pole v látce",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 884,
+		"category": 1,
+		"number": 884,
+		"text": "Jednotkou magnetického indukčního toku je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "weber",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "tesla",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "henry",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "siemen house",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 885,
+		"category": 1,
+		"number": 885,
+		"text": "Magnetický indukční tok o rovinným závitem o ploše S, jehož normála svírá s směrem toku úhel a, je určen vztahem",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0 = BSsina",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0 = BScosa",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Q = B/Ssina",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "0 = B/Scos =",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 886,
+		"category": 1,
+		"number": 886,
+		"text": "Které z následujících tvrzení je správné? Indukované elektromotorické napět vzniká",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ve vodiči, který se pohybuje v časově neproměnném magnetickém poli",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v nepohybujícím se vodiči, který je v časově proměnném magnetickém poli",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ve vodiči, který se pohybuje v časově proměnném magnetickém poli",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v nepohybujícím se vodiči, který je v časově neproměnném magnetickém poli",
+				"correct": false
+			}
+		]
+	}
+]

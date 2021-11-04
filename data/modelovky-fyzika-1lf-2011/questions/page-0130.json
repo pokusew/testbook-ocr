@@ -1,0 +1,258 @@
+[
+	{
+		"id": 971,
+		"category": 1,
+		"number": 971,
+		"text": "Superpozicí neizochronních harmonických pohybů o blízkých úhlovýc frekvencích",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vzniká harmonický pohyb s větší amplitudou",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vzniká harmonický pohyb s menší amplitudou",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vzniká složitý harmonický pohyb",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vznikají rázy",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 972,
+		"category": 1,
+		"number": 972,
+		"text": "Mezi dvěma veličinami harmonického pohybu různé frekvence je konstantn fázový rozdíl 2kn rad. Pak",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mají obě veličiny stejnou fázi",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mají obě veličiny opačnou fázi",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mají obě veličiny stejnou amplitudu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "úvodní tvrzení nemá smysl",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 973,
+		"category": 1,
+		"number": 973,
+		"text": "Harmonický pohyb mechanického oscilátoru je způsoben sílou F, která",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "stále směřuje do rovnovážné polohy",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "stále směřuje z rovnovážné polohy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je přímo úměrná okamžité výchylce",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je přímo úměrná kvadrátu výchylky",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 974,
+		"category": 1,
+		"number": 974,
+		"text": "Úhlová frekvence vlastního kmítání netlumeného mechanického oscilátoru závisí",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pouze na vlastnostech oscilátoru, tj. hmotnosti a tuhosti",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "na velikosti gravitačního zrychlení v daném místě",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pouze na hmotnosti oscilátoru",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pouze na velikosti vnějších sil",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 975,
+		"category": 1,
+		"number": 975,
+		"text": "Zrychlení harmonického pohybu je přímo úměrné",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "výchylce",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "frekvenci",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "periodě",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "gravitačnímu zrychlení",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 976,
+		"category": 1,
+		"number": 976,
+		"text": "Perioda vlastního kmitání netlumeného mechanického oscilátoru závisí",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pouze na vlastnostech oscilátoru, tj. hmotnosti a tuhosti",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pouze na hmotnosti oscilátoru",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pouze na velikosti vnějších sil",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pouze na gravitačním zrychlení",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 977,
+		"category": 1,
+		"number": 977,
+		"text": "Fázový rozdíl dvou harmonických veličin o stejné frekvenci s počátečními fázem na n/2 činí",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "TI",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1/2",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1/4",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "T1/8",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 978,
+		"category": 1,
+		"number": 978,
+		"text": "Celková energie kmitání mechanického oscilátoru je přímo úměrná",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "druhé mocnině amplitudy výchylky",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "amplitudě výchylky",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "rychlosti vlastního kmitání",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "druhé mocnině rychlosti vlastního kmitán 3",
+				"correct": true
+			}
+		]
+	}
+]

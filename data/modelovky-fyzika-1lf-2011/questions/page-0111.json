@@ -1,0 +1,258 @@
+[
+	{
+		"id": 817,
+		"category": 1,
+		"number": 817,
+		"text": "V plynu může být elektrický náboj přenášen",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pouze elektrony",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pouze elektrony a kladnými ionty",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "elektrony, kladnými ionty a zápornými ionty",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pouze kladnými a zápornými ionty",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 818,
+		"category": 1,
+		"number": 818,
+		"text": "Které z následujících tvrzení týkajících se voltampérové charakteristiky výboje j správné?:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v první oblasti, kde proud roste lineárně s napětím se uplatňuje vliv rekombinace",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v oblasti nasyceného proudu jsou všechny ionty zachyceny deskami",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v oblasti nasyceného proudu závisí proud na napětí podle Ohmova zákona",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "při napětích převyšujících napětí v oblasti nasyceného proudu nastává samostatný výboj",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 819,
+		"category": 1,
+		"number": 819,
+		"text": "Vionizovaném plynu platí Ohmův zákon",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v oblasti nasyceného proudu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v oblasti samostatného výboje",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v oblasti nasyceného proudu a při nižších napětích",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pouze při nižších napětí než je napětí, při kterém nastává nasycení proudu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 820,
+		"category": 1,
+		"number": 820,
+		"text": "Na voltampérové charakteristice výboje rozlišujeme tento počet oblastí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "2",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "3",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "4",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 821,
+		"category": 1,
+		"number": 821,
+		"text": "Nejvyšších teplot se dosahuje v tomto typu samostatného výboje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "obloukový výboj",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jiskrový výboj",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "doutnavý výboj",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "koron a",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 822,
+		"category": 1,
+		"number": 822,
+		"text": "Při elektrickém výboji v trubici se zředěným plynem",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pozorujeme při katodě katodové světlo a ve zbývajícím, převažujícím prostoru trubic anodové světlo",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pozorujeme při anodě anodové světlo a ve zbývajícím, převažujícím prostoru trubic katodové světlo",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "celá trubice září stejným světlem",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zhruba polovina trubice je \"zaplněna” katodovým světlem a druhá polovina anodový světlem",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 823,
+		"category": 1,
+		"number": 823,
+		"text": "Který z následujících účinků nevyvolávají paprsky elektronů získané jak katodové záření?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ionizaci plynu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "světélkování látek",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jaderné reakce",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zahřívání materiálu, na který dopadnou",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 824,
+		"category": 1,
+		"number": 824,
+		"text": "Termoemise je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "emise tepelného záření",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "emise elektronů účinkem světla dopadajícího na katodu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ionizace plynu účinkem vysokých teplot",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "uvolňování elektronů z povrchu pevných nebo kapalných těles při vysoké teplotě",
+				"correct": true
+			}
+		]
+	}
+]

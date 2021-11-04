@@ -1,0 +1,226 @@
+[
+	{
+		"id": 706,
+		"category": 1,
+		"number": 706,
+		"text": "Baterie suchých článků v kapesní svítilně dodávala po dobu 1 hodiny prou 20 mA při svorkovém napětí 4,5 V. Jakou práci vykonaly elektrické síly ve vnějš části obvodu ?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "124 )",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "224)",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "324)",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "424 )",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 707,
+		"category": 1,
+		"number": 707,
+		"text": "Baterie suchých článků v kapesní svítilně dodávala po dobu 1 hodiny prou 20 mA při svorkovém napětí 4,5 V. Jaký celkový náboj prošel průřezem vodiče?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "36 C",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "48 C",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "72 C",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "84 C",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 708,
+		"category": 1,
+		"number": 708,
+		"text": "Označte správné tvrzení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "elektromotorické napětí je větší než svorkové napětí",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "svorkové napětí je větší než elektromotorické napětí",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "elektromotorické napětí je napětí na svorkách nezatíženého zdroje",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "svorkové napětí je napětí na svorkách zdroje, který je součástí uzavřeného obvodu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 709,
+		"category": 1,
+		"number": 709,
+		"text": "Elektromotorické napětí zdroje v uzavřeném obvodu V. s vnějším odporem R a vnitřním odporem R lze vyjádřit pomocí vztahu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "I = U/(R+R)",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "I = U/(R - R)",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "I = U/(R; - R)",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "I = U/R; - U/R",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 710,
+		"category": 1,
+		"number": 710,
+		"text": "S použitím vnějšího odporu Ra vnitřního odporu R; Ize výraz pr elektromotorické napětí zdroje zapojeného do uzavřeného obvodu napsat:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "U. = RI – RI",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Ue = RI - RI",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Vo = 1/(R-R)",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "U = I(R+R)",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 711,
+		"category": 1,
+		"number": 711,
+		"text": "Je-li v uzavřeném obvodu vnější odpor R, vnitřní odpor R,, lze vyjádřit vzta mezi svorkovým napětím U a elektromotorickým napětím U pomocí tzv. úbytk napětí takto:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Ve = U - RI",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "U = U. + RI",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "U = UE - RI",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "U = R; I - U",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 712,
+		"category": 1,
+		"number": 712,
+		"text": "V uzavřeném obvodu je zdroj napětí U. = 12 V s vnitřním odporem R, = 0,2 N Vnější obvod má odpor 19,8 1. Určete proud protékající obvodem a vypočtět hodnotu svorkového napětí.",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,3 A; 12V",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,6 A; 12V",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "0,6 A; 11,88 V",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "0,3 A; 11,88 =",
+				"correct": false
+			}
+		]
+	}
+]

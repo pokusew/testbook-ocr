@@ -1,0 +1,258 @@
+[
+	{
+		"id": 573,
+		"category": 1,
+		"number": 573,
+		"text": "Značí-li o povrchové napětí, 1 délku a S velikost povrchu, vyjádříme povrchovo sílu F jako",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "F = sigma/1",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "F = sigma*1",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "F = sigma/S",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "F = sigma.S",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 574,
+		"category": 1,
+		"number": 574,
+		"text": "Značí-li l délku, F povrchovou sílu a S velikost povrchu, můžeme povrchov napětí o vyjádřit vztahem",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "sigma = F*1",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "sigma = F*S",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "sigma = F/1",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "sigma = F/S",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 575,
+		"category": 1,
+		"number": 575,
+		"text": "Možnost pohybu některých druhů hmyzu běháním po hladině vody lze vysvětli na základu",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "viskozity",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hustoty",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "povrchového napětí",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "tlaku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 576,
+		"category": 1,
+		"number": 576,
+		"text": "Jednotkou povrchového napětí je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "N.m-1",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "N.m-2",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "N.m2",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "N.m",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 577,
+		"category": 1,
+		"number": 577,
+		"text": "Vyjádřete jednotku povrchového napětí pomocí základních jednote Mezinárodní soustavy jednotek (SI):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kg.m-2.5-2",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kg.s-2",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kg.m.s-2",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kg.s -1",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 578,
+		"category": 1,
+		"number": 578,
+		"text": "N.m-1 je jednotkou",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "normálového napětí",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "povrchového napětí",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "modulu pružnosti v tahu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "tlaku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 579,
+		"category": 1,
+		"number": 579,
+		"text": "Vyjádření pomocí základních jednotek soustavy SI odpovídá kg.s-2 jednotce",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "tlaku",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "momentu síly",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "normálového napětí",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "povrchového napětí",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 580,
+		"category": 1,
+		"number": 580,
+		"text": "Jakou práci je nutno vynaložit k rozprášení 2 dm3 vody na kapičky o poloměr 0,1 mm (povrchové napětí vody je 0,073 N/m; povrch vody před rozprášení považujte za zanedbatelný ve srovnání se součty povrchů vzniklých kapiček)?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "2,19 J",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "4,38 J",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "8,76 J",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "21,9 J",
+				"correct": false
+			}
+		]
+	}
+]

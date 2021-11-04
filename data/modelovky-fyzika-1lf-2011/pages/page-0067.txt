@@ -13,8 +13,8 @@ B) 176 g
 c) 88 g
 d) 196 g
 479. Jaká je hmotnost kyslíku při jeho objemu 3,5 1, teplotě 350 K a tlaku 0,83 MPa?
-Počítejte s přibližnými hodnotami molární plynové konstanty 8,3 J. K4.mol-1
-a relativní atomové hmotnosti kyslíku 16;
+Počítejte s přibližnými hodnotami molární plynové konstanty 8,3 J. K4.mol-1 a
+relativní atomové hmotnosti kyslíku 16;
 A) 32 g
 b) 16 g
 c) 128 g

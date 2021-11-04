@@ -1,0 +1,258 @@
+[
+	{
+		"id": 667,
+		"category": 1,
+		"number": 667,
+		"text": "K baterii o elektromotorickém napětí 4,5 V a vnitřním odporu 12 je připojen žárovka, kterou prochází proud 200 mA. Jaká je účinnost obvodu?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "75%",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "80 %",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "89 %",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "96 %",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 668,
+		"category": 1,
+		"number": 668,
+		"text": "Úplným vybitím akumulátoru by se přenesl celkový náboj 144 kС. Převed'te tut hodnotu na obvykle udávanou hodnotu v Ah:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "40 Ah",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "50 Ah",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "80 Ah",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "100 Ah",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 669,
+		"category": 1,
+		"number": 669,
+		"text": "Nezatížená automobilové baterie má napětí 12 V a vnitřní odpor 24 m 2. Jak proud by protékal při zkratu?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "500 A",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "600 A",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "700 A",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "800 A",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 670,
+		"category": 1,
+		"number": 670,
+		"text": "Elektrický oblouk je napájen ze zdroje o napětí 240 V přes reostat o odporu 30 1 Jaký největší proud může obvodem procházet?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "8A",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "9 A",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "10 A",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "11 A",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 671,
+		"category": 1,
+		"number": 671,
+		"text": "Elektrický oblouk je napájen ze zdroje o napětí 240 V přes reostat o odporu 30 N Jaké napětí naměříme na oblouku při proudu 5 A?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "90 V",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "100 V",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "110 V",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "120 V",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 672,
+		"category": 1,
+		"number": 672,
+		"text": "Úplným vybitím akumulátoru by se přenesl celkový náboj 180 kC. Převeďte tut hodnotu na obvykle udávanou hodnotu v Ah:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "50 Ah",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "100 Ah",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "150 Ah",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "200 Ah",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 673,
+		"category": 1,
+		"number": 673,
+		"text": "Napětí nezatížené automobilové baterie 12,4 V pokleslo při odběru proud 40 A na 11,2 V. Jaký je vnitřní odpor baterie?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "30 m2",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "40 m2",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "50 m2",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "60 m2",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 674,
+		"category": 1,
+		"number": 674,
+		"text": "Nezatížená automobilové baterie má napětí 12 V a vnitřní odpor 30 m.22. Jak proud by protékal při zkratu?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "400 A",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "600 A",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "700 A",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "800 A",
+				"correct": false
+			}
+		]
+	}
+]

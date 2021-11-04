@@ -1,28 +1,28 @@
-Mezi stavové veličiny patří
+425. Mezi stavové veličiny patří
 A) teplota
-1) vnitřní energie
-e) teplo
+B) vnitřní energie
+c) teplo
 D) objem
-126. Vyberte nesprávné tvrzení:
+426. Vyberte nesprávné tvrzení:
 A) teplo je stavovou veličinou
 b) vnitřní energie je stavovou veličinou
 C) objem není stavovou veličinou
 D) práce je stavovou veličinou
 427. Vyberte správné tvrzení:
 a) teplo je stavovou veličinou
-1) práce není stavovou veličinou
+B) práce není stavovou veličinou
 C) vnitřní energie je stavovou veličinou
 D) objem je stavovou veličinou
-420. Která z následujících veličin závisí nikoliv pouze na stavu soustavy, ale na cestě,
+428. Která z následujících veličin závisí nikoliv pouze na stavu soustavy, ale na cestě,
 kterou se soustava dostala z jednoho stavu do druhého?
 a) vnitřní energie
 b) objem
 c) tlak
 D) práce dodaná do systému či odebraná ze systému
-129. Která z následujících veličin závisí nikoliv pouze na stavu soustavy, ale na
+429. Která z následujících veličin závisí nikoliv pouze na stavu soustavy, ale na
 způsobu, kterým byla soustava přivedena z jednoho stavu do druhého
 a) objem
-1) teplo dodané do systému či odebrané ze systému
+B) teplo dodané do systému či odebrané ze systému
 c) vnitřní energie
 d) teplota
 430. Vyberte nesprávné tvrzení:
@@ -36,7 +36,6 @@ A) UT
 b) p, Q
 C) V, p
 d) Wp
-:
 432. Vyberte dvojici, ve které jsou obě uvedené veličiny veličinami stavovými (Q značí
 teplo, T termodynamickou teplotu, p tlak, U vnitřní energii, V objem a W práci):
 a) QT

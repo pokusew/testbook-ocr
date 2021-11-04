@@ -1,0 +1,290 @@
+[
+	{
+		"id": 1092,
+		"category": 1,
+		"number": 1092,
+		"text": "Rychlost šíření žlutého světla vakuem je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "větší než rychlost šíření červeného světla",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "menší než rychlost šíření červeného světla",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "menší než rychlosti šíření fialového světla",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "stejná jako rychlost šíření zeleného světla",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1093,
+		"category": 1,
+		"number": 1093,
+		"text": "Světlo",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je podélné elektromagnetické vlnění",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je příčné elektromagnetické vlnění",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "má vektor intenzity elektrického pole kolmý na směr šíření",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "má vektor magnetické indukce rovnoběžný se směrem šíření",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1094,
+		"category": 1,
+		"number": 1094,
+		"text": "V lineárně polarizovaném světle",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou vektory E a B navzájem kolmé",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mají vektory E i B stejnou rovinu kmitů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je vektor E kolmý na směr šíření",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je vektor B kolmý na směr šíření",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1095,
+		"category": 1,
+		"number": 1095,
+		"text": "Ve světelné vlně je její směr šíření",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "totožný se směrem vektoru E",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "totožný se směrem vektoru B",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kolmý k vektoru EiB",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nezávislý na vektorech E a B",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1096,
+		"category": 1,
+		"number": 1096,
+		"text": "Elektrický vektor lineárně polarizovaného světla kmitá",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kolmo na směr šíření",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ve směru šíření podobně jako u podélného vlnění",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v rovině proložené směrem šíření",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nezávisle na směru šíření",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1097,
+		"category": 1,
+		"number": 1097,
+		"text": "Magnetický vektor lineárně polarizovaného světla kmitá",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kolmo na směr šíření",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "směru šíření podobně jako u podélného vlnění",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v rovině proložené směrem šíření",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nezávisle na směru šíření",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1098,
+		"category": 1,
+		"number": 1098,
+		"text": "Refraktometrem určujeme",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zlomeniny pomocí rentgenového záření",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ohniskovou vzdálenost čoček",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "modul pružnosti",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "index lomu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1099,
+		"category": 1,
+		"number": 1099,
+		"text": "Zobrazují-li se body jako kruhové plošky, jde o",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "chromatickou vadu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "sférickou vadu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "astigmatismus",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "dalekozrakost",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1100,
+		"category": 1,
+		"number": 1100,
+		"text": "Rychlost šíření světla ve skle je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "stejná jako ve vakuu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "menší než ve vakuu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "závislá na barvě světla",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nezávislá na barvě světla",
+				"correct": false
+			}
+		]
+	}
+]

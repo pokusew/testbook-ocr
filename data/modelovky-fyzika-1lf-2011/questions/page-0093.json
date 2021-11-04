@@ -1,0 +1,226 @@
+[
+	{
+		"id": 675,
+		"category": 1,
+		"number": 675,
+		"text": "Během úplného vybití akumulátoru by se přenesl celkový náboj 216 kС. Ja dlouho můžeme nejvýše akumulátor vybíjet proudem 10 A, nemáme-li překroči jeho 50% vybití?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1 hodinu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "3 hodiny",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "6 hodin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "30 hodin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 676,
+		"category": 1,
+		"number": 676,
+		"text": "Během úplného vybití akumulátoru by se přenesl celkový náboj 252 kС. Ja dlouho můžeme nejvýše akumulátor vybíjet proudem 14 A, nemáme-li překroči jeho 50% vybití?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "5 hodin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "50 hodin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "2,5 hodin",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "25 hodin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 677,
+		"category": 1,
+		"number": 677,
+		"text": "Při úplném vybití akumulátoru by se přenesl celkový náboj 288 kС. Svorkov napětí akumulátoru je 12 V. Jakou práci vykonal elektrický proud po 50% vybit akumulátoru?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "6,92 MJ",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "5,19 MJ",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "3,46 M)",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1,73 M)",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 678,
+		"category": 1,
+		"number": 678,
+		"text": "Při úplném vybití akumulátoru by se přenesl celkový náboj 360 kС. Svorkov napětí akumulátoru je 12 V. Jakou práci vykonal elektrický proud při 50% vybit akumulátoru?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "2,16 MJ",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "4,32 MJ",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "6,48 MJ",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "8,64 MJ",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 679,
+		"category": 1,
+		"number": 679,
+		"text": "Vyberte správný vztah mezi veličinami respektive jednotkami, plynouc z Ohmova zákona pro část elektrického obvodu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "U = R/I",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "V = 1. A",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "V = 12/A",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "U = RI",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 680,
+		"category": 1,
+		"number": 680,
+		"text": "Vyberte správný vztah mezi veličinami respektive jednotkami, plynouc z Ohmova zákona pro část elektrického obvodu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "I = R/U",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "I = U/R",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "I = UR",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "V = 12. A",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 681,
+		"category": 1,
+		"number": 681,
+		"text": "Grafickým znázorněním proudu v kovovém vodiči v závislosti na napětí mez konci tohoto vodiče je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "přímka v prvním kvadrantu s určitým úsekem na svislé ose",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "přímka v prvním kvadrantu s určitým úsekem na vodorovné ose",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "křivka",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "přímka procházející počátkem",
+				"correct": true
+			}
+		]
+	}
+]

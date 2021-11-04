@@ -1,0 +1,258 @@
+[
+	{
+		"id": 721,
+		"category": 1,
+		"number": 721,
+		"text": "Označte správné tvrzení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "odpor voltmetru má být malý",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "odporu ampermetru má být malý",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "rozsah voltmetru zvětšíme pomocí předřazeného rezistoru",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "rozsah ampermetru zvětšíme připojením bočníku",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 722,
+		"category": 1,
+		"number": 722,
+		"text": "Voltmetr a ampérmetr se od sebe v principu neliší:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "konstrukčně",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "způsobem, jakým se zapojují do obvodu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "způsobem, jakým se zvětšují jejich rozsahy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "požadavky na jejich odpor (velký či malý)",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 723,
+		"category": 1,
+		"number": 723,
+		"text": "Je-li odpor ampermetru RA a máme-li jeho rozsah zvětšit 4krát",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "připojíme k němu paralelně bočník s odporem R./4",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "připojíme k němu paralelně bočník s odporem R./3",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "předřadíme mu rezistor s odporem R./4",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "předřadíme mu rezistor s odporem R./3",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 724,
+		"category": 1,
+		"number": 724,
+		"text": "Připojíme-li k ampermetru o odporu Ra paralelně rezistor o odporu R/4",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zmenšíme jeho rozsah 4krát",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zvětšíme jeho rozsah 4krát",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zvětšíme jeho rozsah 5krát",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zvětšíme jeho rozsah 3krát",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 725,
+		"category": 1,
+		"number": 725,
+		"text": "Ampermetr s odporem RA a rozsahem 0 až 60 mA má být použit k měření proud do 6 A. K příslušnému zvětšení rozsahu přístroje je třeba připojit k ampermetr paralelně rezistor o odporu",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "99R",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "100RA",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "RA /100",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "R./99",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 726,
+		"category": 1,
+		"number": 726,
+		"text": "Připojíme-li k ampermetru o odporu Ra a rozsahu 0 až 12 mA paralelně rezisto o odporu R./4, zvětšíme tím horní hranici jeho rozsahu na",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "36 mA",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "48 mA",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "60 mA",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "72 mA",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 727,
+		"category": 1,
+		"number": 727,
+		"text": "Jaké napětí je na rezistoru o odporu 200 N, kterým projde náboj 9 C za 2 minuty?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "5V",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "10 V",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "15 V",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "20 V",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 728,
+		"category": 1,
+		"number": 728,
+		"text": "Voltmetr o odporu 50 22 ukazuje napětí 1,75 V. Jaký proud jím prochází?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "15 mA",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "25 mA",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "35 mA",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "50 mA",
+				"correct": false
+			}
+		]
+	}
+]

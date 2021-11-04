@@ -1,0 +1,258 @@
+[
+	{
+		"id": 1237,
+		"category": 1,
+		"number": 1237,
+		"text": "Regulační tyče v jaderném reaktoru mohou být z",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "uhlíku",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kadmia",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "olova",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "železa",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1238,
+		"category": 1,
+		"number": 1238,
+		"text": "Elektronvolt (eV) je vedlejší jednotka",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "energie",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "náboje",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "napětí",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "hybnosti",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1239,
+		"category": 1,
+		"number": 1239,
+		"text": "Uvolňování elektronů při dopadu světla na kov se nazývá",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "rekombinace",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "fotoefekt",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Comptonův rozptyl",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "termoemise",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1240,
+		"category": 1,
+		"number": 1240,
+		"text": "210 Po je zářič alfa. Poločas jeho rozpadu je 140 dní. Za jak dlouho bude vzore obsahovat 75 % olova Pb?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "70 dní",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "140 dní",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "210 dní",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "280 dní",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1241,
+		"category": 1,
+		"number": 1241,
+		"text": "Vzorek obsahuje 10 jader radionuklidu s poločasem rozpadu 6 hodin Kolik jader se přemění za 1 den?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "468750",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "520000",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "703125",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "937500",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1242,
+		"category": 1,
+		"number": 1242,
+		"text": "Vzorek obsahuje 105 jader radionuklidu s poločasem rozpadu 1 minuta Kolik jader se celkem přemění za 5 minut?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "75750",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "85000",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "96875",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "98500",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1243,
+		"category": 1,
+		"number": 1243,
+		"text": "Vzorek obsahuje 10 jader radionuklidu s poločasem rozpadu 6 hodin Kolik radioaktivních jader bude obsahovat za 1 den?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "50000",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "55000",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "60000",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "62500",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1244,
+		"category": 1,
+		"number": 1244,
+		"text": "Izotop uranu 235U se štěpí nejsnáze",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pomalými neutrony",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "rychlými neutrony",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "deuterony",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "protony",
+				"correct": false
+			}
+		]
+	}
+]

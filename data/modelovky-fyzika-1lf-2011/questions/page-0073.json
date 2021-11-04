@@ -1,0 +1,258 @@
+[
+	{
+		"id": 520,
+		"category": 1,
+		"number": 520,
+		"text": "Teplo přijaté plynem při izotermickém ději",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je menší než práce, kterou plyn v průběhu tohoto děje vykoná",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se rovná práci vykonané plynem v průběhu děje",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je větší než práce, kterou plyn v průběhu děje vykoná",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná z nabídnutých odpovědí není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 521,
+		"category": 1,
+		"number": 521,
+		"text": "Pro měrné tepelné kapacity plynu při stálém tlaku c, a při stálém objemu cy platí",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "C <cy",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Cp = Cv",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Co«Cy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Cp> Cv",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 522,
+		"category": 1,
+		"number": 522,
+		"text": "Adiabata má",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "povlovnější průběh než izoterma",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "stejně strmý průběh jako izoterma",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "strmější průběh než izoterma",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "povlovnější či strmější průběh v závislosti na druhu plynu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 523,
+		"category": 1,
+		"number": 523,
+		"text": "Změna vnitřní energie ideálního plynu je nulová při",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "izotermickém ději",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "izochorickém ději",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "izobarickém ději",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "adiabatickém ději",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 524,
+		"category": 1,
+		"number": 524,
+		"text": "Práce vykonaná ideálním plynem je nulová při",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "izotermickém ději",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "izochorickém ději",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "izobarickém ději",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "adiabatickém ději",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 525,
+		"category": 1,
+		"number": 525,
+		"text": "Teplo dodane ideálnímu plynu je nulové při",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "izotermickém ději",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "izochorickém ději",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "izobarickém ději",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "adiabatickém ději",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 526,
+		"category": 1,
+		"number": 526,
+		"text": "Vyberte nesprávné tvrzení: označíme-li měrné tepelné kapacity plynu při stálé tlaku c, a při stálém objemu Cy, je Poissonova konstanta",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dána poměrem c/cp",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "menší než 1",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "větší než 1",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "menší než 0",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 527,
+		"category": 1,
+		"number": 527,
+		"text": "Vyberte správné tvrzení: označíme-li měrné tepelné kapacity plynu při stálé tlaku ce a při stálém objemu Cy je Poissonova konstanta",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dána poměrem cy/Cp",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "větší než 1",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dána poměrem c/Cv",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "exponentem ve vztahu pro závislost mezi tlakem a objemem při adiabatickém ději",
+				"correct": true
+			}
+		]
+	}
+]

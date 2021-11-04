@@ -1,18 +1,17 @@
--1
-133. Vyberte pravdivé tvrzení:
+333. Vyberte pravdivé tvrzení:
 a) pole okolo bodového náboje není radiální
 B) pole okolo bodového náboje není homogenní
 C) intenzita elektrického pole je vektorová veličina
 d) velikost elektrické síly, kterou na sebe působí 2 bodové náboje je přímo úměrná
 permitivitě prostředí
-234. Označte správné tvrzení:
+334. Označte správné tvrzení:
 A) pro intenzitu elektrického pole užíváme jednotku V.m-
 b) mezi dvěma paralelními, elektricky izolovanými nabitými deskami je radiální elektrické
 pole
 C) elektrické pole okolo bodového náboje není homogenní
 D) velikost elektrické síly, kterou na sebe působí dva bodové náboje, je nepřímo úměrná
 permitivitě prostředí
-135. Označte správné tvrzení:
+335. Označte správné tvrzení:
 a) intenzita elektrického pole je vektor opačného směru ve srovnání s vektorem elektrické
 síly působící na kladný náboj
 B) elektrické pole mezi dvěma izolovanými, rovnoběžnými, elektricky nabitými deskami,
@@ -26,12 +25,12 @@ B) za prakticky homogenní můžeme považovat elektrické pole mezi dvěma rovn
 izolovanými deskami nabitými stejným nábojem opačného znaménka
 c) pole okolo bodového náboje je homogenní
 D) pole okolo bodového náboje je radiální
-137. Označte správné tvrzení:
+337. Označte správné tvrzení:
 A) podle definice intenzity elektrického pole by bylo možno pro tuto veličinu užít jednotku
 N.C-1
-1) intenzita elektrického pole a elektrická síla působící na kladný náboj jsou vektory
+B) intenzita elektrického pole a elektrická síla působící na kladný náboj jsou vektory
 stejného směru
-©) okolo bodového elektrického náboje je radiální elektrické pole
+C) okolo bodového elektrického náboje je radiální elektrické pole
 d) intenzita elektrického pole je skalární veličina
 338. Uvnitř elektricky nabité koule je elektrický potenciál o = konst # 0. Intenzita
 elektrického pole E uvnitř koule:

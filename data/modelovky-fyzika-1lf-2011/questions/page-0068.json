@@ -1,0 +1,194 @@
+[
+	{
+		"id": 484,
+		"category": 1,
+		"number": 484,
+		"text": "Jaký je přibližný počet molekul v 102 g sirovodíku (použijte přibližných hodno Avogadrovy konstanty 6.1023mol-1 a relativních hmotností vodíku 1 a síry 32)?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1023",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,45.1024",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "0,9.1024",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1,8.1024",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 485,
+		"category": 1,
+		"number": 485,
+		"text": "Jakou přibližnou hmotnost má 3.1024 molekul kyseliny sírové (použijt přibližných hodnot Avogadrovy konstanty 6.1023 mol\"? a relativních atomovýc hmotností vodíku 1, síry 32 a kyslíku 16)?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,400 kg",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,450 kg",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "0,490 kg",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "0,530 kg",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 486,
+		"category": 1,
+		"number": 486,
+		"text": "Jakou přibližnou hmotnost má 3,6.1024 molekul oxidu sírového (použijt přibližných hodnot Avogadrovy konstanty 6.1023 mol-- a relativních atomovýc hmotností síry 32 a kyslíku 16)?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,480 kg",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,440 kg",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "0,400 kg",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "0,360 kg",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 487,
+		"category": 1,
+		"number": 487,
+		"text": "Jaký tlak má oxid siřičitý o hmotnosti 128 g, který je v nádobě o objemu 3,5 při teplotě 77 °C? Pro výpočet použijte přibližných hodnot molární plynov konstanty 8,3 J.K-1.mol-1 a relativních atomových hmotností kyslíku 16 a síry 32 při přepočtu °C na K počítejte s celými čísly.",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "4,15 MPa",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "3,32 MPa",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "2,49 MPa",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1,66 MPa",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 488,
+		"category": 1,
+		"number": 488,
+		"text": "Jaký tlak má chlór o hmotnosti 70 g, který je v nádobě o objemu 4 1 při teplot 127 °C? Pro výpočet použijte přibližných hodnot molární plynové konstant 8,3 J.K-4.mol-1 a atomové relativní hmotnosti chlóru 35; při přepočtu °C n K počítejte s celými čísly.",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,415 MPa",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,83 MPa",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1,66 MPa",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "2,49 MPa",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 489,
+		"category": 1,
+		"number": 489,
+		"text": "Jaké je látkové množství kyslíku, který je v nádobě o objemu 3,5 1 při tlak 0,83 MPa a teplotě 77 °C? Při výpočtu použijte přibližné hodnoty molární plynov konstanty 8,3 J. K-1.mol-?; při přepočtu °C na K počítejte s celými čísly:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1 mol",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "2 moly",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "3 moly",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "4 moly",
+				"correct": false
+			}
+		]
+	}
+]

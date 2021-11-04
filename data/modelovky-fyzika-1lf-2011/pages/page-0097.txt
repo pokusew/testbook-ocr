@@ -11,15 +11,13 @@ a) 36 C
 b) 48 C
 C) 72 C
 d) 84 C
-=
-=
 708. Označte správné tvrzení:
 A) elektromotorické napětí je větší než svorkové napětí
 b) svorkové napětí je větší než elektromotorické napětí
 C) elektromotorické napětí je napětí na svorkách nezatíženého zdroje
 D) svorkové napětí je napětí na svorkách zdroje, který je součástí uzavřeného obvodu
-709. Elektromotorické napětí zdroje v uzavřeném obvodu V. s vnějším odporem R
-a vnitřním odporem R, lze vyjádřit pomocí vztahu:
+709. Elektromotorické napětí zdroje v uzavřeném obvodu V. s vnějším odporem R a vnitřním odporem R,
+lze vyjádřit pomocí vztahu:
 A) I = U/(R+R)
 b) I = U/(R - R)
 c) I = U/(R; - R)

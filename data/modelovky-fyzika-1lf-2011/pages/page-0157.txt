@@ -1,4 +1,3 @@
-.
 1193. Určete pravdivé tvrzení: Infračervené záření
 A) snadno proniká mlhou
 b) má vlnové délky kratší než 790 nm

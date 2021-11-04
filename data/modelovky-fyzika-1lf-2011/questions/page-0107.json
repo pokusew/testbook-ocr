@@ -1,0 +1,258 @@
+[
+	{
+		"id": 785,
+		"category": 1,
+		"number": 785,
+		"text": "Polovodičový prvek používaný pro zesilování se nazývá",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "termistor",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "tranzistor",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "rezistor",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "polovodičová dioda",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 786,
+		"category": 1,
+		"number": 786,
+		"text": "Polovodičový prvek k usměrňování střídavého proudu se nazývá",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "polovodičová dioda",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "termistor",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "tranzistor",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "rezistor",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 787,
+		"category": 1,
+		"number": 787,
+		"text": "Při zapojení tranzistoru se společnou bází je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "přechod mezi emitorem a bází zapojen v závěrném směru",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kolektorový proud ovládán proudem emitorovým",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "přechod mezi kolektorem a bází zapojen v propustném směru",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "emitorový proud ovládán proudem kolektorovým",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 788,
+		"category": 1,
+		"number": 788,
+		"text": "Při zapojení tranzistoru se společnou bází je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kolektorový proud o něco menší než emitorový, bázový podstatně menší",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "emitorový proud o něco menší než kolektorový",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "bázový proud největší",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kolektorový proud ovládán proudem emitorovým",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 789,
+		"category": 1,
+		"number": 789,
+		"text": "Při zapojení tranzistoru se společným emitorem se ovládá",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "emitorový proud kolektorovým proudem",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kolektorový proud emitorovým proudem",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kolektorový proud bázovým proudem",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "bázový proud kolektorovým proudem",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 790,
+		"category": 1,
+		"number": 790,
+		"text": "Uvažujme roztok chloridu sodného. Platí následující tvrzení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ionty Na* a Clvzniknou elektrolytickou disociací, která nastává během rozpouštění",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ionty Na* a Cl vzniknou elektrolýzou",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ionty Na* a Cl vzniknou ionizačním účinkem elektrického proudu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ionty Na* a Cl- byly již přítomny v krystalové mříži NaCl a rozpuštěním se pouze stano volnými částicemi",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 791,
+		"category": 1,
+		"number": 791,
+		"text": "Označte správnou kombinaci iontu a elektrody, ke které se tento iont v roztok elektrolytu pohybuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "amonný ke katodě",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hydroxylový ke katodě",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dusičnanový k anodě",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jodidový k anodě",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 792,
+		"category": 1,
+		"number": 792,
+		"text": "Označte nesprávnou kombinaci iontu a elektrody, ke které se tento iont v roztok elektrolytu pohybuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "oxoniový k anodě",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "amonný k anodě",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "stříbrný ke katodě",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "síranový ke katodě",
+				"correct": true
+			}
+		]
+	}
+]

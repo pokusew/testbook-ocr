@@ -1,0 +1,258 @@
+[
+	{
+		"id": 1202,
+		"category": 1,
+		"number": 1202,
+		"text": "Fotoelektrický jev je prakticky využíván v",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "televizní obrazovce",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "expozimetru",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Wilsonově komoře",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "triodě",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1203,
+		"category": 1,
+		"number": 1203,
+		"text": "Značí-li E energii, a vlnovou délku, f frekvenci a c rychlost šíření, označt nesprávný vztah platící pro světelná kvanta s hybností p:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "p = E/c",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "p = h.",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "p = hf/c",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "p = hc/A",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1204,
+		"category": 1,
+		"number": 1204,
+		"text": "Značí-li E energii, a vlnovou délku, f frekvenci a c rychlost šíření, označte správn vztah pro světelná kvanta s hybností p:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "p = E/c",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "p = h/a",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "p = hf/c",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "p = hc/A",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1205,
+		"category": 1,
+		"number": 1205,
+		"text": "Einsteinova rovnice pro fotoelektrický jev vyjadřuje zákon zachování",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hybnosti",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "momentu hybnosti",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "energie",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "hmotnosti",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1206,
+		"category": 1,
+		"number": 1206,
+		"text": "Značíme-li c rychlost šíření, f frekvenci a , vlnovou délku, pak pro energii světelného kvanta platí vztah",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "E = hf",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "E = h.a",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "E = hc/a",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "E = p/A",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1207,
+		"category": 1,
+		"number": 1207,
+		"text": "Číselnou hodnotu Planckovy konstanty je možné udávat v jednotkách:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "eV.s",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "J.S",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "W",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "W.m-2",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1208,
+		"category": 1,
+		"number": 1208,
+		"text": "Výstupní práce elektronu pro sodík je 2,3 eV. Přibližná hodnota Planckov konstanty činí 4,1.10-15 eV.s. S jakou energií budou vyletovat elektrony z povrch sodíkové katody, když na ní dopadne záření s vlnovou délkou 300 nm?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1 eV",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1,5 eV",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1,8 eV",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "2,5 e -2",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1209,
+		"category": 1,
+		"number": 1209,
+		"text": "Při Comptonově jevu je vlnová délka rozptýleného fotonu",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "větší než dopadajícího fotonu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "stejná jako dopadajícího fotonu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "menší než dopadajícího fotonu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "závislá na úhlu rozptylu",
+				"correct": true
+			}
+		]
+	}
+]

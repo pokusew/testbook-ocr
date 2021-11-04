@@ -1,0 +1,258 @@
+[
+	{
+		"id": 604,
+		"category": 1,
+		"number": 604,
+		"text": "Označte variantu, ve které jsou pro obě veličiny či konstanty uvedeny správn jednotky:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "tepelná kapacita – J; měrná tepelná kapacita - J. kg-1. K-1",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Boltzmannova konstanta - J.K-1; konstanta v Boylově-Mariottově zákonu - J",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "molární plynová konstanta - J.mol-1; normálové napětí – Pa",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "modul pružnosti v tahu -- Pa; měrné skupenské teplo tání – J. K-1",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 605,
+		"category": 1,
+		"number": 605,
+		"text": "Při měření teploty rtuťovým teploměrem se využívá jevu",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kapilární elevace",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kapilární deprese",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "teplotní objemové roztažnosti",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "hydrostatického tlaku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 606,
+		"category": 1,
+		"number": 606,
+		"text": "Grafem závislosti objemu kapalin na přírůstku teploty je ve většině případů",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "přímka procházející počátkem",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "křivka s maximem při určité teplotě",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "křivka s minimem při určité teplotě",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "přímka s úsekem na svislé ose, který je roven počátečnímu objemu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 607,
+		"category": 1,
+		"number": 607,
+		"text": "Měrné skupenské teplo tání vyjadřujeme v jednotkách",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "J. kg-1",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "J.mol-1",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "J. kg-1 K-1",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "J. K-1",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 608,
+		"category": 1,
+		"number": 608,
+		"text": "Počet fází ve stavu, který odpovídá kterémukoliv bodu na některé z křive fázového diagramu dané čisté látky je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "2",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "3",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 609,
+		"category": 1,
+		"number": 609,
+		"text": "Počet fází ve stavu, který odpovídá kterémukoliv bodu v oblastech mezi křivkam fázového diagramu dané čisté látky je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "2",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "3",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "0",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 610,
+		"category": 1,
+		"number": 610,
+		"text": "Počet fází ve stavu, který odpovídá trojnému bodu fázového diagramu dané čist látky je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "2",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "3",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 611,
+		"category": 1,
+		"number": 611,
+		"text": "Ve fázovém diagramu látky je vlevo od křivky tání",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "oblast pevné látky",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "oblast kapaliny",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "oblast přehřáté páry",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "oblast současně přítomné pevné látky a kapaliny",
+				"correct": false
+			}
+		]
+	}
+]

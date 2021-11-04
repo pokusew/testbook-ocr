@@ -1,5 +1,3 @@
-=
-=
 930. Je-li o fázový posun střídavého napětí a proudu, pak výkon střídavého proudu
 o napětí U a intenzitě I v obvodu s impedancí je dán vztahem
 A) P= UIcos
@@ -40,7 +38,7 @@ odpor 0,12 12.
 a) 1 MW
 b) 2 MW
 C) 3 MW
-4 MW
+d) 4 MW
 937. Zařazením kondenzátoru do obvodu střídavého proudu dojde k fázovému posuvu
 proudu vzhledem k napětí o
 a) 1/4 rad

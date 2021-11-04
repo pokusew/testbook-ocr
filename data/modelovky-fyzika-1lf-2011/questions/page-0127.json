@@ -1,0 +1,290 @@
+[
+	{
+		"id": 946,
+		"category": 1,
+		"number": 946,
+		"text": "Rotor alternátoru pro výrobu síťového trojfázového proudu rotuje s rychlostí",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "50 otáček/min",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "300 otáček/min",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1500 otáček/min",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "3000 otáček/min",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 947,
+		"category": 1,
+		"number": 947,
+		"text": "Jednotlivá napětí trojfázového rozvodu jsou navzájem posunuta o",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "30°",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "60°",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "120°",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "150°",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 948,
+		"category": 1,
+		"number": 948,
+		"text": "Mezi libovolnými fázovými vodiči naší rozvodné sítě je sdružené napět o velikosti",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "220 V",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "380 V",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "220/3V",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "O =",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 949,
+		"category": 1,
+		"number": 949,
+		"text": "U jednofázového transformátoru",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se proudy transformují v obráceném poměru počtu závitů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se napětí transformují v obráceném poměru počtu závitů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se proudy transformují v poměru počtu závitů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "proudy nelze transformovat",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 950,
+		"category": 1,
+		"number": 950,
+		"text": "Značí-li U napětí a N počet závitů, pak pro transformátor platí rovnice",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "U2/U1 = N1 /N2",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "U2 N2 = U, N1",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "U1 /U2 = N2 /N1",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "U, N2 = U2 N1",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 951,
+		"category": 1,
+		"number": 951,
+		"text": "U jednofázového transformátoru stejnosměrné napětí",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je možné transformovat pouze v přirozených násobcích transformačního poměru",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je možné transformovat pouze v transformačním poměru z vyššího napětí na nižší",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je možné transformovat pouze v transformačním poměru z nižšího na vyšší napětí",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nelze transformovat",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 952,
+		"category": 1,
+		"number": 952,
+		"text": "Značí-li U napětí a I intenzitu proudu, pak pro transformátor platí rovnice",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "U2 /U1 = 12 /11",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Uz I1 = U_ I2",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "U2/11 - U1/12",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "U1 /U2 = 11/12",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 953,
+		"category": 1,
+		"number": 953,
+		"text": "Značí-li I intenzitu a N počet závitů, pak pro transformátor platí rovnice",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "N2/N2 = 11/12",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "N2 l1 = N1 12",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "N2/N1 = 12/11",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "N1 /N2 = 11 /12",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 954,
+		"category": 1,
+		"number": 954,
+		"text": "Výkon transformátoru s transformačním poměrem k je při zanedbatelnýc ztrátách",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "k-krát nižší než příkon",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "k-krát vyšší než příkon",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "stejný jako příkon",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "závislý pouze na velikosti proudu",
+				"correct": false
+			}
+		]
+	}
+]

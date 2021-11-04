@@ -1,0 +1,226 @@
+[
+	{
+		"id": 354,
+		"category": 1,
+		"number": 354,
+		"text": "Jaká je kapacita kulového vodiče o průměru 10 cm umístěného v oleji o relativn permitivitě ε = 2,5?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "7 pF",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "14 pF",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "21 nF",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "56 nF",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 355,
+		"category": 1,
+		"number": 355,
+		"text": "Jaká je kapacita deskového kondenzátoru o velikosti ploch 20 cmvzdálenýc 2 cm, je-li dielektrikem olej o relativní permitivitě ε= 2,5?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "2,2 nF",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "2,2 pF",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "4,4 pF",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "8,8 pF",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 356,
+		"category": 1,
+		"number": 356,
+		"text": "Vzduchový otočný kondenzátor o kapacitě 400 pF byl po nabití na napět 60 V odpojen od zdroje napětí a ponořen do petroleje (E = 6). Jeho napětí s změnilo na",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "60 V",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "40 V",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "20 V",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "10 V",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 357,
+		"category": 1,
+		"number": 357,
+		"text": "Vzduchový otočný kondenzátor o kapacitě 400 pF byl po nabití na napět 60 V odpojen od zdroje napětí a ponořen do petroleje (E = 6). Jeho energie př ponoření byla",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "960 n]",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "480 n]",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "240 n]",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "120 n]",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 358,
+		"category": 1,
+		"number": 358,
+		"text": "Vzduchový otočný kondenzátor o kapacitě 400 pF byl po nabití na napět 60 V odpojen od zdroje napětí a ponořen do petroleje (ε = 6). Jeho kapacita s ponořením změnila na",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,6 nF",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1,2 nF",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "2,4 nF",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "3,6 nF",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 359,
+		"category": 1,
+		"number": 359,
+		"text": "Jak velký povrch musí mít anoda elektrolytického kondenzátoru o kapacitě 1 uF je-li tlouštka dielektrika 10-4 mm a relativní permitivita ε, = 10?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1,1 cm?",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,11 dm2",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "0,11 cm2",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "11 dm?",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 360,
+		"category": 1,
+		"number": 360,
+		"text": "Na povrchu koule umístěné ve vakuu je plošná hustota náboje 0,2 uc.m-2. Jaká j intenzita elektrického pole v těsné blízkosti povrchu?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "2,2x104 V.m-1",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "4,4x104 V.m-1",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "6,6*104 V.m",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "8,8*104 V.m",
+				"correct": false
+			}
+		]
+	}
+]

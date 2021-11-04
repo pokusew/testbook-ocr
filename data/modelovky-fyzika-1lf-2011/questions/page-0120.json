@@ -1,0 +1,290 @@
+[
+	{
+		"id": 887,
+		"category": 1,
+		"number": 887,
+		"text": "Značí-li o magnetický tok, t čas, B magnetickou indukci a S plochu, je indukovan elektromotorické napětí U, určeno vztahem",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "U, = BSO",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "U = B",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "U; = -B0/At",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "U, = -ΔΦ/Δt",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 888,
+		"category": 1,
+		"number": 888,
+		"text": "Indukované elektromotorické napětí je rovno",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "záporně vzaté časové změně magnetického indukčního toku",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "časové změně magnetického indukčního toku",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "záporně vzaté časové změně magnetické indukce",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "časové změně magnetické indukce",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 889,
+		"category": 1,
+		"number": 889,
+		"text": "Jednotkou indukčnosti je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "weber",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "siemens",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "tesla",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "henry",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 890,
+		"category": 1,
+		"number": 890,
+		"text": "Který z následujících vztahů je nesprávný?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1H = 1V. 1s",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1H = 1Wb/1A",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1H = 1V. 1A",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1H = 1Wb. 1A",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 891,
+		"category": 1,
+		"number": 891,
+		"text": "Energie magnetického pole cívky bez jádra je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "přímo úměrná proudu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "přímo úměrná čtverci proudu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "přímo úměrná indukčnosti cívky",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "přímo úměrná čtverci indukčnosti",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 892,
+		"category": 1,
+		"number": 892,
+		"text": "Henry je jednotkou",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "magnetického indukčního toku",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "magnetické indukce",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "indukčnosti",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vodivosti",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 893,
+		"category": 1,
+		"number": 893,
+		"text": "Weber je jednotkou",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "magnetického indukčního toku",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "magnetické indukce",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vodivosti",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "indukčnosti",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 894,
+		"category": 1,
+		"number": 894,
+		"text": "Tesla je jednotkou",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vodivosti",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "magnetického indukčního toku",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "indukčnosti",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "magnetické indukce",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 895,
+		"category": 1,
+		"number": 895,
+		"text": "Který z následujících vztahů je správný?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1T = 1N, 1A. 1m",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1T = 1N/(1A. 1m)",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "IT = 1N. 1A",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "IT = 1N/1 =",
+				"correct": false
+			}
+		]
+	}
+]

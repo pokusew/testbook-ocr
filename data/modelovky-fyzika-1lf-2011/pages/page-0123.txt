@@ -4,7 +4,6 @@ a) 50 Hz
 B) 100 Hz
 c) 150 Hz
 d) 200 Hz
-SIVUARNAMANG
 915. Induktivní reaktance
 a) s rostoucí frekvencí klesá
 b) nezávisí na frekvenci
@@ -16,14 +15,14 @@ A) je přímo úměrná frekvenci a kapacitě
 b) nezávisí na frekvenci
 c) nezávisí na kapacitě
 d) je nepřímo úměrná frekvenci a kapacitě
-917. Velikost induktivní reaktance obvodu střídavého proudu s frekvencí 50 Hz
-a indukčností 50 H je přibližně
+917. Velikost induktivní reaktance obvodu střídavého proudu s frekvencí 50 Hz a
+indukčností 50 H je přibližně
 a) 6,312
 B) 15,7 k12
 c) 41,2 Ω
 d) 98,6 k12
-918. Velikost kapacitní reaktance obvodu střídavého proudu s frekvencí 50 Hz
-a kapacitou 500 uF je přibližně
+918. Velikost kapacitní reaktance obvodu střídavého proudu s frekvencí 50 Hz a
+kapacitou 500 uF je přibližně
 A) 6,412
 b) 0,025 k12
 c) 0,08 12

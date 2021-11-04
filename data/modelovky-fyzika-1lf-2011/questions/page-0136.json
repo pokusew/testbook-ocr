@@ -1,0 +1,258 @@
+[
+	{
+		"id": 1018,
+		"category": 1,
+		"number": 1018,
+		"text": "Zrychlení harmonického pohybu",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je přímo úměrné výchylce",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je nepřímo úměrné výchylce",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "má v každém okamžiku opačný směr",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "má v každém okamžiku stejný směr",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1019,
+		"category": 1,
+		"number": 1019,
+		"text": "Značí-li F sílu, m hmotnost, w úhlovou rychlost a y výchylku mechanickéh oscilátoru, má jeho pohybová rovnice tvar",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "F= mw2/y",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "F= -mway",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "F= mway",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "F = 41²my",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1020,
+		"category": 1,
+		"number": 1020,
+		"text": "Podélné mechanické vlnění může vzniknout",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pouze v plynném skupenství",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pouze v kapalném skupenství",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pouze v tuhém skupenství",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ve všech skupenstvích",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1021,
+		"category": 1,
+		"number": 1021,
+		"text": "Příčné mechanické vlnění může vzniknout",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pouze v plynném skupenství",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pouze v kapalném skupenství",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v plynném a kapalném skupenství",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná z nabídnutých odpovědí není správná",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1022,
+		"category": 1,
+		"number": 1022,
+		"text": "Perioda T a frekvence fpostupného vlnění spolu souvisejí vztahem",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "f= 2.T",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "fT = 2",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "f=1/T",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "fT = 1",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1023,
+		"category": 1,
+		"number": 1023,
+		"text": "Pro fázovou rychlost v mechanického vlnění s vlnovou délkou à a periodou platí vztah",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v=N/T",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v=XT",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v=N/f",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v = af",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1024,
+		"category": 1,
+		"number": 1024,
+		"text": "Vlnová délka mechanického vlnění je vzdálenost dvou nejbližších bodů které kmitají s fází",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1/2",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1/4",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "n",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "21 =",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1025,
+		"category": 1,
+		"number": 1025,
+		"text": "Vlnění o stejné amplitudě a frekvenci se mohou interferencí rušit, liší-li se ve fáz 0",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "sudý počet vin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "lichý počet vin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "lichý počet půlvin",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "sudý počet půlvin",
+				"correct": false
+			}
+		]
+	}
+]

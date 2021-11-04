@@ -14,8 +14,8 @@ A) křivka tání - 1
 b) křivka syté páry - 2
 C) oblast mezi dvěma křivkami – 2
 D) trojný bod - 2
-615. Označte správnou kombinaci umístění daného stavu látky ve fázovém diagramu
-a počtu přítomných fází:
+615. Označte správnou kombinaci umístění daného stavu látky ve fázovém diagramu a
+počtu přítomných fází:
 a) křivka syté páry - 1
 B) oblast přehřáté páry-1
 C) oblast vlevo od křivky tání - 1
@@ -39,7 +39,6 @@ C) se částice dielektrika polarizují (pokud nebyly dipóly přítomny) a orie
 d) získá dielektrikum záporný náboj
 619. Polarizace dielektrika znamená
 a) pohyb jeho částic k opačně nabitým elektrodám
-B) vytvoření elektrických dipólů z atomů či molekul (pokud nebyly již dříve přítomny)
-a jejich zorientování
+B) vytvoření elektrických dipólů z atomů či molekul (pokud nebyly již dříve přítomny) a jejich zorientování
 c) odebrání elektronů z dielektrika
 d) dodání elektronů dielektriku

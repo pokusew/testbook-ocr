@@ -1,0 +1,258 @@
+[
+	{
+		"id": 1159,
+		"category": 1,
+		"number": 1159,
+		"text": "Monofrekvenčnímu světlu se nejvíce přibližuje světlo",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zářivky",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "žárovky",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "svatojánské mušky",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "laseru",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1160,
+		"category": 1,
+		"number": 1160,
+		"text": "Při přechodu světla z vakua do optického prostředí s indexem lomu n se vlnov délka světla",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "n-krát zmenší",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "n-krát zvětší",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "(n-1)-krát zvětší",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nezmění",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1161,
+		"category": 1,
+		"number": 1161,
+		"text": "Rychlost šíření světla v prostředí o indexu lomu n je vzhledem k rychlosti šířen ve vakuu",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "stejná",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "n-krát větší",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "(n-1)-krát větší",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "n-krát menší",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1162,
+		"category": 1,
+		"number": 1162,
+		"text": "Je-li s dráha světla v prostředí o indexu lomu n, pak optická dráha 1 je definován vztahem",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1 = n.s",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "l= n/s",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "l= s/n",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1 = 1/ns",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1163,
+		"category": 1,
+		"number": 1163,
+		"text": "Světelné vlnění se při kolmém dopadu na rozhraní s opticky hustším prostředím",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vůbec neodráží",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "odráží částečně s opačnou fází",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "odráží částečně se stejnou fází",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "odráží se 100% účinností",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1164,
+		"category": 1,
+		"number": 1164,
+		"text": "Světelné vlnění se při kolmém dopadu na rozhraní s opticky řidším prostředím",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vůbec neodráží",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "odráží částečně s opačnou fází",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "odráží částečně se stejnou fází",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "odráží se 100% účinností",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1165,
+		"category": 1,
+		"number": 1165,
+		"text": "Při šíření světelné vlny odpovídá fázovému rozdílu i rad dráhový rozdíl",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "λ",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "λ/2",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "λ/4",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1/8",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1166,
+		"category": 1,
+		"number": 1166,
+		"text": "Koherentní světelné vlny se interferencí zesilují, mají-li dráhový rozdíl roven",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "lichým násobkům 1/4",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "sudým násobkům 1/2",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "lichým násobkům 1/2",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "sudým násobkům 1/3",
+				"correct": false
+			}
+		]
+	}
+]

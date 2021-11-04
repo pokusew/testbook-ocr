@@ -1,0 +1,290 @@
+[
+	{
+		"id": 1150,
+		"category": 1,
+		"number": 1150,
+		"text": "Které z následujících tvrzení je správné? Obraz předmětu umístěného mez ohniskem a středem lupy je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "skutečný",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "přímý",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zvětšený",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "neskutečný",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1151,
+		"category": 1,
+		"number": 1151,
+		"text": "Oční čočka je čočka",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ploskovypuklá",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dvojvypuklá",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ploskodutá",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "dvojduta",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1152,
+		"category": 1,
+		"number": 1152,
+		"text": "Optický interval mikroskopu je vzdálenost mezi",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "středy objektivu a okuláru",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ohnisky objektivu a okuláru",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ohniskem objektivu a středem okuláru",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "středem objektivu a ohniskem okuláru",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1153,
+		"category": 1,
+		"number": 1153,
+		"text": "Úhlové zvětšení mikroskopu je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "přímo úměrné optickému intervalu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "přímo úměrné konvenční zrakové vzdálenosti",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "přímo úměrné ohniskové vzdálenosti objektivu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "přímo úměrné ohniskové vzdálenosti okuláru",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1154,
+		"category": 1,
+		"number": 1154,
+		"text": "Kondenzor je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "stroj na výrobu stlačeného plynu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "soustava elektrod oddělených dielektrikem",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nádobka vkládaná do polarimetru",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "soustava čoček",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1155,
+		"category": 1,
+		"number": 1155,
+		"text": "Je-li A optický interval, d konvenční zraková vzdálenost, fi a fz ohniskov vzdálenosti objektivu a okuláru, je úhlové zvětšení Z mikroskopu dáno vztahem",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Z = dA/(f1f2)",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Z = f14/(df2)",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Z = Adf1/f2",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Z= fqf2 /(Ad)",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1156,
+		"category": 1,
+		"number": 1156,
+		"text": "Největší využitelné úhlové zvětšení optického mikroskopu je přibližně",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "500",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1000",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "2000",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "20000",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1157,
+		"category": 1,
+		"number": 1157,
+		"text": "Elektronový mikroskop dovoluje zvětšení řádově",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "104",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "105",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "106",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "107",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1158,
+		"category": 1,
+		"number": 1158,
+		"text": "Rychlost šíření červeného světla ve skle je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "větší než světla fialového",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "menší než světla fialového",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "stejná jako rychlost šíření fialového světla",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "stejná jako rychlost šíření žlutého světla",
+				"correct": false
+			}
+		]
+	}
+]

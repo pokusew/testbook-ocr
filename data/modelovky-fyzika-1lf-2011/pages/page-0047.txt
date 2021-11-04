@@ -9,7 +9,6 @@ A) NC-1 = V.m-1
 b) N-1.C = V.m-1
 c) N-1.C = V.m
 d) N.C = V.m
-=
 327. Která z uvedených veličin je skalár?
 a) intenzita elektrického pole
 B) velikost elektrické síly

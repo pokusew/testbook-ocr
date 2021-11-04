@@ -1,0 +1,194 @@
+[
+	{
+		"id": 311,
+		"category": 1,
+		"number": 311,
+		"text": "Skleněná a železná koule o stejném poloměru padají volným pádem z výšky h Odpor vzduchu zanedbejte. Které tvrzení je správné?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kinetické energie obou koulí budou při dopadu stejné",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "rychlosti obou koulí budou při dopadu stejné",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "železná koule dopadne dříve než skleněná",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "obě koule dopadnou ve stejném okamžiku",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 312,
+		"category": 1,
+		"number": 312,
+		"text": "Koule o poloměru Rz a druhá o poloměru R2 = 2R1, vyrobené ze stejnéh materiálu, padají současně volným pádem z výšky h. Odpor vzduchu zanedbejte Které tvrzení je správné?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "obě dopadnou současně",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "větší koule dopadne dříve",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kinetická energie koule s poloměrem Rz bude při dopadu dvojnásobkem kinetick energie menší koule",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kinetické energie obou koulí budou při dopadu stejné",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 313,
+		"category": 1,
+		"number": 313,
+		"text": "Koule o poloměru Rz a druhá o poloměru R2 = 2R1, vyrobené ze stejnéh materiálu, padají současně volným pádem z výšky h. Odpor vzduchu zanedbejte Které tvrzení je správné?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "obě dopadnou současně",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kinetická energie koule s větším poloměrem bude při dopadu 2x větší než kinetick energie menší koule",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kinetická energie koule s větším poloměrem bude při dopadu 4x větší než kinetick energie menší koule",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kinetická energie koule s větším poloměrem bude při dopadu 8x větší než kinetick energie menší koule",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 314,
+		"category": 1,
+		"number": 314,
+		"text": "Těleso o hmotnosti 5 kg padá volným pádem z výšky 20 m. Použijte pro gravitač zrychlení hodnotu 10 m.s-2 a odpor vzduchu zanedbejte. Které tvrzení je správné?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jeho rychlost při dopadu je 20 m/s",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jeho rychlost při dopadu je přibližně 14 m/s",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jeho hybnost při dopadu je 100 kg.m.s-1",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jeho kinetická energie při dopadu je 1 kJ",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 315,
+		"category": 1,
+		"number": 315,
+		"text": "Těleso o hmotnosti 10 kg padalo volným pádem a při dopadu mělo hybnos 200 kg.m.s-1. Použijte pro gravitační zrychlení hodnotu 10 m.s-2 a odpor vzduc zanedbejte. Z jaké výšky padalo?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "5 m",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "10 m",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "15 m",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "20 m",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 316,
+		"category": 1,
+		"number": 316,
+		"text": "Těleso padá volným pádem z výšky 40 m. V jaké výšce bude jeho kinetick energie stejná jako potenciální? Odpor vzduchu zanedbejte.",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "15 m",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "16 m",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "18 m",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "20 m",
+				"correct": true
+			}
+		]
+	}
+]

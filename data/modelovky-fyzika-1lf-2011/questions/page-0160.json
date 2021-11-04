@@ -1,0 +1,290 @@
+[
+	{
+		"id": 1219,
+		"category": 1,
+		"number": 1219,
+		"text": "Pro de Broglieho vlnovou délku a příslušející částici s hybností p platí vztah (h j Planckova konstanta)",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1 = h.p",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1 = p/h",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "= h/p",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "2.h =p",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1220,
+		"category": 1,
+		"number": 1220,
+		"text": "Tlak záření výkonného laseru s hustotou zářivého toku 3x1018 W.m-2 je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "108 Pa",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "109 Pa",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1010 Pa",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1011 Pa",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1221,
+		"category": 1,
+		"number": 1221,
+		"text": "Tlak záření výkonného laseru je 3x10° Pa. Jaká je jeho hustota zářivého toku?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "9x1015 W.m-2",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "9x1016 W.m-2",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "9x1017 W.m-2",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "9x1018 W.m-2",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1222,
+		"category": 1,
+		"number": 1222,
+		"text": "Stav elektronu v atomu je určen",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hlavním kvantovým číslem",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "třemi kvantovými čísly",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "čtyřmi kvantovými čísly",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Pauliho principem",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1223,
+		"category": 1,
+		"number": 1223,
+		"text": "Elektronová konfigurace uhlíku v základním energetickém stavu je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "(15)2 (28)2 (2p)?",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "(1s)? (2s)(2p)(35)",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "(1s)? (2s)? (2p)' (3s)?",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "(1s)? (2s)? (2p) (3)",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1224,
+		"category": 1,
+		"number": 1224,
+		"text": "Ostřelováním 1 Mg deuteronem vznikne Al. Částicí uvolněnou při reakci je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "neutron",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "proton",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "elektron",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "deuteron",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1225,
+		"category": 1,
+		"number": 1225,
+		"text": "Ostřelováním 180 deuteronem vznikne 14N. Částicí uvolněnou při reakci je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "helion",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "proton",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "foton",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "elektron",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1226,
+		"category": 1,
+		"number": 1226,
+		"text": "Ostřelováním 28Ni protonem vznikne 29Cu. Částicí uvolněnou při reakci je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "proton",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "neutron",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "helion",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "elektron",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1227,
+		"category": 1,
+		"number": 1227,
+		"text": "Ostřelováním jis neutronem vznikne P. Částicí uvolněnou při reakcije",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "proton",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "neutron",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "deuteron",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "helio 6 16",
+				"correct": false
+			}
+		]
+	}
+]

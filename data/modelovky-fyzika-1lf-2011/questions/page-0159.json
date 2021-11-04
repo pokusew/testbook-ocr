@@ -1,0 +1,290 @@
+[
+	{
+		"id": 1210,
+		"category": 1,
+		"number": 1210,
+		"text": "Jaká je mezní vlnová délka světla, které způsobí fotoemisi elektronů ze sodíku při velikosti výstupní práce W, = 2,3 eV?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "540 nm",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "560 nm",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "580 nm",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "600 nm",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1211,
+		"category": 1,
+		"number": 1211,
+		"text": "Poloměr atomového jádra je řádově",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "10-15 m",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "10-14 m",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "10-13 m",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "10-12 m",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1212,
+		"category": 1,
+		"number": 1212,
+		"text": "Jaká je kinetická energie fotoelektronů, jestliže na povrch sodíku s výstupní prac W, = 2,3 eV dopadne záření o vlnové délce 200 nm?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "3,9 eV",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "4,1 eV",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "4,3 eV",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "4,5 eV",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1213,
+		"category": 1,
+		"number": 1213,
+		"text": "Foton má",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pouze vlastnosti částice",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pouze vlastnosti vlny",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "částicové i vlnové vlastnosti",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nulovou klidovou hmotnost",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1214,
+		"category": 1,
+		"number": 1214,
+		"text": "Elektron v základním energetickém stavu má",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pouze vlastnosti částice",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pouze vlastnosti vln J",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nulovou klidovou hmotnost",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "částicové i vlnové vlastnosti",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1215,
+		"category": 1,
+		"number": 1215,
+		"text": "Avogadrovu konstantu vyjadřujeme v jednotkách",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mol-1",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mol",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mol. 1",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mol. 1-1",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1216,
+		"category": 1,
+		"number": 1216,
+		"text": "Rozměry atomů jsou řádově",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "10-7m",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "10-8 m",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "10-9 m",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "10-10 m",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1217,
+		"category": 1,
+		"number": 1217,
+		"text": "Energie základního stavu elektronu v určitém atomu je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nejnižší možná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kladná",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "závislá na počtu neutronů jádře",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "závislá na nukleonovém čísle",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1218,
+		"category": 1,
+		"number": 1218,
+		"text": "Určete správné tvrzení: Záření laseru je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "emitováno na základě stimulované emise",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "monofrekvenční",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "divergentní",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "koherentní",
+				"correct": true
+			}
+		]
+	}
+]

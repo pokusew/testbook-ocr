@@ -1,0 +1,258 @@
+[
+	{
+		"id": 361,
+		"category": 1,
+		"number": 361,
+		"text": "Koule ve vakuu se nábojem 9 nC nabila na potenciál 810 V. Jaký je její poloměr?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "5 cm",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "10 cm",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "15 cm",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "20 cm",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 362,
+		"category": 1,
+		"number": 362,
+		"text": "Prostor mezi dvěma vodivými rovnoběžnými deskami, mezi kterými je ve vaku elektrické pole o velikosti E vyplníme olejem o relativní permitivitě Ex = 2,5. Ja se změní intenzita pole mezi deskami?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zmenší se 5krát",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zvětší se 5krát",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zmenší se 2,5krát",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zvětší se 2,5krát",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 363,
+		"category": 1,
+		"number": 363,
+		"text": "Vodivá koule umístěná v oleji o relativní permitivitě ε = 2,5 má plošnou hustot náboje o = 8,85x10-7 C.m-2. Jaká je intenzita elektrického pole v její těsn blízkosti?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "4 kv.m-1",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "40 kV.m-1",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "0,4 kV.m-1",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "40 V.m-1",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 364,
+		"category": 1,
+		"number": 364,
+		"text": "Vodivá koule o průměru 5 cm umístěná v oleji o relativní permitivitě ε = 2,5 j nabita nábojem 8,85 nC. Jaká je intenzita elektrického pole v její těsné blízkosti?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "5,1*103 V.m-1",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "5,1x104 V.m-1",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "5,1*105 V.m-1",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "5,1*106 V.m-1",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 365,
+		"category": 1,
+		"number": 365,
+		"text": "Prostor mezi dvěma vodivými rovnoběžnými deskami, mezi kterými je ve vaku elektrické pole o velikosti E vyplníme olejem o relativní permitivitě £, - -2,5. Ja se změní napětí mezi deskami?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zmenší se 5krát",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zvětší se 5krát",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zmenší se 2,5krát",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zvětší se 2,5krát",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 366,
+		"category": 1,
+		"number": 366,
+		"text": "Značí-li W práci a Q náboj, můžeme elektrický potenciál ve vyjádřit jako",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Psi = W/Q^2",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Psi = W/Q",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Psi = WQ",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Psi = Q/W",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 367,
+		"category": 1,
+		"number": 367,
+		"text": "Jednotkou elektrického potenciálu je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "amper",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "coulomb",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "volt",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "farad",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 368,
+		"category": 1,
+		"number": 368,
+		"text": "Elektrická síla mezi dvěma náboji je nepřímo úměrná",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "součinu nábojů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "součtu nábojů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "permitivitě prostředí",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vzdálenosti nábojů",
+				"correct": false
+			}
+		]
+	}
+]

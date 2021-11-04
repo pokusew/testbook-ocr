@@ -1,0 +1,258 @@
+[
+	{
+		"id": 409,
+		"category": 1,
+		"number": 409,
+		"text": "Vyberte správné tvrzení týkající se vzdálenosti r, která odpovídá rovnovážn poloze mezi dvěma částicemi (např. atomy H v molekule Hz):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "výsledná síla ve vzdálenosti větší než r je přitažlivá",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "výsledná síla ve vzdálenosti menší než r je odpudivá",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "výsledná síla ve vzdálenosti r se rovná nule",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "výsledná síla ve vzdálenosti r se nerovná nule",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 410,
+		"category": 1,
+		"number": 410,
+		"text": "Vazby v molekule vody spolu svírají úhel",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "45°",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "90°",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "105°",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "180 :",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 411,
+		"category": 1,
+		"number": 411,
+		"text": "Vyberte správné tvrzení",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "částice v krystalové mříži se nepohybují, neboť každá z nich má svoji danou polohu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "za normálních podmínek lze v plynu zanedbat přitažlivé síly mezi molekulami dík velkým vzdálenostem",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v plazmatu mohou být přítomny ionty, elektrony i neutrální částice",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "soubor částic plazmatu je navenek neutrální",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 412,
+		"category": 1,
+		"number": 412,
+		"text": "Při zahřívání plynu v uzavřené nádobě tlak plynu",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zůstává nezměněn",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "roste lineárně se stoupající teplotou",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je přímo úměrný druhé mocnině teploty",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je přímo úměrný druhé odmocnině teploty",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 413,
+		"category": 1,
+		"number": 413,
+		"text": "Střední hodnota tlaku plynu v uzavřené nádobě je přímo úměrná",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "střední kvadratické rychlosti molekul",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hustotě molekul",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "hmotnosti molekul",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "druhé mocnině střední kvadratické rychlosti",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 414,
+		"category": 1,
+		"number": 414,
+		"text": "Brownův pohyb je důsledkem a projevem",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "uspořádaného pohybu částic",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "působení elektrostatických sil mezi částicemi",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "neuspořádaného pohybu částic",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vlivu chemické afinity mezi částicemi",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 415,
+		"category": 1,
+		"number": 415,
+		"text": "Molekuly lze pozorovat",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pomocí klasického optického mikroskopu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pomocí speciálně upraveného optického mikroskopu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pomocí elektronového mikroskopu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nelze vůbec pozorovat",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 416,
+		"category": 1,
+		"number": 416,
+		"text": "Do nádoby s rozpustnou barevnou látkou nalijeme vodu. Roztok se rychl zbarví těsně nad danou látkou. Zbarvení se bude pomalu šířit směrem vzhůru Pozorovaný jev se nazývá",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "difuze",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "osmóza",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "viskozita",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Brownův pohyb",
+				"correct": false
+			}
+		]
+	}
+]

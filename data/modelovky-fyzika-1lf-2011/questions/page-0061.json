@@ -1,0 +1,258 @@
+[
+	{
+		"id": 433,
+		"category": 1,
+		"number": 433,
+		"text": "Vyberte dvojici, kde ani jedna z uvedených veličin není veličinou stavovo (Q značí teplo, p tlak, U vnitřní energii, V objem a W práci):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "WQ",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "U, V",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "W,p",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "eV",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 434,
+		"category": 1,
+		"number": 434,
+		"text": "Vyberte dvojici, kde jedna z uvedených veličin není a druhá je stavovou veličino (T značí termodynamickou teplotu, p tlak, U vnitřní energii, V objem a W práci):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Up",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "W, V",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "W, U",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "T, V",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 435,
+		"category": 1,
+		"number": 435,
+		"text": "Vyberte správné tvrzení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "částice látky dané soustavy na sebe navzájem působí i v rovnovážném stavu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v rovnovážném stavu se některé ze stavových veličin mohou měnit, jiné nikoliv",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v rovnovážném stavu se žádná ze stavových veličin nemění",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "částice látky dané soustavy se pohybují i v nerovnovážném stavu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 436,
+		"category": 1,
+		"number": 436,
+		"text": "Vyberte dvojici, kde dané fyzikální představě odpovídá v přiblížení nabídnut skutečnost:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "izolovaná soustava - válec s plynem v dostatečně velké vodní lázni o libovolné teplotě",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "rovnovážný děj – rychlé stlačování plynu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "rovnovážný stav - stav plynu v uzavřené nádobě, kterému je rovnoměrně dodáváno teplo",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "rovnovážný děj – pomalé stlačování plynu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 437,
+		"category": 1,
+		"number": 437,
+		"text": "Vyberte dvojici, kde dané fyzikální představě neodpovídá v přiblížení nabídnut skutečnost:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kapalina v termosce - izolovaná soustava",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "rychlé stlačování plynu - rovnovážný děj",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pomalé stlačování plynu - rovnovážný děj",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "stav plynu v uzavřené nádobě při konstantní teplotě – rovnovážný stav soustavy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 438,
+		"category": 1,
+		"number": 438,
+		"text": "V rovnovážném stavu soustavy platí",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "změna vnitřní energie se rovná nule",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "střední kinetická energie částic se rovná nule",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "změna teploty se nerovná nule",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "změna tlaku se nerovná nule",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 439,
+		"category": 1,
+		"number": 439,
+		"text": "Zvolte správnou kombinaci přibližného vyjádření téže teploty ve °C (t)a v K(T):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "t= 10 °C; T = 283 K",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "t = 10 °C; T = 263 K",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "T = 10 K; t = 283 °C",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "T = 10 K; t = 263 °C",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 440,
+		"category": 1,
+		"number": 440,
+		"text": "Zvolte správnou kombinaci přibližného vyjádření téže teploty ve °C (t) a v K(T):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "t= -20 °C; T = 293 K",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "t= 20 °C; T = 253 K",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "T = 20 K; t = 293 °C",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "T = 253 K; t = -20 ° =",
+				"correct": true
+			}
+		]
+	}
+]

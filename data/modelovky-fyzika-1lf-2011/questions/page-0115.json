@@ -1,0 +1,226 @@
+[
+	{
+		"id": 850,
+		"category": 1,
+		"number": 850,
+		"text": "Na přímý vodič o délce 60 cm, který je orientován kolmo k indukčním čárá homogenního magnetického pole o magnetické indukci 20 mt působí síl 60 mN. Jaký proud jím prochází?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,5 A",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "5A",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "0,1 A",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "10 A",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 851,
+		"category": 1,
+		"number": 851,
+		"text": "Na přímý vodič o délce 80 cm, kterým prochází proud o intenzitě 10 A působ síla 100 mN. Vodič je orientován kolmo k indukčním čárám homogenníh magnetického pole. Jakou má toto pole magnetickou indukci?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "8 mt",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "10 ml",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "12,5 mT",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "25 mt",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 852,
+		"category": 1,
+		"number": 852,
+		"text": "Kruhovým závitem s průměrem 20 cm, který je orientován kolmo k indukční čárám, prochází indukční tok 6 mWb. Jaká je magnetická indukce?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,15 T",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,19 T",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "0,3 T",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "0,38 T",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 853,
+		"category": 1,
+		"number": 853,
+		"text": "Kruhovým závitem s průměrem 10 cm, který je orientován kolmo k indukční čárám, prochází magnetický tok 5 mWb. Jaká je přibližně velikost magnetick indukce?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,32 T",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,64 T",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "0,128 T",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "0,256 T",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 854,
+		"category": 1,
+		"number": 854,
+		"text": "Závitem orientovaným kolmo k indukčním čárám homogenního magnetickéh pole o magnetické indukci 20 mT prochází magnetický tok 5 mWb. Jaká je ploch závitu?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "250 cm?",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "500 cm?",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "2000 cm2",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "2500 cm?",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 855,
+		"category": 1,
+		"number": 855,
+		"text": "Cívkou o indukčnosti 5 mH prochází proud 3 A. Jaký magnetický indukční to prochází cívkou?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "15 mWb",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "30 mWb",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "45 mWb",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "60 mWm",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 856,
+		"category": 1,
+		"number": 856,
+		"text": "Cívkou o indukčnosti 20 mH prochází magnetický tok 10 mWb. Jaký proud j prochází?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "25 mA",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "50 mA",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "250 mA",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "500 m 2",
+				"correct": true
+			}
+		]
+	}
+]

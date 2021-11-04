@@ -1,0 +1,258 @@
+[
+	{
+		"id": 417,
+		"category": 1,
+		"number": 417,
+		"text": "Proces difuze v roztoku můžeme urychlit",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "snížením teploty",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zvýšením teploty",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zvýšením tlaku",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nemůžeme ovlivnit",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 418,
+		"category": 1,
+		"number": 418,
+		"text": "Brownův pohyb můžeme pomocí mikroskopu pozorovat na",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "iontech",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "malých molekulách",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "hrubých částicích o velikosti 0,1 mm",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "částicích zhruba o velikosti 1 um",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 419,
+		"category": 1,
+		"number": 419,
+		"text": "Střední hodnota druhých mocnin posunutí Brownovy částice je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "přímo úměrná době posunutí a teplotě systému",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "přímo úměrná teplotě a druhé mocnině doby",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "přímo úměrná době a druhé mocnině teploty",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "přímo úměrná odmocnině součinu doby a teploty",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 420,
+		"category": 1,
+		"number": 420,
+		"text": "Které z následujících tvrzení je nesprávné?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "soubor částic plazmatu je navenek bud' elektricky pozitivní nebo elektricky negativní",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v plazmatu nemohou být elektricky neutrální částice",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "amorfní látky jsou takové pevné látky, jejichž částice netvoří krystalovou strukturu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "většina pevných látek je amorfní povahy",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 421,
+		"category": 1,
+		"number": 421,
+		"text": "V pevných látkách s pravidelným uspořádáním částic (krystalovou strukturou vykonávají tyto částice převážně pohyb",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "translační",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vibrační",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "rotační",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nevykonávají žádný pohyb",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 422,
+		"category": 1,
+		"number": 422,
+		"text": "V plazmatu nemohou existovat",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "volná atomová jádra a volné elektrony",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "současně kladně nabité částice, záporně nabité částice a molekuly",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pouze ionty a elektrony",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pouze elektricky neutrální částice",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 423,
+		"category": 1,
+		"number": 423,
+		"text": "Určete správné tvrzení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "skupenství v prostoru elektrického oblouku (např. při sváření) lze označit jako plazma",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "atomy v dvouatomové molekule plynu vykonávají pouze dva typy pohybu (translační a rotační)",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "součet nábojů všech částic v daném souboru částic plazmatu (s ohledem na znaménko je nulový",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "plazma může a nemusí kromě elektricky nabitých částic obsahovat i elektricky neutráln atomy či molekuly",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 424,
+		"category": 1,
+		"number": 424,
+		"text": "Mezi stavové veličiny patří",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vnitřní energie",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "tlak",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "práce",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "teplot a",
+				"correct": true
+			}
+		]
+	}
+]

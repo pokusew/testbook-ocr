@@ -1,0 +1,258 @@
+[
+	{
+		"id": 809,
+		"category": 1,
+		"number": 809,
+		"text": "Ve jmenovateli výrazu pro vyjádření množství látky vyloučené elektrolýzo s použitím Faradayovy konstanty je násobek z. Jaká je jeho hodnota pr elektrolytické vyloučení mědi z roztoku měďnaté sole?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "2",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "3",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "4",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 810,
+		"category": 1,
+		"number": 810,
+		"text": "Látkové množství molekul vodíku H, vyloučené proudem 0,5 A za 1 hodinu j přibližně",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "3 mmol",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "5 mmol",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "9 mmol",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "12 mmol",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 811,
+		"category": 1,
+		"number": 811,
+		"text": "“Kapacita\" akumulátoru se vyjadřuje v jednotkách",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "náboje",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "proudu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "práce",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "výkonu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 812,
+		"category": 1,
+		"number": 812,
+		"text": "Vyberte nesprávné tvrzení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v galvanickém článku sestaveném z měděné elektrody ponořené do roztoku měďnatýc iontů a zinkové elektrody ponořené do roztoku zinečnatých iontů bude povrch měděn elektrody záporný",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Daniellův článek je sestaven z měděné elektrody v roztoku měd'natých iontů a zinkov elektrody v roztoku zinečnatých iontů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "suchých článků se využívá například v automobilové baterii",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "polarizační napětí má stejný směr jako napětí zdroje původně připojeného na elektrody",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 813,
+		"category": 1,
+		"number": 813,
+		"text": "Vyberte nesprávné tvrzení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "polarizační napětí může nabývat libovolně velkých hodnot",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "akumulátor je polarizační článek",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "\"kapacitu\" akumulátoru vyjadřujeme v jednotkách proudu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Daniellův článek má obě elektrody ponořeny do téhož elektrolytu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 814,
+		"category": 1,
+		"number": 814,
+		"text": "Vysoká kapacita elektrolytických kondenzátorů je dána",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nízkou hodnotou permitivity",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "disociací na ionty",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "elektrolytickým procesem",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vysokou hodnotou permitivity",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 815,
+		"category": 1,
+		"number": 815,
+		"text": "Označte správné tvrzení: Plyn se může stát vodičem",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zahřátím na vysokou teplotu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ozářením rentgenovými paprsky",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zkapalněním",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ozářením zářením beta",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 816,
+		"category": 1,
+		"number": 816,
+		"text": "Plyn se stává vodičem na základě",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ionizace",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "excitace",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "rekombinace",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "disociace na atomy",
+				"correct": false
+			}
+		]
+	}
+]

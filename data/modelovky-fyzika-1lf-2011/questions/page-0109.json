@@ -1,0 +1,258 @@
+[
+	{
+		"id": 801,
+		"category": 1,
+		"number": 801,
+		"text": "Při vedení proudu dochází k přenosu látky",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v elektrolytech a ionizovaných plynech",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pouze v elektrolytech",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v kovech",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v polovodičích",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 802,
+		"category": 1,
+		"number": 802,
+		"text": "Při vedení elektrického proudu nedochází k přenosu látky",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pouze v kovech",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pouze v polovodičích",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v kovech a polovodičích",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v elektrolytech",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 803,
+		"category": 1,
+		"number": 803,
+		"text": "Jednotkou Faradayovy konstanty je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "A.kg-1",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "A.mol-1",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "C.kg-1",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "C.mol-1",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 804,
+		"category": 1,
+		"number": 804,
+		"text": "Značí-li I intenzitu proudu, Q náboj a t čas, pak hmotnost m látky vyloučené n elektrodě v průběhu elektrolýzy lze pomocí elektrochemického ekvivalentu A látk vyjádřit jako",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "m = AQ",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "m = A/Q",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "m = - AQt",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "m = A/I",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 805,
+		"category": 1,
+		"number": 805,
+		"text": "Značí-li I intenzitu proudu, Q náboj a A elektrochemický ekvivalent látky, pa probíhá-li proces elektrolýzy po dobu t, je hmotnost m látky vyloučené na elektrodě",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "m = Alt",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "m = Al/t",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "m = AQt",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "m = = AQ/t",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 806,
+		"category": 1,
+		"number": 806,
+		"text": "Značí-li Mm molární hmotnost, z - počet elektronů, a Q náboj, použití Faradayovy konstanty F lze množství látky vyloučené elektrolýzou na elektrod vyjádřit jako",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "m = FQ/(M22)",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "m = = MmQ/(FZ)",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "m = Mm2/(QF)",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "m = Fz/(QF)",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 807,
+		"category": 1,
+		"number": 807,
+		"text": "Značí-li M, molární hmotnost, z - počet elektronů, Q - náboj a F Faradayov konstantu, je elektrochemický ekvivalent A definován vztahem",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "A = FQ/(Mm)",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "A = Mm/(FZ)",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "A = MmQ/(FZ)",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "A = Fz/M.",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 808,
+		"category": 1,
+		"number": 808,
+		"text": "Ve jmenovateli výrazu pro vyjádření množství látky vyloučené elektrolýzo s použitím Faradayovy konstanty je násobek z. Jaká je jeho hodnota pr elektrolytické vyloučení zlata z roztoku chloridu zlatitého?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "2",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "3",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": " >",
+				"correct": false
+			}
+		]
+	}
+]

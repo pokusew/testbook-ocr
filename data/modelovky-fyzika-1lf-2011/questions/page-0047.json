@@ -1,0 +1,258 @@
+[
+	{
+		"id": 325,
+		"category": 1,
+		"number": 325,
+		"text": "Podle definičního vztahu pro intenzitu elektrického pole by její jednotkou moh být",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "N.C",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "N.C-1",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "N-2.C",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "N-1.C-1",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 326,
+		"category": 1,
+		"number": 326,
+		"text": "Z úvah o intenzitě elektrického pole plyne vztah mezi jednotkami",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "NC-1 = V.m-1",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "N-1.C = V.m-1",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "N-1.C = V.m",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "N.C = V.m",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 327,
+		"category": 1,
+		"number": 327,
+		"text": "Která z uvedených veličin je skalár?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "intenzita elektrického pole",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "velikost elektrické síly",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "permitivita prostředí",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "elektrický náboj",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 328,
+		"category": 1,
+		"number": 328,
+		"text": "Intenzitu elektrického pole definujeme jako",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "součin dvou vektorů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "součin vektoru a skaláru",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "podíl - skalár lomený vektorem",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "podíl - vektor lomený skalárem",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 329,
+		"category": 1,
+		"number": 329,
+		"text": "Vyberte pravdivé tvrzení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "podle definice intenzity elektrického pole by bylo možno jednotku této veličiny vyjádři jako N. C",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pro intenzitu elektrického pole užíváme jednotku V.m-1",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "intenzita elektrického pole a elektrická síla působící na kladný náboj jsou vektor stejného směru",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mezi dvěma rovnoběžnými, izolovanými, elektricky nabitými deskami je radiáln elektrické pole",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 330,
+		"category": 1,
+		"number": 330,
+		"text": "Elektrické pole v okolí bodového elektrického náboje",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je nehomogenní",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "má stejnou intenzitu pro každý bod v dané vzdálenosti",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je axiální",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je radiální",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 331,
+		"category": 1,
+		"number": 331,
+		"text": "Radiální elektrické pole můžeme očekávat například",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v okolí elektricky nabité tyče",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mezi dvěma elektricky nabitými deskami",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mezi dvěma elektrickými nabitými tělesy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v okolí iontu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 332,
+		"category": 1,
+		"number": 332,
+		"text": "Intenzita elektrického pole uvnitř nabité vodivé koule",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je vektor směřující do středu koule",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je vektor směřující ze středu koule",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je vektor směřující do středu u kladně nabité koule a od středu u záporně nabité koule",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je nulová",
+				"correct": true
+			}
+		]
+	}
+]

@@ -1,0 +1,226 @@
+[
+	{
+		"id": 770,
+		"category": 1,
+		"number": 770,
+		"text": "Zánik páru volný elektron - díra v polovodiči se nazývá",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "excitace",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "rekombinace",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ionizace",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "disociace",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 771,
+		"category": 1,
+		"number": 771,
+		"text": "Mezi výsledným elektrickým proudem v polovodiči I, elektronovým proudem I_e děrovým proudem I_d platí vztah",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "I = 1 + Id",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "I = 1 - 1",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "I = ld - 1",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "I = 1e = 10",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 772,
+		"category": 1,
+		"number": 772,
+		"text": "Ve vlastním polovodiči",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je hustota děr menší než hustota volných elektronů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je hustota volných elektronů menší než hustota děr",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "poměr mezi hustotami děr a volných elektronů závisí na typu poruch krystalové mřížky",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je hustota děr rovna hustotě volných elektronů",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 773,
+		"category": 1,
+		"number": 773,
+		"text": "V jednotlivých alternativách jsou uvedena jednotlivá zařízení a k nim jso přiřazeny fyzikální principy či jevy, na kterých jsou založena. Označte správno kombinaci:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "termočlánek – vznik elektromotorického napětí zahřátím spoje dvou kovů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "bimetalický teploměr -- závislost měrného elektrického odporu na teplotě",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "polovodičová dioda - 1 přechod PN",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "tranzistor - 2 přechody PN",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 774,
+		"category": 1,
+		"number": 774,
+		"text": "V jednotlivých alternativách jsou uvedena jednotlivá zařízení a k nim jso přiřazeny fyzikální principy či jevy, na kterých jsou založena. Označte správno kombinaci:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "termočlánek - přeměna tepelné energie na energii elektrickou",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "termistor - pokles měrného elektrického odporu polovodiče se stoupající teplotou",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "odporový teploměr – vzrůst měrného elektrického odporu vodiče se stoupající teplotou",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "tranzistor – využití 1 přechodu PN k usměrnění proudu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 775,
+		"category": 1,
+		"number": 775,
+		"text": "V jednotlivých alternativách jsou uvedena jednotlivá zařízení a k nim jso přiřazeny fyzikální principy či jevy, na kterých jsou založena. Označte správno kombinaci:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "polovodičová dioda - využití větší elektrické vodivosti v jednom směru na 1 přechodu PN",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "galvanický článek - reakce na povrchu elektrod v elektrolytu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "termočlánek - přeměna elektrické energie na energii tepelnou",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "bimetalický teploměr - teplotní roztažnost kovů",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 776,
+		"category": 1,
+		"number": 776,
+		"text": "Změníme-li polaritu vnějšího zdroje napětí vloženého na polovodič s přechode PN, který byl původně zapojen v propustném směru, elektrický odpor přechod PN",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mírně vzroste",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "značně vzroste",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "poklesne",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se nezměn V",
+				"correct": false
+			}
+		]
+	}
+]

@@ -1,0 +1,258 @@
+[
+	{
+		"id": 753,
+		"category": 1,
+		"number": 753,
+		"text": "Vyhledejte dvojici, ve které je jeden z uvedených vztahů pro práci W a výkon konstantního elektrického proudu chybný:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "W = U_t/R; P = W/t",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "W = RIPt; P = UI/t",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "W = Ult; P = UP/R",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "W = UQ; P = RI?",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 754,
+		"category": 1,
+		"number": 754,
+		"text": "Jaké množství tepla vznikne přeměnou z elektrické energie při desetihodinové provozu elektrického vařiče o příkonu 0,5 kW?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1,8 kJ",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "18 M)",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1,8 kW.hod",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1800 kW.hod",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 755,
+		"category": 1,
+		"number": 755,
+		"text": "Jaký je odpor vlákna 50 W automobilové žárovky připojené k napětí 12 V?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "3,56 12",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "5,6212",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "2,88 Ω",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "7,22 12",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 756,
+		"category": 1,
+		"number": 756,
+		"text": "Jaký proud přibližně protéká 40 W žárovkou při síťovém napětí 220 V?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "5,5 A",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "180 mA",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1,8 A",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "550 mA",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 757,
+		"category": 1,
+		"number": 757,
+		"text": "Jak velký elektrický náboj se přenese při svícení trvajícím 1 h žárovkou o výkon 20 W při napětí 12 V?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "6C",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "6 Ah",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "6 As",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "6 kC",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 758,
+		"category": 1,
+		"number": 758,
+		"text": "Během desetiminutového svícení žárovkou pro sítové napětí 220 V se přenes zhruba náboj 0,076 Ah. Jak velký byl přibližně příkon žárovky?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "40 W",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "100 W",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "15 W",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "60 W",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 759,
+		"category": 1,
+		"number": 759,
+		"text": "Které z následujících tvrzení je správné? Nahradíme-li v krystalu křemík některé atomy fosforem získáme",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "polovodič typu N",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "polovodič typu P",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "polovodič s děrovou vodivostí",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vodič",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 760,
+		"category": 1,
+		"number": 760,
+		"text": "Typ polovodiče s děrovou vodivostí značíme písmenem",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "D",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "N",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "P",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "E",
+				"correct": false
+			}
+		]
+	}
+]

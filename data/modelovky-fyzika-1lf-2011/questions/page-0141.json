@@ -1,0 +1,290 @@
+[
+	{
+		"id": 1059,
+		"category": 1,
+		"number": 1059,
+		"text": "Intenzita zvuku s rostoucí vzdálenosti od zdroje klesá",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "s druhou mocninou vzdálenosti",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "s druhou odmocninou vzdálenosti",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "s třetí mocninou vzdálenosti",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "lineárně",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1060,
+		"category": 1,
+		"number": 1060,
+		"text": "Rozsah slyšitelnosti zdravého ucha je přibližně",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "60 dB",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "80 dB",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "100 dB",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "120 dB",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1061,
+		"category": 1,
+		"number": 1061,
+		"text": "Prahu bolesti odpovídá přibližně intenzita zvuku",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "10-3 W.m-2",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "10-2 W.m-2",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "10-1 W.m-2",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1 W.m- 1 1 10",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1062,
+		"category": 1,
+		"number": 1062,
+		"text": "Rychlost zvuku ve vzduchu závisí nejvíce na",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vlhkosti vzduchu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "znečištění vzduchu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "teplotě vzduchu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "barometrickém tlaku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1063,
+		"category": 1,
+		"number": 1063,
+		"text": "Číselná hodnota rychlosti šíření zvuku ve vakuu je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "331,5 m/s",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0 m/s",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "108 m/s",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "16 km/s",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1064,
+		"category": 1,
+		"number": 1064,
+		"text": "Decibel (dB) je jednotka",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hladiny intenzity zvuku",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "intenzity zvuku",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "akustického výkonu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "akustického tlaku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1065,
+		"category": 1,
+		"number": 1065,
+		"text": "Infrazvuk je zvuk",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "s rychlostí šíření ve vzduchu menší než 331,5 m/s",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "s frekvencí vyšší než 16 kHz",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "s frekvencí nižší než 16 Hz",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "který se šíří vakuem",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1066,
+		"category": 1,
+		"number": 1066,
+		"text": "Rychlost šíření zvuku v kapalinách je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "větší než ve vzduchu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "menší než ve vzduchu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "menší než v pevných látkách",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "stejná jako ve vzduchu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1067,
+		"category": 1,
+		"number": 1067,
+		"text": "Jednoslabičná ozvěna nastává při vzdálenosti překážky přibližně",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "7 m",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "17 m",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "27 m",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "70 1",
+				"correct": false
+			}
+		]
+	}
+]

@@ -1,0 +1,226 @@
+[
+	{
+		"id": 347,
+		"category": 1,
+		"number": 347,
+		"text": "Intenzita elektrického pole mezi dvěma vodivými rovnoběžnými deskam vzdálenými od sebe 5 mm je 30 kV.m-1. Jaké je napětí mezi deskami?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "5 V",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "50 V",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "150 V",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "300 V",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 348,
+		"category": 1,
+		"number": 348,
+		"text": "Mezi dvěma rovnoběžnými vodivými deskami vzdálenými 20 cm, z nichž jedn má potenciál Q1 = 500 V a druhá q2 = -500 V se nachází částice s náboje 1 mC. Jaká elektrická síla na ni působí?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "5N",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "10 N",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "15 N",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "20 N",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 349,
+		"category": 1,
+		"number": 349,
+		"text": "Na vodivou kouli o poloměru 6 cm přesuneme náboj 6 nC. Jaká bude plošn hustota náboje?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1,3x10-7 C.m-2",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1,3x10-6 C.m-2",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1,3x10-5 C.m-2",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1,3x10-4 C.m-2",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 350,
+		"category": 1,
+		"number": 350,
+		"text": "Na vodivou kouli o poloměru 6 cm přesuneme náboj 6 nC. Jakou intenzitu m elektrické pole v její těsné blízkosti?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1,5x102 V.m-1",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1,5x103 V.m",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1,5x104 V.m-1",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1,5x105 V.m-1",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 351,
+		"category": 1,
+		"number": 351,
+		"text": "Na vodivou kouli o poloměru 6 cm přesuneme náboj 6 nC. Jaký potenciál bud mít její povrch?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "900 V",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "800 V",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "700 V",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "600 V",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 352,
+		"category": 1,
+		"number": 352,
+		"text": "Mezi dvěma vodivými rovnoběžnými deskami nesoucími náboje +10 nCa-10 n vložíme skleněnou desku o relativní permitivitě ε = 5. Jak velké vázané náboje s na dielektriku vytvoří?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "2 nCa-2 nc",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "3 nCa-3 nc",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "5 nCa-5 nC",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "8 nCa-8 nC",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 353,
+		"category": 1,
+		"number": 353,
+		"text": "Jaká je kapacita kulového vodiče o průměru 10 cm umístěného ve vakuu?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "5,6 pF",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "56 pF",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "5,6 nF",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "56 nF",
+				"correct": false
+			}
+		]
+	}
+]

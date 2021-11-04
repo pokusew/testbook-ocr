@@ -1,0 +1,258 @@
+[
+	{
+		"id": 682,
+		"category": 1,
+		"number": 682,
+		"text": "Vyberte správnou kombinaci uvedeného pojmu a jeho výkladu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "rezistor - elektrická veličina",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "reostat - kovová součástka se stálým elektrickým odporem",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "potenciometr – rezistor s posuvným kontaktem sloužící k nastavení vhodného napět v obvodu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "reostat - rezistor s posuvným kontaktem sloužící k nastavení vhodného napětí v obvodu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 683,
+		"category": 1,
+		"number": 683,
+		"text": "Potenciometr je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "rezistor s posuvným kontaktem sloužící k nastavení vhodného proudu v obvodu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jakýkoliv odpor",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jakákoliv kovová součástka se stálým elektrickým odporem",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "rezistor s posuvným kontaktem sloužící k nastavení vhodného napětí v obvodu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 684,
+		"category": 1,
+		"number": 684,
+		"text": "Reostat je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "rezistor s posuvným kontaktem sloužící k nastavení vhodného proudu v obvodu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "rezistor s posuvným kontaktem k nastavení vhodného napětí v obvodu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jakákoliv kovová součástka o stálém elektrickém odporu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "stálý elektrický odpor",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 685,
+		"category": 1,
+		"number": 685,
+		"text": "K nastavení vhodného napětí v elektrickém obvodu používáme",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jakkoliv zapojeného rezistoru",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "rezistoru s posuvným kontaktem zapojeného jako potenciometr",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "rezistoru s posuvným kontaktem zapojeného jako reostat",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jakéhokoliv kovového odporu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 686,
+		"category": 1,
+		"number": 686,
+		"text": "Na žárovce jsou uvedeny provozní hodnoty 24 Va 0,1 A. Prochází-li žárovko proud 2,5 mA je na ní napětí 0,045 V a teplota vlákna je prakticky rovna teplot okolí (20 °C). Teplotní součinitel odporu av = 4,4x10-3K-1. Jakou teplotu m přibližně vlákno za provozu žárovky?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1200 °C",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1600 °C",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1400 °C",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "2800 °C",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 687,
+		"category": 1,
+		"number": 687,
+		"text": "Automobilová žárovka koncového světla je určena pro napětí 12 V a prou 500 mA. Jaký je odpor jejího vlákna?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "24 12",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "6012",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "24 mΩ",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "60 m2",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 688,
+		"category": 1,
+		"number": 688,
+		"text": "Automobilová žárovka blikače je určena pro napětí 12 V a proud 1,6 A. Jaký j odpor jejího vlákna?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "28212",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "7,52",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1,75 12",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "2.12",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 689,
+		"category": 1,
+		"number": 689,
+		"text": "Měrný elektrický odpor p látky, ze které je zhotoven vodič o průřezu S, délce 1 elektrickém odporu R, je roven",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "p = RI/S",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "p = ls/R",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "p = RS/1",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "p = RSI",
+				"correct": false
+			}
+		]
+	}
+]

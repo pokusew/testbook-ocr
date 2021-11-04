@@ -1,0 +1,226 @@
+[
+	{
+		"id": 699,
+		"category": 1,
+		"number": 699,
+		"text": "O kolik procent se zvětší odpor měděného vodiče, vzroste-li jeho teplota z 20 ° na 100 °C? Teplotní součinitel odporu acu = 4x10-3K-1.",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "32%",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "44 %",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "16 %",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "24 %",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 700,
+		"category": 1,
+		"number": 700,
+		"text": "V nepříliš velkých intervalech teplot můžeme předpokládat, že elektrický odpo daného vodiče",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "roste přibližně lineárně s teplotou",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je nepřímo úměrný teplotě",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je přímo úměrný čtverci teploty",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je nepřímo úměrný čtverci teploty",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 701,
+		"category": 1,
+		"number": 701,
+		"text": "Označte pravdivé tvrzení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "elektrický odpor kovového vodiče roste s rostoucí teplotou následkem zvětšení rozkmit částic mřížky",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "po vložení vodiče do elektrického pole se dosáhne zcela uspořádaného pohybu volnýc elektronů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jednotkou teplotního součinitele elektrického odporu je K-1",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "měď není odporový materiál",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 702,
+		"category": 1,
+		"number": 702,
+		"text": "Závislosti elektrického odporu na teplotě se využívá u",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "termočlánků",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "termistorů",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "odporových teploměrů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "bimetalických teploměrů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 703,
+		"category": 1,
+		"number": 703,
+		"text": "Měrný elektrický odpor mědi je 0,0178 uNm, hliníku 0,027 usem, konstantan 0,50 usam, manganinu 0,42 ulm. Označte pravdivé tvrzení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "manganin patří mezi odporové materiály",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "konstantan patří mezi odporové materiály",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "při provádění domovní instalace s použitím měděného vodiče je možno pro očekávan zatížení použít drátu o menším průřezu než při použití hliníkového vodiče",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "při provádění domovní instalace s použitím měděného vodiče je nutno užít drát o větším průřezu než při použití hliníkového vodiče",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 704,
+		"category": 1,
+		"number": 704,
+		"text": "Supravodivost je jev, která se uplatňuje u některých kovů",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "při teplotě 0 °C",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "při teplotě blízké bodu tání daného kovu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "při teplotách blízkých O K",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "při teplotách vyšších než 200 °C",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 705,
+		"category": 1,
+		"number": 705,
+		"text": "Pro uzavřený elektrický obvod platí vztah mezi elektromotorickým napětím U napětím na vnější části obvodu U a napětím na vnitřní části obvodu U; vztah",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Ve = U+ U.",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Ue = U - U",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "V. = U, - U",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "U = e",
+				"correct": false
+			}
+		]
+	}
+]

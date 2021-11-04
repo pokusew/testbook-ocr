@@ -1,5 +1,5 @@
-1042. Šíří-li se vlnění z prostředí s rychlostí šíření Ví do prostředí s rychlostí šíření V2
-a je-li vi < V2, pak na rozhraní
+1042. Šíří-li se vlnění z prostředí s rychlostí šíření v_1 do prostředí s rychlostí šíření v_2 a
+je-li v_1 < v_2, pak na rozhraní
 a) dochází k odrazu s opačnou fází
 B) dochází k odrazu se stejnou fází
 c) dochází střídavě k odrazu se stejnou a opačnou fází

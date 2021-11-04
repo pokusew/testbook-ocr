@@ -1,5 +1,3 @@
--1
-=
 361. Koule ve vakuu se nábojem 9 nC nabila na potenciál 810 V. Jaký je její poloměr?
 a) 5 cm
 B) 10 cm
@@ -33,17 +31,15 @@ b) zvětší se 5krát
 C) zmenší se 2,5krát
 d) zvětší se 2,5krát
 366. Značí-li W práci a Q náboj, můžeme elektrický potenciál ve vyjádřit jako
-a) = W/Q?
-W/Q
-c) Pe=WQ
-d) 0e = Q/W
+a) Psi = W/Q^2
+B) Psi = W/Q
+c) Psi = WQ
+d) Psi = Q/W
 367. Jednotkou elektrického potenciálu je
 a) amper
 b) coulomb
 C) volt
 d) farad
--1
-B) Pe
 368. Elektrická síla mezi dvěma náboji je nepřímo úměrná
 a) součinu nábojů
 b) součtu nábojů

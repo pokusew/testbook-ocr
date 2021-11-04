@@ -1,0 +1,258 @@
+[
+	{
+		"id": 441,
+		"category": 1,
+		"number": 441,
+		"text": "Zvolte správné tvrzení týkající se termodynamické teploty T a Celsiovy teploty t:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "t= T",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "t= -1",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "t= T - 273,15",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "t=1/T",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 442,
+		"category": 1,
+		"number": 442,
+		"text": "Vyberte správnou kombinaci přibližného vyjádření téže teploty ve °C (t) a v K(T):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "t= -30 °C; T = 243 K",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "t= 30 °C; T = 303 K",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "t= -30 °C; T = 303 K",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "T = 30 K; t = -243 °C",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 443,
+		"category": 1,
+		"number": 443,
+		"text": "Vyberte správnou kombinaci přibližného vyjádření téže teploty ve °C (t) a v K(T):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "t = 223 °C; T = 50 K",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "t= -223 °C; T = 50 K",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "t = 50 °C; T = 323 K",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "T = 223 K; t = -50 ° a",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 444,
+		"category": 1,
+		"number": 444,
+		"text": "Teplota trojného bodu vody je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "273,16 °C",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "-273,16 °C",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "273,16 K",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "-273,16 K",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 445,
+		"category": 1,
+		"number": 445,
+		"text": "Děj, který probíhá v plynové náplni plynového teploměru při jeho použití, lz prakticky považovat za",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "izobarický",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "izochorický",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "izotermický",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "adiabatický",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 446,
+		"category": 1,
+		"number": 446,
+		"text": "Vyberte správné tvrzení týkající se tepelné kapacity Ca měrné tepelné kapacit C -",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jednotkou tepelné kapacity je J. kg-1. K-1,",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Q/AT = Q/At",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jednotkou tepelné kapacity je J. K-1",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Q/(MAT) = Q/(mat)",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 447,
+		"category": 1,
+		"number": 447,
+		"text": "Vyberte nesprávné tvrzení, značí-li Q teplo, T termodynamickou teplotu a Celsiovu teplotu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jednotkou měrné tepelné kapacity je J. kg-1",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jednotkou tepelné kapacity je J. kg-1",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Q/AT = Q/At",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jednotkou měrné tepelné kapacity je J. K-1",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 448,
+		"category": 1,
+		"number": 448,
+		"text": "Vyberte nesprávné tvrzení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "voda má menší měrnou tepelnou kapacitu než většina běžných látek",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "voda má větší měrnou tepelnou kapacitu než většina běžných látek",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "měrná tepelná kapacita dané látky je zcela nezávislá na teplotě",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jednotkou měrné tepelné kapacity je J/kg",
+				"correct": true
+			}
+		]
+	}
+]

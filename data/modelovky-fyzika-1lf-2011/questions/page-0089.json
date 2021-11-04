@@ -1,0 +1,258 @@
+[
+	{
+		"id": 644,
+		"category": 1,
+		"number": 644,
+		"text": "Které z následujících tvrzení je správné:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "permitivita suchého vzduchu je větší než permitivita vakua",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "permitivita suchého vzduchu je menší než permitivita vakua",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "rozdíl mezi permitivitami suchého vzduchu a vakua je nepatrný",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "permitivita je konstanta charakterizující daný izolant",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 645,
+		"category": 1,
+		"number": 645,
+		"text": "Které z následujících tvrzení je nepravdivé?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "intenzita elektrického pole je nezávislá na prostředí",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "intenzita elektrického pole je tím větší, čím větší je permitivita dielektrika",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "intenzita elektrického pole je tím menší, čím větší je permitivita dielektrika",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "permitivita dielektrika je menší než permitivita vakua",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 646,
+		"category": 1,
+		"number": 646,
+		"text": "Kapacita deskového kondenzátoru",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "závisí na velikosti ploch desek",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je nepřímo úměrná permitivitě prostředí mezi deskami",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je nepřímo úměrná čtverci permitivity prostředí mezi deskami",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je přímo úměrná permitivitě prostředí mezi deskami",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 647,
+		"category": 1,
+		"number": 647,
+		"text": "Uvažujme daný deskový kondenzátor, mezi jehož deskami je vzduch. Vyčerpání vzduchu se",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jeho kapacita podstatně zvýší",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jeho kapacita podstatně sníží",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jeho kapacita nepatrně sníží",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jeho kapacita nepatrně zvýší",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 648,
+		"category": 1,
+		"number": 648,
+		"text": "Elektrony se mohou podílet jako volné částice na přenosu elektrického náboje",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v kovech",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v ionizovaném plynu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v elektrolytu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v polovodičích",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 649,
+		"category": 1,
+		"number": 649,
+		"text": "Zvolte správné tvrzení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dohodnutý směr proudu odpovídá směru pohybu kladně nabitých částic",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dohodnutý směr proudu odpovídá směru pohybu elektronů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dohodnutý směr proudu odpovídá směru proudu těch částic, které jsou právě daný vodičem přenášeny",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vionizovaném plynu je elektrický náboj přenášen pouze kladně a záporně nabitým částicemi plynu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 650,
+		"category": 1,
+		"number": 650,
+		"text": "Je-li v daném vodiči proud přenášen jednak kladně a jednak záporně nabitým náboji, je třeba pro výpočet procházejícího proudu uvážit",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pouze náboj kladně nabitých částic",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "součet nábojů všech částic bez ohledu na znaménko",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pouze náboj záporných částic",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "náboj kladných částic od kterého odečteme absolutní hodnotu náboje záporných částic",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 651,
+		"category": 1,
+		"number": 651,
+		"text": "V kovu se přenáší proud",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "volnými valenčními elektrony kovu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "elektrony, které jsou do kovu dodány z připojeného zdroje",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "elektrony a kladně nabitými ionty",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "elektrony a záporně nabitými iont Sasa",
+				"correct": false
+			}
+		]
+	}
+]

@@ -1,0 +1,258 @@
+[
+	{
+		"id": 1034,
+		"category": 1,
+		"number": 1034,
+		"text": "Mechanický oscilátor tvořený tělesem o hmotnosti 100 g zavěšeným na pružin o tuhosti 10 N.m-2 kmitá s amplitudou 4 cm. Největší síla, která na těleso působí má velikost",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,1 N",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,2 N",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "0,3 N",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "0,4 N",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1035,
+		"category": 1,
+		"number": 1035,
+		"text": "Mechanický oscilátor tvořený tělesem o hmotnosti 100 g zavěšeným na pružin o tuhosti 10 N.mº? kmitá s amplitudou 4 cm. Jeho největší kinetická energie je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1 mg",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "2 m)",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "4 m)",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "8 m]",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1036,
+		"category": 1,
+		"number": 1036,
+		"text": "Kyvadlo s délkou závěsu 50 cm kmitá se stejnou periodou jako těleso zavěšené n pružině o tuhosti 50 N.m-1 Hmotnost tělesa je přibližně",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1,25 kg",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "2,5 kg",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "5 kg",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "10 kg",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1037,
+		"category": 1,
+		"number": 1037,
+		"text": "Určete rychlost postupného vlnění, které má vlnovou délku 1,5 m a je buzen kmitáním o frekvenci 2 kHz",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "3000 m.s-1",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "6000 m.s",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "12000 m.s-1",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "18000 m.s-1",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1038,
+		"category": 1,
+		"number": 1038,
+		"text": "Určete rychlost vlnění v ocelové tyči, jestliže při frekvenci 2 kHz vzniká vlněn o vlnové délce 2,5 m",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "5 km.s-1",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "5,5 km.s-1",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "6 km.s-1",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "6,5 km.s-1",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1039,
+		"category": 1,
+		"number": 1039,
+		"text": "Postupné mechanické vlnění je popsáno rovnicí y = 0,2 sin 21(4t - 2x). Určet jeho vlnovou délku.",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,5 m",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1 m",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1,5 m",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "2 m",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1040,
+		"category": 1,
+		"number": 1040,
+		"text": "Postupné mechanické vlnění je popsáno rovnicí y = 0,2 sin 27(4t – 2x). Určet jeho rychlost.",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,5 m.s-1",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1 m.sa",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "2m.s-1",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "4 m.s-1",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1041,
+		"category": 1,
+		"number": 1041,
+		"text": "Na pevném konci pružné hadice nastává odraz vlnění",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se stejnou fází",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "s opačnou fází",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "s fází pi/4",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "s fází pi/2",
+				"correct": true
+			}
+		]
+	}
+]

@@ -1,0 +1,226 @@
+[
+	{
+		"id": 871,
+		"category": 1,
+		"number": 871,
+		"text": "Velikost momentu dvojice sil působících na rovinný závit o ploše 2000 cm², jeho plocha je rovnoběžná s indukčními čárami homogenního magnetického pol o magnetické indukci 500 mT je 0,5 N.m. Jaká je intenzita proudu v závitu?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "5A",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,5 A",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "10 A",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1A",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 872,
+		"category": 1,
+		"number": 872,
+		"text": "Na závit jehož plocha o velikosti 1000 cm² je rovnoběžná s indukčními čáram homogenního magnetického pole, působí moment dvojice sil o velikost 200 mN.m. Závitem prochází proud o intenzitě 2 A. Jaká je velikost magnetick indukce magnetického pole?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,1 T",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,5 T",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1T",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "5T",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 873,
+		"category": 1,
+		"number": 873,
+		"text": "Na závit, jehož plocha o velikosti 4000 cm” je rovnoběžná s indukčními čáram homogenního magnetického pole o indukci 200 ml působí moment dvojice si o velikosti 400 mN.m. Jaký proud prochází závitem?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "5A",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "10 A",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "15 A",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "20 A",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 874,
+		"category": 1,
+		"number": 874,
+		"text": "Jaké elektromotorické napětí je indukováno v cívce o indukčnosti 200 mH klesá-li intenzita proudu, který jí prochází, o 200 mA za sekundu?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "10 mV",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "20 mV",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "30 mV",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "40 m V",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 875,
+		"category": 1,
+		"number": 875,
+		"text": "V cívce je při poklesu intenzity proudu o 300 mA za sekundu generován elektromotorické napětí 60 mV. Jakou má cívka indukčnost?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "100 mH",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "200 mH",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "300 mH",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "400 mH",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 876,
+		"category": 1,
+		"number": 876,
+		"text": "Volné makroskopické objekty zaujímají ve vnějším magnetickém poli takovo stálou rovnovážnou polohu, v níž má jejich magnetický moment směr",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kolmý k vektoru magnetické indukce",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "stejný jako směr vektoru magnetické indukce",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "opačný než je směr vektoru magnetické indukce",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "libovolný",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 877,
+		"category": 1,
+		"number": 877,
+		"text": "Relativní permeabilita feromagnetických látek je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "značně menší než 1",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "přibližně rovna 1",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "přibližně 10",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "až 100000",
+				"correct": true
+			}
+		]
+	}
+]

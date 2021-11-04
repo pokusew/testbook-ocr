@@ -1,0 +1,226 @@
+[
+	{
+		"id": 463,
+		"category": 1,
+		"number": 463,
+		"text": "Změna vnitřní energie tělesa, které se zabořilo po pádu z výšky 60 m do hlín byla 30 J. Počítejte s přibližnou hodnotou tíhového zrychlení 10 m.s-2. Jaká byl hmotnost tělesa?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1 kg",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "lg",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "10 g",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "50 g",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 464,
+		"category": 1,
+		"number": 464,
+		"text": "Těleso o hmotnosti 200 g se po pádu z výšky 30 m zabořilo do měkkého povrch země. Počítejte s přibližnou hodnotou tíhového zrychlení 10 m.s-2. Změna vnitřn energie tělesa a okolního materiálu povrchu země po zaboření tělesa je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "12 J",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "60)",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "120 )",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "600 )",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 465,
+		"category": 1,
+		"number": 465,
+		"text": "Těleso, které bylo původně v klidu, se po volném pádu z výšky zabořilo do měkk hlíny. Změna vnitřní energie tělesa a hlíny byla 0,03 kJ, hmotnost tělesa činil 500 g. Počítejte s hodnotou tíhového zrychlení 10 m.s-2. Těleso padalo z výšky",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "3 m",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "6 m",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "12 m",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "30 m",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 466,
+		"category": 1,
+		"number": 466,
+		"text": "Střela o hmotnosti 20 g, letící rychlostí 100 m/s vnikla do dřevěného sloupu, kd uvízla. Přírůstek vnitřní energie střely a sloupu byl",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "10 )",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "25)",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "50 )",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "100)",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 467,
+		"category": 1,
+		"number": 467,
+		"text": "Střela o hmotnosti 10 g uvízla ve dřevěném sloupu. Vnitřní energie střely a sloup přitom vzrostla o 50J. Jaká byla rychlost střely v okamžiku nárazu na sloup?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "100 m/s",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "200 m/s",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "300 m/s",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "50 m/s",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 468,
+		"category": 1,
+		"number": 468,
+		"text": "Střela při rychlosti 100 m/s uvízla v dřevěném objektu. Přírůstek vnitřní energi střely a dřeva činil 100 J. Hmotnost střely byla",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "5 g",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "10 g",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "20 g",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "25 g",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 469,
+		"category": 1,
+		"number": 469,
+		"text": "Jaký je přibližný počet molekul v 88 g oxidu uhličitého (použijte přibližnýc hodnot Avogadrovy konstanty 6.1023mol-- a relativních hmotností kyslíku 16 a uhlíku 12)?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1,2.1024",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,8.1024",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1,6.1024",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1024",
+				"correct": false
+			}
+		]
+	}
+]

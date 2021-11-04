@@ -1,0 +1,258 @@
+[
+	{
+		"id": 1076,
+		"category": 1,
+		"number": 1076,
+		"text": "V postupné elektromagnetické vlně jsou intenzita elektrického pole magnetická indukce",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ve fázi",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "fázově posunuty o 1/2 rad",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "fázově posunuty o hrad",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "fázově posunuty o 1/4 rad",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1077,
+		"category": 1,
+		"number": 1077,
+		"text": "Které z následujících tvrzení je správné? V postupné netlumen elektromagnetické vlně",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou vektory E a B navzájem kolmé",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je vektor E kolmý na směr šíření",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je vektor B kolmý na směr šíření",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "závisí maximální amplitudy vektorů E a B na souřadnici směru, kterým se vlna šíří",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1078,
+		"category": 1,
+		"number": 1078,
+		"text": "Při přenosu elektromagnetické energie",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vzniká mezi vodiči časově proměnné pole",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "energie není přenášena elektromagnetickým polem mezi vodiči",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "energie je přenášena elektromagnetickým polem mezi vodiči",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nemá děj charakter vlnění",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1079,
+		"category": 1,
+		"number": 1079,
+		"text": "Ve stojaté elektromagnetické vlně jsou časově proměnné vektory E a B fázov posunuty o",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1/2 rad",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "i rad",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "31/2 rad",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "2n rad",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1080,
+		"category": 1,
+		"number": 1080,
+		"text": "V postupné elektromagnetické vlně",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou vektory E a B navzájem kolmé",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vektor E kmitá ve směru šíření vlny",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vektor B kmitá ve směru šíření vlny",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou vektory E a B ve fázi",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1081,
+		"category": 1,
+		"number": 1081,
+		"text": "Vlnová délka elektromagnetického vlnění určité frekvence, které se šíří vodou, j vzhledem k vlnové délce ve vakuu",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kratší",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "stejná",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "delší",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "závislá na indexu lomu vody",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1082,
+		"category": 1,
+		"number": 1082,
+		"text": "Zákon odrazu světla",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "platí pro světlo každé vlnové délky",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nelze odvodit z Huygensova principu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "neplatí pro dvě prostředí se značným rozdílem v indexech lomu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "platí pro světlo každé frekvence",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1083,
+		"category": 1,
+		"number": 1083,
+		"text": "Při průchodu světla optickou mřížk dochází k",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ohybu a interferenci",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "lomu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pouze k ohybu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "polarizaci",
+				"correct": false
+			}
+		]
+	}
+]

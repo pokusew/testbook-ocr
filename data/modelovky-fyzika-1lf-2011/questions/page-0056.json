@@ -1,0 +1,258 @@
+[
+	{
+		"id": 393,
+		"category": 1,
+		"number": 393,
+		"text": "Kapacita deskového kondenzátoru je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nepřímo úměrná obsahu účinné plochy desek a jejich vzdálenosti",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "přímo úměrná obsahu účinné plochy desek a nepřímo úměrná jejich vzdálenosti",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "přímo úměrná obsahu účinné plochy desek a nepřímo úměrná čtverci jejich vzdálenosti",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "přímo úměrná obsahu účinné plochy desek a čtverci jejich vzdálenosti",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 394,
+		"category": 1,
+		"number": 394,
+		"text": "Které z následujících tvrzení je správné?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kapacita kondenzátoru závisí na prostředí mezi deskami",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kapacita kondenzátoru je nepřímo úměrná vzdálenosti mezi deskami",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kapacita kondenzátoru je nepřímo úměrná ploše jeho desek",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kapacita kondenzátoru nezávisí na vzdálenosti mezi deskami",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 395,
+		"category": 1,
+		"number": 395,
+		"text": "Které z následujících tvrzení je správné?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kapacita daného kondenzátoru bude tím větš , čím bude větší permitivita prostředí mez deskami",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kapacita kondenzátoru je nepřímo úměrná vzdálenosti mezi deskami",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vliv prostření na kapacitu kondenzátoru můžeme vyjádřit pomocí permitivity",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vliv prostředí na kapacitu kondenzátoru můžeme vyjádřit pomocí měrné elektrick vodivosti",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 396,
+		"category": 1,
+		"number": 396,
+		"text": "Mezi deskami daného kondenzátoru je vzduch. Umístíme-li tento kondenzátor d vakua, jeho kapacita",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se nezmění",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nepatrně vzroste",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nepatrně klesne",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "značně poklesne",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 397,
+		"category": 1,
+		"number": 397,
+		"text": "Nabitý kondenzátor fotoblesku o kapacitě 800 uF má napětí 500 V. Jaká energi se spotřebuje při záblesku, při kterém se kondenzátor úplně vybije?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "40 )",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "100 )",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "150 )",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "200)",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 398,
+		"category": 1,
+		"number": 398,
+		"text": "Energie elektrického pole kondenzátoru o kapacitě 400 mF nabitého na napět 20 V je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "8 )",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "80 )",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "4)",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "160J",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 399,
+		"category": 1,
+		"number": 399,
+		"text": "Dva stejné kondenzátory, každý o kapacitě 100 pF jsou zapojeny paralelně Výsledná kapacita je.",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "10 pF",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "200 pF",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "50 pF",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "100 pF",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 400,
+		"category": 1,
+		"number": 400,
+		"text": "Dva stejné kondenzátory o kapacitě 100 pF jsou zapojeny sériově. Výsledn kapacita je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "50 pF",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "200 pF",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "2 pF",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "10 pF",
+				"correct": false
+			}
+		]
+	}
+]

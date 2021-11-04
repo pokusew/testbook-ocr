@@ -1,0 +1,226 @@
+[
+	{
+		"id": 449,
+		"category": 1,
+		"number": 449,
+		"text": "Jaké teplo přijme kyslík o hmotnosti 50 g, zvýší-li se jeho teplota z 20° n 100 °C při stálém tlaku? Měrná tepelná kapacita kyslíku při stálém tlaku j 912 J.kg-1.K-1.",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "3,65 k]",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1,75 k]",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1,25 kJ",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "0,85 k]",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 450,
+		"category": 1,
+		"number": 450,
+		"text": "Jaké teplo přijme kyslík o hmotnosti 50 g zvýší-li se jeho teplota z 20° na 100 ° při stálém objemu? Měrná tepelná kapacita kyslíku při stálém objemu j 651 J.kg-1,K-1",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "2,6 kJ",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1,6 kJ",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1,4 k]",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "0,8 kJ",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 451,
+		"category": 1,
+		"number": 451,
+		"text": "O kolik se zvýší vnitřní energie kyslíku o hmotnosti 50 g,zvýší-li se jeho teplot z 20° na 100 °C při stálém objemu? Měrná tepelná kapacita kyslíku při stálé objemu je 651 J.kg-4K-1.",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "2,6 kJ",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1,6 kJ",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1,4 k]",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "0,8 kJ",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 452,
+		"category": 1,
+		"number": 452,
+		"text": "Jakou práci vykoná vzduch o hmotnosti 50 g, zvýší-li se jeho teplota z 20° n 60 °C při stálém tlaku? Měrná tepelná kapacita vzduchu při stálém tlaku j 1,005 kJ.kg-4.K-1, při stálém objemu 0,718 kJ.kg-4.K-1",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "148 )",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "328 )",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "455)",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "574 )",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 453,
+		"category": 1,
+		"number": 453,
+		"text": "Hladina vodní nádrže o ploše 0,2 ha se při teplotě 0 °C pokryla ledem o tlouštc 3 mm. Skupenské teplo tuhnutí ledu je 334 kJ.kg-1, hustota ledu při této teplot je 918 kg.m-3. Kolik tepla předala mrznoucí voda do svého okolí?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádné",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,4k]",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1,42 MI",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1,836J",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 454,
+		"category": 1,
+		"number": 454,
+		"text": "Kolik kg vody teplé 75 °C je nutné vlít do 6 kg vody o teplotě 20 °C, aby výsledn teplota směsi byla 42 °C?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "4 kg",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "3,6 kg",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "3,2 kg",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "2,8 kg",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 455,
+		"category": 1,
+		"number": 455,
+		"text": "Smícháme-li 2 kg vody o teplotě 20 °C s 5 kg vody o teplotě 30 °C, bude výsledn teplota směsi přibližně",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "290 K",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "295 K",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "300 K",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "305 0",
+				"correct": false
+			}
+		]
+	}
+]

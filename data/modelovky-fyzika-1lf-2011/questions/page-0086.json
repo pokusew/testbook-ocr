@@ -1,0 +1,258 @@
+[
+	{
+		"id": 620,
+		"category": 1,
+		"number": 620,
+		"text": "Které z uvedených tvrzení je pravdivé?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v některých dielektrikách mohou existovat elektrické dipóly až po vložení elektrickéh pole, v jiných existují stále",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dielektrika jsou pouze látky s permanentními (stálými) dipóly",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dielektrika jsou pouze látky s indukovanými dipóly",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "polarizací dielektrika působením vnějšího elektrického pole se vytvoří vnitřní elektrick pole opačného směru",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 621,
+		"category": 1,
+		"number": 621,
+		"text": "Příkladem dielektrika se stálými (permanentními) dipóly je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "sklo",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "slída",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vzduch",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vod =",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 622,
+		"category": 1,
+		"number": 622,
+		"text": "Které z uvedených tvrzení je pravdivé?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "polarizací dielektrika působením vnějšího elektrického pole se vytvoří vnitřní elektrick pole opačného směru",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "polarizací dielektrika působením vnějšího elektrického pole se vytvoří vnitřní elektrick pole téhož směru",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v dielektriku vloženém do vnějšího elektrického pole se žádné elektrické pole nevytváří",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "dielektrikum vložené do vnějšího elektrického pole získává elektrický náboj",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 623,
+		"category": 1,
+		"number": 623,
+		"text": "Je-li velikost intenzity vnějšího elektrického pole Eq, velikost intenzity vnitřníh pole vytvořeného polarizací dielektrika E,, bude velikost intenzity výslednéh pole E:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "E= E + E",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "E = Ee - E",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "E = E; - E",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "E = 2E - E",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 624,
+		"category": 1,
+		"number": 624,
+		"text": "Budiž velikost intenzity elektrického pole ve vakuu Eę, v dielektriku E, hodnot permitivity ε a relativní permitivity £ . Platí, že",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ε = E/E",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ε = E/E",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "E = E/E",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "{ E = E/E",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 625,
+		"category": 1,
+		"number": 625,
+		"text": "S konstantou zvanou permitivita se setkáváme",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ve vzorci pro výpočet kapacity deskového kondenzátoru",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ve vzorci pro měrný odpor materiálu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ve Faradayových zákonech elektrolýzy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v Coulombově zákonu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 626,
+		"category": 1,
+		"number": 626,
+		"text": "Jednotkou permitivity dielektrika je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Em",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "F.m-1",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "C.m",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "C. N-1.m-2",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 627,
+		"category": 1,
+		"number": 627,
+		"text": "Z Coulombova zákona můžeme vyjádřit jednotku permitivity prostředí jako",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "C. N.m",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "C. N-1.m-2",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ca.N-1.m",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "C2. N-7.m- 2",
+				"correct": true
+			}
+		]
+	}
+]

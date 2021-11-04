@@ -1,0 +1,290 @@
+[
+	{
+		"id": 1193,
+		"category": 1,
+		"number": 1193,
+		"text": "Určete pravdivé tvrzení: Infračervené záření",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "snadno proniká mlhou",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "má vlnové délky kratší než 790 nm",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je využíváno slunečními kolektory",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ionizuje vzduch",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1194,
+		"category": 1,
+		"number": 1194,
+		"text": "Určete pravdivé tvrzení: Ultrafialové záření",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je pohlcováno křemenným sklem",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ionizuje vzduch",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "má vlnové délky kratší než 390 nm",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "má fyziologické účinky",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1195,
+		"category": 1,
+		"number": 1195,
+		"text": "Určete pravdivé tvrzení",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "emisní spektrum plynů je čárové",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "emisní spektrum pevných látek je spojité",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "emisní spektrum kapalných látek je čárové",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Absorpční spektrum plynů je čárové",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1196,
+		"category": 1,
+		"number": 1196,
+		"text": "Regulace proudu v rentgence se uskutečňuje",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "chlazením rentgenky",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "chlazením anody",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "žhavením katody",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žhavením anody",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1197,
+		"category": 1,
+		"number": 1197,
+		"text": "Energie fotonu uvolněného při fluorescenci je ve srovnání s energií budícíh záření převážně",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "větší",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nezávislá na energii budícího záření",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "stejná",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "menší",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1198,
+		"category": 1,
+		"number": 1198,
+		"text": "Opticky aktivní látky",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "samovolně emitují fluorescenční záření",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "stáčejí rovinu lineárně polarizovaného světla",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zbarvují pokožku",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mění barvu po ozáření bílým světlem",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1199,
+		"category": 1,
+		"number": 1199,
+		"text": "Olej je opticky řidší než",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vzduch",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vodní páry",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "voda",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "sklo",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1200,
+		"category": 1,
+		"number": 1200,
+		"text": "Při průchodu světla z látky do vzduchu (n = 1) nastal úplný odraz při úhl dopadu 45º. Hodnota indexu lomu látky je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "n n = 1/V2",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "n = 1/V3",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "n = V2",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "n V3",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1201,
+		"category": 1,
+		"number": 1201,
+		"text": "Které tvrzení je správné? Při fotoelektrickém jevu",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "existuje pro každý kov mezní frekvence dopadajícího záření",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "roste energie uvolněných elektronů s rostoucí frekvencí záření",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "závisí energie uvolněných elektronů na intenzitě záření",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou elektrony uvolňovány z katody",
+				"correct": true
+			}
+		]
+	}
+]

@@ -1,0 +1,258 @@
+[
+	{
+		"id": 1002,
+		"category": 1,
+		"number": 1002,
+		"text": "Při nuceném kmitání oscilátoru",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vznikají rázy",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "oscilátor kmitá vždy s poněkud nižší frekvencí než je jeho vlastní",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "oscilátor kmitá vždy s frekvencí poněkud vyšší než je jeho vlastní",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "oscilátor kmitá vždy s frekvencí vnějšího působení",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1003,
+		"category": 1,
+		"number": 1003,
+		"text": "Vlastnosti soustavy, která nuceně kmitá",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nemají vliv na frekvenci kmitání",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mají vliv na frekvenci kmitání",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "neovlivňují amplitudu a fázi nuceného kmitání",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "určují tlumení",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1004,
+		"category": 1,
+		"number": 1004,
+		"text": "Které tvrzení je nesprávné? Frekvence nuceného kmitání",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "závisí na vlastnostech kmitajícího objektu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "závisí na hmotnosti soustavy",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nezávisí na tuhosti soustavy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "závisí na frekvenci působící síly",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1005,
+		"category": 1,
+		"number": 1005,
+		"text": "Při vynuceném kmitání LC obvodu s vlastní úhlovou frekvencí w. je amplitud napětí vynucených kmitů",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "maximální při úhlové frekvenci oscilátoru w >w.",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "maximální při úhlové frekvenci oscilátoru w <w.",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "maximální při úhlové frekvenci oscilátoru w - :w.",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "minimální při úhlové frekvenci oscilátoru w = W.",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1006,
+		"category": 1,
+		"number": 1006,
+		"text": "V kmitajícím LC obvodu okamžitý náboj na deskách kondenzátoru",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "lineárně roste a exponenciálně klesá",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je harmonickou funkcí času",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je nulový",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "lineárně klesá a exponenciálně roste",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1007,
+		"category": 1,
+		"number": 1007,
+		"text": "Které z následujících tvrzení je nesprávné? Okamžité napětí na deskác kondenzátoru v kmitajícím LC obvodu",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "po určitou dobu lineárně roste",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "po určitou dobu lineárně klesá",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je konstantní",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je harmonickou funkcí času",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1008,
+		"category": 1,
+		"number": 1008,
+		"text": "Okamžitý proud v kmitajícím LC obvodu",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "po určitou dobu lineárně roste",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "po určitou dobu lineárně klesá",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je harmonickou funkcí času",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je konstantní",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1009,
+		"category": 1,
+		"number": 1009,
+		"text": "Značí-li L indukčnost a C kapacitu, je úhlová frekvence w. vlastního kmitán oscilačního obvodu dána vztahem",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "W, = 1/(LC)",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "w, = 1/(21/(LC))",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "w. = 1/(LC)",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "w. = 21/(LC =",
+				"correct": false
+			}
+		]
+	}
+]

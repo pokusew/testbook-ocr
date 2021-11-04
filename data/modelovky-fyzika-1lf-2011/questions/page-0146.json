@@ -1,0 +1,290 @@
+[
+	{
+		"id": 1101,
+		"category": 1,
+		"number": 1101,
+		"text": "Rychlost šíření světla ve vodě je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "menší než ve vakuu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "stejná jako ve vakuu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "závislá na jeho frekvenci",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nezávislá na jeho frekvenci",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1102,
+		"category": 1,
+		"number": 1102,
+		"text": "Absolutní index lomu červeného světla ve skle",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je větší než absolutní index lomu fialového světla",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je stejný jako absolutní index lomu fialového světla",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je menší než absolutní index lomu fialového světla",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je větší než 1",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1103,
+		"category": 1,
+		"number": 1103,
+		"text": "Ze dvou prostředí je prvé opticky řidší; pak",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je v něm rychlost šíření světla větší",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je v něm rychlost šíření světla menší",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je průhlednější",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v něm platí zákon lomu přesněji než v druhém",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1104,
+		"category": 1,
+		"number": 1104,
+		"text": "Pro lom světla platí",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nį sina = n2 sinß",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Vų sina = V2 sinß",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "na sina = nu sinß",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "V2 sina = V1 sinß",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1105,
+		"category": 1,
+		"number": 1105,
+		"text": "Mezný úhel je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "úhel dopadu, pro nějž platí sinam = n2/nı",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "úhel dopadu, při němž dojde k totálnímu odrazu světla",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "největší úhel, pod kterým vstupují paprsky do mikroskopu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "největší úhel, pod kterým vystupují paprsky z lupy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1106,
+		"category": 1,
+		"number": 1106,
+		"text": "Na totálním odrazu světla je založen princip funkce",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mikroskopu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "lupy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "polarimetru",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "refraktometru",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1107,
+		"category": 1,
+		"number": 1107,
+		"text": "Obraz vytvořený rovinným zrcadlem je vždy",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "skutečný",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "neskutečný",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "převrácený",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zvětšený",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1108,
+		"category": 1,
+		"number": 1108,
+		"text": "Obraz vytvořený rovinným zrcadlem je vždy",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "přímý",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "neskutečný",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "stejně velký jako předmět",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "souměrný s předmětem podle osy otáčení předmětu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1109,
+		"category": 1,
+		"number": 1109,
+		"text": "Duté zrcadlo o poloměru křivosti 25 cm zobrazuje plamen svíčky. Jaký je obra plamene, je-li vzdálenost plamene od zrcadla 40 cm?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "skutečný a zmenšený",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zdánlivý a zvětšený",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "skutečný a zvětšený",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zdánlivý a zmenšený",
+				"correct": false
+			}
+		]
+	}
+]

@@ -1,5 +1,3 @@
-意
-b) Fe
 369. Uvažujeme daný objem plynu jako elektricky izolovanou soustavu. Ionizací tato
 soustava
 a) získá záporný elektrický náboj
@@ -15,7 +13,7 @@ d) 3,125x10-19
 371. Coulombův zákon vyjadřuje velikost elektrické síly F působící mezi dvěma
 elektrickými náboji Qı a Qz ve vzdálenosti r jako
 A) Fe = KQ1Q2/r2
-= kQ1Qz/r3
+b) = kQ1Qz/r3
 c) Fe = kQ1Q2/r
 d) Fe = k(Q.)?(Q2)?/r?
 372. Změní-li se vzdálenost mezi dvěma danými bodovými elektrickými náboji z 1 d:

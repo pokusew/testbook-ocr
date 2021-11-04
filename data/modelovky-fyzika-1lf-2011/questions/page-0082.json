@@ -1,0 +1,258 @@
+[
+	{
+		"id": 588,
+		"category": 1,
+		"number": 588,
+		"text": "Vyberte pravdivé tvrzení o úhlu , který svírá povrch skutečné kapalin s povrchem stěny nádoby (stykový úhel):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pro smáčející kapalinu 0 <o</2",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pro smáčející kapalinu 71/2<$< TT",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pro nesmáčející kapalinu (<$<TT/2",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pro nesmáčející kapalinu 0",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 589,
+		"category": 1,
+		"number": 589,
+		"text": "Vyberte pravdivé tvrzení o stykovém uhlu , který svírá povrch kapalin s povrchem stěny:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pro smáčející kapalinu (<O<T/2",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pro reálnou nesmáčející kapalinu 1/2<$<TI",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pro smáčející kapalinu 1/2<<tt",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pro dokonale nesmáčející kapalinu 0 = it",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 590,
+		"category": 1,
+		"number": 590,
+		"text": "Vyberte z následujících kapalin kapalinu nesmáčející sklo",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "rtuť",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "voda",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "alkohol",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "aceto <",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 591,
+		"category": 1,
+		"number": 591,
+		"text": "Označíme-li povrchové napětí o, lze pro volný povrch kapaliny kulového tvar o poloměru R vyjádřit hodnotu kapilárního tlaku px jako",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Px = 0/R",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Pk = 20/R",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Px = 0/2TR",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "p = c/TR?",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 592,
+		"category": 1,
+		"number": 592,
+		"text": "Vyberte správné tvrzení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "s kapilární depresí se setkáváme u nesmáčivých kapalin",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kapilární tlak je přímo úměrný povrchovému napětí",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "stykový úhel v případě dokonale nesmáčejících kapalin je roven at",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "u rtuti nastává kapilární elevace",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 593,
+		"category": 1,
+		"number": 593,
+		"text": "Vyberte nesprávné tvrzení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "u vody nastává jev kapilární elevace",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kapilární tlak je přímo úměrný poloměru zakřivení kulového povrchu kapaliny",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "u nesmáčejících kapalin nastává kapilární elevace",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "stykový úhel v případě smáčejících kapalin je větší než T/2",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 594,
+		"category": 1,
+		"number": 594,
+		"text": "Značí-li o povrchové napětí, p hustotu, a g gravitařní zrychlení, je výška h, d které vystoupí smáčející kapalina v kapiláře o poloměru R, dána vztahem",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "h = 0/pg",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "h = 20/pg",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "h = p/og",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "h = 2p/og",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 595,
+		"category": 1,
+		"number": 595,
+		"text": "Do jaké výšky vystoupí voda o povrchovém napětí 0,073 N.m-1 v kapilář o vnitřním průměru 1 mm? Počítejte s hodnotou g = 10 m.sa.",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "7,3 mm",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "14,6 mm",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "18,2 mm",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "29,2 m =",
+				"correct": true
+			}
+		]
+	}
+]

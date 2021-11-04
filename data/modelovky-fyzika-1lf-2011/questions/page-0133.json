@@ -1,0 +1,226 @@
+[
+	{
+		"id": 995,
+		"category": 1,
+		"number": 995,
+		"text": "Značí-li L indukčnost a C kapacitu, je perioda T vlastních kmitů oscilačníh obvodu se zanedbatelným tlumením dána vztahem",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "T = 270V(LC)",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "T = 1/(21/(LC))",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "T = LC/(21)",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "T = V(LC)/(2T)",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 996,
+		"category": 1,
+		"number": 996,
+		"text": "Perioda vlastních kmitů oscilačního obvodu tvořeného cívkou o indukčnost 10 mH a kondenzátorem o kapacitě 900 uF se zanedbatelným tlumením j přibližně",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "4,9 ms",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "9,8 ms",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "18,8 ms",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "37,2 ms",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 997,
+		"category": 1,
+		"number": 997,
+		"text": "V obvodu obvodu s RLC v sérii platí, že při frekvenci 50 Hz je 9 X = Xc Jaká mus být frekvence, aby nastala rezonance?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "50 Hz",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "100 Hz",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "150 Hz",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "200 Hz",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 998,
+		"category": 1,
+		"number": 998,
+		"text": "Do obvodu střídavého proudu o frekvenci 50 Hz je zařazena cívka o indukčnost 100 mH. Jaká musí přibližně být kapacita kondenzátoru připojeného do obvodu aby nastala rezonance?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1 uF",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "10 uF",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "100 uF",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1 mF",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 999,
+		"category": 1,
+		"number": 999,
+		"text": "Oscilační obvod je tvořen cívkou o indukčnosti 10 mH a kondenzátore o kapacitě 2 uF. O kolik procent se změní frekvence, jestliže do obvodu seriov zapojíme další cívku o indukčnosti 30 mH?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vzroste o 25 %",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vzroste o 50 %",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zmenší se o 25 %",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zmenší se o 50 %",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1000,
+		"category": 1,
+		"number": 1000,
+		"text": "Oscilační obvod je tvořen cívkou o indukčnosti 100 mH a kondenzátore o kapacitě 2 uF. O kolik procent se změní frekvence, jestliže ke kondenzátor paralelně připojíme ještě jeden o kapacitě 6 uF?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vzroste o 25 %",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vzroste o 50 %",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zmenší se o 25 %",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zmenší se o 50 %",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1001,
+		"category": 1,
+		"number": 1001,
+		"text": "Které tvrzení je nesprávné? Frekvence oscilačního obvodu, do jehož cívk vsuneme jádro z měkké oceli, se",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "silně zvětší",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nepatrně zvětší",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zmenší",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nezměn O",
+				"correct": true
+			}
+		]
+	}
+]

@@ -1,0 +1,226 @@
+[
+	{
+		"id": 304,
+		"category": 1,
+		"number": 304,
+		"text": "Kolik sekund musí těleso, které je původně v klidu, padat volným pádem, ab urazilo stejnou dráhu jako při rovnoměrném pohybu rychlostí v. = 10 m.s-1 Použijte pro gravitační zrychlení hodnotu 10 m.s-2 a odpor vzduchu zanedbejte.",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,5 s",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1s",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1,5 s",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "2 s",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 305,
+		"category": 1,
+		"number": 305,
+		"text": "Rychlost, které těleso dosáhne po prvých 6 sekundách od počátku volného pád z původně klidové polohy, při zanedbatelném odporu vzduchu, je přibližně",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "20 m/s",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "40 m/s",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "60 m/s",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "80 m/s",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 306,
+		"category": 1,
+		"number": 306,
+		"text": "Z jaké výšky musí padat koulè o hmotnosti 5 kg, která původně byla v klidu aby její kinetická energie při dopadu byla 100 J? Použijte pro gravitační zrychlen hodnotu 10 m.s-2 a odpor vzduchu zanedbejte.",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1 m",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "2 m",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "3 m",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "4 m",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 307,
+		"category": 1,
+		"number": 307,
+		"text": "Jaká je kinetická energie koule o hmotnosti 10 kg, která původně byla v klidu, spadla z výšky 5 m? Použijte pro gravitační zrychlení hodnotu 10 m.s-2 a odpo vzduchu zanedbejte.",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "100 J",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "200",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "500)",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1 kJ",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 308,
+		"category": 1,
+		"number": 308,
+		"text": "Jakou dobu musí padat koule o hmotnosti 2 kg, která původně byla v klidu aby její kinetická energie byla 1,6 kJ? Použijte pro gravitační zrychlení hodnot 10 m.s a odpor vzduchu zanedbejte.",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1s",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "2 s",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "3 s",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "4s",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 309,
+		"category": 1,
+		"number": 309,
+		"text": "Jakou dobu padá kámen z výšky 20 m? Použijte pro gravitační zrychlení hodnot 10 m.s-2 a odpor vzduchu zanedbejte.",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1s",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "2 s",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "3s",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "4s",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 310,
+		"category": 1,
+		"number": 310,
+		"text": "Za jakou dobu dopadne zpět kámen vržený svisle vzhůru rychlostí 20 m.s-1 Použijte pro gravitační zrychlení hodnotu 10 m.s-2 a odpor vzduchu zanedbejte.",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1s",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "2 s",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "3s",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "45",
+				"correct": true
+			}
+		]
+	}
+]

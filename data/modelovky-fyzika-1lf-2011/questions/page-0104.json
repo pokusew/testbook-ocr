@@ -1,0 +1,290 @@
+[
+	{
+		"id": 761,
+		"category": 1,
+		"number": 761,
+		"text": "Typ polovodiče s elektronovou vodivostí značíme písmenem",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "E",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "N",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "P",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "D",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 762,
+		"category": 1,
+		"number": 762,
+		"text": "Nahradíme-li některé atomy v krystalu germania atomem hliníku, získáme",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nevodič",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vodič",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "polovodič typu P",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "polovodič s elektronovou vodivostí",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 763,
+		"category": 1,
+		"number": 763,
+		"text": "Která z uvedených látek patří mezi polovodiče?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "sklo",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "CdS",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Si",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Pt",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 764,
+		"category": 1,
+		"number": 764,
+		"text": "Která z uvedených látek patří mezi polovodiče?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Alo",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Cds",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "porcelán",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Si",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 765,
+		"category": 1,
+		"number": 765,
+		"text": "Která z uvedených látek nepatří mezi polovodiče?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Si",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Te",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Та",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "GaAs",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 766,
+		"category": 1,
+		"number": 766,
+		"text": "Uved'te správnou kombinaci:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Te - polovodič",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "CdS - polovodič",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "manganin – izolant",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "NH3 - vodi -",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 767,
+		"category": 1,
+		"number": 767,
+		"text": "Uveďte nesprávnou kombinaci:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "NH3 - vodič",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "In$b - polovodič",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "slída - izolant",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Cd - vodič",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 768,
+		"category": 1,
+		"number": 768,
+		"text": "Zvolte kombinaci, ve které jsou uvedené druhy látek seřazeny ve správné pořadí od nejnižšího měrného elektrického odporu k nejvyššímu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "izolanty, polovodiče, elektrolyty, kovy",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kovy, polovodiče, elektrolyty, izolanty",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "izolanty, elektrolyty, polovodiče, kovy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kovy, elektrolyty, polovodiče, izolanty",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 769,
+		"category": 1,
+		"number": 769,
+		"text": "Závislosti odporu polovodiče na teplotě se využívá k měření teploty pomocí",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "odporových teploměrů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "termočlánků",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "termistorů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "bimetalických teploměrů",
+				"correct": false
+			}
+		]
+	}
+]

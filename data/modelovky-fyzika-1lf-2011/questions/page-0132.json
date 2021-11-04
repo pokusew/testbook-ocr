@@ -1,0 +1,258 @@
+[
+	{
+		"id": 987,
+		"category": 1,
+		"number": 987,
+		"text": "Těleso o hmotnosti 0,4 kg je zavěšené na pružině o tuhosti 90 N.m-1. Jaká j frekvence jeho kmitů?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "2,4 Hz",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "4,8 Hz",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "9,6 Hz",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "19,2 Hz",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 988,
+		"category": 1,
+		"number": 988,
+		"text": "Kyvadlo, tvořeno nití, na jejímž konci je zavěšena kulička, má určitou period kmitů. Jak musíme změnit délku nitě aby tato perioda byla dvojnásobná?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "prodloužit 1,5 krát",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "prodloužit 2 krát",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "prodloužit 3 krát",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "prodloužit 4 krá =",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 989,
+		"category": 1,
+		"number": 989,
+		"text": "Značí-li Q náboj, U napětí a C kapacitu, je energie E oscilačního (LC) obvodu j dána vztahem",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "E = QU2/2",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "E = Q/2C",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "E = QU/2",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "E = CU/2",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 990,
+		"category": 1,
+		"number": 990,
+		"text": "Energie Em magnetického pole cívky bez jádra s indukčností L, kterou proték proud I, je dána vztahem",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Em = LI/2",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "E LIP/ e",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Em = L/2I",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "E = L21/2",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 991,
+		"category": 1,
+		"number": 991,
+		"text": "Značí-li Q náboj, U napětí a C kapacitu, který z uvedených vztahů pro elektricko energii E. oscilačního obvodu (LC obvodu) je správný?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "E = QU/2",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Ep = Q2/20",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Es = CU2/2",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Ee = QU/2",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 992,
+		"category": 1,
+		"number": 992,
+		"text": "Které z následujících tvrzení je pravdivé?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vlastní kmitání elektromagnetického oscilátoru je vždy tlumené",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vlastní kmitání elektromagnetického oscilátoru je vždy netlumené",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v elektromagnetickém oscilátoru se periodicky mění energie elektrická v magnetickou",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "změny napětí a proudu v LC obvodu jsou posunuty o 1/2 rad",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 993,
+		"category": 1,
+		"number": 993,
+		"text": "Značí-li L indukčnost a C kapacitu, je frekvence fvlastních kmitů oscilačníh obvodu se zanedbatelným tlumením dána vztahem",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "f= 2T(LC)",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "f= 1/(2TLC)",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "f = 1/(21.V(LC))",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "f= 2n. LC",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 994,
+		"category": 1,
+		"number": 994,
+		"text": "Frekvence vlastních kmitů oscilačního obvodu s indukčností 50 mH a kapacito 500 uF a zanedbatelným tlumením je přibližně",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "25 Hz",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "50 Hz",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "32 Hz",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "40 H BO...............",
+				"correct": false
+			}
+		]
+	}
+]

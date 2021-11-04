@@ -1,0 +1,258 @@
+[
+	{
+		"id": 612,
+		"category": 1,
+		"number": 612,
+		"text": "Ve fázovém diagramu látky je nad křivkou syté páry",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "oblast pevné látky",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "oblast kapaliny",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "oblast přehřáté páry",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "oblast současně přítomné plynové a kapalné fáze",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 613,
+		"category": 1,
+		"number": 613,
+		"text": "Ve fázovém diagramu látky je pod křivkou syté páry",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "oblast pevné látky",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "oblast kapaliny",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "oblast přehřáté páry",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "oblast syté páry",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 614,
+		"category": 1,
+		"number": 614,
+		"text": "Zvolte nesprávnou kombinaci umístění daného stavu látky ve fázovém diagram látky a počtu přítomných fází:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "křivka tání - 1",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "křivka syté páry - 2",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "oblast mezi dvěma křivkami – 2",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "trojný bod - 2",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 615,
+		"category": 1,
+		"number": 615,
+		"text": "Označte správnou kombinaci umístění daného stavu látky ve fázovém diagramu počtu přítomných fází:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "křivka syté páry - 1",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "oblast přehřáté páry-1",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "oblast vlevo od křivky tání - 1",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "oblast vpravo od křivky tání - 1",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 616,
+		"category": 1,
+		"number": 616,
+		"text": "Jednotkou absolutní vlhkosti vzduchu je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kg",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "%",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kg.m-3",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kg.mol-1",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 617,
+		"category": 1,
+		"number": 617,
+		"text": "Do statického elektrického pole vložíme kovový prstenec. Které z následujícíc tvrzeních je nesprávné?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Prstenec získá záporný elektrický náboj",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "prstenec získá kladný elektrický náboj",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "uvnitř prstence se zvětší hustota siločar",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "uvnitř prstence nebude elektrické pole",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 618,
+		"category": 1,
+		"number": 618,
+		"text": "Při vložení izolantu (dielektrika) do elektrického pole",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se částice dielektrika dávají do pohybu jedním či druhým směrem podle znaménka svéh náboje",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "získá dielektrikum kladný náboj",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se částice dielektrika polarizují (pokud nebyly dipóly přítomny) a orientují",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "získá dielektrikum záporný náboj",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 619,
+		"category": 1,
+		"number": 619,
+		"text": "Polarizace dielektrika znamená",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pohyb jeho částic k opačně nabitým elektrodám",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vytvoření elektrických dipólů z atomů či molekul (pokud nebyly již dříve přítomny) a jejich zorientování",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "odebrání elektronů z dielektrika",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "dodání elektronů dielektriku",
+				"correct": false
+			}
+		]
+	}
+]

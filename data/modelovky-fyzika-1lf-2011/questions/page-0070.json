@@ -1,0 +1,226 @@
+[
+	{
+		"id": 497,
+		"category": 1,
+		"number": 497,
+		"text": "Uvažujte dva různé ideální plyny (např. kyslík a dusík) o stejné teplotě. Kter z následujících tvrzení je pravdivé?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "oba plyny mají stejnou střední kinetickou energii a tedy i stejnou střední kvadraticko rychlost",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "oba plyny mají stejnou střední kvadratickou rychlost, avšak nikoliv stejnou středn kinetickou energii",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nemají stejnou ani střední kinetickou rychlost, ani střední kinetickou energii",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "oba plyny mají stejnou střední kinetickou energii, avšak nestejnou střední kvadraticko rychlost",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 498,
+		"category": 1,
+		"number": 498,
+		"text": "Který z uvedených plynů (respektive plynných směsí) má nejnižší hustotu?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vlhký vzduch",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "chlor",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kyslík",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "argon",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 499,
+		"category": 1,
+		"number": 499,
+		"text": "Značí-li R, molární plynovou konstantu, p tlak, V objem, T termodynamicko teplotu a n počet molů, můžeme stavovou rovnici ideálního plynu obecně napsa například ve tvaru",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "PV = RT",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "PV = Rm/T",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "PV = nRT",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "PV = nR/T",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 500,
+		"category": 1,
+		"number": 500,
+		"text": "Uved'te správnou jednotku molární plynové konstanty R.",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": ",",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "J. K-1",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "J.mol-1",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "J. K-1.mol-1",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 501,
+		"category": 1,
+		"number": 501,
+		"text": "Z uvedených čtyř alternativ vyberte takovou, že první jednotka odpovíd Boltzmannově konstantě a druhá molární plynové konstantě:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "J.K-1.mol-1; J. K-1",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "J. K-1; J. K-4.mol-1",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "J. K-1, J.mol-1",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "J; J.mol-1",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 502,
+		"category": 1,
+		"number": 502,
+		"text": "Značí-li p tlak, V objem a T termodynamickou teplotu, pak pro dva různé stav téhož plynu o stejném počtu molů, vyplývá ze stavové rovnice",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "P.V1/T1 = p2V2/T2",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "P1V T1 = P2V2T2",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "p1V1 = P2V2",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "neplatí žádný z uvedených vztahů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 503,
+		"category": 1,
+		"number": 503,
+		"text": "Značí-li p tlak, V objem a T termodynamickou teplotu, pak pro daný počet mol daného plynu zůstává při jakékoliv změně stavu konstantní výraz",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pV",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "PVT",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "PV/T",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pT/ -1",
+				"correct": false
+			}
+		]
+	}
+]

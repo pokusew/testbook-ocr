@@ -1,0 +1,258 @@
+[
+	{
+		"id": 914,
+		"category": 1,
+		"number": 914,
+		"text": "V obvodu střídavého proudu je cívka s indukčností 50 mH. Při jaké frekvenc bude její induktivní reaktance 31,4 12?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "50 Hz",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "100 Hz",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "150 Hz",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "200 Hz",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 915,
+		"category": 1,
+		"number": 915,
+		"text": "Induktivní reaktance",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "s rostoucí frekvencí klesá",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nezávisí na frekvenci",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "závisí pouze na indukčnosti",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je přímo úměrná indukčnosti a frekvenci",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 916,
+		"category": 1,
+		"number": 916,
+		"text": "Amplituda nabíjecího a vybíjecího proudu kondenzátoru v obvodu střídavéh proudu",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je přímo úměrná frekvenci a kapacitě",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nezávisí na frekvenci",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nezávisí na kapacitě",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je nepřímo úměrná frekvenci a kapacitě",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 917,
+		"category": 1,
+		"number": 917,
+		"text": "Velikost induktivní reaktance obvodu střídavého proudu s frekvencí 50 Hz indukčností 50 H je přibližně",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "6,312",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "15,7 k12",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "41,2 Ω",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "98,6 k12",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 918,
+		"category": 1,
+		"number": 918,
+		"text": "Velikost kapacitní reaktance obvodu střídavého proudu s frekvencí 50 Hz kapacitou 500 uF je přibližně",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "6,412",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,025 k12",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "0,08 12",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "98,6.12",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 919,
+		"category": 1,
+		"number": 919,
+		"text": "Indu tivní reaktance cívky v obvodu střídavého proudu",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "klesá s rostoucí frekvencí",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je nezávislá na frekvenci",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "roste s rostoucí frekvencí",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "roste s druhou mocninou frekvence",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 920,
+		"category": 1,
+		"number": 920,
+		"text": "Zařazením kondenzátoru do jednoduchého obvodu střídavého proudu dojd k fázovému posunu proudu vzhledem k napětí o úhel",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1/4 rad",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1/2 rad",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "-1/2 rad",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "-1/4 rad",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 921,
+		"category": 1,
+		"number": 921,
+		"text": "Jednotkou impedance je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "siemens",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "farad",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ohm",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "henry",
+				"correct": false
+			}
+		]
+	}
+]

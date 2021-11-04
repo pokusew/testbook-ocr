@@ -1,0 +1,290 @@
+[
+	{
+		"id": 1228,
+		"category": 1,
+		"number": 1228,
+		"text": "Ostřelováním i C1 protonem vznikne i Ar, Částicí uvolněnou při reakci je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "helion",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "neutron",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "elektron",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pozitron",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1229,
+		"category": 1,
+		"number": 1229,
+		"text": "Je-li n hlavní kvantové číslo a Ei energie základního energetického stavu v atom vodíku, je energie E, excitovaného stavu dána vztahem",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "E. = E1.n",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "En = E1/n",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "E, = E1.nº",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Em = E1/na",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1230,
+		"category": 1,
+		"number": 1230,
+		"text": "Pro detekci jaderného záření lze použít",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "cyklotron",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "bublinovou komoru",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mlžnou komoru",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Geigerův-Mullerův počítač",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1231,
+		"category": 1,
+		"number": 1231,
+		"text": "Různé izotopy určitého prvku lze rozlišit",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pouze chemicky",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pouze fyzikálními metodami",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "chemickými i fyzikálními metodami",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pouze na základě záření, které emitují",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1232,
+		"category": 1,
+		"number": 1232,
+		"text": "Izotopy určitého prvku mají",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "stejné protonové a různé nukleonové číslo",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "různé protonové a stejné nukleonové číslo",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "různé protonové i nukleonové číslo",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "stejné nukleonové číslo",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1233,
+		"category": 1,
+		"number": 1233,
+		"text": "Relativní atomové hmotnosti iontů je možné určit pomocí",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "cyklotronu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mlžné komory",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "hmotnostního spektrometru",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "speciálních analytických vah",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1234,
+		"category": 1,
+		"number": 1234,
+		"text": "Záření beta je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "proud neutronů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "elektricky neutrální",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "proud elektronů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "proud deuteronů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1235,
+		"category": 1,
+		"number": 1235,
+		"text": "Záření alfa",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "má nukleonové číslo 2",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "má kladný náboj",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je synonymem pro deuteron",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je částice složená ze 2 protonů a 2 neutronů",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1236,
+		"category": 1,
+		"number": 1236,
+		"text": "Pracovní náplní Geigerova-Mullerova počítače může být",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vakuum",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "přehřátá kapalina",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vodní pára",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zředěný netečný plyn",
+				"correct": true
+			}
+		]
+	}
+]

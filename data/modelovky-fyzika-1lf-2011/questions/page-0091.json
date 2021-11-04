@@ -1,0 +1,258 @@
+[
+	{
+		"id": 659,
+		"category": 1,
+		"number": 659,
+		"text": "Počet volných elektronů, které projdou průřezem kovového vodiče s proude 1,6 mA za dobu 100 s je přibližně",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1017",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1018",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1019",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1020",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 660,
+		"category": 1,
+		"number": 660,
+		"text": "Uved'te, které tvrzení je správné:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jednotkou elektromotorického napětí je volt",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jednotkou elektrického potenciálu je volt",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "elektromotorické napětí je rovno absolutní hodnotě rozdílu potenciálů mezi svorkam nezatíženého zdroje",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "elektromotorické napětí je rovno absolutní hodnotě rozdílu potenciálů mezi svorkam zdroje připojenými k elektrickému obvodu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 661,
+		"category": 1,
+		"number": 661,
+		"text": "V automobilové baterii získáváme energii elektrickou přeměnou z energie",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mechanické",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "tepelné",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "světelné",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "chemické",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 662,
+		"category": 1,
+		"number": 662,
+		"text": "Na akumulátoru je uveden údaj 20 Ah. Převeďte jej na jednotku kC:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "48 kc",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "400 kc",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "72 kc",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "86 kc",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 663,
+		"category": 1,
+		"number": 663,
+		"text": "Na akumulátoru je uveden údaj 25 Ah. Převed'te jej na jednotku kC:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "50 kC",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "125 kc",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "90 kc",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "180 kc",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 664,
+		"category": 1,
+		"number": 664,
+		"text": "Na akumulátoru je uveden údaj 30 Ah. Převed'te jej na jednotku kC:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "36 kc",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "180 kc",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "60 kc",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "108 kc",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 665,
+		"category": 1,
+		"number": 665,
+		"text": "K baterii o elektromotorickém napětí 4,5 V a vnitřním odporu 112 je připojen žárovka, kterou prochází proud 200 mA. Jaké je napětí na žárovce?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "4,1 V",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "4,2 V",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "4,3 V",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "4,4 V",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 666,
+		"category": 1,
+		"number": 666,
+		"text": "K baterii o elektromotorickém napětí 4,5 V a vnitřním odporu 1 N je připojen žárovka, kterou prochází proud 200 mA. Jaký je příkon žárovky?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,74 W",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,86 W",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "0,92 W",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "0,98 W",
+				"correct": false
+			}
+		]
+	}
+]

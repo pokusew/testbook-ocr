@@ -1,0 +1,258 @@
+[
+	{
+		"id": 777,
+		"category": 1,
+		"number": 777,
+		"text": "Závěrný proud přechodu PN je do určitého napětí",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nulový",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "poněkud menší než propustný proud",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "značně menší než propustný proud",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "stejné hodnoty, ale opačného směru ve srovnání s propustným proudem",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 778,
+		"category": 1,
+		"number": 778,
+		"text": "V tranzistoru je uprostřed",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "base",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kolektor",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "emitor",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kolektor nebo emitor",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 779,
+		"category": 1,
+		"number": 779,
+		"text": "Bázový proud tranzistoru zapojeného se společným emitorem je 15 = 30 HA kolektorový proud Ic = 2,0 mA. Určete kolektorový proud Icpři bázovém proud 100 mA, má-li proudový zesilovací činitel tranzistoru hodnotu 60.",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "9,8 mA",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "6,2 mA",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "2,2 mA",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "4,0 mA",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 780,
+		"category": 1,
+		"number": 780,
+		"text": "Vyberte správné tvrzení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "závěrný proud procházející přechodem PN je nulový",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "polovodičová dioda je polovodičs 1 přechodem PN",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "změníme-li polaritu vnějšího zdroje vloženého na polovodič s přechodem PN, který by původně zapojen v propustném směru, elektrický odpor přechodu PN značně vzroste",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "tranzistor je elektronický prvek s 2 přechody PN",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 781,
+		"category": 1,
+		"number": 781,
+		"text": "Vyberte nesprávné tvrzení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "elektrický odpor přechodu PN nezávisí na polaritě vnějšího zdroje, jehož napětí j vloženo na polovodič",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "polovodičová dioda nachází uplatnění v usměrňování střídavého proudu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "tranzistor je elektronický prvek s 1 přechodem PN",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "polovodič s přechodem PN má v jednom směru nekonečný odpor",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 782,
+		"category": 1,
+		"number": 782,
+		"text": "Zvolte kombinaci, ve které je nesprávně uvedeno typické použití příslušnéh prvku:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "termistor - zesílení",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "rezistor - nastavení žádaného proudu či napětí",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "bočník - zvětšení rozsahu voltmetru",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "tranzistor - měření teploty",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 783,
+		"category": 1,
+		"number": 783,
+		"text": "Zvolte kombinaci, ve které je správně uvedeno typické použití příslušného prvku:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "předřadný rezistor - úprava rozsahu ampermetru",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "rezistor - nastavení žádaného proudu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "tranzistor – zesílení",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "termistor - měření teploty",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 784,
+		"category": 1,
+		"number": 784,
+		"text": "Polovodičový prvek k měření teploty se nazývá",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "termočlánek",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "tranzistor",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "rezistor",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "termistor",
+				"correct": true
+			}
+		]
+	}
+]

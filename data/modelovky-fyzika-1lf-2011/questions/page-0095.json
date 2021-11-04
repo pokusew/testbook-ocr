@@ -1,0 +1,290 @@
+[
+	{
+		"id": 690,
+		"category": 1,
+		"number": 690,
+		"text": "Jednotkou měrného elektrického odporu látky je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Ω.m",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "N.m-1",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Ω m2",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "2.m-2",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 691,
+		"category": 1,
+		"number": 691,
+		"text": "Jaký celkový odpor má měděný vodič o délce 10 m a průřezu 0,34 mm? Rezistivita mědi je 0,017x10-6 12.m.",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,212",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,5.12",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1.12",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "2.12.",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 692,
+		"category": 1,
+		"number": 692,
+		"text": "Jednotku měrné elektrické vodivosti (S.m-?) můžeme též vyjádřit jako",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "12.m",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "12-1.m",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "2.m-1",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "12-1.m-1",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 693,
+		"category": 1,
+		"number": 693,
+		"text": "Odporové materiály jsou látky",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "s jakýmkoliv čistým ohmickým odporem",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "látky s malým měrným elektrickým odporem",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "látky s velkým měrným elektrickým odporem",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "látky s měrným elektrickým odporem zcela nezávislým na teplotě",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 694,
+		"category": 1,
+		"number": 694,
+		"text": "Příkladem odporového materiálu je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "měď",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "konstantan",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "hliník",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nikelin",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 695,
+		"category": 1,
+		"number": 695,
+		"text": "Příkladem materiálu s velkým měrným elektrickým odporem je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nikelin",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "bronz",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zinek",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "konstantan",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 696,
+		"category": 1,
+		"number": 696,
+		"text": "Příkladem odporového materiálu je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mosaz",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nikl",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "měď",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "chromniki",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 697,
+		"category": 1,
+		"number": 697,
+		"text": "Jednotkou teplotního součinitele elektrického odporu je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "K-1",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "12-1",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "12. K-1",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "12. K",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 698,
+		"category": 1,
+		"number": 698,
+		"text": "Jaký celkový odpor má měděný vodič o délce 5 m a průřezu 0,17 mm?? Rezistivit mědi je 0,017x10-6 12.m ?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,2.12",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,512",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "112",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "212",
+				"correct": false
+			}
+		]
+	}
+]

@@ -1,4 +1,4 @@
-143. Mezi krystalické látky nepatří
+543. Mezi krystalické látky nepatří
 a) vápenec
 B) sklo
 C) jantar
@@ -39,7 +39,6 @@ a) 1 kN
 B) 10 kN
 c) 20 kN
 d) 50 KN
-0
 550. Siontovou vazbou v pevných látkách se setkáváme u oxidu
 a) křemičitého
 b) hlinitého

@@ -1,0 +1,258 @@
+[
+	{
+		"id": 922,
+		"category": 1,
+		"number": 922,
+		"text": "Reaktance X v obvodu s RLC v séri S",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je určena vztahem X = XL+ Xc",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "závisí na frekvenci",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "charakterizuje vlastnosti té části obvodu, v niž se elektromagnetická energie mění v teplo",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je určena vztahem X = XL - Xc",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 923,
+		"category": 1,
+		"number": 923,
+		"text": "V obvodu s RLC v sérii dojde k rezonanci, je-li",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "X = Xc",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "R = 0.12",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "X, Xc",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "X <Xc",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 924,
+		"category": 1,
+		"number": 924,
+		"text": "Jako usměrňovače střídavého proudu lze použít",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "transformátoru",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kondenzátoru",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "diody",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "solenoidu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 925,
+		"category": 1,
+		"number": 925,
+		"text": "Okamžitý výkon střídavého proudu v obvodu s odporem se vzhledem k proudu",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mění s poloviční frekvencí",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nemění",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mění s dvojnásobnou frekvencí",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je nulový",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 926,
+		"category": 1,
+		"number": 926,
+		"text": "Značí-li I maximální hodnotu, je efektivní hodnota střídavého proudu I dán vztahem",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "I = V2.1.",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "I = In/V2",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "I = 2.1.",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "I = 1/2",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 927,
+		"category": 1,
+		"number": 927,
+		"text": "Značí-li Um maximální hodnotu, je efektivní hodnota střídavého napětí U dán vztahem",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "U = V2.U",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "U = 20",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "U = U/V2",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "U = U./2",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 928,
+		"category": 1,
+		"number": 928,
+		"text": "V obvodu střídavého proudu je v sérii s rezistorem 90 22 zapojená cívk o induktivní reaktanci X = 1256 N a kondenzátor o kapacitní reaktanc Xc = 1656 12. Jaká je celková impedance?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "29012",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "360.12",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "410.2",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "520.12",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 929,
+		"category": 1,
+		"number": 929,
+		"text": "Je-li o fázový posún střídavého napětí a proudu, pak pro výkon střídavéh proudu o napětí U a intenzitě Iv obvodu s odporem platí vztah",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "P = UICOS(0/2)",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "P = UI",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "P = Ulsing",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "P = UI/ m m =",
+				"correct": false
+			}
+		]
+	}
+]

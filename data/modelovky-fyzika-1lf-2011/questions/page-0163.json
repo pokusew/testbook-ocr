@@ -1,0 +1,290 @@
+[
+	{
+		"id": 1245,
+		"category": 1,
+		"number": 1245,
+		"text": "Náboj protonu je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kladný a 1840x větší než náboj elektronu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "záporný a 1840x větší než náboj elektronu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v absolutní hodnotě stejný jako náboj elektronu ale opačného znaménka",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1,6.10-19 C",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1246,
+		"category": 1,
+		"number": 1246,
+		"text": "Transurany jsou prvky s protonovým číslem větším než",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "90",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "92",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "96",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "100",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1247,
+		"category": 1,
+		"number": 1247,
+		"text": "Moderátorem v atomovém reaktoru může být",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "grafit",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "D20 (těžká voda)",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kadmium",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "beton",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1248,
+		"category": 1,
+		"number": 1248,
+		"text": "Které z následujících tvrzení je správné? V lineárním urychlovači je možn urychlovat",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "protony",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "deuterony",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ionty",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "neutrony",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1249,
+		"category": 1,
+		"number": 1249,
+		"text": "Hmotnost jádra atomu je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "větší než součet hmotností jeho nukleonů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "menší než součet hmotností jeho nukleonů",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "rovna součtu hmotností jeho nukleonů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "úměrná počtu elektronů v elektronovém obalu jádra",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1250,
+		"category": 1,
+		"number": 1250,
+		"text": "Přitažlivé jaderné síly působící mezi dvěma nukleony mají dosah řádově",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "10-11 m",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "10-13 m",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "10-15 m",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "10-17 m",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1251,
+		"category": 1,
+		"number": 1251,
+		"text": "Atomový reaktor pracuje na principu",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "řetězové jaderné reakce",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "termojaderné syntézy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "radioaktivního rozpadu uranu 235U",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "radioaktivního rozpadu uranu 238U",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1252,
+		"category": 1,
+		"number": 1252,
+		"text": "Při určování stáří archeologických nálezů se využívá radioizotopu",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "uhlíku 14C",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "radia 226 Ra",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "fosforu 32P",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "uranu 2350",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1253,
+		"category": 1,
+		"number": 1253,
+		"text": "Určete pravdivé tvrzení: Při jaderné reakci",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "platí zákon zachování hmotnosti a energie",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "platí zákon zachování náboje",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "neplatí zákon o zachování hybnosti",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je možné určit produkt reakce známe-li terčové jádro a částice, které se reakce účastní",
+				"correct": true
+			}
+		]
+	}
+]

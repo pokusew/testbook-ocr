@@ -1,0 +1,258 @@
+[
+	{
+		"id": 713,
+		"category": 1,
+		"number": 713,
+		"text": "Vyberte správné tvrzení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "rozdíl mezi elektromotorickým a svorkovým napětím je tím menší, čím menší je vnějš odpor",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "elektromotorické napětí je napětí na svorkách zdroje, kterým neprochází proud",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "svorkové napětí je na svorkách zdroje, který je zapojen do uzavřeného obvodu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "úbytek napětí na zdroji je roven součinu vnitřního odporu a proudu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 714,
+		"category": 1,
+		"number": 714,
+		"text": "Uvažujme 3 paralelně zapojené rezistory; hodnoty U, Ra I značí celkové hodnot napětí, odporu a proudu, indexy 1, 2 a 3 se vztahují k jednotlivým rezistorům Který z uvedených vztahů je nesprávný?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "I = 11 + 12 + 13",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "U = U1 + U2 + Uz",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "U/R = U/R1 + U/R2 + U/R3",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1/R = 1/R1 + 1/R2 + 1/R3",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 715,
+		"category": 1,
+		"number": 715,
+		"text": "Vyhledejte správné tvrzení: Jsou-li rezistory zapojeny paralelně,",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je na všech stejné napětí",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "celkový proud je roven součtu proudů v jednotlivých větvích",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "celkový odpor je roven součtu jednotlivých odporů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "algebraický součet proudů pro uzel se rovná nule",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 716,
+		"category": 1,
+		"number": 716,
+		"text": "Zvolte správné tvrzení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "rozsah ampermetru zvětšíme pomocí předřazeného rezistoru",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "rozsah voltmetru zvětšíme pomocí předřazeného rezistoru",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "rozsahy voltmetru a ampermetru nelze měnit",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "rozsah ampermetru zvětšíme připojením bočníku",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 717,
+		"category": 1,
+		"number": 717,
+		"text": "Zvolte správné tvrzení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "rozsah voltmetru zvětšíme pomocí předřazeného rezistoru",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "rozsahy přístrojů je možné měnit jedině změnou jejich vnitřního odporu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "rozsah voltmetru zvětšíme připojením bočníku",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "rozsah ampermetru zvětšíme připojením bočníku",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 718,
+		"category": 1,
+		"number": 718,
+		"text": "Označte správné tvrzení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "odpor voltmetru má být velký",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "odpor ampermetru má být velký",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "rozsah voltmetru zvětšíme pomocí předřazeného rezistoru",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "rozsah ampermetru zvětšíme připojením bočníku",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 719,
+		"category": 1,
+		"number": 719,
+		"text": "Označte správné tvrzení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "odpor voltmetru má být velký",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "odpor ampermetru má být malý",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "rozsah voltmetru zvětšíme připojením bočníku",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "rozsah ampermetru zvětšíme připojením bočníku",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 720,
+		"category": 1,
+		"number": 720,
+		"text": "Označte správné tvrzení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "odpor voltmetru má být velký",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "odpor ampermetru má být malý",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "rozsah voltmetru zvětšíme pomocí předřazeného rezistoru",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "rozsah ampermetru zvětšíme pomocí předřazeného rezistoru",
+				"correct": false
+			}
+		]
+	}
+]

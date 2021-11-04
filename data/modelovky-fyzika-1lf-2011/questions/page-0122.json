@@ -1,0 +1,290 @@
+[
+	{
+		"id": 905,
+		"category": 1,
+		"number": 905,
+		"text": "Které tvrzení je v případě jednoduchého obvodu střídavého proudu s rezistore R správné?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "platí Ohmův zákon",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "amplituda napětí na rezistoru nezávisí na frekvenci",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "amplituda proudu v obvodu nezávisí na frekvenci",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mezi napětím a proudem v obvodu vzniká fázový rozdíl",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 906,
+		"category": 1,
+		"number": 906,
+		"text": "V jednoduchém obvodu střídavého proudu s rezistorem",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "platí Ohmův zákon",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "amplituda napětí závisí na frekvenci",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "amplituda proudu nezávisí na frekvenci",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mezi napětím a proudem v obvodu je fázový rozdíl",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 907,
+		"category": 1,
+		"number": 907,
+		"text": "Zařazení rezistoru v jednoduchém obvodu střídavého proudu",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nemá vliv na fázový posun střídavého napětí a proudu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "způsobí, že amplituda napětí na rezistoru závisí na frekvenci",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "způsobí, že amplituda proudu závisí na frekvenci",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nezmění maximální amplitudu napětí",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 908,
+		"category": 1,
+		"number": 908,
+		"text": "V obvodu střídavého proudu s cívkou, která má jen indukčnost L,",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se proud zpožduje za napětím",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se napětí zpožduje za proudem",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nedochází k fázovému posunu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vzroste amplituda napětí na cívce",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 909,
+		"category": 1,
+		"number": 909,
+		"text": "Kapacitní reaktance Xc je určena vztahem",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Xc = oC",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "= 1/(oC)",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "X = 1/(2πως)",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "X = 270/WC)",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 910,
+		"category": 1,
+		"number": 910,
+		"text": "Jednotkou kapacitní reaktance je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "farad",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "farad",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "henry",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ohm",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 911,
+		"category": 1,
+		"number": 911,
+		"text": "Induktivní reaktance X, je definována vztahem",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "XL = 2TWL",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "XL = 2tVWL",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "X, = WL",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "X, = VWL",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 912,
+		"category": 1,
+		"number": 912,
+		"text": "Jednotkou induktivní reaktance je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "henry",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "siemens",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "weber",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ohm",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 913,
+		"category": 1,
+		"number": 913,
+		"text": "Zařazením cívky s indukčností L do obvodu střídavého proudu se",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "proud zvětší",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "proud zmenší",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "proud nezmění",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "sníží frekvence",
+				"correct": false
+			}
+		]
+	}
+]

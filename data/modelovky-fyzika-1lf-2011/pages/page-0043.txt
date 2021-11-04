@@ -1,6 +1,3 @@
-=
-=
--
 297. Rychlost tělesa při volném pádu v závislosti na čase znázorníme v pravoúhlých
 souřadnicích jako
 a) přímku rovnoběžnou s vodorovnou osou
@@ -19,8 +16,8 @@ a) h = Vog
 b) h = vo/g
 c) h = (vo)?/g
 D) h = (v.)?/(28)
-300. Označíme-li gravitační zrychlení g, pak těleso, které bylo vrženo svisle vzhůru
-a dosáhlo výšky h dopadne zpět na povrch Země rychlostí v danou vztahem
+300. Označíme-li gravitační zrychlení g, pak těleso, které bylo vrženo svisle vzhůru a
+dosáhlo výšky h dopadne zpět na povrch Země rychlostí v danou vztahem
 a) v = 2gh
 b) v= (2gh)?
 c) v = 2gh?
@@ -35,8 +32,8 @@ d) v = gvo
 a) skalárnímu součtu dvou posunutí
 b) vektorovému součtu dvou posunutí, kde obě posunutí odpovídají rovnoměrnému
 přímočarému pohybu
-C) vektorovému součtu dvou posunutí, kde jedno odpovídá rovnoměrnému přímočarému
-a druhé rovnoměrně zrychlenému přímočarému pohybu
+C) vektorovému součtu dvou posunutí, kde jedno odpovídá rovnoměrnému přímočarému a
+druhé rovnoměrně zrychlenému přímočarému pohybu
 d) vektorovému součtu dvou posunutí, kde obě odpovídají rovnoměrně zrychlenému
 přímočarému pohybu
 303. Dráha, kterou těleso vykoná během prvých 5 sekund od počátku volného pádu

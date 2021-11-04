@@ -1,16 +1,15 @@
-571. Značí-li o povrchové napětí, 1 délku a S velikost povrchu, vyjádříme povrchovou
+573. Značí-li o povrchové napětí, 1 délku a S velikost povrchu, vyjádříme povrchovou
 sílu F jako
-a) P=/1
-F
-11) F-0.1
-c) P=0/S
-d) F= o. S
-174. Značí-li l délku, F povrchovou sílu a S velikost povrchu, můžeme povrchové
+a) F = sigma/1
+B) F = sigma*1
+c) F = sigma/S
+d) F = sigma.S
+574. Značí-li l délku, F povrchovou sílu a S velikost povrchu, můžeme povrchové
 napětí o vyjádřit vztahem
-a) o=F1
-FS
-C) 0= F/1
-d) o= F/S
+a) sigma = F*1
+b) sigma = F*S
+C) sigma = F/1
+d) sigma = F/S
 575. Možnost pohybu některých druhů hmyzu běháním po hladině vody lze vysvětlit
 na základu
 a) viskozity
@@ -28,9 +27,6 @@ a) kg.m-2.5-2
 B) kg.s-2
 c) kg.m.s-2
 d) kg.s -1
-1
--2
--2
 578. N.m-1 je jednotkou
 a) normálového napětí
 B) povrchového napětí
@@ -44,7 +40,7 @@ D) povrchového napětí
 580. Jakou práci je nutno vynaložit k rozprášení 2 dm3 vody na kapičky o poloměru
 0,1 mm (povrchové napětí vody je 0,073 N/m; povrch vody před rozprášením
 považujte za zanedbatelný ve srovnání se součty povrchů vzniklých kapiček)?
-a) 2,19 )
-B) 4,38 )
-c) 8,76 )
+a) 2,19 J
+B) 4,38 J
+c) 8,76 J
 d) 21,9 J

@@ -1,0 +1,226 @@
+[
+	{
+		"id": 490,
+		"category": 1,
+		"number": 490,
+		"text": "Jaké je látkové množství oxidu siřičitého, který je v nádobě o objemu 3,5 1 př tlaku 1,66 MPa a teplotě 77 °C? Při výpočtu použijte přibližné hodnoty molárn plynové konstanty 8,3 J.K-1.mol-?; při přepočtu °C na K počítejte s celými čísly.",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1 mol",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "2 moly",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "3 moly",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "4 moly",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 491,
+		"category": 1,
+		"number": 491,
+		"text": "Uvažujte tři typy pohybu molekul plynu (translační, vibrační, rotační). Vybert správnou kombinaci plynu a počtu typů pohybu, které se podílejí na hodnot jeho vnitřní energie v daném stavu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "argon - 2 typy pohybu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "helium - 1 typ pohybu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kyslík - 2 typy pohybu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "dusík - 1 typ pohybu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 492,
+		"category": 1,
+		"number": 492,
+		"text": "Uvažujte tři typy pohybu molekul plynu (translační, vibrační, rotační). Vybert nesprávnou kombinaci plynu a počtu typů pohybu, které se podílejí na hodnot jeho vnitřní energie v daném stavu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "neon - 1 typ",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vodík - 3 typy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kyslík - 3 typy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "dusík – 1 typ",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 493,
+		"category": 1,
+		"number": 493,
+		"text": "Křivka vyjadřující Maxwellovo rozdělení molekul plynu podle rychlostí je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "křivkou s maximem pro určitou hodnotu rychlosti",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "monotonně klesající křivkou",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "monotonně stoupající křivkou",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "křivkou s minimem pro určitou hodnotu rychlosti",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 494,
+		"category": 1,
+		"number": 494,
+		"text": "Uved'te správnou jednotku u hodnoty Boltzmannovy konstanty:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": ")",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "J. K. kg",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "J. K-1",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "J.K",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 495,
+		"category": 1,
+		"number": 495,
+		"text": "Značí-li k Boltzmannovu konstantu a T termodynamickou teplotu, pak se středn kinetická energie molekuly ideálního plynu rovná",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "(1/2)kt",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "(3/2)KT",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "(2/3)KT",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "(1/2)kT?",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 496,
+		"category": 1,
+		"number": 496,
+		"text": "Střední kinetická energie molekuly ideálního plynu je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "přímo úměrná čtverci termodynamické teploty",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "přímo úměrná termodynamické teplotě",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nepřímo úměrná termodynamické teplotě",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nepřímo úměrná čtverci termodynamické teploty",
+				"correct": false
+			}
+		]
+	}
+]

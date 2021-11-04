@@ -1,0 +1,226 @@
+[
+	{
+		"id": 477,
+		"category": 1,
+		"number": 477,
+		"text": "Kolik molekul argonu je v tomto vzácném plynu při objemu 2,5 1, teplot 250 K a tlaku 2,49 MPa? Počítejte s přibližnými hodnotami molární plynov konstanty 8,3 J.K-1.mol-1 a Avogadrovy konstanty 6.1023mol-4;",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1023",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1,2.1024",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1,8.1024",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "2,4.1024",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 478,
+		"category": 1,
+		"number": 478,
+		"text": "Jaká je hmotnost oxidu uhličitého při jeho objemu 3 1, teplotě 300 K a tlak 3,32 MPa? Počítejte s přibližnými hodnotami molární plynové konstant 8,3 J.K-1.mol-1 a relativních atomových hmotností kyslíku a uhlíku 16 a 12;",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "44 g",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "176 g",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "88 g",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "196 g",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 479,
+		"category": 1,
+		"number": 479,
+		"text": "Jaká je hmotnost kyslíku při jeho objemu 3,5 1, teplotě 350 K a tlaku 0,83 MPa Počítejte s přibližnými hodnotami molární plynové konstanty 8,3 J. K4.mol-1 relativní atomové hmotnosti kyslíku 16;",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "32 g",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "16 g",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "128 g",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "64 g",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 480,
+		"category": 1,
+		"number": 480,
+		"text": "Kolik molekul plynu je přibližně v objemu 1 um při teplotě 273 K a tlaku 105 Pa Pro Boltzmannovu konstantu použijte hodnotu 1,38x10-23 J.K1",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "2,7x105",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "2,7x106",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "2,7x10?",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "2,7x108",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 481,
+		"category": 1,
+		"number": 481,
+		"text": "Plyn uzavřený v nádobě s pohyblivým pístem zvýšil při stálém tlaku 0.4 MPa svů objem o 200 cm?. Jakou práci vykonal?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "20 )",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "40 )",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "80J",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "100)",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 482,
+		"category": 1,
+		"number": 482,
+		"text": "Jakou práci vykonal plyn při izobarickém ději při tlaku 0,5 MPa, jestliž ‘zdvojnásobil svůj původní objem 100 cm3?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "20 )",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "40 )",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "50 )",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "100J",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 483,
+		"category": 1,
+		"number": 483,
+		"text": "Jaký je přibližný počet molekul v 0,090 kg vody (použijte přibližných hodno Avogadrovy konstanty 6.1023mol-1 a relativních hmotností kyslíku 16 a vodíku 1) а",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1024",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1024",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "3.1024",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1024",
+				"correct": false
+			}
+		]
+	}
+]

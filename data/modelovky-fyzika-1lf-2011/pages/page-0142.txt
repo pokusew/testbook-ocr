@@ -1,39 +1,39 @@
-68. Které z následujících tvrzení je správné? Ultrazvuk
+1068. Které z následujících tvrzení je správné? Ultrazvuk
 A) nevnímáme sluchem
 b) má malou absorpci v plynech
 C) má malou absorpci v kapalinách
 D) má malou absorpci v pevných látkách
-69. Které z následujících tvrzení je správné? Infrazvuk
+1069. Které z následujících tvrzení je správné? Infrazvuk
 a) se špatně šíří ve vodě
 B) má frekvenci nižší než 16 Hz
 C) je neslyšitelný
 D) má větší vlnovou délku než slyšitelný zvuk
-170. Ultrazvuk
+1070. Ultrazvuk
 a) může člověk ve vodě slyšet
 B) se silně absorbuje v plynech
 C) se málo absorbuje v kapalinách
 d) se silně absorbuje v pevných látkách
-071. Absolutní výška tónu je určena
+1071. Absolutní výška tónu je určena
 a) rezonanční skříní zdroje
 b) amplitudou kmitů
 C) frekvencí zdroje
 d) obsahem vyšších harmonických tónů
-072. Frekvence slyšitelné lidským uchem mají rozsah
+1072. Frekvence slyšitelné lidským uchem mají rozsah
 A) 16 Hz až 16 kHz
 b) 50 Hz až 20 kHz
 c) 1 Hz až 16 kHz
 d) 50 Hz až 16 kHz
-073. Sluchové ústrojí člověka je nejcitlivější na zvuk o frekvenci
+1073. Sluchové ústrojí člověka je nejcitlivější na zvuk o frekvenci
 a) 16 až 50 Hz
 b) 300-400 Hz
 C) 600-6000 Hz
 d) 7-10 kHz
-074. Vlnová délka elektromagnetické vlny ve vakuu při frekvenci 50 Hz je přibližně
+1074. Vlnová délka elektromagnetické vlny ve vakuu při frekvenci 50 Hz je přibližně
 a) 60 km
 b) 600 km
 C) 6000 km
 d) 60000 km
-75. Elektromagnetické vlnění o vlnové délce 300 m proniká ze vzduchu do
+1075. Elektromagnetické vlnění o vlnové délce 300 m proniká ze vzduchu do
 homogenního prostředí, v němž se šíří rychlostí 2x108 m.s-1. Určete jeho vlnovou
 délku v tomto prostředí.
 a) 350 m

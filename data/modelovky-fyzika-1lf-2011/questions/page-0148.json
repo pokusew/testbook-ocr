@@ -1,0 +1,258 @@
+[
+	{
+		"id": 1118,
+		"category": 1,
+		"number": 1118,
+		"text": "Jakou optickou mohutnost musí mít brýle pro krátkozraké oko, jehož blízký bo je ve vzdálenosti 10 cm od oka?.",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "-6D",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "6D",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "-3D",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "3D",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1119,
+		"category": 1,
+		"number": 1119,
+		"text": "Jakou optickou mohutnost musí mít brýle pro dalekozraké oko, jehož blízký bo je ve vzdálenosti 50 cm od oka?.",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "2D",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "-2D",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "-4D",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "4D",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1120,
+		"category": 1,
+		"number": 1120,
+		"text": "Úhlové zvětšení okuláru je 20. Jaká je jeho ohnisková vzdálenost?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "5 mm",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "10 mm",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "12,5 mm",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "20 mm",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1121,
+		"category": 1,
+		"number": 1121,
+		"text": "Příčné zvětšení objektivu mikroskopu s optickým intervalem 20 cm je 20. Jaká j jeho ohnisková vzdálenost?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "2,5 mm",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "5 mm",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "10 mm",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "15 mm",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1122,
+		"category": 1,
+		"number": 1122,
+		"text": "Spojnou čočkou s optickou mohutností 5 D byl vytvořen na stínítku v vzdálenosti 1 m od čočky obraz o velikosti 16 cm. Jakou velikost měl předmět?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "10 cm",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "8 cm",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "4 cm",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "2 cm",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1123,
+		"category": 1,
+		"number": 1123,
+		"text": "Spojnou čočkou s optickou mohutností 5 D byl vytvořen na stínítku v vzdálenosti 1 m od čočky obraz o velikosti 16 cm. Jaká byla vzdálenost mez předmětem a stínítkem?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "105 cm",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "115 cm",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "125 cm",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "145 cm",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1124,
+		"category": 1,
+		"number": 1124,
+		"text": "Spojná čočka vytváří obraz, pro který platí Z1 = -2. Jestliže k ní předmě přiblížíme o 15 cm, je Z2 = -5. Jaká je ohnisková vzdálenost čočky?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "15 cm",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "30 cm",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "50 cm",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "75 c -1",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1125,
+		"category": 1,
+		"number": 1125,
+		"text": "Jednotkou optické mohutnosti je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "m",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "rad/m",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "rad.m",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "m",
+				"correct": false
+			}
+		]
+	}
+]

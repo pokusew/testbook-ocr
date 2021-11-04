@@ -1,0 +1,226 @@
+[
+	{
+		"id": 566,
+		"category": 1,
+		"number": 566,
+		"text": "Uvažujme železnou odměrnou nádobu kalibrovanou na objem 10 dmº z předpokladu teploty měřené kapaliny 20 °C. Jaké relativní chyby se zhrub dopustíme, budeme-li měřit objem při teplotě 80 °C (afe = 1,2.10-56-?)?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,02 %",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,2%",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "2%",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "20 %",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 567,
+		"category": 1,
+		"number": 567,
+		"text": "V bimetalickém teploměru se využívá",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "rozdílu mezi hodnotami měrného elektrického odporu dvou kovů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "rozdílu mezi hodnotami součinitele délkové teplotní roztažnosti dvou kovů",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "elektromotorického napětí, které vzniká při zahřátí spoje obou kovů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jevu supravodivosti",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 568,
+		"category": 1,
+		"number": 568,
+		"text": "Závislost prodloužení tyče na přírůstku teploty lze v pravoúhlých souřadnicíc znázornit jako",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "přímku se směrnicí a procházející počátkem",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "přímku se směrnic a. l1, kde li je počáteční délka, procházející počátkem",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "přímku s úsekem na svislé ose a neprocházející počátkem",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "křivku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 569,
+		"category": 1,
+		"number": 569,
+		"text": "Závislost délky tyče na přírůstku teploty lze v pravoúhlých souřadnicích vyjádři jako",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "přímku se směrnicí a procházející počátkem",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "přímku se směrnicí a. l1, kde 11 je počáteční délka, procházející počátkem",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "přímku se směrnicí a.lja s úsekem li na svislé ose",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "přímku se směrnicí li a s úsekem a na svislé ose",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 570,
+		"category": 1,
+		"number": 570,
+		"text": "Vyberte nepravdivé tvrzení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "součinitel teplotní délkové roztažnosti závisí jen na druhu látky",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "součinitel teplotní roztažnosti závisí především na teplotě",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "součinitel teplotní roztažnosti se značně mění s teplotou",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "součinitel teplotní roztažnosti se poněkud mění s teplotou, avšak při malých teplotníc rozdílech jej můžeme pro danou látku považovat za konstantní",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 571,
+		"category": 1,
+		"number": 571,
+		"text": "Vztah mezi součinitelem teplotní délkové roztažnosti a a teplotní objemov roztažnosti ß lze přibližně vyjádřit",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "a = 3B",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "B = 3a",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "a=",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "B = a3",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 572,
+		"category": 1,
+		"number": 572,
+		"text": "Závislosti prodloužení tyče dané délky na přírůstku teploty znázorněn v pravoúhlých souřadnicích přímkami pro různé materiály se budou od seb navzájem lišit",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "směrnicemi",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "úseky na svislé ose",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "úseky na vodorovné ose",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "směrnicemi a úseky na svislé os = 33",
+				"correct": false
+			}
+		]
+	}
+]

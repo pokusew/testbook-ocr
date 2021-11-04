@@ -1,0 +1,258 @@
+[
+	{
+		"id": 745,
+		"category": 1,
+		"number": 745,
+		"text": "Značí-li U napětí, I intenzitu, R odpor a t čas, který z výrazů pro elektrickou prác W je nesprávný?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "W = U_It",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "W = Ult",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "W = R²It",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "W = U_t/R",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 746,
+		"category": 1,
+		"number": 746,
+		"text": "Ampérhodinu (Ah) můžeme považovat za",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hlavní jednotku elektrické práce",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vedlejší jednotku elektrického náboje",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "hlavní jednotku elektrického výkonu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vedlejší jednotku výkonu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 747,
+		"category": 1,
+		"number": 747,
+		"text": "Vedlejší jednotkou elektrického náboje je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Wh",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Ah",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kWh",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "W =",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 748,
+		"category": 1,
+		"number": 748,
+		"text": "Značí-li U napětí, I intenzitu, R odpor, Q náboj a t čas, který z výrazů pro výkon konstantního elektrického proudu je správný?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "P = UQ/t",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "P = UI",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "P = U/R",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "P= R²1",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 749,
+		"category": 1,
+		"number": 749,
+		"text": "Který z následujících vztahů mezi jednotkami je správný?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1C = 1 A.S",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1 kWh = 1 k]",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1 J = 1V.C",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1 kWh = 3600 J",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 750,
+		"category": 1,
+		"number": 750,
+		"text": "Který z následujících vztahů mezi jednotkami je správný?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1S = 1.2-1",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "15 = 1.12-1.m",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1 S = 182.m",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1S = 11.m-1",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 751,
+		"category": 1,
+		"number": 751,
+		"text": "Který z následujících vztahů mezi jednotkami je nesprávný?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1 Wh = 3,6 )",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "112 = 1 V.A-1",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1$=112-1",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1 J = 1 V.C",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 752,
+		"category": 1,
+		"number": 752,
+		"text": "Vyhledejte dvojici, ve které jsou oba vztahy (pro práci Wa výkon P konstantníh elektrického proudu) uvedeny správně:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "W = Ult; P = UI",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "W = UQ;P = RI?/t",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "W = RI?; P = W/t",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "W = UQ/t; P = UP/ - =",
+				"correct": false
+			}
+		]
+	}
+]

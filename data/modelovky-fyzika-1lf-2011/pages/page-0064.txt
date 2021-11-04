@@ -1,11 +1,10 @@
-156. Do 10 l vody o teplotě 60 °C bylo přidáno 2 kg ledu o teplotě 0 °C. Jaká byla
+456. Do 10 l vody o teplotě 60 °C bylo přidáno 2 kg ledu o teplotě 0 °C. Jaká byla
 přibližně výsledná teplota směsi? Měrné skupenské teplo tání ledu je 330 kJ. kg-1,
 měrná tepelná kapacita vody je 4,2 kJ. kg-1.K-1.
 a) 31 °C
 b) 33 °C
 c) 35 °C
 D) 37 °C
-a
 457. Kolik tepla je přibližně zapotřebí k přeměně 10 kg ledu o teplotě -5°C na vodu
 o teplotě 0 °C? Měrné skupenské teplo tání ledu je 330 kJ. kg-1, měrná tepelná
 kapacita ledu je 2,1 kJ. kg-1.K-1,
@@ -41,4 +40,4 @@ d) 1/14 hmotnosti atomu nuklidu dusíku 14N
 a) 1
 b) 2
 C) 3
-d)
+d) 4

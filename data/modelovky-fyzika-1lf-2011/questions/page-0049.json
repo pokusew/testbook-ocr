@@ -1,0 +1,226 @@
+[
+	{
+		"id": 340,
+		"category": 1,
+		"number": 340,
+		"text": "Jaká síla působí ve vakuu na náboj 2 mC vložený do homogenního elektrickéh pole o intenzitě 105 V.m-1?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "2x102N",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "2x103 N",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "2x106N",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "2x105 &",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 341,
+		"category": 1,
+		"number": 341,
+		"text": "Jaká je intenzita elektrického pole v petroleji (Ex = 2,1) ve vzdálenosti 30 cm o bodového náboje o velikosti 12,56 uC ?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "6x104 N.C-1",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "6x105 N.C-1",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "6x106 N.C-1",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "6x107N.C-1",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 342,
+		"category": 1,
+		"number": 342,
+		"text": "Jakou práci vykoná elektrická síla v homogenním elektrickém poli o intenzit 1000 V.m- při přemístění částice o náboji 2 uC do vzdálenosti 20 cm proti smě intenzity?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "-4*10-4 ]",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "4*10-4 ]",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "-8x10-6)",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "8x10-5 ]",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 343,
+		"category": 1,
+		"number": 343,
+		"text": "Jakou práci vykoná elektrická síla v homogenním elektrickém poli o intenzit 1000 V.m-při přemístění částice o náboji 2 uC do vzdálenosti 20 cm kolm směru intenzity?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "-4*10-4 ]",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "4x10-4)",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "-8x10-6",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "OJ",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 344,
+		"category": 1,
+		"number": 344,
+		"text": "Jaké je napětí mezi dvěma vodivými rovnoběžnými deskami, jejichž vzdálenos je 10 cm, jestliže na částici s nábojem 10 nC působí mezi deskami síla o velikost 2x10-3 N?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "5 kV",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "10 kV",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "15 kV",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "20 kV",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 345,
+		"category": 1,
+		"number": 345,
+		"text": "Jakou práci vykoná elektrická síla při přenosu náboje 5 uC mezi dvěma místy mezi kterými je napětí 1 kV?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "5x10-3]",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "5x10-2]",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "0,5 J",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "5)",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 346,
+		"category": 1,
+		"number": 346,
+		"text": "Jaká je intenzita elektrického pole mezi dvěma vodivými rovnoběžnými deska vzdálenými od sebe 10 mm, je-li mezi nimi napětí 100 V. Jaké je napětí mez deskami?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "102 V.m-1",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "103 V.m-1",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "104 V.m-1",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "105 V.m- -1",
+				"correct": false
+			}
+		]
+	}
+]

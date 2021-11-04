@@ -36,9 +36,8 @@ a) aniont na anodě přijímá elektrony
 B) aniont na anodě odevzdává elektrony
 c) aniont na katodě přijímá elektrony
 d) aniont na katodě odevzdává elektrony
-B00. Jednotkou elektrochemického ekvivalentu látky je
+800. Jednotkou elektrochemického ekvivalentu látky je
 a) mol. C-1
 b) kg. A-1
 C) kg. C-1
 d) mol. A-1
->

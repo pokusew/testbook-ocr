@@ -1,0 +1,258 @@
+[
+	{
+		"id": 1010,
+		"category": 1,
+		"number": 1010,
+		"text": "Okamžitý proud v oscilačním obvodu je posunut vůči napětí o počáteční fázi",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1/2 rad",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1/4 rad",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "-1/2 rad",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "-TT/4 ra V",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1011,
+		"category": 1,
+		"number": 1011,
+		"text": "V mechanickém oscilátoru s hmotností m a tuhostí k vzniká vlastní kmitán s periodou T, určenou vztahem",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "T. = 211./(m/k)",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "T. = V(m/k)",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "T. = V(m/k) 12",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "T. = (1/21) (m/k)",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1012,
+		"category": 1,
+		"number": 1012,
+		"text": "V mechanickém oscilátoru s hmotností m a tuhostí k vzniká vlastní kmitán s frekvencí f, určenou vztahem",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "f. = 211(m/k)",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "f. = 211(k/m)",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "f. = (1/21) V(k/m)",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "f. = (1/21) V(m/k)",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1013,
+		"category": 1,
+		"number": 1013,
+		"text": "V mechanickém oscilátoru s hmotnosti m a tuhostí k vzniká vlastní kmitán s úhlovou frekvencí w, určenou vztahem",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "w. = (1/21) V(k/m)",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "w. (k/m)",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "w. = 211/(m/k)",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "w. = V(m/k)",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1014,
+		"category": 1,
+		"number": 1014,
+		"text": "Hmotný bod kmitá s periodou 0,02 s. Jaká je hodnota úhlové frekvence?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "25 1",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "50 TE",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "751",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "100 m",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1015,
+		"category": 1,
+		"number": 1015,
+		"text": "Procesor počítače kmitá s periodou 2,5 ns. Jakou má frekvenci?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "4 MHz",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "40 MHz",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "400 MHz",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "0,4 GHz",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1016,
+		"category": 1,
+		"number": 1016,
+		"text": "Rovnice harmonického kmitání má tvar y = 4.10-3.sin 4 nt. Určete dvojici, ve kter jsou uvedeny správné hodnoty jak amplitudy tak i frekvence",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "2.10-3m; 2 Hz",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "4.10-3m; 2 Hz",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "2.10-3m; 4 Hz",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "4.10-3m; 4 Hz",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1017,
+		"category": 1,
+		"number": 1017,
+		"text": "Značí-li F, sílu pružnosti pružiny mechanického oscilátoru a Al její proloužení je tuhost pružiny k určena vztahem",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "k = F, 41",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "k = F, 412",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "k = F. 41-2",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "k = F, 41- р",
+				"correct": false
+			}
+		]
+	}
+]

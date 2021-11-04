@@ -14,8 +14,8 @@ b) A.mol-1
 c) C.kg-1
 D) C.mol-1
 804. Značí-li I intenzitu proudu, Q náboj a t čas, pak hmotnost m látky vyloučené na
-elektrodě v průběhu elektrolýzy lze pomocí elektrochemického ekvivalentu
-A látky vyjádřit jako
+elektrodě v průběhu elektrolýzy lze pomocí elektrochemického ekvivalentu A látky
+vyjádřit jako
 A) m = AQ
 b) m = A/Q
 c) m = - AQt

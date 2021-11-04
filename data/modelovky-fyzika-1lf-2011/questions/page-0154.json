@@ -1,0 +1,258 @@
+[
+	{
+		"id": 1167,
+		"category": 1,
+		"number": 1167,
+		"text": "Rozptylka má obrazovou ohniskovou vzdálenost f' = -10 cm. Její optick mohutnost je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "-10",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "-100 D",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "10 D",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "-10 D",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1168,
+		"category": 1,
+		"number": 1168,
+		"text": "Optická mohutnost spojky je 2,5 D. Její obrazová ohnisková vzdálenost je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "4 m",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "2,5 m",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "4 cm",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "0,4 m",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1169,
+		"category": 1,
+		"number": 1169,
+		"text": "Dalekozraké oko má blízký bod ve vzdálenosti 70 cm. Optická mohutnos brýlových skel potřebných pro čtení ze vzdálenosti 25 cm je přibližně",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1,5 D",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "2D",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "2,5 D",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "5,5 D",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1170,
+		"category": 1,
+		"number": 1170,
+		"text": "Spojka má obrazovou ohniskovou vzdálenost f' = -100 cm. Její optická mohutnos je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "-0,01 D",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "-1D",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "úloha je špatně zadána",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "0,01 D",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1171,
+		"category": 1,
+		"number": 1171,
+		"text": "Vzdálený bod krátkozrakého oka je ve vzdálenosti 50 cm. Kolik dioptrií maj brýle, které posunou vzdálený bod do nekonečna:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "-5 D",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "-10 D",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "5D",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "-2D",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1172,
+		"category": 1,
+		"number": 1172,
+		"text": "Index lomu skla je 1,5. Rychlost světla v tomto skle činí",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "200 000 km/s",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "300 000 km/s",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "400 000 km/s",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "250 000 km/s",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1173,
+		"category": 1,
+		"number": 1173,
+		"text": "Zvětšení lupy s ohniskovou vzdáleností 25 mm činí",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "5",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "10",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "25",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "100",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1174,
+		"category": 1,
+		"number": 1174,
+		"text": "Úhlové zvětšení mikroskopu s optickým intervalem 25 cm, s objektive o ohniskové vzdálenosti 0,5 cm a okulárem o ohniskové vzdálenosti 5 cm když zdravé oko vidí výsledný obraz v nekonečnu, činí",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "250",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "500",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1500",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "2500",
+				"correct": false
+			}
+		]
+	}
+]

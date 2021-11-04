@@ -1,0 +1,258 @@
+[
+	{
+		"id": 512,
+		"category": 1,
+		"number": 512,
+		"text": "Uvažujte izochorický děj s ideálním plynem; značí-li p tlak, V objem a termodynamickou teplotu, vyberte správné tvrzení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "P1/T1 = P2/T2",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "p/T = konst.",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "V = konst.",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pV = konst.",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 513,
+		"category": 1,
+		"number": 513,
+		"text": "Zákon Charlesův platí pro ideální plyn v případu",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "izochorického děje",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "izobarického děje",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "izotermického děje",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "adiabatického děje",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 514,
+		"category": 1,
+		"number": 514,
+		"text": "Graf vyjadřující závislost tlaku daného počtu molů ideálního plynu na jeh objemu při izochorickém ději je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hyperbola",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "parabola",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "přímka rovnoběžná se svislou osou",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "přímka rovnoběžná s vodorovnou osou",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 515,
+		"category": 1,
+		"number": 515,
+		"text": "Uvažujte izobarický děj s ideálním plynem; značí-li p tlak, V objem a termodynamickou teplotu, vyberte správné tvrzení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "V/T = konst.",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "V2/T2 = V2/T2",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "p = konst.",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "PV = konst.",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 516,
+		"category": 1,
+		"number": 516,
+		"text": "Zákon Gay-Lussacův platí pro ideální plyn v případu",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "izotermického děje",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "izobarického děje",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "izochorického děje",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "adiabatického děje",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 517,
+		"category": 1,
+		"number": 517,
+		"text": "Graf vyjadřující závislost tlaku daného počtu molů ideálního plynu na jeh objemu při izobarickém ději je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hyperbola",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "parabola",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "přímka rovnoběžná s vodorovnou osou",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "přímka rovnoběžná se svislou osou",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 518,
+		"category": 1,
+		"number": 518,
+		"text": "Při izotermickém ději s ideálním plynem platí pro přírůstek vnitřní energie AU",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "AU = 0",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "AU = 0",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "AU = W",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "AU = -Q",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 519,
+		"category": 1,
+		"number": 519,
+		"text": "Ve válci s pístem stlačíme daný plyn za izotermických podmínek. Vnitřní energi plynu",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se zvýší",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se sníží",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se zvýší nebo sníží, v závislosti na povaze plynu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se nezmění",
+				"correct": true
+			}
+		]
+	}
+]

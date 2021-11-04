@@ -1,0 +1,258 @@
+[
+	{
+		"id": 793,
+		"category": 1,
+		"number": 793,
+		"text": "Přidáme-li do destilované vody malé množství kyseliny sírové",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vodivost se nezmění",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vodivost se znatelně zvýší",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vodivost se zvýší nepatrně",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vodivost se poněkud sníží",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 794,
+		"category": 1,
+		"number": 794,
+		"text": "Vedení elektrického proudu v kapalinách",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "není vázáno na přenos látek",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se zprostředkovává pouze přenosem oxoniových kationtů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se zprostředkovává přenosem kationtů a aniontů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se zprostředkovává přenosem elektronů v elektrolytu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 795,
+		"category": 1,
+		"number": 795,
+		"text": "Ke 2 elektrodám v elektrolytu je připojen zdroj stejnosměrného napětí, kter plynule zvyšujeme. Přitom",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "proud bude zpočátku stoupat podle Ohmova zákona",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "proud bude zpočátku stoupat, avšak nikoliv lineárně, jak udává Ohmův zákon",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "proud bude nulový až do dosažení tzv. rozkladného napětí a poté bude stoupat podl Ohmova zákona",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ani po dosažení rozkladného napětí se nebude závislost proudu na napětí řídit Ohmový zákonem",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 796,
+		"category": 1,
+		"number": 796,
+		"text": "Při elektrolýze roztoku kyseliny chlorovodíkové se",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "na katodě vylučuje plynný chlor",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "na anodě vylučuje plynný chlor",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "na katodě redukuje chloridový iont",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "na anodě redukuje chloridový iont",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 797,
+		"category": 1,
+		"number": 797,
+		"text": "Při elektrolýze roztoku měďnaté sole se",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "na katodě vylučuje kovová měď",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "na anodě vylučuje kovová měd'",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "na katodě oxiduje měďnatý iont",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "na anodě oxiduje měďnatý iont",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 798,
+		"category": 1,
+		"number": 798,
+		"text": "Které tvrzení týkající se průběhu elektrolýzy je správné?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kationt na anodě přijímá elektrony",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kationt na anodě odevzdává elektrony",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kationt na katodě odevzdává elektrony",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kationt na katodě přijímá elektrony",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 799,
+		"category": 1,
+		"number": 799,
+		"text": "Které tvrzení týkající se průběhu elektrolýzy je správné?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "aniont na anodě přijímá elektrony",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "aniont na anodě odevzdává elektrony",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "aniont na katodě přijímá elektrony",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "aniont na katodě odevzdává elektrony",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 800,
+		"category": 1,
+		"number": 800,
+		"text": "Jednotkou elektrochemického ekvivalentu látky je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mol. C-1",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kg. A-1",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kg. C-1",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mol. A-1",
+				"correct": false
+			}
+		]
+	}
+]

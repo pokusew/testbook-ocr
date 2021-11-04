@@ -1,11 +1,9 @@
--
-=
-170. Matematická formulace prvního termodynamického zákona zní
+470. Matematická formulace prvního termodynamického zákona zní
 A) AU = W+Q
 b) AU = W-Q
 c) AU = Q-W
 d) AU = -W-Q
-171. Při adiabatickém ději můžeme přírůstek vnitřní energie soustavy vyjádřit jako
+471. Při adiabatickém ději můžeme přírůstek vnitřní energie soustavy vyjádřit jako
 a) AU = Q
 b) AU = -
 C) AU = W
@@ -40,11 +38,7 @@ C) 1,8.1024
 d) 2,4.1024
 476. Jaká je přibližně hustota molekul ideálního plynu při tlaku 4 nPa a teplotě 16 °C?
 Pro Boltzmannovu konstantu použijte hodnotu 1,38.10-23 J.K1
-a) 109 m
--3
-b) 1010 m
--3
--3
-m
-c) 1011
-D) 1012 m-3
+a) 10^9 m^-3
+b) 10^10 m^-3
+c) 10^11 m^-3
+D) 10^12 m^-3

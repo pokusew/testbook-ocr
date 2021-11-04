@@ -1,7 +1,4 @@
-=
-=
-=
-1110Které z následujících tvrzení je správné?:
+1110. Které z následujících tvrzení je správné?:
 A) duté zrcadlo má skutečné ohnisko
 B) vypuklé zrcadlo má neskutečné ohnisko
 C) nejpřesnější vyobrazení vzniká paraxiálními paprsky

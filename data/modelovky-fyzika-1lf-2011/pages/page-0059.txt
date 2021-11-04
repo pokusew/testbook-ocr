@@ -31,8 +31,7 @@ c) pouze ionty a elektrony
 D) pouze elektricky neutrální částice
 423. Určete správné tvrzení:
 A) skupenství v prostoru elektrického oblouku (např. při sváření) lze označit jako plazma
-b) atomy v dvouatomové molekule plynu vykonávají pouze dva typy pohybu (translační
-a rotační)
+b) atomy v dvouatomové molekule plynu vykonávají pouze dva typy pohybu (translační a rotační)
 C) součet nábojů všech částic v daném souboru částic plazmatu (s ohledem na znaménko)
 je nulový
 D) plazma může a nemusí kromě elektricky nabitých částic obsahovat i elektricky neutrální

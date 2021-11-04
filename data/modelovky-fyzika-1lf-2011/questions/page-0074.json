@@ -1,0 +1,226 @@
+[
+	{
+		"id": 528,
+		"category": 1,
+		"number": 528,
+		"text": "Vyberte správné tvrzení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Poissonův zákon platí pro adiabatický děj s ideálním plynem",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Van der Waalsova rovnice má význam k lepšímu vystižení reálného chování plynů ne pomocí stavové rovnice ideálního plynu zejména při nízkých tlacích",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Charlesův zákon platí pro izochorický děj s ideálním plynem",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Boylův-Mariottův zákon platí pro izotermický děj s ideálním plynem",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 529,
+		"category": 1,
+		"number": 529,
+		"text": "Výraz W' = p AV udává práci konanou ideálním plynem při",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "izotermickém ději",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "izochorickém ději",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "izobarickém ději",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "adiabatickém ději",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 530,
+		"category": 1,
+		"number": 530,
+		"text": "Práce vykonaná ideálním plynem při izobarické expanzi při tlaku 500 kPa, př které se zvětšil objem ze 7 1 na 8 1 má hodnotu",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "5)",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "50 )",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "500)",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "5 k}",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 531,
+		"category": 1,
+		"number": 531,
+		"text": "Plyn uzavřený v nádobě s pohyblivým pístem vykonal při adiabatickém ději prác 500 J. Změna jeho vnitřní energie AU byla",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "AU = 500 )",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "AU = 1000)",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "AU = -500)",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "AU - 0]",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 532,
+		"category": 1,
+		"number": 532,
+		"text": "Práce vykonaná ideálním plynem při izobarické expanzi při tlaku 0,1 MPa byl 1 kJ. O kolik se zvětšil objem plynu?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,11",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "11",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "101",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1 h",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 533,
+		"category": 1,
+		"number": 533,
+		"text": "Práce vykonaná ideálním plynem při izobarické expanzi, při které se zvětšil jeh objem ze 7 1 na 8 l, byla 100 J. Jaký byl tlak plynu?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1 kPa",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "10 kPa",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "0,1 MPa",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1 MPa",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 534,
+		"category": 1,
+		"number": 534,
+		"text": "Budiž při jednom cyklu kruhového děje teplo převzaté pracovní látkou o ohřívače Q1, teplo předané pracovní látkou chladiči (z. Účinnost tohot kruhového děje vyjádříme jako",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "(Qı - Q2)/Q1",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "(Qz - Q.)/Q1",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Q1/Q2",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Q2/Q1",
+				"correct": false
+			}
+		]
+	}
+]

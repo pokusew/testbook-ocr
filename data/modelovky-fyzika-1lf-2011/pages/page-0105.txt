@@ -3,8 +3,8 @@ a) excitace
 B) rekombinace
 c) ionizace
 d) disociace
-771. Mezi výsledným elektrickým proudem v polovodiči I, elektronovým proudem I.
-a děrovým proudem la platí vztah
+771. Mezi výsledným elektrickým proudem v polovodiči I, elektronovým proudem I_e a
+děrovým proudem I_d platí vztah
 A) I = 1 + Id
 b) I = 1 - 1
 c) I = ld - 1

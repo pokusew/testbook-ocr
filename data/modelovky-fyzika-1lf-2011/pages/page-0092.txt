@@ -1,16 +1,16 @@
-567. K baterii o elektromotorickém napětí 4,5 V a vnitřním odporu 12 je připojena
-žárovka, kterou prochází proud 200 mA. Jaká je úřinnost obvodu?
+667. K baterii o elektromotorickém napětí 4,5 V a vnitřním odporu 12 je připojena
+žárovka, kterou prochází proud 200 mA. Jaká je účinnost obvodu?
 a) 75%
 b) 80 %
 c) 89 %
 D) 96 %
-568. Úplným vybitím akumulátoru by se přenesl celkový náboj 144 kС. Převed'te tuto
+668. Úplným vybitím akumulátoru by se přenesl celkový náboj 144 kС. Převed'te tuto
 hodnotu na obvykle udávanou hodnotu v Ah:
 A) 40 Ah
 b) 50 Ah
 c) 80 Ah
 d) 100 Ah
-569. Nezatížená automobilové baterie má napětí 12 V a vnitřní odpor 24 m 2. Jaký
+669. Nezatížená automobilové baterie má napětí 12 V a vnitřní odpor 24 m 2. Jaký
 proud by protékal při zkratu?
 A) 500 A
 b) 600 A

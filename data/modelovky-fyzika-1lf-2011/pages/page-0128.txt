@@ -1,7 +1,6 @@
-=
 955. Výkon transformátoru připojeného na sítové napětí 230 V je 4,6 kW. Jak
-velký proud prochází sekundární cívkou při transformačním poměru k = 0,4
-a účinnosti transformátoru 1?
+velký proud prochází sekundární cívkou při transformačním poměru k = 0,4 a
+účinnosti transformátoru 1?
 a) 10 A
 b) 20 A
 c) 30 A
@@ -41,7 +40,7 @@ B) 1 Hz
 c) 10 Hz
 d) 70 Hz
 962. Rozsah fáze harmonicky proměnné veličiny je od 0 do
-a) 1/2
-b)
-c) 31/2
-D) 211
+a) pi/2
+b) pi
+c) 3pi/2
+D) 2pi

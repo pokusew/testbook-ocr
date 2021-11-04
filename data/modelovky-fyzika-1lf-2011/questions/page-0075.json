@@ -1,0 +1,258 @@
+[
+	{
+		"id": 535,
+		"category": 1,
+		"number": 535,
+		"text": "Vyberte správné tvrzení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "práce získaná při jednom cyklu kruhového děje odpovídá rozdílu mezi teplem převzatý pracovní látkou od ohřívače a teplem předaným touto látkou chladiči",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "práce získaná při jednom cyklu kruhového děje odpovídá poklesu vnitřní energi pracovní látky během celého cyklu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "účinnost kruhového děje lze vyjádřit jako poměr mezi vykonanou prací a teple převzatým pracovní látkou od ohřívače",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "účinnost kruhového děje je menší než 1",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 536,
+		"category": 1,
+		"number": 536,
+		"text": "Vyberte správné tvrzení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "účinnost kruhového děje je rovna 1",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "účinnost kruhového děje je menší než 1",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "celková změna vnitřní energie pracovní látky po ukončení jednoho cyklu kruhového děj je nulová",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vhodnou volbou jednotlivých dílčích dějů kruhového cyklu lze veškeré teplo převzaté o ohřívače přeměnit v práci",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 537,
+		"category": 1,
+		"number": 537,
+		"text": "K zajištění chodu cyklicky pracujícího tepelného stroje",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "postačí vždy systém ohřívač – stroj",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "postačí systém ohřívač - stroj za předpokladu dostatečně vysoké teploty ohřívače",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "postačí systém stroj - chladič",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je nutný systém ohřívač - stroj - chladič",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 538,
+		"category": 1,
+		"number": 538,
+		"text": "Nemožnost sestrojení stroje zvaného “perpetuum mobile II. druhu\" vyplývá",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "z I. termodynamického zákona",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "z II. termodynamického zákona",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ze zákona zachování energie",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ze zákona zachování hmotnosti",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 539,
+		"category": 1,
+		"number": 539,
+		"text": "Mezi motory spalovací patří",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "parní turbína",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "plynová turbína",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zážehový motor",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "raketový motor",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 540,
+		"category": 1,
+		"number": 540,
+		"text": "Určete správné tvrzení: Z uvedených motorů - plynová turbína, proudový motor raketový motor",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "plynová turbína nepatří mezi motory spalovací",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "proudový motor nepatří mezi motory spalovací",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "raketový motor nepatří mezi motory spalovací",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "všechny uvedené typy patří mezi motory spalovací",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 541,
+		"category": 1,
+		"number": 541,
+		"text": "Zvolte alternativu, ve které jsou uvedené druhy tepelných motorů seřazeny dl účinnosti (od motoru s nejnižší účinností k motoru s nejvyšší účinnosti):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "čtyřdobý zážehový motor, parní stroj lokomotivy, raketový motor",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "čtyřdobý zážehový motor, raketový motor, parní stroj lokomotiva",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "parní stroj lokomotiva, čtyřdobý zážehový motor, raketový motor",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "parní stroj lokomotiva, raketový motor, čtyřdobý zážehový motor",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 542,
+		"category": 1,
+		"number": 542,
+		"text": "Mezi amorfní látky patří",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vosk",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kaučuk",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "soda",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "glukóza",
+				"correct": false
+			}
+		]
+	}
+]

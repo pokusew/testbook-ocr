@@ -1,0 +1,290 @@
+[
+	{
+		"id": 825,
+		"category": 1,
+		"number": 825,
+		"text": "Termoemise elektronů se využívá například",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v ionizační komoře",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v obrazové elektronce",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v termistoru",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v bimetalickém teploměru",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 826,
+		"category": 1,
+		"number": 826,
+		"text": "V obrazové elektronce osciloskopu připojujeme mezi svislé vychylovací desky",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "napětí, které chceme zobrazit",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pilové napětí",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "žhavící napětí",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "napětí sloužící k urychlení elektronů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 827,
+		"category": 1,
+		"number": 827,
+		"text": "Kolik vychylovacích desek je v obrazové elektronce osciloskopu?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "4 páry",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "2 desky",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "2 páry",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1 deska",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 828,
+		"category": 1,
+		"number": 828,
+		"text": "V obrazové elektronce osciloskopu jsou elektrony uvolňovány",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "fotoemisí z anody",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "termoemisí z anody",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "fotoemisí z katody",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "termoemisí z katody",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 829,
+		"category": 1,
+		"number": 829,
+		"text": "Stacionární magnetické pole je takové, jehož zdrojem je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pohybující se vodičs konstantním proudem",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "rovnoměrně rotující permanentní magnet",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nepohybující se vodič s proměnným proudem",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nepohybující se vodič s konstantním proudem",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 830,
+		"category": 1,
+		"number": 830,
+		"text": "Orientaci magnetických indukčních čar určuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Lenzovo pravidlo",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Ampérovo pravidlo pravé ruky",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Ampérovo pravidlo levé ruky",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Flemingovo pravidlo levé ruky",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 831,
+		"category": 1,
+		"number": 831,
+		"text": "Jednotkou magnetické indukce je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "tesla",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "weber",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "henry",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "siemens",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 832,
+		"category": 1,
+		"number": 832,
+		"text": "Homogenní magnetické pole je takové pole, jehož indukční čáry jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "soustředné kružnice",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "křivky se stejnou vzdáleností od sebe",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "rovnoběžné přímky",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kružnice se stejným poloměrem křivosti",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 833,
+		"category": 1,
+		"number": 833,
+		"text": "Směr vektoru magnetické indukce v určitém bodě magnetického pole je v tomt bodě",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "shodný se směrem souhlasně orientované tečny k indukční čáře",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "shodný se směrem opačně orientované tečny k indukční čáře",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kolmý k tečně indukční čáry",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nezávislý na směru tečny k indukční čář S",
+				"correct": false
+			}
+		]
+	}
+]

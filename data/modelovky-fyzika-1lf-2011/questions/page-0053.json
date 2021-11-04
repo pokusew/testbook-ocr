@@ -1,0 +1,258 @@
+[
+	{
+		"id": 369,
+		"category": 1,
+		"number": 369,
+		"text": "Uvažujeme daný objem plynu jako elektricky izolovanou soustavu. Ionizací tat soustava",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "získá záporný elektrický náboj",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "získá kladný elektrický náboj",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zůstane jako celek elektricky neutrální",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "získá náboj, jehož znaménko bude záviset na elektronegativitě daného plynu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 370,
+		"category": 1,
+		"number": 370,
+		"text": "Velikost elementárního náboje je 1,6x10-1°C. Jaký počet elementárních náboj odpovídá elektrickému náboji 5 C?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "3,125x1018",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "3,125x10-18",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "3,125x1019",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "3,125x10-19",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 371,
+		"category": 1,
+		"number": 371,
+		"text": "Coulombův zákon vyjadřuje velikost elektrické síly F působící mezi dvěm elektrickými náboji Qı a Qz ve vzdálenosti r jako",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Fe = KQ1Q2/r2",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "= kQ1Qz/r3",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Fe = kQ1Q2/r",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Fe = k(Q.)?(Q2)?/r?",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 372,
+		"category": 1,
+		"number": 372,
+		"text": "Změní-li se vzdálenost mezi dvěma danými bodovými elektrickými náboji z 1 d na 1 m, zmenší se velikost elektrické síly, kterou na sebe působí",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "10krát",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "100krát",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "01/10 původní hodnoty",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "01/100 původní hodnoty",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 373,
+		"category": 1,
+		"number": 373,
+		"text": "Relativní permitivita je pro vzduch nepatrně větší než 1, pro vodu 81. Dva dan ionty na sebe budou působit",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nejmenší silou ve vodě",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "největší silou ve vzduchu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nejmenší silou ve vakuu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ve všech prostředích stejnou silou",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 374,
+		"category": 1,
+		"number": 374,
+		"text": "Relativní permitivita vody je zhruba 80. Síla působící v roztoku mezi dvěm danými ionty v dané vzdálenosti se oproti situaci ve vakuu",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zvětší 80krát",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zmenší 80krát",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zmenší 1600krát",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nezmění",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 375,
+		"category": 1,
+		"number": 375,
+		"text": "Z definice elektrického potenciálu plyne následující vztah mezi jednotkami:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "V = J. C-1",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "V = J.C",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "V = 1-1.c",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "V = 1-1.C-1",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 376,
+		"category": 1,
+		"number": 376,
+		"text": "V homogenním elektrickém poli o intenzitě 8x105 V.m-1 je umístěn nábo 5 °C. Jak velkou silou působí pole na náboj?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1N",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "2N",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "3N",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "4N",
+				"correct": true
+			}
+		]
+	}
+]

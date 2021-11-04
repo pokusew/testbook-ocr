@@ -1,0 +1,258 @@
+[
+	{
+		"id": 1254,
+		"category": 1,
+		"number": 1254,
+		"text": "Ve vzorku radioaktivní látky klesá aktivita jako funkce času",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "lineárně",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "logaritmicky",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "exponenciálně",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kvadratick -",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1255,
+		"category": 1,
+		"number": 1255,
+		"text": "Rozpadová (přeměnová) konstanta à radionuklidu souvisí s jeho poločasem vztahem",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1 = (In 2)/T",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1 = (log 2)/T",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "λ.T =1",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1 = ln T",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1256,
+		"category": 1,
+		"number": 1256,
+		"text": "Mezi aktivitou A(t) a počtem N(t) jader existujících v čase t platí vztah",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "A(t) = 2.N(t)",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "A(t) = N(t)/2",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Aſt) - N(t) = 1",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "N(t) = A(t).",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1257,
+		"category": 1,
+		"number": 1257,
+		"text": "Zákon radioaktivní přeměny platí",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pouze pro přirozené radionuklidy",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pouze pro uměle vyrobené radionuklidy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pro přirozené i umělé radionuklidy",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pro štěpení jader 235U v atomovém reaktoru",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1258,
+		"category": 1,
+		"number": 1258,
+		"text": "Rychlost radioaktivního rozpadu radionuklidu ve vzorku látky",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "lze zvýšit spálením vzorku",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "lze snížit zmrazením vzorku",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "lze snížit vhodnou chemickou vazbou",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nelze ovlivnit",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1259,
+		"category": 1,
+		"number": 1259,
+		"text": "Které z následujících tvrzení je pravdivé? Účinky jaderného záření na lidsk zdraví lze snížit",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vhodně volenou stravou",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zvýšením vzdálenosti od zdroje záření",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zkrácením času potřebného pro provedení úkonu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vhodným stíněním",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1260,
+		"category": 1,
+		"number": 1260,
+		"text": "Vazební energii jádra můžeme určit z",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hmotnostního úbytku jádra",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "počtu nukleonů v jádře",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "počtu neutronů v jádře",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "poměru počtu protonů k počtu neutronů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1261,
+		"category": 1,
+		"number": 1261,
+		"text": "Pro vzájemné silové působení nukleonů a elektronů obalu atomu je rozhodujíc interakce",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "silná",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "slabá",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "elektromagnetická",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "gravitační",
+				"correct": false
+			}
+		]
+	}
+]

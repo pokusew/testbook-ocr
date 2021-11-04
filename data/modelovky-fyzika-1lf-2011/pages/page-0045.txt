@@ -1,5 +1,3 @@
-=
-...
 311. Skleněná a železná koule o stejném poloměru padají volným pádem z výšky h.
 Odpor vzduchu zanedbejte. Které tvrzení je správné?
 a) kinetické energie obou koulí budou při dopadu stejné
@@ -25,9 +23,7 @@ energie menší koule
 D) kinetická energie koule s větším poloměrem bude při dopadu 8x větší než kinetická
 energie menší koule
 314. Těleso o hmotnosti 5 kg padá volným pádem z výšky 20 m. Použijte pro gravitačn
-zrychlení hodnotu 10 m.s-2
-a odpor vzduchu zanedbejte. Které tvrzení je
-správné?
+zrychlení hodnotu 10 m.s-2 a odpor vzduchu zanedbejte. Které tvrzení je správné?
 A) jeho rychlost při dopadu je 20 m/s
 b) jeho rychlost při dopadu je přibližně 14 m/s
 C) jeho hybnost při dopadu je 100 kg.m.s-1

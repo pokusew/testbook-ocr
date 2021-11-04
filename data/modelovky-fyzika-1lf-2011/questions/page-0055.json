@@ -1,0 +1,258 @@
+[
+	{
+		"id": 385,
+		"category": 1,
+		"number": 385,
+		"text": "Které z následujících tvrzení o elektrickém napětí je správné?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "elektrické napětí je určeno svojí velikostí",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jednotka elektrického napětí je rovna poměru jednotek J/C",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "elektrické napětí mezi dvěma body o stejném potenciálu je nulové",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "elektrické napětí je základní jednotkou soustavy SI",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 386,
+		"category": 1,
+		"number": 386,
+		"text": "Značí-li Q náboj a U potenciál, můžeme kapacitu C vodiče vyjádřit vztahem",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "C= QU",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "C = U/Q",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "C = Q/U",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "C = Q/U?",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 387,
+		"category": 1,
+		"number": 387,
+		"text": "Značí-li Q náboj, U potenciál a C kapacitu, pak energii W elektrického pol nabitého kondenzátoru můžeme vyjádřit jako",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "W = CUP/2",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "W=Q/U",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "W = CU/2",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "W = QU/2",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 388,
+		"category": 1,
+		"number": 388,
+		"text": "Značí-li Q náboj, U potenciál a C kapacitu, pak energii W elektrického pol nabitého kondenzátoru můžeme vyjádřit jako",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "W = CUP/2",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "W = QU/2",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "W = CU/2",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "W = CU?",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 389,
+		"category": 1,
+		"number": 389,
+		"text": "Jednotkou kapacity v soustavě jednotek SI je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ampérhodina",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ampérsekunda",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "coulomb",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "farad",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 390,
+		"category": 1,
+		"number": 390,
+		"text": "Kondenzátor o kapacitě 400 uF se nábojem 8 mC nabije na potenciál",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "5V",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "10 V",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "20 V",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "50 V",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 391,
+		"category": 1,
+		"number": 391,
+		"text": "Vodič se nábojem 1 mC nabil na potenciál 50 V. Jakou má kapacitu?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "2 uF",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "5uF",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "20 uF",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "50 uF",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 392,
+		"category": 1,
+		"number": 392,
+		"text": "Který z následujících vztahů mezi jednotkami kapacity, náboje a potenciálu j správný?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "F = C.V-1",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "F = C-1.y",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "F = C.V",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "F= A.C-1",
+				"correct": false
+			}
+		]
+	}
+]

@@ -1,0 +1,258 @@
+[
+	{
+		"id": 636,
+		"category": 1,
+		"number": 636,
+		"text": "Relativní permitivita vody je 81,6. Nahradíme-li vakuum vodou, intenzit elektrického pole za jinak stejných podmínek se",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "značně zvýší",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "značně sníží",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nepatrně sníží",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nepatrně zvýší",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 637,
+		"category": 1,
+		"number": 637,
+		"text": "Relativní permitivita suchého vzduchu je 1,0006. Nahradíme-li vakuum suchý vzduchem, intenzita elektrického pole za jinak stejných podmínek se",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "značně zvýší",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "značně sníží",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nepatrně sníží",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nepatrně zvýší",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 638,
+		"category": 1,
+		"number": 638,
+		"text": "Relativní permitivita etanolu je 24, transformátorového oleje 2,2. Za jina stejných podmínek bude intenzita elektrického pole",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "podstatně vyšší v prostředí transformátorového oleje",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "podstatně vyšší v prostředí etanolu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nepatrně vyšší v prostředí transformátorového oleje",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nepatrně vyšší v prostředí etanolu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 639,
+		"category": 1,
+		"number": 639,
+		"text": "Síla působící mezi dvěma bodovými náboji",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nezávisí na prostředí",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je přímo úměrná permitivitě prostředí",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je nepřímo úměrná permitivitě prostředí",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je přímo úměrná čtverci permitivity prostředí",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 640,
+		"category": 1,
+		"number": 640,
+		"text": "Které z uvedených tvrzení je nesprávné?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "permitivita prostředí je bezrozměrné číslo (jednotkou je 1)",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "permitivita vakua je bezrozměrné číslo",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "síla působící mezi dvěma bodovými náboji je přímo úměrná permitivitě prostředí",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "síla působící mezi dvěma náboji je nepřímo úměrná permitivitě prostředí",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 641,
+		"category": 1,
+		"number": 641,
+		"text": "F.m-je jednotkou",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "permitivity prostředí",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "intenzity elektrického pole",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kapacity kondenzátoru",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "potenciálu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 642,
+		"category": 1,
+		"number": 642,
+		"text": "Které z následujících tvrzení je nesprávné:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "permitivita vody je větší než permitivita vakua",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "permitivita vody je menší než permitivita vakua",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "rozdíl mezi permitivitou vody a vakua je nepatrný",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "permitivita je konstanta z Coulombova zákona nezávislá na prostředí",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 643,
+		"category": 1,
+		"number": 643,
+		"text": "Intenzita elektrického pole v dielektriku je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nepřímo úměrná jeho permitivitě",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "přímo úměrná jeho permitivitě",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nepřímo úměrná čtverci permitivity",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "přímo úměrná čtverci permitivit -1",
+				"correct": false
+			}
+		]
+	}
+]

@@ -1,6 +1,5 @@
--1
 690. Jednotkou měrného elektrického odporu látky je
-Α) Ω.m
+A) Ω.m
 b) N.m-1
 c) Ω m2
 d) 2.m-2
@@ -8,7 +7,7 @@ d) 2.m-2
 Rezistivita mědi je 0,017x10-6 12.m.
 a) 0,212
 B) 0,5.12
-1.12
+c) 1.12
 d) 2.12.
 692. Jednotku měrné elektrické vodivosti (S.m-?) můžeme též vyjádřit jako
 a) 12.m

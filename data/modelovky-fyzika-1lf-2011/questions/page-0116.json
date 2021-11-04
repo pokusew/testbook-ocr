@@ -1,0 +1,226 @@
+[
+	{
+		"id": 857,
+		"category": 1,
+		"number": 857,
+		"text": "Rovnoměrnou změnou proudu v cívce o 0,5 A za 0,1 s se v cívce indukovalo napět 50 mV. Jakou má cívka indukčnost?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "5 mH",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "10 mH",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "20 mH",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "40 mH",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 858,
+		"category": 1,
+		"number": 858,
+		"text": "Na cívce o indukčnosti 200 mH bylo po dobu 0,1 s stálé indukované napět 100 mV. Jaká byla velikost změny proudu v cívce?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "20 mA",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "50 mA",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "60 mA",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "80 mA",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 859,
+		"category": 1,
+		"number": 859,
+		"text": "Cívkou, kterou prochází proud 5 A prochází magnetický tok 200 mWb. Jakou m cívka indukčnost?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "20 mH",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "40 mH",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "60 mH",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "80 mH",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 860,
+		"category": 1,
+		"number": 860,
+		"text": "Magnetický tok plochou o velikosti 50 cm orientovanou kolmo k indukční čárám magnetického pole o magnetické indukci 5 mt je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,025 mWb",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,25 mWb",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "25 mWb",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "250 mWb",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 861,
+		"category": 1,
+		"number": 861,
+		"text": "Jaká je energie magnetického pole cívky o indukčnosti 2 H, kterou procház proud 200 mA?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "4 m]",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "40 m]",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "400 m]",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "800 m]",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 862,
+		"category": 1,
+		"number": 862,
+		"text": "Energie magnetického pole cívky o indukčnosti 320 mH je 0,64 J. Jaký proud j prochází?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "2 mA",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "20 mA",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "200 mA",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "2 A",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 863,
+		"category": 1,
+		"number": 863,
+		"text": "Energie magnetického pole cívky, ktero prochází proud 200 mA je 5 m). Jakou m cívka indukčnost?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "25 mH",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "250 mH",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "10 mH",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "100 mH",
+				"correct": false
+			}
+		]
+	}
+]

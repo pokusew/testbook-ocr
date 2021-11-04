@@ -1,0 +1,258 @@
+[
+	{
+		"id": 377,
+		"category": 1,
+		"number": 377,
+		"text": "Velikost intenzity elektrického pole v místě, kde na bodový náboj 200 uC působ síla 2 Nje",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "103 V.m-1",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "104 V.m-1",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "105 V.m-1",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "106 V.m-1",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 378,
+		"category": 1,
+		"number": 378,
+		"text": "Jaký potenciál má vodič, jestliže k přemístění náboje 100 uC z místa nulovéh potenciálu na jeho povrch byla vykonána práce 1 J?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "100 V",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1 kV",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "10 kV",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "50 kV",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 379,
+		"category": 1,
+		"number": 379,
+		"text": "Jaká je velikost intenzity elektrického pole mezi dvěma rovnoběžnými vodivým deskami vzdálenými 20 cm, z nichž jedna má vzhledem ke druhé uzemněn desce potenciál 2 kV?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "102 V.m-1",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "103 V.m-1",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "104 V.m-1",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "105 V.m-1",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 380,
+		"category": 1,
+		"number": 380,
+		"text": "Poměr jednotek J/C odpovídá jednotce",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "proudu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "elektrické práce",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "intenzity elektrického pole",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "potenciálu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 381,
+		"category": 1,
+		"number": 381,
+		"text": "Elektrické napětí má stejnou jednotku jako",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "elektrický potenciál",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "elektrický náboj",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "intenzita elektrického pole",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "práce",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 382,
+		"category": 1,
+		"number": 382,
+		"text": "Elektrické napětí mezi dvěma body, které mají hodnoty potenciálu 60 Va 80 V je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "-20 V",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "20 V",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "140 V",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "-140 V",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 383,
+		"category": 1,
+		"number": 383,
+		"text": "Uvažujme dva body. Elektrický potenciál každého z nich je 40V. Elektrické napět mezi těmito body je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "40 V",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "80 V",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "OV",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "20 V",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 384,
+		"category": 1,
+		"number": 384,
+		"text": "Které z následujících tvrzení o elektrickém napětí je nesprávné?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "elektrické napětí je vektorovou veličinou",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "elektrické napětí mezi dvěma body je rovno součtu potenciálů těchto bodů",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "elektrické napětí má stejnou jednotku jako elektrický potenciál",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jednotkou elektrického napětí je ampér",
+				"correct": true
+			}
+		]
+	}
+]

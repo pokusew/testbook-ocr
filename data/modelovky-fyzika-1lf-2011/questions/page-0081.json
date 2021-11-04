@@ -1,0 +1,226 @@
+[
+	{
+		"id": 581,
+		"category": 1,
+		"number": 581,
+		"text": "Síla, kterou je držena kapka kapaliny s povrchovým napětím o u ústí kapilár o poloměru r těsně před svým odpadnutím, je rovna",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "2nro",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Trºo",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "/2tr",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "c/TTr Trº/mg",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 582,
+		"category": 1,
+		"number": 582,
+		"text": "Z hmotnosti m kapky, která odpadla působením vlastní tíhy od ústí kapilár s poloměrem r (gje gravitační zrychlení) lze vypočítat povrchové napětí jako",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "27tr/mg",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mg/2nr",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nr",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mg/Trở",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 583,
+		"category": 1,
+		"number": 583,
+		"text": "Povrchové napětí vody je 0,073 N.m-1, povrchové napětí etanolu 0,022 N.m-1.C lze tvrdit o hmotnostech kapek vody a etanolu, které odpadávají z ústí skleněn kapiláry daného průměru?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nelze srovnat bez údaje o hustotě",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nelze srovnat bez údaje o průměru kapiláry",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kapka etanolu má větší hmotnost než kapka vody",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kapka vody má větší hmotnost než kapka etanolu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 584,
+		"category": 1,
+		"number": 584,
+		"text": "Uvažujeme-li velikost povrchového napětí vody 0,073 N.m-4 pak síla, kterou j držena kapka vody u ústí kapiláry o průměru 1 mm těsně před svým odpadnutím je přibližně rovna",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "29 UN",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "57 HN",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "115 uN",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "229 uN",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 585,
+		"category": 1,
+		"number": 585,
+		"text": "Od ústí kapiláry s průměrem 1 mm odpadlo působením vlastní tíhy 100 kape kapaliny o celkové hmotnosti 2,3 g. Jaké bylo přibližně povrchové napět kapaliny? Počítejte g = 10 m.s-2.",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1,46 N.m-1",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,146 N.m-1",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "0,073 N.m-1",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "0,037 N.m-1",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 586,
+		"category": 1,
+		"number": 586,
+		"text": "Úhel, který svírá povrch vody s povrchem stěny nádoby (stykový úhel) je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "větší než 1/2",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "větší než tt",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "menší než 1/2",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "i",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 587,
+		"category": 1,
+		"number": 587,
+		"text": "Pro úhel O, který svírá povrch rtuti s povrchem stěny nádoby (stykový úhel) platí",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0 < </2",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "A>",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "< 1/2",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1/2 << TT",
+				"correct": true
+			}
+		]
+	}
+]

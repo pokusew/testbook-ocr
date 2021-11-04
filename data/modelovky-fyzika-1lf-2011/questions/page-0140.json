@@ -1,0 +1,258 @@
+[
+	{
+		"id": 1051,
+		"category": 1,
+		"number": 1051,
+		"text": "Sonar měří hloubku moře. Odražený ultrazvukový signál se vrátil k lodi za 3 s Jaká je hloubka? Uvažujte rychlost zvuku ve vodě 1440 m/s.",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "540 m",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1080 m",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "2160 m",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "3240 m",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1052,
+		"category": 1,
+		"number": 1052,
+		"text": "Siréna lokomotivy vydává zvuk o frekvenci 1000 Hz. Měřič frekvence u trat naměřil frekvenci 944 Hz. Uvažujte rychlost zvuku 340 m.s-1. Lokomotiva s vzdaluje rychlostí přibližně",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "15 m/s",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "20 m/s",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "25 m/s",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "30 m/s",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1053,
+		"category": 1,
+		"number": 1053,
+		"text": "Siréna lokomotivy vydává zvuk o frekvenci 1000 Hz. Měřič frekvence u trat naměřil frekvenci 1056 Hz. Uvažujte rychlost zvuku 340 m.s-1. Lokomotiva s přibližuje rychlostí přibližně",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "12 m/s",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "18 m/s",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "23 m/s",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "25 m/s",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1054,
+		"category": 1,
+		"number": 1054,
+		"text": "Watt na metr čtvereční je jednotka",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "tlaku",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "intenzity zvuku",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "energie",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "výkonu plošného generátoru zvuku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1055,
+		"category": 1,
+		"number": 1055,
+		"text": "Ultrazvuk je zvuk",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "o frekvencích nižších než 1 kHz",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "o frekvencích vyšších než 20 kHz",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "s rychlostí šíření ve vzduchu vyšší než 340 m/s",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "který má vyšší frekvenci než slyšitelný zvuk, ale ve vzduchu se šíří stejnou rychlostí",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1056,
+		"category": 1,
+		"number": 1056,
+		"text": "Prahu slyšení tónu o frekvenci 1 kHz odpovídá intenzita zvuku",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "10-12 W.m-2",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "10-11 W.m",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "10-10 W.m-2",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "10-9 W.m-2",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1057,
+		"category": 1,
+		"number": 1057,
+		"text": "Intenzitě zvuku 10-6 W.m-? s frekvencí 1 kHz odpovídá hladina intenzity",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "60 dB",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "70 dB",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "80 dB",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "90 d - -2",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1058,
+		"category": 1,
+		"number": 1058,
+		"text": "Hladině 90 dB zvuku s frekvencí 1 kHz odpovídá intenzita zvuku",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "10-3 W.m-",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "10-4 W.m-2",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "10-5 W.m",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "10-6 W.m, - -2",
+				"correct": false
+			}
+		]
+	}
+]

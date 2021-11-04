@@ -1,0 +1,290 @@
+[
+	{
+		"id": 1042,
+		"category": 1,
+		"number": 1042,
+		"text": "Šíří-li se vlnění z prostředí s rychlostí šíření v_1 do prostředí s rychlostí šíření v_2 je-li v_1 < v_2, pak na rozhraní",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dochází k odrazu s opačnou fází",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dochází k odrazu se stejnou fází",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dochází střídavě k odrazu se stejnou a opačnou fází",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nedochází k odrazu vůbec",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1043,
+		"category": 1,
+		"number": 1043,
+		"text": "Na volném konci pružné hadice nastává odraz vlnění",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se stejnou fází",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "sopačnou fází",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "s fází rt/4",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "s fází 1/2",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1044,
+		"category": 1,
+		"number": 1044,
+		"text": "Které z následujících tvrzení je pro stojaté vlnění správné?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vzdálenost sousedních kmiten je rovna 1/2",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vzdálenost sousedních uzlů je rovna 1/2",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "polohy kmiten a uzlů jsou navzájem posunuty o 1/2",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "polohy kmiten a uzlů jsou navzájem posunuty o 1/4",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1045,
+		"category": 1,
+		"number": 1045,
+		"text": "Které z následujících tvrzení je správné?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "stojatým vlněním se nepřenáší mechanická energie",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "postupným vlněním se přenáší mechanická energie",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "stojatým vlněním se přenáší mechanická energie",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "při postupném netlumeném vlnění kmitají body s různou amplitudou",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1046,
+		"category": 1,
+		"number": 1046,
+		"text": "Vyšší harmonické frekvence jsou",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "frekvence vyšší než frekvence komorního a",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "frekvence vyšší než dvojnásobek komorního a",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "celočíselné násobky základní frekvence",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "celočíselné podíly základní frekvence",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1047,
+		"category": 1,
+		"number": 1047,
+		"text": "Které z následujících tvrzení je správné?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v izotropním prostředí je fázová rychlost ve všech směrech stejná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vanizotropním prostředí je fázová rychlost v různých směrech různá",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v izotropním prostředí se vlnění šíří v kulových vinoplochách",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "směr šíření vlnění v izotropním prostředí je určen tečnou k vinoploše",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1048,
+		"category": 1,
+		"number": 1048,
+		"text": "Zákon lomu vlnění na rovinném rozhraní je možné popsat vztahem",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "sina.sinB = V1. V2",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "sina.sinB = n",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "sina /sinB = v1/v2.",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "sina /sinB = V2/V1",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1049,
+		"category": 1,
+		"number": 1049,
+		"text": "Při šíření postupného vlnění",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kmitají všechny body se stejnou amplitudou",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nedochází k přenosu mechanické energie",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je fázová rychlost v izotropním prostředí v různých směrech stejná",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je směr šíření určen směrem tečny k vlnoploše",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1050,
+		"category": 1,
+		"number": 1050,
+		"text": "Mechanické vlnění s frekvencí menší než 16 Hz",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nazýváme ultrazvuk",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nazýváme infrazvuk",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nemůže vznikat",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je neslyšiteln W",
+				"correct": true
+			}
+		]
+	}
+]

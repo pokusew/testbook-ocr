@@ -15,7 +15,6 @@ a) stejná
 b) n-krát větší
 c) (n-1)-krát větší
 D) n-krát menší
-3
 1162. Je-li s dráha světla v prostředí o indexu lomu n, pak optická dráha 1 je definována
 vztahem
 A) 1 = n.s
@@ -34,7 +33,7 @@ C) odráží částečně se stejnou fází
 d) odráží se 100% účinností
 1165. Při šíření světelné vlny odpovídá fázovému rozdílu i rad dráhový rozdíl
 a) λ
-Β) λ/2
+B) λ/2
 c) λ/4
 d) 1/8
 1166. Koherentní světelné vlny se interferencí zesilují, mají-li dráhový rozdíl roven

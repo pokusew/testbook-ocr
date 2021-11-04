@@ -1,0 +1,258 @@
+[
+	{
+		"id": 1084,
+		"category": 1,
+		"number": 1084,
+		"text": "Značí-li c rychlost světla ve vakuu a v jeho rychlost v daném prostředí, pa absolutní index lomu n světla",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je vždy menší než 1",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je definován vztahem n = v/c",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jeho hodnota pro dané prostředí je závislá na barvě světla",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jeho hodnota pro dané prostředí je závislá na frekvenci světla",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1085,
+		"category": 1,
+		"number": 1085,
+		"text": "Viditelné světlo má rozsah frekvencí",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "(3,8 až 7,7). 1013 Hz",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "(3,8 až 7,7). 1014 Hz",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "(3,8 až 7,7). 1015 Hz",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "(3,8 až 7,7). 1016 Hz",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1086,
+		"category": 1,
+		"number": 1086,
+		"text": "Viditelné světlo má rozsah vinových délek",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "3,9 až 7,9 um",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "39 až 79 um",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "0,39 až 0,79 um",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "39 až 79 nm",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1087,
+		"category": 1,
+		"number": 1087,
+		"text": "Světlo sodíkové výbojky má ve vzduchu vlnovou délku 590 nm. Jaká je jeh vlnová délka ve vodě? Index lomu vody je 1,33.",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "424 nm",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "434 nm",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "444nm",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "454 nm",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1088,
+		"category": 1,
+		"number": 1088,
+		"text": "Dvě koherentní vlny světla sodíkové výbojky o vlnové délce 590 nm se setkaj v jednom bodě. Jejich dráhový rozdíl je 0,0295 mm. Zvolte správnou odpovědi",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dojde k interferenčnímu minimu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dojde k interfernčnímu maximu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nedojde k interferenci",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná odpověd' není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1089,
+		"category": 1,
+		"number": 1089,
+		"text": "Absolutní index lomu",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je bezrozměrná veličina",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "má rozměr m.s-1",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "má rozměr rad",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "má rozměr rad-1",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1090,
+		"category": 1,
+		"number": 1090,
+		"text": "Index lomu vakua je pro žluté světlo",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "menší než pro červené",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "stejný jako pro červené",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "větší než pro červené",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "větší než 1",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1091,
+		"category": 1,
+		"number": 1091,
+		"text": "Index lomu daného skla je pro žluté světlo",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "menší než pro červené",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "větší než pro červené",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "stejný jako pro červené",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "větší než \"",
+				"correct": true
+			}
+		]
+	}
+]

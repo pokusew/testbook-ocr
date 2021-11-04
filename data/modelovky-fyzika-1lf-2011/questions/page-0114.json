@@ -1,0 +1,258 @@
+[
+	{
+		"id": 842,
+		"category": 1,
+		"number": 842,
+		"text": "Vnikne-li částice s nábojem do homogenního magnetického pole kolm kindukčním čarám, pohybuje se dále po",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "spirále",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "přímce souhlasné se směrem indukčních čar",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "přímce kolmé na směr indukčních čar",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kružnici",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 843,
+		"category": 1,
+		"number": 843,
+		"text": "Na volnou částici s nábojem e pohybující se v homogenním magnetickém pol o indukci B rychlostí v (vektory rychlosti a indukce svírají úhel a) působí síla F daná vztahem:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Fm = ev/(Bsina)",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Fm = evB/sina",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Fm evBsina",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Fn = e/(vBsina)",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 844,
+		"category": 1,
+		"number": 844,
+		"text": "Příčinou vzniku Hallova napětí je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "elektrická síla",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "magnetická síla",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "gravitační síla",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nehomogenita vodiče",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 845,
+		"category": 1,
+		"number": 845,
+		"text": "Které z následujících tvrzení je správné? Schopnost magnetického pole ovlivni tvar trajektorie elektricky nabité částice je využita v",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "solenoidu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "televizní obrazovce",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "cyklotronu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Wehneltově trubici",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 846,
+		"category": 1,
+		"number": 846,
+		"text": "Poloměr kruhové trajektorie nabité částice v homogenním magnetickém poli je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "přímo úměrný náboji",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "přímo úměrný magnetické indukci",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "přímo úměrný rychlosti částice",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "závislý na hmotnosti částice",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 847,
+		"category": 1,
+		"number": 847,
+		"text": "Ampérův magnetický moment m rovinného závitu o ploše Ss proudem I j definován vztahem:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "m = IS",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "m = I/S",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "m = - 12S",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "m = IS",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 848,
+		"category": 1,
+		"number": 848,
+		"text": "Magnetický moment lze vyjádřit v jednotkách",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "A.m?",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "A.m-2",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "A.m",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "J.T-1",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 849,
+		"category": 1,
+		"number": 849,
+		"text": "Přímým vodičem délky 50 cm orientovaným kolmo k indukčním čárá homogenního magnetického pole o magnetické indukci 20 mT prochází prou 5 A. Jaká je velikost magnetické síly, která na něj působí?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,05 N",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,1 N",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "0,15 N",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "0,2 N",
+				"correct": false
+			}
+		]
+	}
+]

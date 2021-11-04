@@ -1,0 +1,258 @@
+[
+	{
+		"id": 1110,
+		"category": 1,
+		"number": 1110,
+		"text": "Které z následujících tvrzení je správné?:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "duté zrcadlo má skutečné ohnisko",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vypuklé zrcadlo má neskutečné ohnisko",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nejpřesnější vyobrazení vzniká paraxiálními paprsky",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "rovina obsahující optickou osu s ohniskem je ohnisková rovina",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1111,
+		"category": 1,
+		"number": 1111,
+		"text": "Zobrazovací rovnice kulového zrcadla má tvar",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1/a + 1/a' = r/2",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1/a - 1/a' = r/2",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1/a = 1/a' = 1/f",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1/a + 1/a' = 2/r",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1112,
+		"category": 1,
+		"number": 1112,
+		"text": "Obrazy získané pomocí vypuklého zrcadla jsou vždy",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zvětšené",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zmenšené",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "převrácené",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "skutečné",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1113,
+		"category": 1,
+		"number": 1113,
+		"text": "Pro příčné zvětšení Z kulového zrcadla platí",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Z=y/y",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Z-a'/a",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Z = -f/(a - f)",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Z = -(a - f)/",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1114,
+		"category": 1,
+		"number": 1114,
+		"text": "Optická mohutnost čočky je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "tloušťka čočky",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "tloušťka čočky násobená její hustotou",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "převrácená hodnota ohniskové vzdálenosti čočky",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ohnisková vzdálenost dělená poloměrem křivosti čočky",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1115,
+		"category": 1,
+		"number": 1115,
+		"text": "Jaké je zvětšení lupy s ohniskovou délkou 5 cm?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "5",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "10",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "15",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "20",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1116,
+		"category": 1,
+		"number": 1116,
+		"text": "Jak velký je optický interval mikroskopu se zvětšením 400, jestliže ohniskov vzdálenost objektivu je 2 mm a okuláru 5 cm?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "4 cm",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "8 cm",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "16 cm",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "20 cm",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1117,
+		"category": 1,
+		"number": 1117,
+		"text": "Určete ohniskovou vzdálenost tenké spojky, kterou se předmět vzdálený 20 c před čočkou zobrazil ve vzdálenosti 60 cm.",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "5 cm",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "10 cm",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "15 cm",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "20 cm",
+				"correct": false
+			}
+		]
+	}
+]

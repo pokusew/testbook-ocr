@@ -42,11 +42,7 @@ d) 1/8 T
 945. V cívce s N závity a plochou závitu S rotující v homogenním magnetickém poli
 o indukci B s úhlovou frekvencí w je amplituda indukovaného napětí Um dána
 vztahem
-a) Um = BS/N
-b) U NBS
-NBSW
-d) Um = BSw/N
--
-m
-C) Um
-=
+a) U_m = BS/N
+b) U_m = NBS
+C) U_m = BSomega
+d) U_m = BSomega/N

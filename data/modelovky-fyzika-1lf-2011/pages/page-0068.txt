@@ -1,11 +1,10 @@
-a
-184. Jaký je přibližný počet molekul v 102 g sirovodíku (použijte přibližných hodnot
+484. Jaký je přibližný počet molekul v 102 g sirovodíku (použijte přibližných hodnot
 Avogadrovy konstanty 6.1023mol-1 a relativních hmotností vodíku 1 a síry 32)?
 a) 1023
 b) 0,45.1024
 c) 0,9.1024
 D) 1,8.1024
-185. Jakou přibližnou hmotnost má 3.1024 molekul kyseliny sírové (použijte
+485. Jakou přibližnou hmotnost má 3.1024 molekul kyseliny sírové (použijte
 přibližných hodnot Avogadrovy konstanty 6.1023 mol"? a relativních atomových
 hmotností vodíku 1, síry 32 a kyslíku 16)?
 a) 0,400 kg
