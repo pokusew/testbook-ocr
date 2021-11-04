@@ -3,8 +3,9 @@
 import path from 'path';
 import fs from 'fs/promises';
 
+import chalk from 'chalk';
 import util from 'util';
-import { isDefined } from './common';
+import { isDefined, prefixLines, printErr, printLineErr } from './common';
 
 util.inspect.defaultOptions.depth = Infinity;
 
@@ -59,22 +60,58 @@ const appendContinuationLine = (line1: string, line2: string) => {
 
 };
 
+class ParseError extends Error {
+
+	public readonly context: [string, any][];
+	public readonly position: [string, any][];
+
+	constructor(message: string, context?: [string, any][], position?: [string, any][]) {
+		super(message);
+		Error.captureStackTrace(this, this.constructor);
+		this.name = 'ParseError';
+		this.context = context ?? [];
+		this.position = position ?? [];
+	}
+
+	private static recordToPrettyString(record: [string, any][]) {
+
+		let text = '';
+
+		record.forEach(([key, value]) => {
+			text += `${key}: ${util.inspect(value, { colors: true })}\n`;
+		});
+
+		return text + '\n';
+
+	}
+
+	toPrettyString() {
+		return `${chalk.bgRed('  ParseError  ')}\n\n`
+			+ `${chalk.red(this.message)}\n\n`
+			+ `${chalk.cyan.bold('position:')}\n`
+			+ ParseError.recordToPrettyString(this.position)
+			+ `${chalk.magenta.bold('context:')}\n`
+			+ ParseError.recordToPrettyString(this.context);
+	}
+
+}
+
 class QuestionsParser {
 
-	categoryId: number = 0;
-	questionId: number = 0;
+	private categoryId: number = 0;
+	private questionId: number = 0;
 
-	currentCategory: CategoryPartial | undefined;
-	currentQuestion: QuestionPartial | undefined;
-	currentChoice: ChoicePartial | undefined;
+	private currentCategory: CategoryPartial | undefined;
+	private currentQuestion: QuestionPartial | undefined;
+	private currentChoice: ChoicePartial | undefined;
 
-	categories: CategoryPartial[] = [];
-	questions: QuestionPartial[] = [];
+	private categories: CategoryPartial[] = [];
+	private questions: QuestionPartial[] = [];
 
-	numChoicesPerQuestion: number = 4;
-	allowedChoicesNames: Set<string>;
-	ensureChoicesCorrectOrder: boolean;
-	nextChoiceName: (name: string | undefined) => string | undefined;
+	private readonly numChoicesPerQuestion: number = 4;
+	private readonly allowedChoicesNames: Set<string>;
+	private readonly ensureChoicesCorrectOrder: boolean;
+	private readonly nextChoiceName: (name: string | undefined) => string | undefined;
 
 	constructor() {
 
@@ -99,11 +136,12 @@ class QuestionsParser {
 
 	}
 
-	parseLines(lines: string[]) {
+	public parseLines(lines: string[]) {
 
 		for (let i = 0; i < lines.length; i++) {
 
 			const line = lines[i];
+
 
 			if (line.startsWith('###')) {
 				console.log(`  > skipping comment line ${i}`);
@@ -118,30 +156,54 @@ class QuestionsParser {
 				continue;
 			}
 
-			if (CATEGORY_HEADING_PATTERN.test(line)) {
-				this.newCategory(line);
-				continue;
+			try {
+
+				if (CATEGORY_HEADING_PATTERN.test(line)) {
+					this.newCategory(line);
+					continue;
+				}
+
+				if (this.tryQuestion(line)) {
+					continue;
+				}
+
+				if (this.tryChoice(line)) {
+					continue;
+				}
+
+				if (this.tryContinuation(line)) {
+					continue;
+				}
+
+			} catch (err) {
+
+				// add details
+				if (err instanceof ParseError) {
+					err.position.push(['line', i]);
+					err.context.push(['line', line]);
+					err.context.push(['currentQuestion', this.currentQuestion]);
+				}
+
+				// rethrow
+				throw err;
+
 			}
 
-			if (this.tryQuestion(line)) {
-				continue;
-			}
-
-			if (this.tryChoice(line)) {
-				continue;
-			}
-
-			if (this.tryContinuation(line)) {
-				continue;
-			}
-
-			console.error(`no matching parser for line number ${i}: '${line}'`);
-			throw new Error(`no matching parser for line number ${i}`);
+			throw new ParseError(
+				`no matching parser`,
+				[
+					['line', line],
+					['currentQuestion', this.currentQuestion],
+				],
+				[
+					['line', i],
+				],
+			);
 
 		}
 	}
 
-	tryContinuation(line: string): boolean {
+	private tryContinuation(line: string): boolean {
 
 		if (isDefined(this.currentChoice)) {
 			this.currentChoice.text = appendContinuationLine(this.currentChoice.text, line);
@@ -157,7 +219,7 @@ class QuestionsParser {
 
 	}
 
-	tryChoice(line: string): boolean {
+	private tryChoice(line: string): boolean {
 
 		if (!isDefined(this.currentQuestion)) {
 			return false;
@@ -176,8 +238,7 @@ class QuestionsParser {
 		const name = match[1];
 
 		if (!isDefined(name)) {
-			console.error('cannot parse choice name:', line);
-			throw new Error('cannot parse choice name');
+			throw new ParseError('cannot parse choice name', [['line', line]]);
 		}
 
 		const strippedLine = line.slice(match[0].length);
@@ -188,23 +249,20 @@ class QuestionsParser {
 
 	}
 
-	newChoice(prefix: string, startingText: string) {
+	private newChoice(prefix: string, startingText: string) {
 
 		if (!isDefined(this.currentQuestion)) {
-			console.error('no question:', startingText);
-			throw new Error('new choice but no question');
+			throw new ParseError('new choice but no question', [['startingText', startingText]]);
 		}
 
 		if (this.currentQuestion.choices.length >= this.numChoicesPerQuestion) {
-			console.error('numChoicesPerQuestion exceeded:', this.currentQuestion);
-			throw new Error('numChoicesPerQuestion exceeded');
+			throw new ParseError('numChoicesPerQuestion exceeded');
 		}
 
 		const name = prefix.toLowerCase();
 
 		if (!this.allowedChoicesNames.has(name)) {
-			console.error(`invalid choice name '${name}':`, this.currentQuestion);
-			throw new Error(`invalid choice name '${name}'`);
+			throw new ParseError(`invalid choice name '${name}'`);
 		}
 
 		if (this.ensureChoicesCorrectOrder) {
@@ -212,8 +270,7 @@ class QuestionsParser {
 			const expectedName = this.nextChoiceName(this.currentChoice?.name);
 
 			if (name !== expectedName) {
-				console.error(`name (${name}) !== expectedName (${expectedName}):`, this.currentQuestion);
-				throw new Error(`name (${name}) !== expectedName (${expectedName})`);
+				throw new ParseError(`unexpected choice ${name}, expected ${expectedName}`);
 			}
 
 		}
@@ -229,7 +286,7 @@ class QuestionsParser {
 
 	}
 
-	tryQuestion(line: string): boolean {
+	private tryQuestion(line: string): boolean {
 
 		// // check previous question
 		// // maybe this is rather continuation than new question
@@ -247,7 +304,7 @@ class QuestionsParser {
 
 		if (!Number.isInteger(number)) {
 			console.error('cannot parse question number:', line);
-			throw new Error('cannot parse question number');
+			throw new ParseError('cannot parse question number');
 		}
 
 		const strippedLine = line.slice(match[0].length);
@@ -258,21 +315,19 @@ class QuestionsParser {
 
 	}
 
-	newQuestion(number: number, startingText: string) {
+	private newQuestion(number: number, startingText: string) {
 
 		// check previous question
 		if (isDefined(this.currentQuestion)) {
 
 			if (this.currentQuestion.choices.length !== this.numChoicesPerQuestion) {
-				console.error('numChoicesPerQuestion violated:', this.currentQuestion);
-				throw new Error('numChoicesPerQuestion violated');
+				throw new ParseError('numChoicesPerQuestion violated');
 			}
 
 		}
 
 		if (!isDefined(this.currentCategory)) {
-			console.error('no category:', startingText);
-			throw new Error('new question but no category');
+			throw new ParseError('new question but no category', [['startingText', startingText]]);
 		}
 
 		this.currentQuestion = {
@@ -283,6 +338,12 @@ class QuestionsParser {
 			choices: [],
 		};
 
+		if (this.currentQuestion.id !== this.currentQuestion.number) {
+			throw new ParseError(
+				`unexpected question number ${this.currentQuestion.number}, expected ${this.currentQuestion.id}`,
+			);
+		}
+
 		this.questions.push(this.currentQuestion);
 
 		this.currentCategory.numQuestions++;
@@ -291,7 +352,7 @@ class QuestionsParser {
 
 	}
 
-	newCategory(name) {
+	private newCategory(name: string) {
 		name = name.trim();
 		console.log(`  adding category '${name}'`);
 		this.currentCategory = {
@@ -302,23 +363,19 @@ class QuestionsParser {
 		this.categories.push(this.currentCategory);
 	}
 
-	flushQuestions() {
+	public flushQuestions() {
 		const questions = this.questions;
 		this.questions = [];
 		return questions;
 	}
 
-	getCategories() {
+	public getCategories() {
+		// note: it may be better to return deep copy to prevent accidental mutations
 		return this.categories;
 	}
 
-	getTotalNumQuestions(): number {
+	public getTotalNumQuestions(): number {
 		return this.questionId;
-	}
-
-	isClean() {
-		// TODO
-		return this.questions.length === 0;
 	}
 
 }
@@ -363,7 +420,17 @@ const run = async (pagesDir: string, questionsDir: string) => {
 
 		const lines = pageString.split('\n');
 
-		parser.parseLines(lines);
+		try {
+			parser.parseLines(lines);
+		} catch (err) {
+			if (err instanceof ParseError) {
+				err.position.unshift(
+					['file', file],
+					['page', pageNumber],
+				);
+			}
+			throw err;
+		}
 
 		const questions = parser.flushQuestions();
 
@@ -401,6 +468,15 @@ run(process.argv[2], process.argv[3])
 		process.exit(0);
 	})
 	.catch(err => {
-		console.error('an error occurred while running script', err);
+
+		if (err instanceof ParseError) {
+			printLineErr();
+			printErr(prefixLines(err.toPrettyString(), '  '));
+			printLineErr();
+		} else {
+			console.error('an error occurred while running script', err);
+		}
+
 		process.exit(1);
+
 	});
