@@ -24,6 +24,9 @@ const run = async (ocrOutputDir: string, pagesDir: string) => {
 
 	const jsonFiles = files.filter(name => name.endsWith('.json'));
 
+	// ensure output dir exists or create it (including any parent dirs if needed)
+	await fs.mkdir(pagesDir, { recursive: true });
+
 	for (const file of jsonFiles) {
 
 		console.log(`processing ${file}`);

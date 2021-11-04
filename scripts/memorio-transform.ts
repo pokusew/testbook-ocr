@@ -75,6 +75,9 @@ const run = async (questionsDir: string, memorioOutputDir: string) => {
 
 	const outputFile = path.join(memorioOutputDir, 'questions.json');
 
+	// ensure output dir exists or create it (including any parent dirs if needed)
+	await fs.mkdir(memorioOutputDir, { recursive: true });
+
 	await fs.writeFile(outputFile, toPrettyJSON(transformedQuestions));
 
 	console.log(`> written ${outputFile}`);

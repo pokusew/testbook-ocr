@@ -344,6 +344,9 @@ const run = async (pagesDir: string, questionsDir: string) => {
 
 	const parser = new QuestionsParser();
 
+	// ensure output dir exists or create it (including any parent dirs if needed)
+	await fs.mkdir(questionsDir, { recursive: true });
+
 	for (const file of pageFiles) {
 
 		console.log(`processing ${file}`);
