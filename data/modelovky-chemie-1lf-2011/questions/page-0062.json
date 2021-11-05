@@ -1,0 +1,290 @@
+[
+	{
+		"id": 508,
+		"category": 1,
+		"number": 508,
+		"text": "Glykoproteiny obsahují ve své molekule:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "polypeptidovou složku s navázaným glykolem",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "bílkovinné složky i sacharidové složky",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "polypeptidový řetězec s navázaným glycerolem",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "peptidové i glykosidové vazby",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 509,
+		"category": 1,
+		"number": 509,
+		"text": "Kyselina glukonová může vzniknout:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hydrolýzou glukosy",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "redukcí glucitolu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "oxidací glukosy",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "redukcí glukosy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 510,
+		"category": 1,
+		"number": 510,
+		"text": "Označte nesprávné/nesprávná tvrzení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "molekula laktosy obsahuje galaktosu a glukosu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "molekula sacharosy obsahuje gulosu a fruktosu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "maltosa obsahuje dvě molekuly glukosy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "molekula sacharosy obsahuje glukosu a fruktosu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 511,
+		"category": 1,
+		"number": 511,
+		"text": "Zásobními sacharidy v lidském organismu mohou být:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "maltosa",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "sacharosa",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "glykogen",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "celulosa",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 512,
+		"category": 1,
+		"number": 512,
+		"text": "Označte chybné/chybná tvrzení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "inositol je cyklická polyhydroxysloučenina",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "inositol patří mezi cyklitoly",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "inositol obsahuje ve své molekule heterocyklicky vázaný kyslík",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "inositol patří mezi deriváty cyklohexanu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 513,
+		"category": 1,
+		"number": 513,
+		"text": "Označte dvojici sloučenin, které mají alespoň jednu společnou vlastnost neb charakter:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "glyceraldehyd a dihydroxyaceton",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "sorbitol a borax",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "silufol a ribitol",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mannitol a xylitol",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 514,
+		"category": 1,
+		"number": 514,
+		"text": "Maltosa obsahuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dvě molekuly a-D-glukopyranosy",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dvě molekuly B-D-glukopyranosy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jednu molekulu a-D-glukopyranosy a jednu molekulu a-D-galaktopyranosy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "dvě molekuly a-D-mannopyranosy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 515,
+		"category": 1,
+		"number": 515,
+		"text": "Fruktosa:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je součástí enzymu sacharasy",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "patří mezi monosacharidy",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "její molekula obsahuje ketoskupinu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "její molekula obsahuje amino skupinu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 516,
+		"category": 1,
+		"number": 516,
+		"text": "Mezi monosacharidy patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "maltosa a xylosa",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "fruktosa a laktosa",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "fruktosa a ribosa",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "galaktosa a glukosa",
+				"correct": true
+			}
+		]
+	}
+]

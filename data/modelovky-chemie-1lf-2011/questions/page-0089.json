@@ -1,0 +1,290 @@
+[
+	{
+		"id": 738,
+		"category": 1,
+		"number": 738,
+		"text": "Molekula benzenu",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je prostorovým útvarem, může zaujímat vaničkovou nebo židličkovou konformaci",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je prostorovým útvarem, může zaujímat vaničkovou nebo židličkovou konfiguraci",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je planární molekulou",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "obsahuje šest uhlíků a šest vodík a",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 739,
+		"category": 1,
+		"number": 739,
+		"text": "Štěpení vazby mezi dvěma uhlíky v organické sloučenině může probíhat",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "elektrofilně",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nukleofilně",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "iontově",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "radikálově",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 740,
+		"category": 1,
+		"number": 740,
+		"text": "Homolytické štěpení vazby v organické chemii znamená,",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "že ze štěpené sloučeniny vznikne kationt a aniont",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "že ze štěpené sloučeniny vzniknou dva radikály",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "že ze štěpené sloučeniny vzniknou dvě částice s nepárovým elektronem",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "že ze štěpené sloučeniny vzniknou vždy dvě částice o stejném skupenství",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 741,
+		"category": 1,
+		"number": 741,
+		"text": "organických sloučeninách se donorakceptorová (dativní) vazba",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nevyskytuje",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vyskytuje, příkladem jsou např. tetraalkylamoniové soli",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vyskytuje, ale v tetraalkylamoniových solích se tato vazba neuplatňuje",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nevyskytuje, pokud sloučenina neobsahuje donorový atom jako je např. atom dusíku",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 742,
+		"category": 1,
+		"number": 742,
+		"text": "Pro homolytické reakce je typické",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "že probíhají při vysokých teplotách",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "že probíhají v roztoku v přítomnosti katalyzátoru",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "že probíhají v plynné fázi a bývají iniciovány světelným kvantem, vysokou teplotou neb látkami, které produkují volné radikály",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "že nejsou ovlivněny látkami produkujícími volné radikály a většinou neprobíhají v plynn fázi",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 743,
+		"category": 1,
+		"number": 743,
+		"text": "Hydrolýza alkylhalogenidu je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nukleofilní substituce",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "elektrofilní substituce",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nukleofilní adice",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "elektrofilní adice",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 744,
+		"category": 1,
+		"number": 744,
+		"text": "Nitrace benzenu do I. stupně pomocí nitrační směsi je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nukleofilní substituce",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "elektrofilní substituce",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "adice",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "radikálová reakce",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 745,
+		"category": 1,
+		"number": 745,
+		"text": "Katalytická hydrogenace alkenů",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se většinou katalyzuje kovovými katalyzátory (Pt, Ni)",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je radikálovou adicí",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je oxidačně-redukčním dějem",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "probíhá v plynné fázi za katalýzy světlem nebo peroxidy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 746,
+		"category": 1,
+		"number": 746,
+		"text": "Existují v rámci organické chemie uhlíkové anionty?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ne, nebyla by splněna podmínka vaznosti",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ano, uhlík je v nich trojvazný a má dvojici nevazebných elektronů",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ne, uhlík nemůže být záporně nabitý",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ano, budou mít jeden nepárový elektron",
+				"correct": false
+			}
+		]
+	}
+]

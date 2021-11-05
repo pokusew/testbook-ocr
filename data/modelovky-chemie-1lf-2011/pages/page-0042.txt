@@ -1,24 +1,24 @@
-1) O oxidech dusíku platí:
+332) O oxidech dusíku platí:
 a) vyskytují se ve všech známých oxidačních stavech
-1) popsaný je pouze oxid dusný, dusitý a dusičný
+b) popsaný je pouze oxid dusný, dusitý a dusičný
 C) oxid dusný lze použít jako anestetikum
 d) oxid dusnatý je tzv. rajský plyn
-133) Kyselina sírová:
+333) Kyselina sírová:
 a) le silná jednosytná kyselina
-) nasycená oxidem sírovým se nazývá oleum
+B) nasycená oxidem sírovým se nazývá oleum
 C) koncentrovaná má oxidační účinky
 d) je součástí směsi, které se říká lučavka královská
-184) Oxid uhelnatý:
+334) Oxid uhelnatý:
 a) má vzorec CO2
 b) vzniká spalováním uhlíku v nadbytku kyslíku
 C) je prudce toxický
 D) Jeho navázáním na hemoglobin vzniká karbonylhemoglobin
-185) Rtut:
+335) Rtuť:
 a) je nekov
-) využívá se při polarografii
+B) využívá se při polarografii
 c) všechny její sloučeniny jsou netoxické
 D) chlorid rtuťnatý známe pod triviálním názvem sublimát
-136) Vyberte správné kombinace vzorec - název:
+336) Vyberte správné kombinace vzorec - název:
 A) KCI - chlorid draselný
 b) CaSO4. 42 H20 - hemihydrogen síranu vápenatého
 C) KH2PO4 - dihydrogenfosforečnan draselný
@@ -43,4 +43,3 @@ a) obsahují pouze jeden atom kyslíku
 B) formální oxidační číslo kyslíku je -I
 C) peroxo- skupina je skupina (02)2-
 d) jsou popsány pouze pro prvky I.A skupiny
-2-

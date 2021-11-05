@@ -1,0 +1,226 @@
+[
+	{
+		"id": 747,
+		"category": 1,
+		"number": 747,
+		"text": "Optické izomery jsou",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "stereoizomery",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "konstituční izomery",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "diastereoizomery",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "konformační izomery",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 748,
+		"category": 1,
+		"number": 748,
+		"text": "Asymetrický uhlík musí mít",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "čtyři různé substituenty",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hybridizaci sp3",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "navázány čtyři různé atomy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "navázány alespoň tři různé atomy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 749,
+		"category": 1,
+		"number": 749,
+		"text": "Nukleofilní činidlo bude",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "spíše Lewisova baze než kyselina",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "spíše kladně nabité",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nebude obsahovat volný elektronový pár",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "často záporně nabité",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 750,
+		"category": 1,
+		"number": 750,
+		"text": "Oxo-enol tautomerie",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vznikne přesunem dvojné vazby a vodíku uvnitř jedné molekuly",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vznikne pouze přesunem dvojné vazby na funkční skupině",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vede ke změně funkční skupiny",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vede vždy ke geometrické izomerii",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 751,
+		"category": 1,
+		"number": 751,
+		"text": "Kyselé vlastnosti karboxylové kyseliny jsou způsobeny",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kyselým vodíkem v pozici 1 (sousední ke karboxylu)",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "volným elektronovým párem na karbonylovém kyslíku v karboxylové skupině",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "disociovatelným vodíkem na -OH skupině karboxylu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "všemi zmíněnými vlivy současně",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 752,
+		"category": 1,
+		"number": 752,
+		"text": "Elektrofilní činidlo je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "takové, které přijímá elektrony",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "takové, které má přebytek elektronů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "takové, které směřuje do místa s nejmenší hustotou elektronů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "takové, které směřuje do místa s největší hustotou elektron *",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 753,
+		"category": 1,
+		"number": 753,
+		"text": "Tot je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "cyklopropan",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Newmanova projekce ethanu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "židličková konformace",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "projekční vzorec",
+				"correct": false
+			}
+		]
+	}
+]

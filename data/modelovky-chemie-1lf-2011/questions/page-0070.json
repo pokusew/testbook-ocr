@@ -1,0 +1,258 @@
+[
+	{
+		"id": 579,
+		"category": 1,
+		"number": 579,
+		"text": "Kyselina 2-amino-3-fenylpropanová je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "tryptofan",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "tyrosin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "fenylalanin",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "histidin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 580,
+		"category": 1,
+		"number": 580,
+		"text": "Kyselina 2-aminopropanová je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "glycin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "alanin",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "valin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "serin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 581,
+		"category": 1,
+		"number": 581,
+		"text": "Síra se vyskytuje v molekule:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "threoninu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "cysteinu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "alaninu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "methioninu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 582,
+		"category": 1,
+		"number": 582,
+		"text": "Mezi kyselé aminokyseliny patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "lysin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kyselina glutarová",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kyselina asparagová",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kyselina glutamová",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 583,
+		"category": 1,
+		"number": 583,
+		"text": "Mezi peptidy patří následující hormony:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kortisol",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "adrenalin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "testosteron",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "angiotensin I",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 584,
+		"category": 1,
+		"number": 584,
+		"text": "Mezi transportní proteiny patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ferritin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "transferin",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "myosin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "albumin",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 585,
+		"category": 1,
+		"number": 585,
+		"text": "Vzorec na obrázku CHz-CH-CH-CH-COOH představuje aminokyselinu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vali CH, NH,",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "isoleucin",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "leucin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "alani N OH představuje aminokyselinu NH",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 586,
+		"category": 1,
+		"number": 586,
+		"text": "Vzorec na obrázku HAN",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "arginin",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "lysin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "citrulin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ornitin",
+				"correct": false
+			}
+		]
+	}
+]

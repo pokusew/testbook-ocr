@@ -1,0 +1,290 @@
+[
+	{
+		"id": 1215,
+		"category": 2,
+		"number": 1215,
+		"text": "Denaturovaný alkohol je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ethanol ve směsi s jedovatou látkou, tuto směs potom není možno požívat",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ethanol s přídavkem methanolu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ethanol vyrobený synteticky, tj. jinak než kvašením",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ethanol vyrobený vykvašením cukerného roztoku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1216,
+		"category": 2,
+		"number": 1216,
+		"text": "Benzín je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "benzen v čistotě pro lékařské účely",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kapalná směs uhlovodíků",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "směs pouze oktanu a heptanu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "směs benzenu a toluenu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1217,
+		"category": 2,
+		"number": 1217,
+		"text": "Ocet, čili vodný roztok kyseliny octové, se dá vyrobit",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kvašením vína",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "oxidací ethanolu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "z acetylenu, který je převeden na acetaldehyd a oxidován na kyselinu octovou",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "oxidací propanalu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1218,
+		"category": 2,
+		"number": 1218,
+		"text": "Mezi polysacharidy patří",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "sacharóza, škrob a glykogen",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "glykogen, kolagen a celulóza",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "glykogen, škrob a celulóza",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "sacharóza, laktóza a maltóza",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1219,
+		"category": 2,
+		"number": 1219,
+		"text": "Kyselina benzoová je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "konzervační činidlo, které se používá v potravinářství",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dikarboxylová kyselina",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "sloučenina, která obsahuje dvě funkční skupiny",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nejjednodušší aromatická jednosytná kyselina",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1220,
+		"category": 2,
+		"number": 1220,
+		"text": "Emulgátor je látka, která",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "rozpouští tuky",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "látka, která umožňuje homogenizaci dvou navzájem nemísitelných kapalin",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "látka, která zabraňuje vzniku emulzí",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "látka, která podporuje rozptýlení jedné kapaliny ve druhé",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1221,
+		"category": 2,
+		"number": 1221,
+		"text": "Emulze je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "homogenní směs dvou kapalin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "heterogenní směs dvou kapalin",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "homogenní směs kapaliny a tuhé látky",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "heterogenní směs kapaliny a tuhé látky",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1222,
+		"category": 2,
+		"number": 1222,
+		"text": "Alkaloidy jsou",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jedovaté látky obsažené v tělech rostlin a hlavně živočichů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "biologicky aktivní látky hlavně rostlinného původu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "látky, mezi které patří např. morfin nebo chinin",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "synonymem pro omamné jedy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1223,
+		"category": 2,
+		"number": 1223,
+		"text": "Do zubních past se nejčastěji přidávají",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "fluor, v čisté podobě, pro lékařské účely",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "fluoridy",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "soli kyseliny fluorité",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "soli kyseliny fluorovodíkové",
+				"correct": true
+			}
+		]
+	}
+]

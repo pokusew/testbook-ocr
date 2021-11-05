@@ -1,0 +1,290 @@
+[
+	{
+		"id": 1269,
+		"category": 2,
+		"number": 1269,
+		"text": "Bavlna",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "roste na určitých druzích stromů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je čistá celulóza",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "má bílkovinnou povahu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je polysacharidem",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1270,
+		"category": 2,
+		"number": 1270,
+		"text": "Pektiny",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mají gelovitou konzistenci, což se využívá při přípravě marmelád",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "patří mezi tuky a tvoří energetickou zásobu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou složité polysacharidy",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou disacharidy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1271,
+		"category": 2,
+		"number": 1271,
+		"text": "Atropin je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jed na bázi oxidu arsenitého",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "rostlinná látka",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "alkaloid",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "alkohol",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1272,
+		"category": 2,
+		"number": 1272,
+		"text": "Odstranění bradavice tekutým dusíkem je možné, protože",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "tekutý dusík má silně leptavé účinky",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "tekutý dusík je velmi chladný",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "tekutý dusík se v tekutém stavu dostane do bradavice, kde se přemění v plyn, čímž dojd k destrukci",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "tekutý dusík je velmi horký",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1273,
+		"category": 2,
+		"number": 1273,
+		"text": "Tvrdost vody",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vyjadřuje obsah rozpuštěných minerálních látek v určitém objemu vody",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se dá vždy odstranit varem",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je nejvyšší u dešťové vody",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se dá snížit přídavkem fosforečnanů (fosfátů)",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1274,
+		"category": 2,
+		"number": 1274,
+		"text": "Cytostatikum je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "látka, která zastavuje buněčný cyklus buňky",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "látka, která působí inhibičně na buňku v určité fázi buněčného cyklu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "látka, která okamžitě usmrcuje buňky",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "látka, která se používá k léčbě virových a bakteriálních onemocnění",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1275,
+		"category": 2,
+		"number": 1275,
+		"text": "Onemocnění tetanem",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "způsobují spóry plísně, která žije v půdě",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "způsobuje toxin",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "způsobuje produkt bakterie Clostridium tetani",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je tak vzácné, že se vyšší věkové skupiny obyvatelstva nemusejí přeočkovávat",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1276,
+		"category": 2,
+		"number": 1276,
+		"text": "Borová voda je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,5% roztok boraxu ve vodě",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "roztok boritanu sodného ve fyziologickém roztoku",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "roztok kyseliny borité ve vodě",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "roztok boritých solí ve fyziologickém roztoku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1277,
+		"category": 2,
+		"number": 1277,
+		"text": "Včelí med je složen převážně z",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "glukózy a sacharózy",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "glukózy a fruktózy",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "fruktózy a maltózy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "maltózy a sacharózy",
+				"correct": false
+			}
+		]
+	}
+]

@@ -1,0 +1,290 @@
+[
+	{
+		"id": 413,
+		"category": 1,
+		"number": 413,
+		"text": "S vodou se nemísí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "benzen",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "aceton",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "cyklohexan",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "diethylether",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 414,
+		"category": 1,
+		"number": 414,
+		"text": "Kyselina šťavelová (HOOC-COOH):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vzniká oxidací 1,2-ethandiolu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "váže vápenaté ionty",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "není jedovatá",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "její vápenaté soli jsou dobře rozpustné ve vodě",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 415,
+		"category": 1,
+		"number": 415,
+		"text": "Kyselina šťavelová (HOOC-COOH):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nemůže vzniknout oxidací ethenu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "není jedovatá",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vytváří s vápenatými ionty ve vodě špatně rozpustné soli",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nevzniká oxidací 1,2-ethandiolu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 416,
+		"category": 1,
+		"number": 416,
+		"text": "Silikonové oleje vznikají polymerací:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kyseliny křemičité",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "oxidu křemičitého",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dimethylsilandiolu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná odpověď není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 417,
+		"category": 1,
+		"number": 417,
+		"text": "Silikagel je polymerem:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "oxidu křemičitého",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kyseliny křemičité",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dimethylsilandiolu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "silantriolu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 418,
+		"category": 1,
+		"number": 418,
+		"text": "Mezi deriváty kyseliny uhličité patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "fosgen",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kyselina močová",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "močovina",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "urethany",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 419,
+		"category": 1,
+		"number": 419,
+		"text": "Z uvedených polymerů se v lékařství nejvíce využívá:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "polyvinylchlorid",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "polyethylen",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "polymethylmethakrylát",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "polyurethan",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 420,
+		"category": 1,
+		"number": 420,
+		"text": "Kyselina šťavelová je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dobře rozpustná ve vodě",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "špatně rozpustná ve vodě",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jedovatá",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "netoxická",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 421,
+		"category": 1,
+		"number": 421,
+		"text": "Heterocyklické sloučeniny jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "anorganické sloučeniny uhlíku",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "organické sloučeniny uhlíku",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "cyklické sloučeniny uhlíku obsahující navíc jeden nebo více heteroatomů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "alifatické sloučeniny tvořené křemíkovým řetězcem",
+				"correct": false
+			}
+		]
+	}
+]

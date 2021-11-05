@@ -1,0 +1,290 @@
+[
+	{
+		"id": 1113,
+		"category": 2,
+		"number": 1113,
+		"text": "Heterogenní směsí je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "roztok",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dým",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "suspenze",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "slitina kovů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1114,
+		"category": 2,
+		"number": 1114,
+		"text": "Izotopy daného prvku se od sebe",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nedají oddělit",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dají oddělit fyzikálními metodami",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dají oddělit pouze chemickými metodami",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se od sebe dají oddělit pouze, pokud je izotop radiokativní",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1115,
+		"category": 2,
+		"number": 1115,
+		"text": "Aktivační energie reakce je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "podle srážkové teorie minimální energie, kterou částice musí mít aby proběhla chemick reakce",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je rozdílem energií produktů a výchozích látek",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je rozdílem energií aktivovaného komplexu a výchozích látek",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je rozdílem energií aktivovaného komplexu a produktů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1116,
+		"category": 2,
+		"number": 1116,
+		"text": "Složení reakční směsi v rovnováze mohu ovlivnit",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "teplotou",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "tlakem",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "koncentrací výchozích látek nebo produktů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "katalyzátorem",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1117,
+		"category": 2,
+		"number": 1117,
+		"text": "Poločas (např. rozpadu) je u chemických přeměn",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "doba, za kterou látka zreaguje, rozpadne se ap.",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "doba, za kterou se koncentrace výchozí látky se sníží o 50 %",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "doba, za kterou se u reakcí 1. řádu dosáhne nulové koncentrace výchozích látek",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "doba, za kterou se dosáhne rovnovážného stavu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1118,
+		"category": 2,
+		"number": 1118,
+		"text": "Pomocí Hessova zákona lze",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "určit objem ideálního plynu při dané teplotě",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "určit tlak, za kterého daná látka vytvoří výbušnou směs",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zjistit reakční entalpii při standardních podmínkách reakce",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "určit reakční rychlost v závislosti na teplotě a tlaku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1119,
+		"category": 2,
+		"number": 1119,
+		"text": "Rozměr univerzální plynové konstanty ve stavové rovnici PV=nRT je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "JK-7 mol-1",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je bezrozměrná",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Pa.m3",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Pa",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1120,
+		"category": 2,
+		"number": 1120,
+		"text": "Exotermní reakce bude vykazovat",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kladnou změnu entalpie",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zápornou změnu entalpie",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "podle průběhu reakce buď kladnou nebo zápornou změnu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zápornou změnu, pokud všechny",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1121,
+		"category": 2,
+		"number": 1121,
+		"text": "Endotermní reakce bude vykazovat",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kladnou změnu entalpie",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zápornou změnu entalpie",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "podle průběhu reakce bud' kladnou nebo zápornou změnu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zápornou změnu, pokud všechny",
+				"correct": false
+			}
+		]
+	}
+]

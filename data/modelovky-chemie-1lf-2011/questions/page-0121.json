@@ -1,0 +1,258 @@
+[
+	{
+		"id": 999,
+		"category": 2,
+		"number": 999,
+		"text": "Vyberte správná tvrzení. V komplexním aniontu [Fe(CN)6]3-",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je centrálním atomem Fe3+",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je centrálním atomem uhlík",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou kyanidové skupiny ligandy",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "má železo oxidační číslo +6",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1000,
+		"category": 2,
+		"number": 1000,
+		"text": "Koordinační sloučenina s větším počtem centrálních atomů či iontů se nazývá",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "multiplex",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "polycentrický (vícejaderný) komplex",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "klatrát",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "hydrat",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1001,
+		"category": 2,
+		"number": 1001,
+		"text": "V názvu koordinační sloučeniny se",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "název ligandu uvádí až po názvu centrálního atomu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se název centrálního atomu uvádí až po názvu ligandu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se pořadí názvu ligandu nebo centrálního atomu určuje podle abecedního pořadí",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se uvádí název centrálního atomu v 1. pádě, pokud je centrální atom v nulovém oxidační stupni",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1002,
+		"category": 2,
+		"number": 1002,
+		"text": "V koordinační sloučenině",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "má centrální atom vždy nulové mocenství",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "centrální atom nemůže mít nulové mocenství",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "centrální atom může mít nulové mocenství",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "centrální atom může mít záporné mocenstv N.",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1003,
+		"category": 2,
+		"number": 1003,
+		"text": "Molekula uvedená na obrázk má triviální název",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pyrimidin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pyridin",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "piperidin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "imidazo má triviální název",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1004,
+		"category": 2,
+		"number": 1004,
+		"text": "Molekula uvedená na obrázku",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pyrimidin",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pyridin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "piperidin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "imidazo N má triviální název",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1005,
+		"category": 2,
+		"number": 1005,
+		"text": "Molekula uvedená na obrázku",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pyrimidin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pyridin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "piperidin",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "imidazo I má triviální název",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1006,
+		"category": 2,
+		"number": 1006,
+		"text": "Molekula uvedená na obrázku",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pyrimidin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pyridin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pyrrol",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "imidazol",
+				"correct": true
+			}
+		]
+	}
+]

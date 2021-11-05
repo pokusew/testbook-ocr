@@ -1,0 +1,290 @@
+[
+	{
+		"id": 657,
+		"category": 1,
+		"number": 657,
+		"text": "Která z následujících dusíkatých basí se vyskytuje pouze v nukleotidech RNA:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "uracil",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "cytosin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "thymin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "adenin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 658,
+		"category": 1,
+		"number": 658,
+		"text": "Dusíkaté base nukleotidů jsou odvozeny od:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "purinu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pyranu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pyrimidinu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ribosy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 659,
+		"category": 1,
+		"number": 659,
+		"text": "V nukleotidech je dusíkatá base vázána k cukru:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "esterovou vazbou",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "N-glykosidovou vazbou",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "O-glykosidovou vazbou",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vodíkovými můstky",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 660,
+		"category": 1,
+		"number": 660,
+		"text": "V nukleotidech je fosfát vázán k cukru:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "esterovou vazbou",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "N-glykosidovou vazbou",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "O-glykosidovou vazbou",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vodíkovými můstky",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 661,
+		"category": 1,
+		"number": 661,
+		"text": "V molekule DNA jsou komplementární dusíkaté base navzájem spojeny:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "esterovými vazbami",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vodíkovými můstky",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "disulfidovými můstky",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "glykosidovými vazbami",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 662,
+		"category": 1,
+		"number": 662,
+		"text": "Nukleosid je tvořen:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "cukrem, dusíkatou basí a fosfátem",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "cukrem a fosfátem",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dusíkatou basí a fosfátem",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "cukrem a dusíkatou basí",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 663,
+		"category": 1,
+		"number": 663,
+		"text": "Základní řetězec nukleové kyseliny je tvořen:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "střídavě pentosou a dusíkatou basí",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "střídavě pentosou a fosfátem",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pouze pentosou",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pouze dusíkatou basí",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 664,
+		"category": 1,
+		"number": 664,
+		"text": "Vyberte správné tvrzení o nukleových kyselinách:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "sacharidovou složkou v DNA je ribulosa",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "sacharidovou složkou v RNA je ribosa",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "sacharidovou složkou v DNA je 2-deoxyribosa",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "sacharidovou složkou v DNA je ribosa",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 665,
+		"category": 1,
+		"number": 665,
+		"text": "Vyberte správné tvrzení o nukleových kyselinách:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jejich primární struktura je dána počtem nukleotidů v polynukleotidovém řetězci",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vlákna DNA jsou uspořádána do dvojité spirály (helixu)",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jejich primární struktura je určena pořadím nukleotidů v polynukleotidovém řetězci",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "primární struktura může obsahovat genetickou informac a",
+				"correct": true
+			}
+		]
+	}
+]

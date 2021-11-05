@@ -1,0 +1,290 @@
+[
+	{
+		"id": 1233,
+		"category": 2,
+		"number": 1233,
+		"text": "Síra má",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pouze jeden izotop",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "více izotopů, ale žádný radioaktivní",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nejméně dva izotopy, přičemž alespoň jeden je radioaktivní",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "více alotropických modifikací",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1234,
+		"category": 2,
+		"number": 1234,
+		"text": "Principem tuhnutí sádry (např. u sádrových obvazů) je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dehydratace sádry na síran vápenatý",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "reakce se vzdušným oxidem uhličitým",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vznik dihydrátu síranu vápenatého",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "dehydratace dihydrátu síranu vápenatého na hemihydrát",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1235,
+		"category": 2,
+		"number": 1235,
+		"text": "Rajský plyn je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "oxid dusný",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "oxid dusnatý",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "oxid dusičitý",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "směs všech uvedených",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1236,
+		"category": 2,
+		"number": 1236,
+		"text": "Fosfor",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je jedovatý ve všech svých modifikacích",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je jedovatý pouze jako bílý fosfor",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "existuje ve třech modifikacích",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "tvoří fosfan a difosfan",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1237,
+		"category": 2,
+		"number": 1237,
+		"text": "Oxid uhelnatý je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "schopen vázat se na hemoglobin",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "těžší než vzduch",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dráždivý zápachající plyn",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "oxidovatelný na oxid uhličitý",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1238,
+		"category": 2,
+		"number": 1238,
+		"text": "Oxid uhličitý je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "plyn šedého zabarvení, těžší než vzduch",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "používán pod názvem suchý led k chlazení",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "částečně rozpustný ve vodě",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "možné redukovat na oxid uhelnatý",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1239,
+		"category": 2,
+		"number": 1239,
+		"text": "Sirouhlík je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vysoce jedovatá látka",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "látka zapáchající po zkažených vejcích, která vzniká hnilobným procesem z bílkovin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "látka, která za přítomnosti vzduchu shoří na oxid uhličitý a oxid siřičitý",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "látka se vzorcem S2C",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1240,
+		"category": 2,
+		"number": 1240,
+		"text": "Kyanovodík je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "prudkým jedem",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "prudkým jedem jen při polknutí",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "prášek známý pod názvem cyankali, prudký jed",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "schopen bránit přenosu kyslíku v organismu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1241,
+		"category": 2,
+		"number": 1241,
+		"text": "Křemík tvoří",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "podobné sloučeniny s vodíkem jako uhlík",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "binární sloučeniny se všemi kovy, přičemž se tyto látky explozivně rozkládaj v přítomnosti vody",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "křemen, SiO2",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "oxid křemičitý, jehož tavenině říkáme křemenné sklo",
+				"correct": true
+			}
+		]
+	}
+]

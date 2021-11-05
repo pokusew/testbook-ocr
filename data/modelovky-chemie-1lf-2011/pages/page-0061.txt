@@ -1,4 +1,3 @@
-a
 500) Galaktosa a glukosa jsou:
 a) součástí maltosy
 B) součástí laktosy
@@ -36,11 +35,11 @@ B) polysacharid obsahující fruktosové jednotky
 C) zásobním polysacharidem některých rostlin, např. topinamburů
 d) složkou bramborového škrobu
 507) Neredukující disacharidy:
-A) mají glykosidovou vazbu mezi atomem C1 jedné molekuly monosacharidu (aldosy)
-a atomem C1 druhé molekuly monosacharidu (aldosy)
-B) mají glykosidovou vazbu mezi atomem C1 jedné molekuly monosacharidu (aldosy)
-a atomem C2 druhé molekuly monosacharidu (ketosy)
-c) mají glykosidovou vazbu mezi atomem Ci jedné molekuly monosacharidu (aldosy)
-a atomem C4 druhé molekuly monosacharidu (aldosy)
-d) mají glykosidovou vazbu mezi atomem C1 jedné molekuly monosacharidu (aldosy)
-a atomem C6 druhé molekuly monosacharidu (aldosy)
+A) mají glykosidovou vazbu mezi atomem C1 jedné molekuly monosacharidu (aldosy) a
+atomem C1 druhé molekuly monosacharidu (aldosy)
+B) mají glykosidovou vazbu mezi atomem C1 jedné molekuly monosacharidu (aldosy) a
+atomem C2 druhé molekuly monosacharidu (ketosy)
+c) mají glykosidovou vazbu mezi atomem Ci jedné molekuly monosacharidu (aldosy) a
+atomem C4 druhé molekuly monosacharidu (aldosy)
+d) mají glykosidovou vazbu mezi atomem C1 jedné molekuly monosacharidu (aldosy) a
+atomem C6 druhé molekuly monosacharidu (aldosy)

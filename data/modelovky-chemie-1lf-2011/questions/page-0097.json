@@ -1,0 +1,258 @@
+[
+	{
+		"id": 801,
+		"category": 1,
+		"number": 801,
+		"text": "Opticky aktivní látka",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "obsahuje vždy asymetrický uhlík",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "stáčí rovinu polarizovaného světla",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "má vždy dva enantiomery",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "má vždy dva diastereoizomery",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 802,
+		"category": 1,
+		"number": 802,
+		"text": "Racemát",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je opticky inaktivní izomer",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je ekvimolární směs enantiomerů",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je ekvimolární směs enantiomerů nebo diastereoizomerů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je směsí bez optické aktivity",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 803,
+		"category": 1,
+		"number": 803,
+		"text": "Příkladem freonů je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "bromethan",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dichlordifluormetan",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1,2-dichlorethan",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1-brom-3-chlorbut-1-en",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 804,
+		"category": 1,
+		"number": 804,
+		"text": "Pokud reaguje voda s halogenderivátem za vzniku hydroxyderivátu podle obecn rovnice RX + H2O → ROH + HX, jedná se o",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nukleofilní substituci",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "elektrofilní substituci",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nukleofilní adici",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "elektrodilní adici",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 805,
+		"category": 1,
+		"number": 805,
+		"text": "Pokud reaguje voda s halogenderivátem za vzniku hydroxyderivátu podle obecn rovnice RX + H2O → ROH + HX, jedná se o",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hydrolýzu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hydrataci",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "hydrogenaci",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "dehydrataci",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 806,
+		"category": 1,
+		"number": 806,
+		"text": "Dehalogenace halogenalkánů, např. (viz obrázek) je reakcí",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "substituční",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "eliminační",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Markovnikovovou",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "radikálovou",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 807,
+		"category": 1,
+		"number": 807,
+		"text": "Dehydratace hydroxyderivátů organických sloučenin",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vede ke vzniku dvojné vazby",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je eliminančí reakcí",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je substituční reakcí",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je rozklad určité látky vodou",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 808,
+		"category": 1,
+		"number": 808,
+		"text": "Který název/které názvy odpovídají správnému názvosloví",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1,2-difluor-2-chloret-1-en",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1-chlor-1-fluor-2-chlor-2-fluor-ethen",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1,2-dichlor-1,2-difluorethen",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "isopren",
+				"correct": true
+			}
+		]
+	}
+]

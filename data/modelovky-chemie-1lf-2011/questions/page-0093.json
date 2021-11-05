@@ -1,0 +1,258 @@
+[
+	{
+		"id": 766,
+		"category": 1,
+		"number": 766,
+		"text": "Sloučenina H,C-CH, CH2 má správný systematický název",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "2-propylbut-1-en",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "3-methylidenhexan",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "2-ethylpent-1-en",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "4-methylidenhexan",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 767,
+		"category": 1,
+		"number": 767,
+		"text": "Které látky mohou existovat jako cis-trans izomery?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "but-2-en",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "but-1-en",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1,2-dichlorcyklohexan",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1,2-dichlorbenzen",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 768,
+		"category": 1,
+		"number": 768,
+		"text": "Uhlovodíkový zbyte se nazývá:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "fenylen",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "fenyl",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "fenol",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "aryl",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 769,
+		"category": 1,
+		"number": 769,
+		"text": "Sloučenina H,C=CH se nazývá?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ethylchlori CI",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "chlorethyl",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vinylchlorid",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "chlorethen",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 770,
+		"category": 1,
+		"number": 770,
+		"text": "Sloučenina H,C-CH2 se nazývá",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ethanthio SH",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ethylthiol",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ethylsulfid",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ethansulfid",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 771,
+		"category": 1,
+		"number": 771,
+		"text": "Po smísení alkenu s vodíkem",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dojde k oxidaci na alkan",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "při použití vhodného katalzyzátoru dojde k redukci dvojné vazby",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dojde k redukci na alkan, je to spontánní reakace",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "proběhne dehydrogenace",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 772,
+		"category": 1,
+		"number": 772,
+		"text": "Adicí vody na dvojnou vazbu alkenu vznikne",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "alkohol",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "aldehyd",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "epoxid",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "hydra CH",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 773,
+		"category": 1,
+		"number": 773,
+		"text": "Sloučenina H je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "styre -CH2",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "2-methylbuta-1,3-dien",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "izopren",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "3-methylbuta-1,4-dien",
+				"correct": false
+			}
+		]
+	}
+]

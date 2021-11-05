@@ -1,0 +1,258 @@
+[
+	{
+		"id": 95,
+		"category": 1,
+		"number": 95,
+		"text": "Tvrzení,energie může existovat nezávisle na hmotě“:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je zcela správné",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je správné, ale jen za určitých okolností",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je nesprávné",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nelze posoudit",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 96,
+		"category": 1,
+		"number": 96,
+		"text": "Mezi energií vlnění a jeho frekvencí existuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nepřímá úměra",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "přímá úměra",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "složitější závislost",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádný explicitní vztah mezi nimi není",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 97,
+		"category": 1,
+		"number": 97,
+		"text": "Energie ultrafialového záření je oproti energii infračerveného záření:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "větší",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "menší",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "záleží na dalších proměnných systému",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "stejná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 98,
+		"category": 1,
+		"number": 98,
+		"text": "Pro posouzení samovolnosti reakce je zcela postačující informace o:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "exotermnosti reakce",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "endotermnosti reakce",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "změně entalpie v průběhu reakce za konstantní teploty a tlaku",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "změně Gibbsovy energie v průběhu reakce za konstantní teploty a tlaku",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 99,
+		"category": 1,
+		"number": 99,
+		"text": "Množství vznikajících finálních produktů v ideální chemické reakci lze zvýšit:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "přidáváním výchozích látek",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "odebíráním produktů z reakce",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v plynném skupenství zvýšením tlaku, pokud je počet molů vznikající látky menší ne počet molů výchozích látek",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v kapalném a pevném skupenství snížením tlaku, pokud je počet molů vznikající látk větší než počet molů výchozích látek",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 100,
+		"category": 1,
+		"number": 100,
+		"text": "Solení chodníků v zimě se provádí především proto, aby:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hygroskopická sůl na sebe navázala vodu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "sůl pokryla plochu souvislou vrstvou a neumožnila přilnutí vrstvy ledu k asfaltovém povrchu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "rozpuštěná sůl snížila bod tuhnutí vody",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se v zemích vzdálených od moře při následném tání ze soli odpařil jód, který je potřebn pro zdraví populace",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 101,
+		"category": 1,
+		"number": 101,
+		"text": "Pokud poměr výchozích látek a produktů dosáhl termodynamické rovnováhy probíhá reakce:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zleva doprava",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zprava doleva",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "neprobíhá žádná reakce",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "probíhá oběma směry stejnou rychlostí",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 102,
+		"category": 1,
+		"number": 102,
+		"text": "Poranění vzniklá působením vodní páry o teplotě 100°C za normálního tlak v porovnání s poraněními vzniklými působením stejného množství kapalné vod o stejné teplotě jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "stejná",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mnohem menší",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mnohem větší",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nelze posoudit, protože kapalná voda za této teploty již neexistuj a",
+				"correct": false
+			}
+		]
+	}
+]

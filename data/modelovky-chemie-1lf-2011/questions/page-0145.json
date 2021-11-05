@@ -1,0 +1,194 @@
+[
+	{
+		"id": 1180,
+		"category": 2,
+		"number": 1180,
+		"text": "Kolik gramů kyseliny chlorovodíkové je potřeba do reakce se zinkem, ab vznikl jeden mol chloridu zinečnatého? Počítejte se stoprocentní konverz reakce. Relativní atomová hmotnost zinku je 65,38 g/mol, relativní molekulov hmotnost kyseliny chlorovodíkové je 36,45 g/mol, rel. molekulová hm. chlorid zinečnatého je 136,28 g/mol.",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "37,49 g",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "36,45 g",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "72,90 g",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná z uvedených možností není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1181,
+		"category": 2,
+		"number": 1181,
+		"text": "Kolik gramů zinku bude potřeba, aby bylo reakcí zinku s kyselino chlorovodíkovou připraveno 24,055 l vodíku? Teplota v laboratoři je 20 °C tlak 101 325 Pa. Relativní atomová hmotnost zinku je 65,38 g/mol, relativn molekulová hmotnost kyseliny chlorovodíkové je 36,45 g/mol, rel. molekulov hm. chloridu zinečnatého je 136,28 g/mol, relativní atomová hmotnost vodík je 1 g/mol.",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "6,54 g",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "65,38 g",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "130,76 g",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná z uvedených možností není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1182,
+		"category": 2,
+		"number": 1182,
+		"text": "Kolik g acetaldehydu je potřeba k přípravě 1 molu kyseliny octové? Počítejte s 100% konverzí. Relativní atomová hmotnost uhlíku je 12 g/mol, relativní atomov hmotnost kyslíku je 16 g/mol a vodíku 1 g/mol.",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "44 g",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "60 g",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "88 g",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "120 g",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1183,
+		"category": 2,
+		"number": 1183,
+		"text": "Kolik litrů acetylenu se získá přidáním 2 molů vody k jednomu molu karbid vápenatého při reakčních podmínkách p=101325 Pa a t=20 °C?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "11",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "21",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "6,131",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "24,061",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1184,
+		"category": 2,
+		"number": 1184,
+		"text": "Vyberte správnou/é odpověd/odpovědi. Hmotnostní zlomek roztoku, ve které bylo rozpuštěno 20 g NaCl ve 150 ml vody je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,133",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,750",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "0,118",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná z uvedených možností není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1185,
+		"category": 2,
+		"number": 1185,
+		"text": "Vyberte správnou/é odpověd/odpovědi. Hmotnostní zlomek roztoku, ve které bylo rozpuštěno 30 g KCl ve 200 ml vody je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,15",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,667",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "0,882",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "0,130",
+				"correct": true
+			}
+		]
+	}
+]

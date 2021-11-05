@@ -1,0 +1,258 @@
+[
+	{
+		"id": 306,
+		"category": 1,
+		"number": 306,
+		"text": "Jaké je pH vodného roztoku HCl o látkové koncentraci 0,4 mmol/l? (log 2 = 0,301 log 3 = 0,477, log 5 = 0,699, log 7 = 0,845)",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1,301",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "4,602",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "3,398",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "2,602",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 307,
+		"category": 1,
+		"number": 307,
+		"text": "Je-li v roztoku HNO3 látková koncentrace NO3- 0,002 mol/l, je pH roztoku (log 2 = 0,301, log 3 = 0,477, log 5 = 0,699, log 7 = 0,845)",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "3,301",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "2,301",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "4,699",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "2,699",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 308,
+		"category": 1,
+		"number": 308,
+		"text": "Je-li v roztoku HNO3 látková koncentrace NO3-10-4 mol/l, je pH roztoku (log 2 = 0,301, log 3 = 0,477, log 5 = 0,699, log 7 = 0,845)",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "2",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "3",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "4",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 309,
+		"category": 1,
+		"number": 309,
+		"text": "Jaké je pH roztoku Ba(OH)2, jestliže látková koncentrace OH- v roztoku j 5x10-5 mol/l? (log 2 = 0,301, log 3 = 0,477, log 5 = 0,699, log 7 = 0,845)",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "5",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "9",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "4,301",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "9,699",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 310,
+		"category": 1,
+		"number": 310,
+		"text": "Jaké je pH roztoku H2SO4 0 látkové koncentraci 5 mmol/l, za předpokladu úpln disociace kyseliny? (log 2 = 0,301, log 3 = 0,477, log 5 = 0,699, log 7 = 0,845)",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "2,301",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "2",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "5",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1,699",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 311,
+		"category": 1,
+		"number": 311,
+		"text": "Jaké je pH roztoku H2SO4, jestliže látková koncentraci H30* v roztoku je 5 mmol/l (log 2 = 0,301, log 3 = 0,477, log 5 = 0,699, log 7 = 0,845)",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "2,301",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "2",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "5",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1,699",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 312,
+		"category": 1,
+		"number": 312,
+		"text": "Jaké je pH roztoku KOH, jestliže látková koncentrace K+ je 3x10-4 mol/l (log 2 = 0,301, log 3 = 0,477, log 5 = 0,699, log 7 = 0,845)",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nelze vypočítat",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "3,523",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "10,477",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "4,447",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 313,
+		"category": 1,
+		"number": 313,
+		"text": "Sílu kyseliny udává:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "sytnost kyseliny",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "disociační konstanta",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "hmotnostní koncentrace",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "hustot =",
+				"correct": false
+			}
+		]
+	}
+]

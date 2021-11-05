@@ -1,0 +1,290 @@
+[
+	{
+		"id": 684,
+		"category": 1,
+		"number": 684,
+		"text": "Kobalt:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se v lidském organismu objevuje jen při otravách",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je mikrobiogenní prvek",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je přechodný kov",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je důležitý pro některé enzymově katalyzované reakce",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 685,
+		"category": 1,
+		"number": 685,
+		"text": "Aktivita enzymu vyjádřená v katalech:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je měřítkem množství enzymu a jeho funkčního stavu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "udává, o kolik je v dané soustavě reakce katalyzovaná enzymem rychlejší, než v srovnatelné soustavě bez enzymu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "udává, kolikrát je v dané soustavě reakce katalyzovaná enzymem rychlejší, než v srovnatelné soustavě bez enzymu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "udává intenzitu ionizujícího záření vyzařovanou 1 molem enzymu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 686,
+		"category": 1,
+		"number": 686,
+		"text": "Jednotka enzymové aktivity katal:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "má rozměr mol/s",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "má rozměr kg/mol",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "patří mezi jednotky SI",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "má rozměr Bq/mol",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 687,
+		"category": 1,
+		"number": 687,
+		"text": "Enzymy:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "snižují aktivační energii chemických reakcí",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dodávají aktivační energii chemických reakcí",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zvyšují aktivační energii chemických reakcí",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "neovlivňují aktivační energii chemických reakcí",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 688,
+		"category": 1,
+		"number": 688,
+		"text": "Charakteristickým znakem enzymů NENÍ:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "substrátová specifita",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "účinková specifita",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "neregulovaná účinnost",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "přítomnost chirálních atomů v jejich molekulách",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 689,
+		"category": 1,
+		"number": 689,
+		"text": "Mezi kofaktory patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "koenzym A",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ionty kovů",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "prostetické skupiny",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "apoenzymy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 690,
+		"category": 1,
+		"number": 690,
+		"text": "Amylasy katalyzují:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hydrolýzu škrobu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hydrolýzu celulózy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "hydrolýzu amylózy",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "hydrolýzu amylopektinu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 691,
+		"category": 1,
+		"number": 691,
+		"text": "Amylasa je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "enzym",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "polysacharid",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "protein",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "onemocnění",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 692,
+		"category": 1,
+		"number": 692,
+		"text": "Struktura enzymů VŽDY zahrnuje strukturu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "primární",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "sekundární",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "terciární",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kvartérní",
+				"correct": false
+			}
+		]
+	}
+]

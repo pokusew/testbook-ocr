@@ -1,0 +1,258 @@
+[
+	{
+		"id": 158,
+		"category": 1,
+		"number": 158,
+		"text": "Jaká je hmotnostní koncentrace chloridu sodného, když látková koncentrace j 1,25 mol/l? Ar(Na) = 23, Ar(CI) = 35,5",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "46,800 g/1",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "73,125 g/1",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "64,375 g/1",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "84,220 g/l",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 159,
+		"category": 1,
+		"number": 159,
+		"text": "Kolik litrů CO2 je třeba při fotosyntéze k výrobě 90 g glukosy? (Reakce probíhá z normálních podmínek.)",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "142,6 litrů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "134,4 litrů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "56,0 litrů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "67,2 litrů",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 160,
+		"category": 1,
+		"number": 160,
+		"text": "Kolik g fluoridu vápenatého musí reagovat s nadbytkem H2SO4, abychom získal 50 litrů HF? Ar(Ca) = 40, Ar(F) = 19; reakce probíhá za normálních podmínek.",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "65,84 g",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "131,69 g",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "87,05 g",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "174,1 g",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 161,
+		"category": 1,
+		"number": 161,
+		"text": "Kolik g HCl musí reagovat se sulfidem železnatým, abychom získali 44,81 sulfan Ar(Cl) = 35,5; reakce probíhá za normálních podmínek.",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "146 g",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "73g",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "126 g",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "63g",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 162,
+		"category": 1,
+		"number": 162,
+		"text": "Jaký je hmotnostní zlomek síry v kyselině thiosírové? Ar(S) = 32",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,28",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,39",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "0,49",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "0,56",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 163,
+		"category": 1,
+		"number": 163,
+		"text": "Jaký je hmotnostní zlomek vápníku ve šťavelanu vápenatém? Ar(Ca) = 40",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,42",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,48",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "0,31",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "0,27",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 164,
+		"category": 1,
+		"number": 164,
+		"text": "Jaká je koncentrace roztoku NaBr, který získáme smísením 12 ml NaB o koncentraci 1,5 mol/l a 8 ml NaBr o koncentraci 0,5 mol/l? Ar(Na) = 23 Ar(Br) = 80",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1,1 mol/l",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "103,0 g/",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "113,3 g/1",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1,0 mol/1",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 165,
+		"category": 1,
+		"number": 165,
+		"text": "Kolik vody je třeba přidat, abychom získali 8% NaF z 80g 24% roztoku NaF?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "120 g",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "80 g",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "240 g",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "160 =",
+				"correct": true
+			}
+		]
+	}
+]

@@ -1,0 +1,226 @@
+[
+	{
+		"id": 1147,
+		"category": 2,
+		"number": 1147,
+		"text": "Kolik procent kyslíku obsahuje oxid hořečnatý (rel. atomová hmotnost lystilu j 16 g/mol, hořčíku je 24 g/mol)?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "20",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "40",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "50",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "60",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1148,
+		"category": 2,
+		"number": 1148,
+		"text": "Který roztok je nejkoncentrovanější?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1 mol rozpuštěné látky v 1 molu rozpouštědla",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "2 moly rozpuštěné látky ve 3 molech rozpouštědla",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "6 molů rozpuštěné látky ve 4 molech rozpouštědla",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "4 moly rozpuštěné látky v 8 molech rozpouštědla",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1149,
+		"category": 2,
+		"number": 1149,
+		"text": "Kolik molů je 9,03 x 1023 atomů vodíku (přibližně)?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1,5",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "2,0",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "6,02",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "22,14",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1150,
+		"category": 2,
+		"number": 1150,
+		"text": "Kolik molů H2SO4 potřebujete, abyste připravili 5 1 kyseliny sírové o koncentrac 2 mol/l? (relativní atomová hmotnost vodíku = 1 g/mol, kyslíku = 16 g/mol síry = 32 g.mol-1)",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "2,5",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "10",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "20",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1151,
+		"category": 2,
+		"number": 1151,
+		"text": "Jaká je přibližná hmotnost 3 x 1023 molekul oxidu uhličitého? (rel. atomov hmotnost uhlíku je 12 g/mol, kyslíku 16 g/mol)",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "22g",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "44 g",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "88 mg",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "12 g",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1152,
+		"category": 2,
+		"number": 1152,
+		"text": "Kolik procent vody přibližně obsahuje sloučenina NazC03 * 10H20 (relativn atomová hmotnost sodíku = 23 g/mol, kyslíku = 16 g/mol, uhlíku = 12 g/mol vodíku 1 g/mol)",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "6,89",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "14,5",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "26,1",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "62,9",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1153,
+		"category": 2,
+		"number": 1153,
+		"text": "Jaká je molární koncentrace KF v roztoku, jestliže je rozpuštěno 116g soli v jedno litru vody? (relativní atomová hmotnost draslíku je 39 g.mol-?; relativní atomov hmotnost fluoru je 19 g.mol-1)",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1 mol/l",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1 mol/cm3",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "2 mol/dm3",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "0,5 mol/kg vody",
+				"correct": false
+			}
+		]
+	}
+]

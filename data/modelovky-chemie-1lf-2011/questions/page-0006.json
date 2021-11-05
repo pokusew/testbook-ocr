@@ -1,0 +1,258 @@
+[
+	{
+		"id": 34,
+		"category": 1,
+		"number": 34,
+		"text": "Co z uvedených tvrzení platí pro koordinační (komplexní) sloučeniny přechodnýc prvků:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "centrální atom kovu poskytuje elektronové páry, zatímco ligandy přispívají volným orbitaly",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "počet ligandů (koordinační číslo) je nejčastěji 7",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "komplexní částice může být kationtem, aniontem, nebo bez náboje",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou často výrazně barevné",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 35,
+		"category": 1,
+		"number": 35,
+		"text": "Oxidační číslo:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nabývá pouze kladných celých čísel od nuly do +VIII",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se vždy shoduje s vazností atomu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "s oxidací klesá",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jednojaderných iontů se shoduje s nábojem iontu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 36,
+		"category": 1,
+		"number": 36,
+		"text": "Oxidační číslo -I má například:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "atom chloru v kyselině chlorné, HCIO",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vodík v kovových hydridech",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kyslík v peroxidech",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "fluor prakticky ve všech svých sloučeninách",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 37,
+		"category": 1,
+		"number": 37,
+		"text": "V rovnici AgNO3 + NaCl → AgCl + NaNO3 náleží atomům stříbra oxidační číslo:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "stále +",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v AgNO3 +II, v AgCl +I",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "z rovnice nelze oxidační číslo zjistit",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v AgNO3 +II, v AgCl 0",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 38,
+		"category": 1,
+		"number": 38,
+		"text": "Oxidační číslo atomů uhlíku v kyselině šťavelové HOOC-COOH je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "+1",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "+II",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "+III",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "+IV",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 39,
+		"category": 1,
+		"number": 39,
+		"text": "V reakci O2 + 2H2 → 2H20:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se kyslík oxiduje na vodu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je kyslík oxidační činidlo",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se vodík redukuje na vodu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je voda produkt redukce kyslíku",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 40,
+		"category": 1,
+		"number": 40,
+		"text": "V reakci Zn + 2HCl → ZnCl2 + H2:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se oxidační čísla atomů nemění – jde pouze o rozpouštění zinku v kyselině",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zinek ztrácí elektrony a oxiduje se na Zn2+",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "molekula HCl se oxiduje na anion chloridový",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vystupuje zinek jako redukční činidlo",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 41,
+		"category": 1,
+		"number": 41,
+		"text": "Disperzní soustava, která se skládá z kapiček kapaliny rozptýlené v jiné, s n nemísitelné kapalině, se nazývá:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mlha",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "suspenze",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "emulze",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "inkluze",
+				"correct": false
+			}
+		]
+	}
+]

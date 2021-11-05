@@ -1,0 +1,258 @@
+[
+	{
+		"id": 958,
+		"category": 2,
+		"number": 958,
+		"text": "Mezi lipidy nepatří",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "glukóza",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "cholesterol",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "fosfolipidy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "látky rozpustné ve vodě",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 959,
+		"category": 2,
+		"number": 959,
+		"text": "Fosforylace",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je tvorba nových vazeb mezi uhlíkem a fosforem",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je esterifikace alkoholu kyselinou fosforečnou nebo trihydrogenfosforečnou",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "bývá katalyzována hydrolázami",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vede ke vzniku fosfátů",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 960,
+		"category": 2,
+		"number": 960,
+		"text": "Pojem hydrolýza",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zahrnuje v biochemii jak adici vody, tak i eliminaci vody",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je možné použít k popisu děje, kdy z ATP vzniká ADP",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se používá tehdy, pokud se po přidání vody substrát spontánně rozkládá",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se používá k popisu adice vody na dvojnou vazbu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 961,
+		"category": 2,
+		"number": 961,
+		"text": "Katabolický děj je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "takový děj, při kterém se spotřebovává energie",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "takový děj, při kterém se z látek s vyšším obsahem energie stávají jednodušší látky uvolňuje se energie",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "sled reakcí, které vedou ke vzniku složitějších látek",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "označení pro veškeré pochody, ve ketrých se uplatňují enzymy jako katalyzátory",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 962,
+		"category": 2,
+		"number": 962,
+		"text": "Vyznačte, které ionty nebo prvky byly oxidován 2Ag(s) + Cu2+(aq) + S0% (aq) + 2Ag2+(aq) + Cu(s) + SO42-(aq)",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Ag(s)",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Cu2+",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "SO42-(aq)",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v této reakci neprobíhá oxidace",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 963,
+		"category": 2,
+		"number": 963,
+		"text": "Jaký je produkt/jaké jsou produkty následující reakce NaCl(aq) + H2SO4(aq) →",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Na2SO4(aq)",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "H2SO3(aq)",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "H2O(1)",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "reakce neprobíhá",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 964,
+		"category": 2,
+		"number": 964,
+		"text": "Jaké jsou produkty následující reakce NaHCO3(aq) + HCl(aq) →",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "NaCl(aq) + H2O + CO2",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Na2CO3(aq) + H2O",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "H2CO3(aq) + NaCl",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "H20(1)+ CO2(g)",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 965,
+		"category": 2,
+		"number": 965,
+		"text": "Látky, které jsou silné elektrolyty mají následující vlastnost/i",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vedou proud, ve vodě se rozpouštějí, ale nemusí disociovat",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ve vodě téměř zcela disociují, rozpouštějí se, vedou proud",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ve vodě částečně disociují, vedou proud, jsou omezeně rozpustné",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou rozpustné ve vodě a všechny rozpuštěné částice jsou ve formě iont +",
+				"correct": true
+			}
+		]
+	}
+]

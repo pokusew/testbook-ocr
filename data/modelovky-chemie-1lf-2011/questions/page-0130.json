@@ -1,0 +1,290 @@
+[
+	{
+		"id": 1065,
+		"category": 2,
+		"number": 1065,
+		"text": "Komplexní vazba",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je donor-akceptorová kovalentní vazba",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vysvětluje existenci koordinačních sloučenin přechodných kovů",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je nevazebná interakce, která ovlivňuje terciární strukturu bílkovin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je kovalentní vazba, kterou se vysvětluje existence krystalických anorganických sloučenin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1066,
+		"category": 2,
+		"number": 1066,
+		"text": "Elektronegativita je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "schopnost atomu přitahovat elektrony",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "schopnost kovalentně vázaného atomu přitahovat elektronový pár",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "energie nutná k odtržení elektronů z atomu prvku v základním stavu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "energie uvolněná atomem prvku při přijetí elektronu do volného orbitalu valenční vrstvy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1067,
+		"category": 2,
+		"number": 1067,
+		"text": "Hybridizace je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "sjednocení energetických hladin různých orbitalů v rámci vrstvy daného hlavníh kvantového čísla",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "přeměna orbitalů do nového, energeticky sjednoceného orbitalu dané valenční vrstvy",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jednotka energie charakterizující energii uvolněnou energetickým sjednocením různýc orbitalů jedné vrstvy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ani jedna z výše uvedených definic není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1068,
+		"category": 2,
+		"number": 1068,
+		"text": "Hybridní orbital",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vznikne lineární kombinací atomových orbitalů valenční sféry atomu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vznikne spojením dvou stejných orbitalů různých prvků",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "existuje pouze jako atomový orbital",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "představuje průměrnou energetickou hladinu několika různých orbitalů valenční vrstvy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1069,
+		"category": 2,
+		"number": 1069,
+		"text": "Polarita kovalentní vazby je způsobena",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "rozdílnými energetickými hladinami elektronů valenční vrstvy vázaných atomů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nelineární kombinací atomových orbitalů do molekulového orbitalu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "rozdílnými elektronegativitami vázaných atomů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "rozdílným počtem elektronů obalu atomového jádra",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1070,
+		"category": 2,
+		"number": 1070,
+		"text": "Elektrický dipólový moment charakterizuje",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "rozdílnost hodnoty magnetického pole země na severním a jižním pólu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nerovnoměrné rozložení elektrického náboje v molekule",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nerovnoměrné rozložení elektrického náboje v atomu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "energii nutnou k překonání nerovnoměrného rozložení elektrického náboje v molekule",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1071,
+		"category": 2,
+		"number": 1071,
+		"text": "van der Waalsovy síly",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vznikají mezi molekulami působením van der Waalsova generátoru napětí",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou zapříčiněny především vzájemným působením molekulových dipólů",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vznikají vzájemným působením opačně nabitých iontů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou silnou mezijadernou vazbou",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1072,
+		"category": 2,
+		"number": 1072,
+		"text": "Vodíková vazba (vodíkový můstek)",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vzniká pouze mezi molekulami vody",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vzniká pouze mezi molekulami vodíku",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vzniká pouze u nepolárnich sloučenin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je slabá mezimolekulárni vazebná interakce",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1073,
+		"category": 2,
+		"number": 1073,
+		"text": "Vodíkové můstky nevznikají",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v těžké vodě - D20",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v nepolárních sloučeninách",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v jedné molekule vody",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "především ve sloučeninách vodíku s fluorem, kyslíkem a dusíkem",
+				"correct": false
+			}
+		]
+	}
+]

@@ -1,0 +1,226 @@
+[
+	{
+		"id": 1186,
+		"category": 2,
+		"number": 1186,
+		"text": "Vyberte správnou/é odpověď/odpovědi. Nasycený roztok NaCl obsahuje pr 20 °C 26,39 g rozpuštěné soli ve 100 g roztoku. Hmotnostní zlomek Nacij (zaokrouhleno na tři desetinná mista)",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,209",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,264",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "0,379",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná z uvedených možností není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1187,
+		"category": 2,
+		"number": 1187,
+		"text": "Vyberte správnou/é odpověd/odpovědi. Nasycený roztok NaCl obsahuje při 20 ° 26,39 g rozpuštěné soli ve 100 g roztoku. Hmotnostní zlomek vody je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,734",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,791",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "0,621",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "0,264",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1188,
+		"category": 2,
+		"number": 1188,
+		"text": "Vyberte správnou/é odpověd'/odpovědi. Nasycený roztok KCl obsahuje při 20 ° 25,5 g rozpuštěné soli ve 100 g roztoku. Hmotnostní zlomek KCI je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,392",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,255",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "0,203",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "0,797",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1189,
+		"category": 2,
+		"number": 1189,
+		"text": "Vyberte správnou/é odpověd/odpovědi. Nasycený roztok KCl obsahuje při 20° 25,5 g rozpuštěné soli ve 100 g roztoku. Hmotnostní zlomek vody je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,608",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,745",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "0,797",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "0,804",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1190,
+		"category": 2,
+		"number": 1190,
+		"text": "Vyberte správnou/é odpověd/odpovědi. Nasycený roztok KCl obsahuje při 20° 25,5 g rozpuštěné soli ve 100 g roztoku. Kolik soli je třeba navážit do 100 g vody aby byl získán nasycený roztok?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "25,5",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "34,2",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "29,21",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná z uvedených odpovědí není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1191,
+		"category": 2,
+		"number": 1191,
+		"text": "Vyberte správnou/é odpověd/odpovědi. Nasycený roztok KCI obsahuje při 20 ° 25,5 g rozpuštěné soli ve 100 g roztoku. Kolik vody je třeba přidat ke 34,2 g soli aby byl získán nasycený roztok?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "100 ml",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "74,5 ml",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "65,8 ml",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná z uvedených odpovědí není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1192,
+		"category": 2,
+		"number": 1192,
+		"text": "Vyberte správnou možnost/i. Jaké jsou správné stechiometrické koeficient v rovnici, která vyjadřuje reakci chloridu stříbrného s vodíkem, vzniká stříbro a chlorovodík",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "2 před chloridem stříbrným",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "2 před stříbrem",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "2 před vodíkem",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "2 před chlorovodíkem",
+				"correct": true
+			}
+		]
+	}
+]

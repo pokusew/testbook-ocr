@@ -1,23 +1,23 @@
 271) Roztok je:
-A homogenní směs
-b heterogenní směs
-C stejnorodá směs
-ď různorodá směs
-272 Látky, které disociují prakticky úplně, nazýváme:
-A silné elektrolyty
-bị slabé elektrolyty
-ci silné ionty
-dj slabé anionty
-273j pH:
-Aj je záporný dekadický logaritmus aktivity oxoniových kationtů
-bi určuje barvu roztoků
+A) homogenní směs
+b) heterogenní směs
+C) stejnorodá směs
+d) různorodá směs
+272) Látky, které disociují prakticky úplně, nazýváme:
+A) silné elektrolyty
+b) slabé elektrolyty
+c) silné ionty
+d) slabé anionty
+273) pH:
+A) je záporný dekadický logaritmus aktivity oxoniových kationtů
+b) určuje barvu roztoků
 C) určuje kyselost roztoků
-Di určuje zásaditost roztoků
+D) určuje zásaditost roztoků
 274) pH vodných roztoků:
 A) může nabývat hodnot od 0 do14
 b) může nabývat jen hodnot od 0 do 7
 C) je vždy rovno 7
-B) Ize změřit pH papírkem
+D) ze změřit pH papírkem
 275) Disociační konstanta:
 A) odvodíme ji z rovnovážné konstanty
 B) najdeme ji v tabulkách
@@ -31,15 +31,15 @@ D) je látka barvící lakmusový pH papírek do červena
 277) Zásada:
 a) je látka schopná odštěpovat proton H*
 B) je látka schopná odštěpovat anion hydroxylový OH-
-je látka barvící lakmusový pH papírek do modra
+C) je látka barvící lakmusový pH papírek do modra
 d) je látka barvící lakmusový pH papírek do červena
 278) Teorii kyselin a zásad popisuje:
 a) Heyrovského teorie
 B) klasická Arrheniova teorie
-protolytická teorie (Brönsted a Lowry)
+C) protolytická teorie (Brönsted a Lowry)
 d) Borovanského teorie
 279) Amfiprotní rozpouštědlo:
 A) je např. voda
 b) molekuly pouze proton přijímají, ale neposkytují
-() molekuly, jež mohou protony jak přijímat, tak i poskytovat
+C) molekuly, jež mohou protony jak přijímat, tak i poskytovat
 d) molekuly pouze proton poskytují, ale nepřijímají

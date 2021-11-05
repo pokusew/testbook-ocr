@@ -1,0 +1,258 @@
+[
+	{
+		"id": 457,
+		"category": 1,
+		"number": 457,
+		"text": "Vstupem heteroatomů do cyklopentadienu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se mohou volné elektronové páry heteroatomů zapojit do konjugace s ti-vazbam přítomnými v cyklu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se nemohou volné elektronové páry heteroatomů zapojit do konjugace s -vazbam přítomnými v cyklu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vznikají heterocyklické sloučeniny jejichž fyzikální a chemické vlastnosti se neliší o původní sloučeniny",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vznikají heterocyklické sloučeniny jejichž fyzikální a chemické vlastnosti se budo podobat vlastnostem benzenu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 458,
+		"category": 1,
+		"number": 458,
+		"text": "Molekulu purinu tvoří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "šestičlenný heterocyklus se dvěma dusíkovými heteroatomy",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dva šestičlenné kondenzované heterocykly celkem se čtyřmi dusíkovými heteroatomy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jeden šestičlenný heterocyklus kondenzovaný s pětičlenným heterocyklem celkem s čtyřmi dusíkovými heteroatomy",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jeden šestičlenný heterocyklus s jedním dusíkovým heteroatomem kondenzovan s jedním pětičlenným heterocyklem se dvěma dusíkovými heteroatomy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 459,
+		"category": 1,
+		"number": 459,
+		"text": "Kyselina močová je derivátem:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "purinu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "chinolinu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "indolu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "naftylaminu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 460,
+		"category": 1,
+		"number": 460,
+		"text": "Adenin:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "obsahuje ve své molekule aminoskupinu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "obsahuje ve své molekule purinovou basi",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "obsahuje ve své molekule hydroxylovou skupinu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "patří mezi heterocykly",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 461,
+		"category": 1,
+		"number": 461,
+		"text": "Tetrapyrroly jsou součástí molekuly:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hemoglobinu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vitamínu B12",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "chlorofylu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "DNA",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 462,
+		"category": 1,
+		"number": 462,
+		"text": "Cytosin je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hlavní součástí cytostatik",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "heterocyklická sloučenina",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "součástí nukleových kyselin",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "derivátem pyrimidinu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 463,
+		"category": 1,
+		"number": 463,
+		"text": "Centrálními atomy tetrapyrrolových sloučenin mohou být:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "atomy železa",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "atomy kobaltu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "atomy hořčíku",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "atomy vápníku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 464,
+		"category": 1,
+		"number": 464,
+		"text": "Guanin je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "heterocyklická sloučenina",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "sloučenina obsahující čtyři dusíkové heteroatomy v molekule",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "sloučenina obsahující purinovou basi",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "složkou nukleových sloučenin",
+				"correct": true
+			}
+		]
+	}
+]

@@ -1,0 +1,258 @@
+[
+	{
+		"id": 603,
+		"category": 1,
+		"number": 603,
+		"text": "Obojetný ion (amfoion):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je např. NH3-CH2-C00-",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nemůže existovat",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je každá struktura, která je zároveň kationtem i aniontem",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je např. 100C-C00-",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 604,
+		"category": 1,
+		"number": 604,
+		"text": "Jako N-konec polypeptidového řetězce označujeme:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zač řetězce s volnou aminoskupinou",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "začátek řetězce pokud první aminokyselina zůstává neznámá",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "začátek řetězce s volným karboxylem",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "začátek nově syntetizovaného peptidu pokud první aminokyselina je N-formyl-methionin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 605,
+		"category": 1,
+		"number": 605,
+		"text": "Tzv. biuretovou reakci dávají proteiny a jejich štěpné produkty pokud obsahuj alespoň dvě peptidové vazby. Dle této informace je možno předpokládat, ž biuretová reakce bude pozitivní i pro:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dipeptid",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "tripeptid",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pentapeptid",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "dekapeptid",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 606,
+		"category": 1,
+		"number": 606,
+		"text": "Máme syntetický peptid o struktuře: Ala-Gly-Leu-Ile-Ile-Ala-Val-Ile. Na základě tét primární struktury lze předpovědět že peptid bude:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "výborně rozpustný ve vodě",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "výrazně kyselý",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "výrazně zásaditý",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ve vodě prakticky nerozpustný",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 607,
+		"category": 1,
+		"number": 607,
+		"text": "Máme syntetický peptid o struktuře: Ala-Arg-Lys-Arg-Arg-Gln-Lys-His. Na základ této primární struktury lze předpovědět že peptid bude:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "výborně rozpustný ve vodě",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "výrazně kyselý",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "výrazně zásaditý",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ve vodě prakticky nerozpustný",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 608,
+		"category": 1,
+		"number": 608,
+		"text": "Která z následujících vazebných interakcí, které pomáhají stabilizovat konformac proteinu, má charakter vazby kovalentní:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vodíkové můstky",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "van der Waalsovy síly",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "disulfidové můstky",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná z uvedených možností",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 609,
+		"category": 1,
+		"number": 609,
+		"text": "Disulfidové můstky ve struktuře proteinu tvoří aminokyselina:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "prolin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "methionin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "cystein",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "cytosin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 610,
+		"category": 1,
+		"number": 610,
+		"text": "V rámci sekundární struktury proteinu může polypeptidový řetězec nabývat tvaru:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "antiparalelní dvojšroubovice",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "šroubovice označené jako a-helix",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "skládaného listu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vlákna nataženého do přímky",
+				"correct": false
+			}
+		]
+	}
+]

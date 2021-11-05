@@ -1,0 +1,290 @@
+[
+	{
+		"id": 666,
+		"category": 1,
+		"number": 666,
+		"text": "Vyberte správné tvrzení o nukleotidech:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v DNA se párují dvě purinové base",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v DNA se páruje adenin a guanin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v DNA se může párovat adenin a thymin",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "DNA se může párovat guanin a uracil",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 667,
+		"category": 1,
+		"number": 667,
+		"text": "Vyberte správné tvrzení o nukleotidech:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v DNA se vzájemně párují purinové a pyrimidinové base",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v DNA se vzájemně párují dvě purinové base",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v DNA se vzájemně párují dvě pyrimidinové base",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v DNA se vzájemně párují guanin a cytosin",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 668,
+		"category": 1,
+		"number": 668,
+		"text": "Vyberte správné tvrzení o sacharidové složce nukleotidů:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nukleotidy mohou obsahovat hexosu ribosu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nukleotidy mohou obsahovat pentosu deoxyribosu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "sacharid v nukleotidu vytváří glykosidovou vazbu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "sacharid v nukleotidu vytváří vodíkovou vazbu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 669,
+		"category": 1,
+		"number": 669,
+		"text": "Nutnou složkou všech enzymů je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "bílkovinná část",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kovový ion",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "koenzym",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "prostetická skupina",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 670,
+		"category": 1,
+		"number": 670,
+		"text": "Jako prostetická skupina se označuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "bílkovinná složka enzymu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "koenzym kovalentně vázaný k apoenzymu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "koenzym, který lze snadno oddělit od enzymu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zdroj energie pro většinu enzymových reakcí",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 671,
+		"category": 1,
+		"number": 671,
+		"text": "Koenzymy:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou často odvozené od vitamínů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou nutné pro funkci některých enzymů",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou organické molekuly",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou ionty přechodných kovů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 672,
+		"category": 1,
+		"number": 672,
+		"text": "V přítomnosti enzymu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se zmenšuje energetická bariéra pro vznik produktu reakce",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "reakce probíhá jiným mechanismem než bez něj",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "rovnováha reakce se posouvá ve prospěch produktů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se snižuje rychlost vratné reakce",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 673,
+		"category": 1,
+		"number": 673,
+		"text": "Aktivní centrum enzymu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je zpravidla na povrchu enzymové molekuly",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "tvarem odpovídá substrátu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vzniká prostorovým uspořádáním bílkoviny enzymu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je místem, kam se váže substrát",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 674,
+		"category": 1,
+		"number": 674,
+		"text": "Při zvyšování teploty nad teplotní optimum enzymu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se zvyšuje reakční rychlost",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "postupně může dojít k denaturaci enzymu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "velmi rychle dochází k rozpadu peptidových vazeb v molekule bílkoviny enzymu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "dochází ke změně konformace enzymu",
+				"correct": true
+			}
+		]
+	}
+]

@@ -1,0 +1,258 @@
+[
+	{
+		"id": 826,
+		"category": 1,
+		"number": 826,
+		"text": "Označte pravdivé výroky",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vaničková konformace cyklohexanu je energeticky výhodnější než židličková",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "twist forma je energeticky nejvýhodnější konformací",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "židličková konformace u cyklohexanu je energeticky výhodnější než vaničková",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vaničková konformace je energeticky nejvýhodnější",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 827,
+		"category": 1,
+		"number": 827,
+		"text": "Acetaldehyd a ethanal jsou",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "konformační izomery",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "tautomery",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "identické látky",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "konstituční izomer je",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 828,
+		"category": 1,
+		"number": 828,
+		"text": "Sloučenina s racionálním vzorcem",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "anhydrid",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "derivát furanu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "derivát pyranu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "cyklický este jsou v poloze",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 829,
+		"category": 1,
+		"number": 829,
+		"text": "Substituenty v následujícím vzorci sloučeniny",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "orto",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "met R",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "para",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "delta",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 830,
+		"category": 1,
+		"number": 830,
+		"text": "Anilin a pyridin se",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "neliší v počtu dusíků",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "neliší v počtu uhlíků",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "liší v počtu kyslíků",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "liší v počtu dusíků, vodíků i kyslíků",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 831,
+		"category": 1,
+		"number": 831,
+		"text": "C6H5- zbytek je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "fenol",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "fenyl",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "benzol",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "benzyl",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 832,
+		"category": 1,
+		"number": 832,
+		"text": "Která/které z následujících skupin představuje/představují acetyl",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "C2H50-",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "CH3CO-",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "CH3C00-",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "CH30 CH CH C OH j OH",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 833,
+		"category": 1,
+		"number": 833,
+		"text": "Správný název této sloučeniny HO",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "propanolol",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "propan-1,2,3-triol",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "glycerol",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "menthol",
+				"correct": false
+			}
+		]
+	}
+]

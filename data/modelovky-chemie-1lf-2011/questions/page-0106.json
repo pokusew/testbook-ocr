@@ -1,0 +1,290 @@
+[
+	{
+		"id": 868,
+		"category": 2,
+		"number": 868,
+		"text": "Co je triacylglycerol?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "lipid",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "glycerol se třemi esterově vázánými mastnými kyselinami",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "derivát cholesterolu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "glykolipid",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 869,
+		"category": 2,
+		"number": 869,
+		"text": "Z jakých prvků jsou složeny triacylglyceroly, součásti přírodních tuků?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pouze Ca H",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "C, H a 0",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "C, H, O a S",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "C, H, O a P",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 870,
+		"category": 2,
+		"number": 870,
+		"text": "Lidské vlasy, nehty, zvířecí drápy a pavučiny obsahují jeden stejný protein. Je to",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kolagen",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "teratogen",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "keratin",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "glykogen",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 871,
+		"category": 2,
+		"number": 871,
+		"text": "Histon je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "protein",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ve vodě rozpustný protein",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "složený z nukleových basí, pentózy a zbytku fosforečné kyseliny",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "součást eukaryotních i prokaryotních buněk",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 872,
+		"category": 2,
+		"number": 872,
+		"text": "Synonymum pro protilátky je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "imudony",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "imunoglobuliny",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ceruloplasminy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "polysacharidy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 873,
+		"category": 2,
+		"number": 873,
+		"text": "Chitin je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "bílkovina",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "polysacharid",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "fosfolipid",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "anorganická látka",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 874,
+		"category": 2,
+		"number": 874,
+		"text": "Reakční rychlost",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "roste s koncentrací reaktantů, to platí pouze pro katalyzované reakce",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "roste s koncentrací reaktantů, to platí pouze pro reakce katalyzované enzymy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "roste s koncentrací reaktantů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "roste nepřímo s koncentrací reaktantů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 875,
+		"category": 2,
+		"number": 875,
+		"text": "Enzymy",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "katalyzují tvorbu a štěpení pouze nevazebných interakcí",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "katalyzují tvorbu a štěpení iontových vazeb",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "katalyzují tvorbu a štěpení kovalentních vazeb",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "katalyzují tvorbu a štěpení všech vazeb, kromě kovalentních",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 876,
+		"category": 2,
+		"number": 876,
+		"text": "Konečným/i produktem/produkty ethanolového kvašení je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ethanol a oxid uhličitý",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ethanol, voda a oxid uhličitý",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ethanol a voda",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pouze ethanol, voda a CO",
+				"correct": false
+			}
+		]
+	}
+]

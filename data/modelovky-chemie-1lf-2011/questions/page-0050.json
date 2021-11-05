@@ -1,0 +1,290 @@
+[
+	{
+		"id": 404,
+		"category": 1,
+		"number": 404,
+		"text": "Nitrosaminy:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou nezbytné pro život",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vyvolávají rakovinné bujení",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vznikají ze sekundárních aminů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "dostávají se do těla při kouření tabáku",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 405,
+		"category": 1,
+		"number": 405,
+		"text": "Kyselina acetylsalicylová:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "tlumí bolest",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "snižuje teplotu při horečce",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zpomaluje srážení krve",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zrychluje srážení krve",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 406,
+		"category": 1,
+		"number": 406,
+		"text": "Mezi silně jedovaté alkoholy patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "methanol",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ethanol",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ethylenglykol (1,2-ethandiol)",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "glycerol (1,2,3-propantriol)",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 407,
+		"category": 1,
+		"number": 407,
+		"text": "Estery glycerolu mohou být:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "výbušnina",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "léčivo",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "součást biomembrán",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "barvivo",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 408,
+		"category": 1,
+		"number": 408,
+		"text": "Halogenderiváty uhlovodíků:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou dobře rozpustné ve vodě",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mají vysokou afinitu k tukové tkáni",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou chemicky stálé",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "neohrožují životní prostředí",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 409,
+		"category": 1,
+		"number": 409,
+		"text": "Oxidací thiolové skupiny mohou vznikat:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "disulfidy",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "sulfonové kyseliny",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vazby stabilizující strukturu bílkovin",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "silany",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 410,
+		"category": 1,
+		"number": 410,
+		"text": "Syntetický kaučuk vzniká polymerací:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "isoprenu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "buta-1,3-dienu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vinylchloridu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ethenu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 411,
+		"category": 1,
+		"number": 411,
+		"text": "Monomerem přírodního kaučuku je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1,3-butadien",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "isopren",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ethen",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vinylchlorid",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 412,
+		"category": 1,
+		"number": 412,
+		"text": "S vodou se dobře mísí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "cyklohexan",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ethanol",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "aceton",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "methanol",
+				"correct": true
+			}
+		]
+	}
+]

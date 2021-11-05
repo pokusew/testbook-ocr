@@ -1,0 +1,290 @@
+[
+	{
+		"id": 1278,
+		"category": 2,
+		"number": 1278,
+		"text": "Peroxid vodíku při styku s krví",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "šumí, protože z krve se uvolňují navázané plyny",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "působí hlavně redukčně",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "šumí, vzniká též voda",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "šumí, ale nedochází k žádné reakci, pouze ke změně skupenství",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1279,
+		"category": 2,
+		"number": 1279,
+		"text": "Krev",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se může přeměnit v pevnou látku i při teplotě nad bodem mrazu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se skládá ze dvou složek, z vody a krvinek",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se skládá asi z 80 % z vody",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v objemu 51 obsahuje několik bilionů erytrocytů",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1280,
+		"category": 2,
+		"number": 1280,
+		"text": "Denaturace DNA je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "proces, při kterém dojde k nevratné destrukci primární struktury DNA",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "proces, při kterém dojde ke vzniku jednovláknové DNA",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vždy nevratná",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nevratná, pokud se k denaturaci DNA použije vysoká teplota",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1281,
+		"category": 2,
+		"number": 1281,
+		"text": "Vápník, tj. jeho sloučeniny",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je obsažen v kostech, celkem lidská kostra obsahuje asi 1 kg vápníku",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "patří mezi stopové prvky",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "není obsažen v krvi",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "není obsažen ve zdravých buňkách",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1282,
+		"category": 2,
+		"number": 1282,
+		"text": "Talosa je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "polysacharid",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hexosa",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "sloučenina z talku, čili mastku",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "epimer glukosy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1283,
+		"category": 2,
+		"number": 1283,
+		"text": "Baktericidní účinek",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je takový účinek, který působí bakteriální nákazu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je takový účinek, který ničí bakterie",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mají antibiotika",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je účinek bakterií na fágy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1284,
+		"category": 2,
+		"number": 1284,
+		"text": "Cement je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pojivem, látkou, která má schopnost tuhnout a vázat další materiály dohromady",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pojivo, při jehož výrobě je hlavní složkou vápenec",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "druh sádry",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vyráběn hlavně z kaolínu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1285,
+		"category": 2,
+		"number": 1285,
+		"text": "Pod vzorcem Ca5X(PO4)3, kde X je F, Cl nebo OH se skrývají",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "apatity, které jsou obsaženy v kostech",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ledky, důležitá hnojiva",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "organofosfáty, jedovaté látky používané jako pesticidy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vzorec je nesmyslný a neodpovídá žádným známým sloučeninám",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1286,
+		"category": 2,
+		"number": 1286,
+		"text": "Chemická koroze",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vzniká působením vzdušné vlhkosti na kovy",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je způsobena utvořením elektrochemického článku na povrchu kovu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je způsobena reakcí vzdušného kyslíku s kovem",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "způsobuje na železe tvorbu rzi, což je hydratovaný oxid železitý",
+				"correct": true
+			}
+		]
+	}
+]

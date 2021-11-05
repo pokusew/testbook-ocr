@@ -42,4 +42,4 @@ D) separace kovových částic pomocí magnetu
 a) žádný v chemických vlastnostech, pouze se liší o jeden elektron
 B) Na nemá žádný elektron ve vrstvě s
 C) Na explozivně reaguje s vodou, Nat se ve vodě rozpouští bez chemické reakce
-c) Na existuje jako kov, Nat je pouze hypotetická látka
+d) Na existuje jako kov, Nat je pouze hypotetická látka

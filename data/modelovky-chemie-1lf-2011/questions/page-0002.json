@@ -1,0 +1,290 @@
+[
+	{
+		"id": 1,
+		"category": 1,
+		"number": 1,
+		"text": "Atom uhlíku obsahuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pouze protony a elektrony",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pouze protony a neutrony",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "protony, neutrony a elektrony",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nukleony a elektrony",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 2,
+		"category": 1,
+		"number": 2,
+		"text": "Elektrony v atomu jsou lokalizovány:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v jádře i elektronovém obalu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pouze v jádře",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pouze v elektronovém obalu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná odpověď není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 3,
+		"category": 1,
+		"number": 3,
+		"text": "Atomy se stejným počtem protonů a rozdílným počtem neutronů se nazývají:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "izotopy",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "izotypy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nuklidy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nukleotidy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 4,
+		"category": 1,
+		"number": 4,
+		"text": "Izotopy jednoho prvku mají:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "stejné chemické vlastnosti",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "stejné fyzikální vlastnosti",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "rozdílné chemické vlastnosti",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "rozdílné fyzikální vlastnosti",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 5,
+		"category": 1,
+		"number": 5,
+		"text": "Hlavní kvantové číslo n:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "určuje tvar a energii orbitalu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "charakterizuje rotační pohyb elektronů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "určuje příslušnost elektronu k jedné energetické vrstvě",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "určuje orientaci orbitalu v prostoru",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 6,
+		"category": 1,
+		"number": 6,
+		"text": "Vedlejší kvantové číslo 1:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je značeno čísly 1, 2, 3, 4... a písmeny K, L, M, N",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nabývá hodnot 0 až (n-1)",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nabývá hodnot přirozených čísel",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "určuje tvar a energii orbitalu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 7,
+		"category": 1,
+		"number": 7,
+		"text": "Vedlejší kvantové číslo l=1 charakterizuje stav nebo také elektrony:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "f",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "d",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "p",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "s",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 8,
+		"category": 1,
+		"number": 8,
+		"text": "Vyberte atomy se správně zapsanou elektronovou konfigurací v základním stavu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "uhlík 6C: 1s7, 2s, 2p4",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kation lithny Li*: 1s",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "síra 16S: 1s2, 2s?, 2p6, 3s2, 3p4",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "hořčík 12Mg: [Ne] 3s?",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 9,
+		"category": 1,
+		"number": 9,
+		"text": "Vyberte správné tvrzení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "He má ve valenční vrstvě 2 elektrony.",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "p-prvky mají valenční elektrony pouze v orbitalech p",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "s-prvky mají valenční elektrony pouze v orbitalech s",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "d-prvky mají valenční elektrony v orbitalech ns a (n-1)d",
+				"correct": true
+			}
+		]
+	}
+]

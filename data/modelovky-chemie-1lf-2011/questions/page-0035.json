@@ -1,0 +1,290 @@
+[
+	{
+		"id": 271,
+		"category": 1,
+		"number": 271,
+		"text": "Roztok je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "homogenní směs",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "heterogenní směs",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "stejnorodá směs",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "různorodá směs",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 272,
+		"category": 1,
+		"number": 272,
+		"text": "Látky, které disociují prakticky úplně, nazýváme:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "silné elektrolyty",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "slabé elektrolyty",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "silné ionty",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "slabé anionty",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 273,
+		"category": 1,
+		"number": 273,
+		"text": "pH:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je záporný dekadický logaritmus aktivity oxoniových kationtů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "určuje barvu roztoků",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "určuje kyselost roztoků",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "určuje zásaditost roztoků",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 274,
+		"category": 1,
+		"number": 274,
+		"text": "pH vodných roztoků:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "může nabývat hodnot od 0 do14",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "může nabývat jen hodnot od 0 do 7",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je vždy rovno 7",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ze změřit pH papírkem",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 275,
+		"category": 1,
+		"number": 275,
+		"text": "Disociační konstanta:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "odvodíme ji z rovnovážné konstanty",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "najdeme ji v tabulkách",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "čím vyšší je konstanta, tím nižší je síla kyselin či zásad",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jednotkou je mol/dm3",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 276,
+		"category": 1,
+		"number": 276,
+		"text": "Kyselina:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je látka schopná odštěpovat proton H*",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je látka schopná odštěpovat anion hydroxylový OH",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je látka barvící lakmusový pH papírek do modra",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je látka barvící lakmusový pH papírek do červena",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 277,
+		"category": 1,
+		"number": 277,
+		"text": "Zásada:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je látka schopná odštěpovat proton H*",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je látka schopná odštěpovat anion hydroxylový OH-",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je látka barvící lakmusový pH papírek do modra",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je látka barvící lakmusový pH papírek do červena",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 278,
+		"category": 1,
+		"number": 278,
+		"text": "Teorii kyselin a zásad popisuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Heyrovského teorie",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "klasická Arrheniova teorie",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "protolytická teorie (Brönsted a Lowry)",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Borovanského teorie",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 279,
+		"category": 1,
+		"number": 279,
+		"text": "Amfiprotní rozpouštědlo:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je např. voda",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "molekuly pouze proton přijímají, ale neposkytují",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "molekuly, jež mohou protony jak přijímat, tak i poskytovat",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "molekuly pouze proton poskytují, ale nepřijímají",
+				"correct": false
+			}
+		]
+	}
+]

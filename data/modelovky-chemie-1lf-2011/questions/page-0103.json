@@ -1,0 +1,226 @@
+[
+	{
+		"id": 846,
+		"category": 1,
+		"number": 846,
+		"text": "Tato sloučenina OP-0 je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kyselina fosforová",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kyselina fosforečná",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "fosfát",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "fosforečna -oje",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 847,
+		"category": 1,
+		"number": 847,
+		"text": "Tato sloučenina O",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "trifosfát",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kyselina trifosforečn 0",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kyselina trihydrogenfosforečná",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "fosforan",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 848,
+		"category": 1,
+		"number": 848,
+		"text": "Tato sloučenina CEO",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je oxid uhelnatý",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je oxid uhličitý",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je oxid uhelný",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "neexistuje",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 849,
+		"category": 1,
+		"number": 849,
+		"text": "Může existovat tat sloučenina?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ano",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ne, má dvojné vazby tam, kde se větví kruh",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "může, ale pouze v nasycené podobě",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nemůže, obsahuje pětivazný uhlík",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 850,
+		"category": 1,
+		"number": 850,
+		"text": "Tento vzorec H, C-COO představuje",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "acetát",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "methylester",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "oxalát",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nesmyslnou struktur OOC-CH2",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 851,
+		"category": 1,
+		"number": 851,
+		"text": "Tento vzore představuje",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "oxalá CH, COO-",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "sukcinát",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ftalát",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "laktá //",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 852,
+		"category": 2,
+		"number": 852,
+		"text": "Tento vzorec \"OOC-C představuje",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "sukcinát",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "fumarát",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "malonát",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "laktát",
+				"correct": false
+			}
+		]
+	}
+]

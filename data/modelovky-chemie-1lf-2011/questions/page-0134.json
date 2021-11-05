@@ -1,0 +1,290 @@
+[
+	{
+		"id": 1096,
+		"category": 2,
+		"number": 1096,
+		"text": "Redoxními reakcemi se nazývají reakce",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "při kterých dochází neutralizaci oxidačních kyselin silnými zásadami",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "při kterých se jedna sloučenina oxiduje a druhá redukuje",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "při kterých se jeden prvek oxiduje a jeden redukuje",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "při kterých se jedna sloučenina může zároveň oxidovat i redukovat",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1097,
+		"category": 2,
+		"number": 1097,
+		"text": "Oxidace je reakce, při níž",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "reaktant přijímá elektron",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "reaktant předává svůj elektron",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "reaktant předává svůj proton",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "reaktant odevzdává svůj proton",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1098,
+		"category": 2,
+		"number": 1098,
+		"text": "Redukce je reakce, při níž",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "reaktant přijímá elektron",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "reaktant předává svůj elektron",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "reaktant předává svůj proton",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "reaktant odevzdává svůj proton",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1099,
+		"category": 2,
+		"number": 1099,
+		"text": "Oxidační činidlo je látka, která",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je akceptorem elektronů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je donorem elektronů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je akceptorem protonů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je donorem protonů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1100,
+		"category": 2,
+		"number": 1100,
+		"text": "Redukční činidlo je látka, která",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je akceptorem elektronů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je donorem elektronů",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je akceptorem protonů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je donorem protonů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1101,
+		"category": 2,
+		"number": 1101,
+		"text": "Který/které z uvedených vztahů je/jsou správné pro dva různé plyny A a B Podmínky: stálá teplota i tlak, m je hmotnost, M je relativní molekulov hmotnost, p je hustota a c je koncentrace",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "PA/PB = ma/mb",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "PA/PB = MA/MB",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Ca = mg/MA",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "PAⓇ VA= mA, PB * VB = mb",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1102,
+		"category": 2,
+		"number": 1102,
+		"text": "Katalyzátor je látka, která",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zvyšuje výtěžek produktů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mění aktivační energii",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "posouvá rovnováhu směrem doprava",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "posouvá rovnováhu směrem doleva",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1103,
+		"category": 2,
+		"number": 1103,
+		"text": "Látka, které říkáme hydrofilní se",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "rozpouští dobře ve vodných roztocích při nízkém pH",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "téměř nerozpouští v tucích",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nerozpouští ve vodě",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "rozpouští ve vodě jenom při vysoké iontové síle",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1104,
+		"category": 2,
+		"number": 1104,
+		"text": "Adiabatický děj znamená, že",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "děj probíhá při konstantní teplotě, a současně soustava uvolňuje teplo",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "při ději zůstává tlak v soustavě nezměněn, a současně soustava přijímá teplo",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "soustava nepřijímá ani nevydává teplo",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "děj probíhá při konstantním tlaku, a současně soustava uvolňuje tepl =",
+				"correct": false
+			}
+		]
+	}
+]

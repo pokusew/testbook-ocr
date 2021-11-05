@@ -1,0 +1,290 @@
+[
+	{
+		"id": 1251,
+		"category": 2,
+		"number": 1251,
+		"text": "Alfa záření je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "tvořeno dvěma protony, dvěma elektrony a dvěma neutrony",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "tvořeno heliovými jádry",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "uvolňováno z radioaktivních materiálů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "tzv. měkké záření, neproniká příliš hluboko do ozařovaných materiálů",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1252,
+		"category": 2,
+		"number": 1252,
+		"text": "Beta záření",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je tvořeno elektrony",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je uvolňováno při radioaktivním rozpadu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "má menší energii než gama záření",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "může být vyzařováno i neradioaktivními izotopy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1253,
+		"category": 2,
+		"number": 1253,
+		"text": "Radioaktivita je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "spontánní emise vysokoenergetického elektromagnetického záření",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vyzařování elektromagnetického záření z radioaktivního zdroje",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jakékoli vyzařování z látek, které se rozpadají",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "přeměna izotopů mezi sebou",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1254,
+		"category": 2,
+		"number": 1254,
+		"text": "Které látky patří mezi binární sloučeniny?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "HCI",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "H2S",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "HCN",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "NH3",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1255,
+		"category": 2,
+		"number": 1255,
+		"text": "Molekula vodíku označovaná H2 je tvořena",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dvěma atomy vodíku spojenými iontovou vazbou",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dvěma atomy vodíku spojenými kovalentní vazbou",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dvěma atomy vodíku spojenými jádry do jednoho prvku",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "dvěma atomy vodíku spojenými sdíleným elektronovým párem",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1256,
+		"category": 2,
+		"number": 1256,
+		"text": "Které z následujících prvků jsou při teplotě 298 K a normálním atmosférické tlaku (101325 Pa) kapalné?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Br",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "CI",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "I",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Hg",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1257,
+		"category": 2,
+		"number": 1257,
+		"text": "Jak je možné znehodnotit diamant?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "rozpustit jej v silné kyselině jako HCI",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "rozpustit jej v nasyceném roztoku NaOH",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zoxidovat jej",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zredukovat jej",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1258,
+		"category": 2,
+		"number": 1258,
+		"text": "Která triáda obsahuje kov alkalických zemin, přechodný (tranzitní) kov a halogen?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Cs, Cu, I",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Ca, Sn, C1",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Be, Co, At",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Mg, AI, F",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1259,
+		"category": 2,
+		"number": 1259,
+		"text": "Typické vlastnosti přechodných kovů jsou",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "schopnost tvořit komplexy",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mají velmi omezený počet ox. čísel, především 2 a 3",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nemají zcela zaplněné d orbitaly",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nejsou paramagnetické",
+				"correct": false
+			}
+		]
+	}
+]

@@ -1,0 +1,194 @@
+[
+	{
+		"id": 624,
+		"category": 1,
+		"number": 624,
+		"text": "Uvedený vzorec j HO-P-O-P-0-P",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "deoxythymidin-5’-trifosfát OH OH OH",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "thymidintrifosfát",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "uridintrifosfát",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "cytidintrifosfát",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 625,
+		"category": 1,
+		"number": 625,
+		"text": "Označte správnou alternativu pořadí uvedenýc vzorců basí nukleových kyselin (zleva doprava O ŅH NH Н.С N N N N N N NH2 N NH",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "cytosin, adenin, uracil, thymin, guanin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "cytosin, adenin, thymin, uracil, guanin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "uracil, adenin, cytosin, thymin, guanin",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "uracil, guanin, thymin, cytosin, adenin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 626,
+		"category": 1,
+		"number": 626,
+		"text": "Která z následujících látek obsahuje purinové jádro?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "cytosin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "guanin",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "thymin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "uracil",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 627,
+		"category": 1,
+		"number": 627,
+		"text": "Která z následujících látek obsahuje pyrimidinové jádro?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "xanthin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "guanin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "adenin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "cytosin",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 628,
+		"category": 1,
+		"number": 628,
+		"text": "Deaminací cytosinu vznikne:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dihydrouracil",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "thymin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "uracil",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "thymin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 629,
+		"category": 1,
+		"number": 629,
+		"text": "Nukleotidy jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "fosforečné estery nukleosidů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "adenosin, guanosin, cytidin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kyselina guanylová, kyselina cytidylová",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "adenin, guanin, cytidin",
+				"correct": false
+			}
+		]
+	}
+]

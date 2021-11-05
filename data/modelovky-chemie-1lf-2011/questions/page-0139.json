@@ -1,0 +1,290 @@
+[
+	{
+		"id": 1138,
+		"category": 2,
+		"number": 1138,
+		"text": "Součin rozpustnosti síranu barnatého ve vodě je 1,5x10-9 a sádry, za stejnýc podmínek, je 3x10-5.S použitím této informace vyberte správné/správná tvrzení",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "síran barnatý je ve vodě méně rozpustný než sádra",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "sádra je ve vodě méně rozpustná než síran barnatý",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "síranové ionty můžeme srážet rozpustnými solemi barya (např. chloridem barnatým)",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vápenaté ionty můžeme dokázat reakcí s jakýmkoli síranem",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1139,
+		"category": 2,
+		"number": 1139,
+		"text": "Hodnota pH vodného roztoku závisí na",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "bodu varu a koncentraci kyseliny",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "na teplotě, koncentraci a sytnosti kyseliny",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "na koncentraci a sytnosti, ne na teplotě",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "na koncentraci H30+ iontů v roztoku",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1140,
+		"category": 2,
+		"number": 1140,
+		"text": "Amfoterní látka je taková, která",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je bazická v bazickém a kyselá v kyselém prostředí",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "reaguje s kyselinou na sůl a s bazí na kyselinu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "může reagovat kysele nebo zásaditě",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "poskytuje kationt nebo aniont",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1141,
+		"category": 2,
+		"number": 1141,
+		"text": "Iontový součin vody",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "má za standardních podmínek hodnotu přibližně 10-14",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "má v čitateli koncentraci produktů a ve jmenovateli výchozích látek",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je dán vztahem Ky = [H20] * [H20]",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "popisuje autoprotolýzu vody",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1142,
+		"category": 2,
+		"number": 1142,
+		"text": "Která z následujících látek představuje binární sloučeninu?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "síran draselný",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hydrid draselný",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "hydroxid draselný",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kyanid draselný",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1143,
+		"category": 2,
+		"number": 1143,
+		"text": "Který vzorec patří ke sloučenině s názvem oxalát sodný?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "CH3COONa",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "HCOONa",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "CH3ONa",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Na2C204",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1144,
+		"category": 2,
+		"number": 1144,
+		"text": "Kolik je numerický součet všech koeficientů ve správně vyčíslené rovnic Al + 0 2 = Al203? K vyčíslení použijte pouze nejmenší možná celá čísla.",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "9",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "7",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "12",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "18",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1145,
+		"category": 2,
+		"number": 1145,
+		"text": "Kolik atomů celkem obsahuje sloučenina se vzorcem CuSO4 * 5H20",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "6",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "9",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "17",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "21",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1146,
+		"category": 2,
+		"number": 1146,
+		"text": "Kolik atomů obsahují 2 moly niklu (rel. atomová hmotnost niklu je 58,9)?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "58,9",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "117,8",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1,2 x 1024",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "6,02 x 1023",
+				"correct": false
+			}
+		]
+	}
+]

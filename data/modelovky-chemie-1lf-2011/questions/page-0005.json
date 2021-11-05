@@ -1,0 +1,226 @@
+[
+	{
+		"id": 27,
+		"category": 1,
+		"number": 27,
+		"text": "Oxid uhličitý:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je polární v důsledku velkého rozdílu elektronegativit mezi uhlíkem a kyslíkem",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je nepolárni neboť elektronegativita uhlíku a kyslíku je prakticky stejná",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je nepolárni neboť polarity vazeb mezi uhlíkem a kyslíkem se vektorově ruší",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je molekuloj zároveň polární i nepolární a funguje jako detergent",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 28,
+		"category": 1,
+		"number": 28,
+		"text": "Diamant jechemicky:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "iontový kry:tal oxidu křemičitého",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "molekulový krystal uhlíku s příměsí berylia",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kovový krystal karbidu křemičitého",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "atomový krystal čistého uhlíku",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 29,
+		"category": 1,
+		"number": 29,
+		"text": "Tato struktura",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je chemicky nestabilní",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "znázorňuje zíran",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "představuje koordinační komplex kyslíku se sírou",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je příkladen molekulového iontu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 30,
+		"category": 1,
+		"number": 30,
+		"text": "Tato struktura",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je komplexním kationtem",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se skládá z jednoho iontu Cu2+ a čtyř iontů NH4+",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "obsahuje koordinačně kovalentní vazby mezi atomem mědi a atomy dusíku",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "bude pravděpodobně barevná",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 31,
+		"category": 1,
+		"number": 31,
+		"text": "Pro iontové krystaly platí že:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "elektrostatické síly mezi ionty jsou velké a teploty tání iontových sloučenin jsou vysoké",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "iv pevném skupenství dobře vedou elektrický proud",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v nich mezi jednotlivými molekulami vznikají kovalentní vazby",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se skládají z iontů pravidelně uspořádaných v prostoru",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 32,
+		"category": 1,
+		"number": 32,
+		"text": "Vazba koordinačně kovalentní:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je zvláštním typem vazby iontové",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je vždy slabší než vazba kovalentní",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se též nazývá vazba donor-akceptorová",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se v přírodnich látkách nevyskytuje",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 33,
+		"category": 1,
+		"number": 33,
+		"text": "Koordinačně kovalentní vazbu obsahuje např.:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "H2SO4",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "NH4+",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "H30+",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "H2S",
+				"correct": false
+			}
+		]
+	}
+]

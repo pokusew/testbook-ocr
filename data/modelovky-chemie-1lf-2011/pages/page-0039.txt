@@ -1,24 +1,22 @@
-=
-=
-06) Jaké je pH vodného roztoku HCl o látkové koncentraci 0,4 mmol/l? (log 2 = 0,301,
+306) Jaké je pH vodného roztoku HCl o látkové koncentraci 0,4 mmol/l? (log 2 = 0,301,
 log 3 = 0,477, log 5 = 0,699, log 7 = 0,845)
 a) 1,301
 b) 4,602
 C) 3,398
 d) 2,602
-07) Je-li v roztoku HNO3 látková koncentrace NO3- 0,002 mol/l, je pH roztoku:
+307) Je-li v roztoku HNO3 látková koncentrace NO3- 0,002 mol/l, je pH roztoku:
 (log 2 = 0,301, log 3 = 0,477, log 5 = 0,699, log 7 = 0,845)
 a) 3,301
 b) 2,301
 c) 4,699
 D) 2,699
-08) Je-li v roztoku HNO3 látková koncentrace NO3-10-4 mol/l, je pH roztoku:
+308) Je-li v roztoku HNO3 látková koncentrace NO3-10-4 mol/l, je pH roztoku:
 (log 2 = 0,301, log 3 = 0,477, log 5 = 0,699, log 7 = 0,845)
 a) 1
 b) 2
 c) 3
 D) 4
-109) Jaké je pH roztoku Ba(OH)2, jestliže látková koncentrace OH- v roztoku je
+309) Jaké je pH roztoku Ba(OH)2, jestliže látková koncentrace OH- v roztoku je
 5x10-5 mol/l? (log 2 = 0,301, log 3 = 0,477, log 5 = 0,699, log 7 = 0,845)
 a) 5
 b) 9

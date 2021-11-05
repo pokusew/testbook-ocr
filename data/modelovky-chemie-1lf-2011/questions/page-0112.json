@@ -1,0 +1,290 @@
+[
+	{
+		"id": 922,
+		"category": 2,
+		"number": 922,
+		"text": "Inositol je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "odvozený od cyklohexanu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "obsahuje jednu hydroxyskupinu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "obsahuje několik hydroxyskupin",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je heterocyklus obsahující kyslík jako heteroatom a hydroxyskupinu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 923,
+		"category": 2,
+		"number": 923,
+		"text": "Kolagen je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "základní strukturní jednotka živočišné buňky",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vláknitá bílkovina",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "hlavní součást pojiv",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "obsažen také v kostech a zubech",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 924,
+		"category": 2,
+		"number": 924,
+		"text": "Globulární bílkoviny",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mají tvar koule či klubka",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou rozpustné ve vodě",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou vláknité",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "neobsahují nikdy sloučeninu nebílkovinné povahy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 925,
+		"category": 2,
+		"number": 925,
+		"text": "Glykoproteiny",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "obsahují bílkovinnou a lipidovou část",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "obsahují bílkovinnou a sacharidovou část",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "obsahují bílkovinnou část a kov",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "obsahují bílkovinnou část a nukleovou kyselinu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 926,
+		"category": 2,
+		"number": 926,
+		"text": "Kyselou hydrolýzou polysacharidu vznikají",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "oxid uhličitý a voda",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "aminokyseliny",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jednoduché cukry",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "monosacharidy",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 927,
+		"category": 2,
+		"number": 927,
+		"text": "Monosacharidy jsou",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "polyhydroxyaldehydy nebo polyhydroxyketony",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "heterocyklické sloučeniny s šestičlenným cyklem obsahující kyslík jako heteroatom",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "štěpeny v lidském těle na polysacharidy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zásobní látky",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 928,
+		"category": 2,
+		"number": 928,
+		"text": "Polysacharidy mohou mít funkci",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zásobních látek",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "stavebních látek",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "barevných látek",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "rozpouštědel",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 929,
+		"category": 2,
+		"number": 929,
+		"text": "Mezi disacharidy patří",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "glukóza a sacharóza",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "fruktóza a maltóza",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "laktóza a sacharóza",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "laktóza a maltóza",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 930,
+		"category": 2,
+		"number": 930,
+		"text": "Celulóza",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se skládá z glukózových jednotek",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je základním stavebním kamenem všech živých buněk",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "obsahuje pektin jako svou složku",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je hlavní složkou tzv. vlákniny, nestravitelné části potravy",
+				"correct": true
+			}
+		]
+	}
+]

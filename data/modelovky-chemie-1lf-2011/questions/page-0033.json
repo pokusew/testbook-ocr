@@ -1,0 +1,290 @@
+[
+	{
+		"id": 253,
+		"category": 1,
+		"number": 253,
+		"text": "K základním krokům radikálové substituce nepatří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "iniciace",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "propagace",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "eliminace",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "substituce",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 254,
+		"category": 1,
+		"number": 254,
+		"text": "Při kondenzační reakci za vzniku peptidu jsou jednotlivé aminokyseliny mez sebou spojeny:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kovalentní vazbou",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "aminovou vazbou",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "peptidovou vazbou",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "amidovou vazbou",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 255,
+		"category": 1,
+		"number": 255,
+		"text": "Oxidace je reakce, při které dochází:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vždy pouze k přenosu elektronů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vždy pouze k přenosu vodíkových kationtů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vždy ke změně oxidačního čísla",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vždy k přenosu atomu kyslíku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 256,
+		"category": 1,
+		"number": 256,
+		"text": "Rychlost chemické reakce:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "lze vyjádřit jako rychlost úbytku reaktantů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Ize vyjádřit jako rychlost přírůstku produktů",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je nezávislá na teplotě",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je dána rozdílem AH",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 257,
+		"category": 1,
+		"number": 257,
+		"text": "Přeměna kyseliny pyrohroznové na kyselinu mléčnou je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "oxidace",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "redukce",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "tautomerní přesmyk",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "dehydratace",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 258,
+		"category": 1,
+		"number": 258,
+		"text": "Disproporcionace je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "přeměna dvou molekul jedné sloučeniny ve dvě molekuly dvou různých sloučenin",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "oxidačně redukční reakce, při které z jedné sloučeniny o středním oxidačním čísl vzniknou dvě různé sloučeniny o vyšším a nižším oxidačním čísle",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "reakce, při které neplatí zákon zachování hmotnosti",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "reakce, při které neplatí zákon o zachování elektrického náboje",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 259,
+		"category": 1,
+		"number": 259,
+		"text": "Srážecí reakce:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou takové, při kterých vzniká málo rozpustný produkt",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou reakce, při nichž vzniká pouze nepolární ve vodě nerozpustná sloučenina",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou reakce, při nichž je v rovnováze rychlost zpětné reakce rovna nule",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je například reakce hydroxidu vápenatého s oxidem uhličitým",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 260,
+		"category": 1,
+		"number": 260,
+		"text": "Protolytické reakce jsou reakce:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "při kterých dochází k výměně protonu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "při kterých dochází k rozkladu látky pomocí protonů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "typické pro kyselinu a její konjugovanou bazi",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "při kterých dochází k výměně vodíkového atomu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 261,
+		"category": 1,
+		"number": 261,
+		"text": "Při elektrolýze vody:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dochází na katodě k redukci",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dochází na anodě k redukci",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se molekulární kyslík uvolňuje na anodě",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se molekulární kyslík uvolňuje na katodě",
+				"correct": false
+			}
+		]
+	}
+]

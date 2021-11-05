@@ -1,0 +1,258 @@
+[
+	{
+		"id": 60,
+		"category": 1,
+		"number": 60,
+		"text": "Pro veliko;t poloměru atomů prvků hlavních podskupin platí trend:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "roste zleva doprava",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "klesá zleva doprava",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "klesá shora dolů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "roste shora dolů",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 61,
+		"category": 1,
+		"number": 61,
+		"text": "Kolik valerčních elektronů mají atomy všech prvků skupiny kovů alkalickýc zemin?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "2",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "4.",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 62,
+		"category": 1,
+		"number": 62,
+		"text": "Pro nepřechodné prvky periodické soustavy platí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "počet valenčních elektronů odpovídá číslu periody",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v periodě roste kladný náboj jádra zleva doprava",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "počet valenčních elektronů atomu odpovídá číslu odpovídající skupiny",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ve druhé periodě směrem od I.A k VII.A skupině rostou zásadotvorné vlastnosti prvků",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 63,
+		"category": 1,
+		"number": 63,
+		"text": "O reaktivitě prvků platí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "prvek je tím reaktivnější, čím více se jeho elektronová konfigurace blíží konfigurac vzácného plynu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mezi nejreaktivnější prvky patří neon a argon",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nejstabilnější jsou prvky s plně obsazenými elektronovými vrstvami",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "prvky skupiny alkalických kovů jsou velice reaktivní",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 64,
+		"category": 1,
+		"number": 64,
+		"text": "Pro prvky třetí periody platí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "elektropozitivní prvky snadno ztrácejí valenční elektrony a tvoří kladně nabité ionty",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "s rostoucím číslem skupiny klesá zásadotvornost a roste kyselinotvornost",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "s rostoucím číslem skupiny roste zásadotvornost a klesá kyselinotvornost",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "elektronegativní prvky přijímají elektrony a tvoří záporně nabité ionty",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 65,
+		"category": 1,
+		"number": 65,
+		"text": "O prvcích VIII.B skupiny periodické soustavy prvků platí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pro jejich atomy je charakteristické oxidační číslo VIII",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou uspořádány do tří triád (tj. tvoří 3 sloupce)",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "prvky Os, Ir a Pt patří mezi ušlechtilé kovy a nacházejí se ve čtvrté periodě",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "železo, kobalt a nikl tvoří „triádu železa\" a nacházejí se ve čtvrté periodě",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 66,
+		"category": 1,
+		"number": 66,
+		"text": "Pro stříbro platí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "patří do III. B skupiny",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "halogenidy stříbrné, hlavně AgBr, jsou citlivé na světlo, toho se využívá v černobíl fotografii",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "atomy stříbra mají ve sloučeninách vždy oxidační číslo III",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "stříbro nevede elektrický proud",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 67,
+		"category": 1,
+		"number": 67,
+		"text": "Mezi d-prvky nepatří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Ti",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Se",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "S",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Fe",
+				"correct": false
+			}
+		]
+	}
+]

@@ -1,0 +1,290 @@
+[
+	{
+		"id": 51,
+		"category": 1,
+		"number": 51,
+		"text": "Chlorid amonný:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "má ve své molekule čtyři atomy vodíku",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "rozpuštěním ve vodě dává zásaditý roztok",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "uvolňuje po přidání hydroxidu sodného amoniak",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je silné oxidační činidlo",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 52,
+		"category": 1,
+		"number": 52,
+		"text": "Při rozpouštění látek ve vodě:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dochází k elektrolytické disociaci iontových sloučenin",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "snáze se rozpouštějí nepolární molekuly",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kolem iontů se vytvářejí hydratační obaly",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "molekuly vody nepůsobí na rozpuštěné částice žádnými silami",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 53,
+		"category": 1,
+		"number": 53,
+		"text": "Periodický zákon říká, že:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vlastnosti prvků jsou periodickou funkcí jejich protonového čísla",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "prvky všech period mají stejné vlastnosti",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "prvky stejné periody mají stejný počet valenčních elektronů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vlastnosti prvků stejné periody jsou totožné",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 54,
+		"category": 1,
+		"number": 54,
+		"text": "Protonové číslo určuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "počet protonů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "udává pořadové číslo prvku v periodické tabulce",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "i počet elektronů, a tím pádem i strukturu elektronového obalu atomu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "počet pozitronů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 55,
+		"category": 1,
+		"number": 55,
+		"text": "Označte správné tvrzení o chalkogenech:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou to prvky, které patří do skupiny VI.B",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "atomy chalkogenů mají ve valenční vrstvě čtyři p-elektrony",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mezi chalkogeny patří prvky, které mají ve valenční sféře 6 elektronů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "aby dosáhly stabilní konfigurace vzácného plynu, tak potřebují přijmout dva elektrony",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 56,
+		"category": 1,
+		"number": 56,
+		"text": "Mezi kovy alkalických zemin patří",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "sodík",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Mg",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "draslík a vápník",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "hořčík a vápník",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 57,
+		"category": 1,
+		"number": 57,
+		"text": "Prvky vedlejších skupin 1-VIII.B:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou inertní",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou kovy",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou všechny radioaktivní",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se také označují jako prvky přechodné",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 58,
+		"category": 1,
+		"number": 58,
+		"text": "Chemické vlastnosti prvků jsou určené:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pouze hmotnostní číslem",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "uspořádáním vnější elektronové slupky",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pouze počtem a uspořádáním neutronů v jádře",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "počtem valenčních elektronů",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 59,
+		"category": 1,
+		"number": 59,
+		"text": "Elektronegativita:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je míra schopnosti atomu přitahovat elektrony",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je schopnost jádra atomu odpuzovat elektrony",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je vlastnost, kterou pozorujeme pouze u prvků hlavních skupin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v periodické tabulce sledujeme trend nárůstu zleva doprava a poklesu shora dolů",
+				"correct": true
+			}
+		]
+	}
+]

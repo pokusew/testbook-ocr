@@ -1,0 +1,290 @@
+[
+	{
+		"id": 974,
+		"category": 2,
+		"number": 974,
+		"text": "Vyberte správný/é název/názvy pro sloučeninu se vzorcem BaSO4",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "síran barnatý",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "síran berylnatý",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "arsenitan bority",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "arseničnan bority",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 975,
+		"category": 2,
+		"number": 975,
+		"text": "Vyberte správný/é název/názvy pro sloučeninu se vzorcem Sic",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "karbid křemičitý",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "křemičitan uhličitý",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "silicid uhličitý",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "uhličitan křemičitý",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 976,
+		"category": 2,
+		"number": 976,
+		"text": "Vyberte správný/é název/názvy pro sloučeninu se vzorcem BH,",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "alan",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "boran",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "hydrid barya",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "hydrid berylia",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 977,
+		"category": 2,
+		"number": 977,
+		"text": "Vyberte správný/é název/názvy pro sloučeninu se vzorcem NH3",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "čpavek",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hydrid nitridu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nitrid hydridu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "amoniak",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 978,
+		"category": 2,
+		"number": 978,
+		"text": "Vyberte správný/é název/názvy pro CO2 (s)",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "oxid uhelnatý",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "oxid uhličitý, plynná fáze",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "oxid uhličitý, pevná fáze",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "suchý led",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 979,
+		"category": 2,
+		"number": 979,
+		"text": "Vyberte správný/é název/názvy pro sloučeninu se vzorcem P2H2",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "disulfan",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hydrid fosforu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "difosfan",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "fosforovodík",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 980,
+		"category": 2,
+		"number": 980,
+		"text": "Vyberte správný/é název/názvy pro sloučeninu se vzorcem Mn02",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "oxid manganatý",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "oxid manganičitý",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "krevel",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "burel",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 981,
+		"category": 2,
+		"number": 981,
+		"text": "Vyberte správný/é název/názvy pro sloučeninu se vzorcem As2O3",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "oxid arseničný",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "oxid arsenitý",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "cyankali",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "arsenik",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 982,
+		"category": 2,
+		"number": 982,
+		"text": "Vyberte správný/é název/názvy pro sloučeninu se vzorcem MgTi03",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "titaničitan hořečnatý",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "titaničnan hořečnatý",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "peroxid hořečnato-titaničitý",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "trioxid hořečnato-titaničitý",
+				"correct": true
+			}
+		]
+	}
+]

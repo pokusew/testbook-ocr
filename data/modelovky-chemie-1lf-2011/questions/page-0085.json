@@ -1,0 +1,290 @@
+[
+	{
+		"id": 702,
+		"category": 1,
+		"number": 702,
+		"text": "Proteiny jsou v trávicím traktu člověka štěpeny:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "účinkem lyas",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "účinkem hydrolas",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "účinkem proteas",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "účinkem HCI",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 703,
+		"category": 1,
+		"number": 703,
+		"text": "Vitamínem rozpustným ve vodě je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pyridoxin",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kortisol",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "riboflavin",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kalcitonin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 704,
+		"category": 1,
+		"number": 704,
+		"text": "Vitamíny mohou mít strukturu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "polypeptidů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "heterocyklickou",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "derivátů sacharidů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "isoprenoidní",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 705,
+		"category": 1,
+		"number": 705,
+		"text": "Vitamíny:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou syntetizovány v lidském organismu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mohou být přeměněny na koenzymy",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mohou být přeměněny na hormony",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou výhradně rostlinného původu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 706,
+		"category": 1,
+		"number": 706,
+		"text": "Kortizol je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hydrofilní",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "derivát cholesterolu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vitamín",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "hormon",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 707,
+		"category": 1,
+		"number": 707,
+		"text": "Inzulín:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vzniká translací",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "účinkuje v těle po ústním podání ve formě tablet",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "reguluje metabolismus",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je štěpen a-amylasou",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 708,
+		"category": 1,
+		"number": 708,
+		"text": "Hormony:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "katalyzují průběh chemických reakcí",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mohou být látky lipofilní povahy",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mohou být látky hydrofilní povahy",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mohou být látky bílkovinné povahy",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 709,
+		"category": 1,
+		"number": 709,
+		"text": "Adrenalin:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je heterocyklická sloučenina",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je derivátem vitamínů skupiny B",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "tvoří koenzymy pro řadu enzymů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je hormon",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 710,
+		"category": 1,
+		"number": 710,
+		"text": "Mezi enzymy slinivky břišní nepatří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "chymotrypsin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "trypsin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pepsin",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "amylasa",
+				"correct": false
+			}
+		]
+	}
+]

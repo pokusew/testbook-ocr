@@ -1,0 +1,258 @@
+[
+	{
+		"id": 983,
+		"category": 2,
+		"number": 983,
+		"text": "Vyberte správný/é název/názvy pro sloučeninu se vzorcem 2 Cu(OH)2 · Cr(OH)3",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hydroxid diměďnato-chromitý",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hydroxid chromito-měďnatý",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "tuto sloučeninu nelze systematicky pojmenovat",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "dihydrát měd'nato-chromitý",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 984,
+		"category": 2,
+		"number": 984,
+		"text": "Vyberte správný/é název/názvy pro vodný roztok H2S",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "sirovodík (zastaralý název)",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "sulfan",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kyselina sirovodíková (zastaralý název)",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kyselina sulfanová",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 985,
+		"category": 2,
+		"number": 985,
+		"text": "Vyberte správný/é název/názvy pro sloučeninu se vzorcem H3106",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kyselina pentahydrogenjodičná",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kyselina dithionová",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kyselina pentahydrogenjodista",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kyselina pentahydrogenjodová",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 986,
+		"category": 2,
+		"number": 986,
+		"text": "Vyberte správný/é název/názvy pro sloučeninu se vzorcem HOCN",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kyselina oxo-kyanovodíková",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kyselina kyanatá",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kyselina nitroxylová",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kyselina kyanurová",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 987,
+		"category": 2,
+		"number": 987,
+		"text": "Vyberte správný/é název/názvy pro sloučeninu se vzorcem H2Cr20,",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kyselina heptaoxochromitá",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kyselina dihydrogen dichromová",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kyselina dihydrogen chromista",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kyselina dichromitá",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 988,
+		"category": 2,
+		"number": 988,
+		"text": "Vyberte správný/é název/názvy pro sloučeninu se vzorcem NOCI",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "chlorid nitrosylu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "oxid-chlorid dusitý",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "chlornan dusný",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "chlorid kyseliny dusité",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 989,
+		"category": 2,
+		"number": 989,
+		"text": "Vyberte správný/é výrok/y",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "viontových rovnicích jsou si stechiometrické koeficienty na pravé a levé straně rovny",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v iontových rovnicích se součet nábojů na levé straně rovná součtu nábojů na prav straně",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v iontových rovnicích jsou disociovány i pevné, nerospustné sloučeniny",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "iontové rovnice se nevyčíslují, tj. rovnice je správná i tehdy, pokud nemá správn doplněné stechiometrické koeficienty",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 990,
+		"category": 2,
+		"number": 990,
+		"text": "Správný zápis iontové rovnice popisující vznik síranu sodného z kyseliny sírové hydroxidu sodného je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "2NaOH + H2SO4 → 2Na+ + SO4- + H20",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "2Na+ + 20H% + 2H+ + SO4 + 2Na+ + SO4 + 2H20",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "2NaOH + 2H+ + SO4 → 2Na+ + SO4 + 2H20",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "2Na+ + 2OH + H2SO4+ 2Na+ + SOą- + 2H20",
+				"correct": false
+			}
+		]
+	}
+]

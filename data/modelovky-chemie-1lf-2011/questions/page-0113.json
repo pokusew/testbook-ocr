@@ -1,0 +1,290 @@
+[
+	{
+		"id": 931,
+		"category": 2,
+		"number": 931,
+		"text": "Fruktóza",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je disacharid",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "patří mezi ketózy",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "spolu s glukózou tvoří maltózu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je známá i pod starším označením ovocný cukr",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 932,
+		"category": 2,
+		"number": 932,
+		"text": "Inulin je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "polysacharid, zásobní cukr hvězdnicovitých rostlin",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "možno používat u diabetiků",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "monosacharid s pětičlenným cyklem",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "hormon, který řídí zpracování glukózy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 933,
+		"category": 2,
+		"number": 933,
+		"text": "Který/é výrok/y je/jsou nesprávný/é",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vitamín A je rozpustný v tucích",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vitamín C je rozpustný v tucích",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vitamíny skupiny B jsou rozpustné ve vodě",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vitamín D není rozpustný ve vodě",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 934,
+		"category": 2,
+		"number": 934,
+		"text": "Který/é výrok/y je/jsou nesprávný/é",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "retinol se vytváří z beta-karotenu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "při nedostatku vitamínu B1 může dojít k postižení vývoje kostí",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vitamín D je obsažen v rybím tuku",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vitamíny A, C a E jsou rozpustné ve vodě",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 935,
+		"category": 2,
+		"number": 935,
+		"text": "Vitamín B6 je odvozený od",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pyridinu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pyrimidinu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "purinu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pyrrolu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 936,
+		"category": 2,
+		"number": 936,
+		"text": "Který/é výrok/y je/jsou nesprávný/é",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v molekule ATP se vyskytuje esterově vázaná kyselina fosforečná",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v molekule ATP se vyskytuje vazba -P-C-",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v molekule ATP se vyskytují tři zbytky kyseliny fosforečné",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "molekula ATP neobsahuje glykosidickou vazbu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 937,
+		"category": 2,
+		"number": 937,
+		"text": "Který/é výrok/y je/jsou nesprávný/é",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nadledviny produkují steroidní hormony",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pohlavní žlázy produkují steroidní hormony",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "hypofýza produkuje steroidní hormony",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "lymfatický systém produkuje steroidní hormony",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 938,
+		"category": 2,
+		"number": 938,
+		"text": "Který/é výrok/y je/jsou nesprávný/é",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "štítná žláza produkuje také pohlavní hormony",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hypofýza vylučuje adrenokortikotropní hormon",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "štítná žláza produkuje thyroxin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pankreas produkuje inzulin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 939,
+		"category": 2,
+		"number": 939,
+		"text": "Který/é výrok/y je/jsou nesprávný/é",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "inzulin se tvoří v pankreatu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "inzulin štěpí sacharózu na glukózu a fruktózu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "inzulin zvyšuje dostupnost glukózy pro buňku",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "inzulin se tvoří v hypofýze",
+				"correct": true
+			}
+		]
+	}
+]

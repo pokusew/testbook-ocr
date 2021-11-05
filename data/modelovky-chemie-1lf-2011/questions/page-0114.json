@@ -1,0 +1,290 @@
+[
+	{
+		"id": 940,
+		"category": 2,
+		"number": 940,
+		"text": "Který/é výrok/y je/jsou nesprávný/é",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "adrenalin je odvozen od dihydroxyderivátu benzenu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "obsahuje dusík",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "patří mezi steroidní hormony",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "způsobuje nárůst krevního tlaku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 941,
+		"category": 2,
+		"number": 941,
+		"text": "Mezi alkaloidy obsažené v máku patří",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "heroin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "atropin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "morfin",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nikotin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 942,
+		"category": 2,
+		"number": 942,
+		"text": "Pyrol je součástí",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hemu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vitamínu B1",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vitamínu B6",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "není součástí žádné z uvedených látek",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 943,
+		"category": 2,
+		"number": 943,
+		"text": "Kyselina mléčná",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vzniká mléčným kvašením cukrů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je konečným produktem metabolismu tuků",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "její sůl laktát se tvoří z pyruvátu při anaerobní glykolýze",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vzniká oxidací pyruvátu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 944,
+		"category": 2,
+		"number": 944,
+		"text": "Glukóza-6 fosfát vzniká v procesu glykolýzy. K jejímu vzniku tímto procesem j potřeba",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jedna molekula glukózy a jedna molekula NADP",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jedna molekula glukózy a jedna molekula ATP",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kináza",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pyruvát",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 945,
+		"category": 2,
+		"number": 945,
+		"text": "Glyceraldehyd nebo jeho deriváty vznikají při",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "metabolismu nukleových kyselin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "metabolismu sacharidů",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "syntéze peptidů na ribosomech",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "odbourávání bílkovin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 946,
+		"category": 2,
+		"number": 946,
+		"text": "Sorbitol se od sorbózy liší",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "chutí",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "přítomností další aldehydové skupiny",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vyšším počtem -OH skupin",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nepřítomností aldehydové skupiny",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 947,
+		"category": 2,
+		"number": 947,
+		"text": "Glukóza",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se v lidském těle metabolizuje, přičemž konečným produktem glykolýzy je triacylglycerol",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je uschována ve formě glykogenu v játrech",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je během glykolýzy redukována",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je během glykolýzy štěpena na molekuly s nižším počtem uhlíků než 6",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 948,
+		"category": 2,
+		"number": 948,
+		"text": "Během Krebsova cyklu dochází",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "k tvorbě glukózy",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "k tvorbě oxidu uhličitého",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "k tvorbě NADH",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "k tvorbě mastných kyselin",
+				"correct": false
+			}
+		]
+	}
+]

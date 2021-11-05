@@ -1,0 +1,258 @@
+[
+	{
+		"id": 465,
+		"category": 1,
+		"number": 465,
+		"text": "Kofein je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "heterocyklická sloučenina obsažená v kávě a v čaji",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "derivátem purinu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "derivátem fenolu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "heterocyklická sloučenina obsahující dva kyslíkové heteroatomy v molekule",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 466,
+		"category": 1,
+		"number": 466,
+		"text": "Thiofen:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "obsahuje ve své molekule jednu thioskupinu a fenol",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "obsahuje ve své molekule jeden heteroatom síry",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "obsahuje ve své molekule pětičlenný cyklus se dvěma dvojnými vazbami",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "obsahuje ve své molekule šestičlenný cyklus se dvěma heteroatomy síry",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 467,
+		"category": 1,
+		"number": 467,
+		"text": "Molekula uracilu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "může obsahovat dvě hydroxylové skupiny (enol tautomerní forma), nebo dvě oxoskupi (oxo tautomerní forma)",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "může obsahovat dvě aminoskupiny",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je součástí urey (močoviny)",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je součástí nukleových kyselin",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 468,
+		"category": 1,
+		"number": 468,
+		"text": "Thymin obsahuje ve své molekule:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jednu methylovou skupinu, jednu aminoskupinu a jednu hydroxyskupinu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dva heteroatomy dusíku",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jednu methylovou skupinu a dvě hydroxylové skupiny, nebo dvě oxoskupiny (podle en oxo tautomerie)",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pyrimidinový šestičlenný kruh",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 469,
+		"category": 1,
+		"number": 469,
+		"text": "Vyberte správné/á tvrzení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "piperidin a ethylenoxid patří mezi nasycené heterocyklické sloučeniny",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "benzidin a naftylamin nepatří mezi heterocyklické sloučeniny",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "indol a chinolin jsou kondenzované heterocyklické sloučeniny, každá se dvěm dusíkovými heteroatomy ve své molekule",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pyrrol a pyridin mají stejný počet dusíkových heteroatomů v molekule",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 470,
+		"category": 1,
+		"number": 470,
+		"text": "Nikotin můžeme zařadit mezi:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "anorganické sloučeniny",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "alifatické uhlovodíky s trojnou vazbou",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "cyklické sloučeniny s dusíkovým heteroatomem",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "heterocyklické sloučeniny s kyslíkovým heteroatomem",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 471,
+		"category": 1,
+		"number": 471,
+		"text": "Galaktosa je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "epimer fruktosy",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "součást maltosy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "součást laktosy",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ketohexosa",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 472,
+		"category": 1,
+		"number": 472,
+		"text": "Fruktosa",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "součást laktosy",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "aldohexosa",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ketohexosa",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "součást sacharosy",
+				"correct": true
+			}
+		]
+	}
+]

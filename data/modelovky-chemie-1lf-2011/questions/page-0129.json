@@ -1,0 +1,194 @@
+[
+	{
+		"id": 1059,
+		"category": 2,
+		"number": 1059,
+		"text": "Pevnost chemické vazby se hodnotí podle",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "počtu elektronů, které jsou v dané vazbě sdíleny",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "rozdílu elektronegativit atomů, mezi kterými vazba existuje",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "energie potřebné k jejímu rozštěpení",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "hodnoty vlnové funkce molekulárního orbitalu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1060,
+		"category": 2,
+		"number": 1060,
+		"text": "O kovalentní vazbě platí",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je založena na sdílení elektronů (tj. na překryvu atomových orbitalů), vzájemně vázanýc atomů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je založena na sdílení elektronů, převážně jejich dvojic",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vzniká při ní také nevazebný molekulový orbital",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vzniká překryvem libovolných orbitalů valenční vrstvy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1061,
+		"category": 2,
+		"number": 1061,
+		"text": "Kovalentní vazba nemůže vzniknout tímto postupem",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vzájemným sdílením elektronů valenční vrstvy",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "odtržením elektronů od atomu - donoru a jejich převodem k atomu - akceptoru",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nabídnutím elektronového páru donorového atomu na sdílení s akceptorovým atomem který má prázdný orbital (donor-akceptorová vazba)",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "excitací elektronů do vyšší valenční vrstvy",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1062,
+		"category": 2,
+		"number": 1062,
+		"text": "Které z následujících výroků o kovalentní vazbě o jsou pravdivé",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je to typ iontové vazby mezi atomy s nižšími rozdíly v elektronegativitě",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vznikne obsazením vazebného molekulového orbitalu o, který má osu souměrnost totožnou se spojnicí vázaných atomových jader a velkou elektronovou hustotou na tét spojnici",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vznikne obsazením vazebného atomového orbitalu o, který má osu souměrnost totožnou se spojnicí vázaných atomových jader a velkou elektronovou hustotou na tét spojnici",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vzniká překryvem libovolných orbitalů valenční vrstvy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1063,
+		"category": 2,
+		"number": 1063,
+		"text": "Jednoduchá kovalentní vazba je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "téměř vždy tvořena vazebným molekulovým orbitalem i",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "téměř vždy tvořena vazebným molekulovým orbitalem o",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "téměř vždy tvořena atomovými orbitaly d",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "téměř vždy tvořena atomovými orbitaly f",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1064,
+		"category": 2,
+		"number": 1064,
+		"text": "Vazby C-H v metanu jsou tvořeny",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kombinací kovalentních vazeb orbitalů p uhlíku s orbitaly s vodíku. To platí pouze pr dvě vazby. Další dvě jsou tvořeny donor-akceptorovou vazbou, kde akceptorem je uhlík poskytující vakantní orbitaly d a dva vodíky poskytují dva volné elektrony. Důvode tohoto uspořádání je elektronová konfigurace 1s22p2. Orbital s atomu uhlíku je zaplněn nemůže se tedy účastnit žádné chemické vazby, orbitaly p obsahují pouze dv elektrony, a to je důvod existence donor-akceptorové vazby u dvou vazeb ze čtyř",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jeden elektron z orbitalu 1s atomu uhlíku je excitován do orbitalu p. Tím vzniknou čtyř nepárové elektrony, které se účastní kovalentní vazby s atomy vodíku",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "orbital vrstvy K (tj. orbital 1s) a tři orbitaly vrstvy L (tj. orbitaly 2px 2py, 2pz) vytvoř hybridizovaný orbital - sp3, který se účastní vazeb s orbitaly atomů vodíku",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vazba C-H je zvláštní kovalentní vazba, jejíž vlastnosti neodpovídají ani jednomu z výš uvedených popisů",
+				"correct": false
+			}
+		]
+	}
+]

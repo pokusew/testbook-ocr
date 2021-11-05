@@ -1,0 +1,290 @@
+[
+	{
+		"id": 630,
+		"category": 1,
+		"number": 630,
+		"text": "Nukleotidy jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "uridin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "thymidylát",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "složené bílkoviny, kdezebílkovinnou složkou je kyselina polyuronová",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "xanidylát",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 631,
+		"category": 1,
+		"number": 631,
+		"text": "Základními stavebnni jednotkami nukleových kyselin jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nukleosidy",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nukleotidy",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "purinové a pyrimidinyé base",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "makroergické sloučerny",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 632,
+		"category": 1,
+		"number": 632,
+		"text": "ATP je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "aminokyselina",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nukleová kyselina",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nukleosid",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nukleotid",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 633,
+		"category": 1,
+		"number": 633,
+		"text": "ATP obsahuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jednu makroergickourazbu kyseliny fosforečné",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dvě makroergické vazy kyseliny fosforečné",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "žádnou makroergicka vazbu kyseliny fosforečné",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "tři makroergické vazb, kyseliny fosforečné",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 634,
+		"category": 1,
+		"number": 634,
+		"text": "Který z párů basí neacházíme v DNA?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "G-C",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "A-U",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "A-T",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "G-I",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 635,
+		"category": 1,
+		"number": 635,
+		"text": "Který z párů basí neacházíme v RNA?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "A-U",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "G-C",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "T-A",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "U-A",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 636,
+		"category": 1,
+		"number": 636,
+		"text": "V DNA se nevyskytuj:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "uracil",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "thymin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "adenin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "guanin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 637,
+		"category": 1,
+		"number": 637,
+		"text": "V RNA se nevyskytuj):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "adenin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "thymin",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "guanin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "uracil",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 638,
+		"category": 1,
+		"number": 638,
+		"text": "mRNA se v cytoplasně váže na:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "chromosomy",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "lysosomy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ribosomy",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mitochondrie",
+				"correct": false
+			}
+		]
+	}
+]

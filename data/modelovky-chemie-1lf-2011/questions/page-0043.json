@@ -1,0 +1,290 @@
+[
+	{
+		"id": 341,
+		"category": 1,
+		"number": 341,
+		"text": "Kovy alkalických zemin:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vyskytují se výhradně s oxidačním číslem +I",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "patří mezi ně například stroncium",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jejich oxidy řadíme mezi tzv. kyselinotvorné",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "izotopy žádného z nich nejsou radioaktivní",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 342,
+		"category": 1,
+		"number": 342,
+		"text": "Manganistan draselný:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je oxidační činidlo",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je znám pod triviálním označením hypermangan",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "má antiseptické účinky",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "velmi dobře se rozpouští ve vodě",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 343,
+		"category": 1,
+		"number": 343,
+		"text": "Stříbro:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "má baktericidní účinky, pro které se využívá ve zdravotnictví",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "využívá se ve fotografickém průmyslu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "působením H2S černá",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nevyskytuje se ve sloučeninách, pouze jako čistý prvek",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 344,
+		"category": 1,
+		"number": 344,
+		"text": "Olovo:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je toxický kov",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "typické jsou pro něj sloučeniny v oxidačních stavech +1 a +III",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "používá se k ochraně před RTG zářením",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je součástí některých elektrických akumulátorů",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 345,
+		"category": 1,
+		"number": 345,
+		"text": "Radium:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je přechodný kov",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jeho objevitelé byli manželé Marie a Pierre Curie",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se v přírodě vyskytuje jako příměs smolince",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "využívá se při radioterapii zhoubných nádorů",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 346,
+		"category": 1,
+		"number": 346,
+		"text": "Kyselina fosforečná tvoří biologicky významné:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "halogenderiváty",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "estery",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "soli",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "anhydridy",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 347,
+		"category": 1,
+		"number": 347,
+		"text": "Zinek v malých dávkách:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "potlačuje aktivitu řady enzymů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "působí toxicky na organismus",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "aktivuje některé enzymy",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je nezbytný pro život",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 348,
+		"category": 1,
+		"number": 348,
+		"text": "Kadmium v malých dávkách:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "poškozuje řadu enzymů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "aktivuje některé enzymy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je nezbytné pro život",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "působí toxicky na organismus",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 349,
+		"category": 1,
+		"number": 349,
+		"text": "Pro rtuť platí, že:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "páry jsou velmi jedovaté",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je součástí enzymů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "tvoří amalgámy",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ve vodě rozpustné sloučeniny jsou jedovaté",
+				"correct": true
+			}
+		]
+	}
+]

@@ -1,0 +1,290 @@
+[
+	{
+		"id": 774,
+		"category": 1,
+		"number": 774,
+		"text": "Anilin lze připravit",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "z chlorbenzenu a kyseliny dusičné",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "z pyridinu redukcí",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "z nitrobenzenu redukcí",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "z fenolu a amoniaku za kyselé katalýzy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 775,
+		"category": 1,
+		"number": 775,
+		"text": "Oxidací kyseliny mravenčí získáme",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "oxid uhličitý a vodu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "výchozí látky, kyselina mravenčí je v nejvyšším oxidačním stupni, nejde tudíž oxidovat",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kyselinu šťavelovou",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kyselinu fumarovou",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 776,
+		"category": 1,
+		"number": 776,
+		"text": "Glycerol je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "trojsytný alkohol",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "propan-1,2,3-triol",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jeden z produktů vzniklající při hydrolýze tuků",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nenasycený alkohol",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 777,
+		"category": 1,
+		"number": 777,
+		"text": "Reakce, při které z alkoholu vzniká alken je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "adice",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "substituce",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "eliminace",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "dehydratace",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 778,
+		"category": 1,
+		"number": 778,
+		"text": "Alkoholy jsou",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "slabé kyseliny, jsou však kyselejší než voda",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "slabé zásady, jsou však zásaditější než voda",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "neutrální sloučeniny, pKa je stejné jako voda",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "někdy kyselejší někdy zásaditější než voda, podle okolního prostředí",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 779,
+		"category": 1,
+		"number": 779,
+		"text": "Jestliže je fenol kyselejší než alkohol, pak platí, že",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vodný roztok fenolu má nižší pH než vodný roztok alkoholu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "fenol tvoří snáze soli, a to i se slabšími bazen",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "fenol má vždy vyšší bod varu než jakýkoli alkohol",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "fenol snadněji odštěpuje proton z -OH skupiny než alkohol",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 780,
+		"category": 1,
+		"number": 780,
+		"text": "Nikotinamid je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "sůl kyseliny nikotinové",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "derivát pyridinu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "amid karboxylové kyseliny",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ester kyseliny nikotinové",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 781,
+		"category": 1,
+		"number": 781,
+		"text": "Glykosidová vazba spojuje",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zbytek kyseliny fosforečné k deoxyribóze v molekule DNA",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "sacharid ke steroidu u tzv. steroidních glykosidů",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "adenosin ke třem zbytkům kyseliny fosforečné",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "monosacharidy mezi sebou v molekule oligo- nebo polysacharidu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 782,
+		"category": 1,
+		"number": 782,
+		"text": "Která čísla můžeme dosadit do vzorce CHCl, aby výsledek byl správný",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "5",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "2",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "3",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "2 a 3",
+				"correct": false
+			}
+		]
+	}
+]

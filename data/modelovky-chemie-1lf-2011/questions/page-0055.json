@@ -1,0 +1,258 @@
+[
+	{
+		"id": 449,
+		"category": 1,
+		"number": 449,
+		"text": "Které z těchto sloučenin patří mezi heterocyklické sloučeniny?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "indol",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "anthracen",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "purin",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "naftol",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 450,
+		"category": 1,
+		"number": 450,
+		"text": "Furan:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "obsahuje ve své molekule dusíkový heteroatom",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "obsahuje ve své molekule kyslíkový heteroatom",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "obsahuje ve své molekule síru jako heteroatom",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jeho deriváty vznikají degradací sacharidů",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 451,
+		"category": 1,
+		"number": 451,
+		"text": "Které z uvedených sloučenin patří mezi monocyklické heterocyklické sloučeniny",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "chinolin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "prolin",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pyridoxin",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kyselina močová",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 452,
+		"category": 1,
+		"number": 452,
+		"text": "Které z uvedených heterocyklických sloučenin obsahují pětičlenný kruh?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "piperidin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "furan",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "thiofen",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pyridin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 453,
+		"category": 1,
+		"number": 453,
+		"text": "Které z uvedených heterocyklických sloučenin obsahují šestičlenný kruh?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "thiolan",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kyselina nikotinová",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pyridazin",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "oxolan",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 454,
+		"category": 1,
+		"number": 454,
+		"text": "Které z těchto látek obsahují heterocyklické složky?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "chlorofyl",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ATP",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "NAD",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vitamín A",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 455,
+		"category": 1,
+		"number": 455,
+		"text": "Základ tetrapyrrolových sloučenin tvoří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dvě molekuly pyrrolu a dvě molekuly pyridinu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "čtyři molekuly pyrazolu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "čtyři molekuly pyrrolu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "čtyři molekuly pyrogallolu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 456,
+		"category": 1,
+		"number": 456,
+		"text": "U pětičlenných heterocyklů furanu, thiofenu a pyrrolu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "podobnost s benzenem vzrůstá s rostoucí elektronegativitou heteroatomů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "podobnost s benzenem klesá s rostoucí elektronegativitou heteroatomů",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "podobnost s benzenem stoup v pořadí: furan-pyrrol-thiofen",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "podobnost s benzenem stoupá v pořadí: thiofen-pyrrol-furan",
+				"correct": false
+			}
+		]
+	}
+]

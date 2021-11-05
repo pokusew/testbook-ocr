@@ -1,0 +1,258 @@
+[
+	{
+		"id": 611,
+		"category": 1,
+		"number": 611,
+		"text": "Počet možných konformací polypeptidového řetězce je velký, ale prakticky j omezen:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "rigiditou peptidové vazby, která má částečně charakter vazby dvojné",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "odolností peptidové vazby k hydrolyze",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "energetickými stavy - řetězec zaujímá konformaci s nejnižší energií",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pro konformaci polypeptidového řetězce žádné z uvedených omezení neplatí",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 612,
+		"category": 1,
+		"number": 612,
+		"text": "Kvartérní struktura:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "existuje pouze u proteinů složených z více podjednotek",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "popisuje nejvyšší úroveň struktury každého proteinu, pokud se nachází v nativn konformaci",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "udává počet a vzájemné vztahy podjednotek v multimerních proteinech",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "příkladem proteinu s kvartérní strukturou je myoglobin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 613,
+		"category": 1,
+		"number": 613,
+		"text": "Denaturace proteinu obvykle znamená:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ztrátu jeho biologické aktivity",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ztrátu nativní konformace molekuly proteinu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "štěpení peptidových vazeb v polypeptidovém řetězci",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "disociaci podjednotek",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 614,
+		"category": 1,
+		"number": 614,
+		"text": "Denaturace proteinu lze dosáhnout:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zvýšením teploty (varem)",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "snížením teploty (zmražením)",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "extrémy pH",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "u hydrofobních polypeptidů působením vody",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 615,
+		"category": 1,
+		"number": 615,
+		"text": "Proteiny v živých organismech zajišťují:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "katalýzu metabolických přeměn",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "fyzický pohyb",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "transport přes membrány",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "strukturu tkání a orgánů",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 616,
+		"category": 1,
+		"number": 616,
+		"text": "Pro vodné roztoky proteinů platí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "všechny proteiny jsou ve vodě rozpustné",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vodné roztoky proteinů jsou analytické disperse",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "molekuly proteinů jsou tak velké že ve vodném roztoku viditelně rozptylují světlo",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "molekuly proteinů jsou tak velké že ve vodném roztoku spontánně sedimentují",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 617,
+		"category": 1,
+		"number": 617,
+		"text": "Želatina, která se přidává do řady potravinářských výrobků, je chemicky:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "syntetický škrob",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "polyvinylchlorid",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "agar z mořských řas",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "denaturovaný kolagen",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 618,
+		"category": 1,
+		"number": 618,
+		"text": "Vyberte pravdivá tvrzení o trávení proteinů:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "proteiny z potravy jsou hydrolyzovány působením žaludeční HCI",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "žaludeční šťáva je tak kyselá že proteiny přijaté v potravě denaturuje",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "žaludeční proteasa pepsin nejlépe účinkuje při mírně zásaditém pH",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v tenkém střevě se resorbují jen esenciální aminokyseliny",
+				"correct": false
+			}
+		]
+	}
+]

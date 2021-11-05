@@ -1,0 +1,258 @@
+[
+	{
+		"id": 1122,
+		"category": 2,
+		"number": 1122,
+		"text": "Protická rozpouštědla jsou",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "taková, která jsou součástí protoplasmy",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "taková, která snadno odštěpují proton",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "taková, která snadno váží proton nebo protony",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "taková, která snadno rozpouštějí tuky",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1123,
+		"category": 2,
+		"number": 1123,
+		"text": "Která/é varianta/y představuje/í vzorec soli?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "CH3COOH",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "CH2COOH",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "HCOOK",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "CaCO3",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1124,
+		"category": 2,
+		"number": 1124,
+		"text": "Která z následujících látek je kyselinou podle Arrheniovy teorie?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "KCN",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "H2CO3",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "HCI",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "NaOH",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1125,
+		"category": 2,
+		"number": 1125,
+		"text": "Která z látek bude reagovat alkalicky?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "NaCl",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "NaOH",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Na2SO4",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "NaHCO3",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1126,
+		"category": 2,
+		"number": 1126,
+		"text": "Jaké je (přibližně) pH 0,00001 molárního vodného roztoku HCl? (Aktivitn koeficient považujte za roven 1)",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "2",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "2,5",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "5",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1127,
+		"category": 2,
+		"number": 1127,
+		"text": "Jaká je přibližná koncentrace H30+ iontů ve vodném roztoku NaOH o koncentrac 0,01 molu? (Aktivitní koeficient považujte za roven 1)",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "10-2",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,01",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "10-9",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "10-12",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1128,
+		"category": 2,
+		"number": 1128,
+		"text": "Roztok kyseliny sírové, síranu sodného a vody",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dostaneme jako produkt neutralizace kyseliny sírové hydroxidem sodným, v přebytk kyseliny sírové",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dostaneme jako produkt neutralizace kyseliny sírové hydroxidem sodným, v přebytk hydroxidu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dostaneme při neutralizaci kyseliny sírové hydroxidem sodným při jakémkol stechiometrickém poměru vzhledem k tomu, že je to rovnovážná reakce",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "můžeme připravit pouze smícháním jednotlivých složek, ne jako produkt reakce",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1129,
+		"category": 2,
+		"number": 1129,
+		"text": "Podle Arrheniovy i Broenstedovy teorie je kyselina látka, která",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je akceptorem elektronu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je akceptorem protonu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je donorem protonu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je donorem vodíkového kationtu",
+				"correct": true
+			}
+		]
+	}
+]

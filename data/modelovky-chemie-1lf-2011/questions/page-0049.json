@@ -1,0 +1,290 @@
+[
+	{
+		"id": 395,
+		"category": 1,
+		"number": 395,
+		"text": "Kyselina citrónová:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je hydroxykyselina",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je trikarboxylová kyselina",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "sráží krev",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se nachází v citrusových plodech",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 396,
+		"category": 1,
+		"number": 396,
+		"text": "CH3-SO-CH3 je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dimethylsulfid",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dimethylsulfoxid",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dimethylsulfon",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ani jedna odpověď není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 397,
+		"category": 1,
+		"number": 397,
+		"text": "CH3-S-CH3 je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dimethylsulfid",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dimethylsulfoxid",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dimethylsulfon",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ani jedna odpověd' není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 398,
+		"category": 1,
+		"number": 398,
+		"text": "CH3-S02-CH3 je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dimethylsulfid",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dimethylsulfoxid",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dimethylsulfon",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ani jedna odpověď není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 399,
+		"category": 1,
+		"number": 399,
+		"text": "CH3-CH2-S03H je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ethansulfid",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ethansulfoxid",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ethansulfon",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ethansulfonová kyselina",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 400,
+		"category": 1,
+		"number": 400,
+		"text": "Rtuť a její sloučeniny mohou být v živých organismech přeměněny na:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "páry rtuti",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kalomel",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "sublimát",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "dimethylrtuť",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 401,
+		"category": 1,
+		"number": 401,
+		"text": "Sulfonové kyseliny s dlouhým alifatickým řetězcem mohou sloužit jako:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "rozpouštědla",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "tenzidy",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "barviva",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná odpověď není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 402,
+		"category": 1,
+		"number": 402,
+		"text": "Jako bojové chemické látky byly zneužity organické sloučeniny:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "těžkých kovů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kyseliny fosforečné",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "arsenu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "hořčíku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 403,
+		"category": 1,
+		"number": 403,
+		"text": "Organické deriváty kyseliny thiofosforečné se používají jako:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "bojové chemické látky",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "barviva",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "insekticidy",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "potravinové doplňky",
+				"correct": false
+			}
+		]
+	}
+]

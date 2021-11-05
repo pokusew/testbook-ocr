@@ -1,0 +1,290 @@
+[
+	{
+		"id": 693,
+		"category": 1,
+		"number": 693,
+		"text": "Vnitromolekulové přesuny atomů a jejich skupin katalyzují:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ligasy",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "isomerasy",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "hydrolasy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "lyasy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 694,
+		"category": 1,
+		"number": 694,
+		"text": "Základem struktury řady koenzymů jsou molekuly:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "DNA",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vody",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vitamínů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "hormonů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 695,
+		"category": 1,
+		"number": 695,
+		"text": "Sacharasa:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "štěpí všechny cukry",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "umožňuje vznik volných molekul glukosy a fruktosy",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je protein",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "neštěpí disacharidy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 696,
+		"category": 1,
+		"number": 696,
+		"text": "Regulace enzymové aktivity je možná:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "teplotou",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kovalentní modifikací molekuly enzymu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "aktivátory",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "inhibitory",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 697,
+		"category": 1,
+		"number": 697,
+		"text": "Rychlost chemické reakce při konstantním množstvím enzymu a lineárně s zvyšující koncentraci substrátu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "stoupá lineárně",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "stoupá hyperbolicky",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "stoupá exponenciálně",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je stále stejná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 698,
+		"category": 1,
+		"number": 698,
+		"text": "Jako biokatalyzátory mohou působit molekuly:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "DNA",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "RNA",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "polysacharidů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "bílkovin",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 699,
+		"category": 1,
+		"number": 699,
+		"text": "Allosterický efekt je ovlivnění aktivity enzymu účinkem:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "změny konformace molekuly enzymu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "aktivátorů",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "inhibitorů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "teploty",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 700,
+		"category": 1,
+		"number": 700,
+		"text": "Přeměnu ATP na ADP mohou katalyzovat:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ligasy",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "lyasy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "transferasy",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "hydrolasy",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 701,
+		"category": 1,
+		"number": 701,
+		"text": "Při substrátové fosforylaci vzniká ATP z ADP:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v dýchacím řetězci",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "přenosem fosfátu z makroergické organické molekuly",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "fotosyntézou",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "spontánně",
+				"correct": false
+			}
+		]
+	}
+]

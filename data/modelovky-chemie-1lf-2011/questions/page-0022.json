@@ -1,0 +1,258 @@
+[
+	{
+		"id": 166,
+		"category": 1,
+		"number": 166,
+		"text": "Kolik NaCl je třeba přidat ke 150 g 16% roztoku NaCl, aby vznikl 40% roztok NaCl g",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "80 g",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "60 g",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "24 g",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "48 g",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 167,
+		"category": 1,
+		"number": 167,
+		"text": "Hmotnost manganu v manganistanu draselném je 88 g. Jaká je společná hmotnos draslíku a kyslíku v tomtéž? Ar(Mn) = 55, Ar(K) = 39",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "139,2 g",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "227,2 g",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "164,8 g",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "191,2 g",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 168,
+		"category": 1,
+		"number": 168,
+		"text": "Jakou hmotnost má 17,5 molu uhlíku?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "210 g",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "245 g",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "280 g",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "176 g",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 169,
+		"category": 1,
+		"number": 169,
+		"text": "Jaká je hustota plynného amoniaku za normálních podmínek?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,803 g/1",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,670 g/l",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "0,759 g/1",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "0,587 g/1",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 170,
+		"category": 1,
+		"number": 170,
+		"text": "Hustota argonu za normálních podmínek je 1,7857 g/1. Jakému objemu odpovíd 250 g argonu?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "701",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1401",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1201",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "134 1",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 171,
+		"category": 1,
+		"number": 171,
+		"text": "Jaká je hustota vzduchu za normálních podmínek, jestliže uvažujeme složení 21 kyslíku a 79 % dusíku?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1,29 g/l",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,64 g/1",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "0,79 g/1",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1,78 g/1",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 172,
+		"category": 1,
+		"number": 172,
+		"text": "Kolik g octanu sodného je třeba navážit, abychom získali 4% roztok o hmotnost 500 g?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "10g",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "125 g",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "20 g",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "12,5 g",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 173,
+		"category": 1,
+		"number": 173,
+		"text": "Kolik g síranu sodného je třeba navážit, abychom získali 7% roztok o hmotnost 125 g?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "12,5 g",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "17,5 g",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "8,75 g",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "6,25 g",
+				"correct": false
+			}
+		]
+	}
+]

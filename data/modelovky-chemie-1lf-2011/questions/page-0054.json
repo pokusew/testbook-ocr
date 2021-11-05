@@ -1,0 +1,290 @@
+[
+	{
+		"id": 440,
+		"category": 1,
+		"number": 440,
+		"text": "Heterocyklus jako integrální součást molekuly se může vyskytovat v:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "některých aminokyselinách",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nukleosidech",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nukleotidech",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kyselině uhličité",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 441,
+		"category": 1,
+		"number": 441,
+		"text": "Heterocyklus jako integrální součást molekuly se může vyskytovat v:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "některých aminokyselinách",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nukleových kyselinách",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "glykogenu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kyselině pyrohroznové",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 442,
+		"category": 1,
+		"number": 442,
+		"text": "Thiofen:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "patří mezi heterocyklické sloučeniny",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "obsahuje ve své molekule dusík",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "obsahuje ve své molekule síru",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "obsahuje ve své molekule uhlík",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 443,
+		"category": 1,
+		"number": 443,
+		"text": "Indol:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je součástí aminokyseliny tryptofanu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "obsahuje ve své molekule kyslík",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "obsahuje jeden heterocyklus a jeden izocyklus",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je šestičlenný heterocyklus",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 444,
+		"category": 1,
+		"number": 444,
+		"text": "Pyran:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je součástí nukleotidů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "obsahuje ve své molekule dusík",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "obsahuje ve své molekule kyslík",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je šestičlenný heterocyklus",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 445,
+		"category": 1,
+		"number": 445,
+		"text": "Imidazol:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je pětičlenný heterocyklus s dvěma atomy dusíku",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je pětičlenný heterocyklus s dvěma heteroatomy kyslíku",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je součástí aminokyseliny histidinu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je šestičlenný heterocyklus",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 446,
+		"category": 1,
+		"number": 446,
+		"text": "Kterou/é z uvedených dvojic sloučenin byste zařadili mezi heterocyklick sloučeniny?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pyrazin a hydrazin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "piperidin a pyridin",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pyrrol a naftol",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pyrimidin a anilin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 447,
+		"category": 1,
+		"number": 447,
+		"text": "Která/é z uvedených dvojic sloučenin nepatří mezi heterocyklické sloučeniny?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "thiolan a furan",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "anthracen a thiofen",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "fenylalanin a pyridazin",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pyrrol a pyrazol",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 448,
+		"category": 1,
+		"number": 448,
+		"text": "Které sloučeniny mají ve své molekule dva dusíkové heteroatomy?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pyridin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pyrimidin",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pyridazin",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "imidazol",
+				"correct": true
+			}
+		]
+	}
+]

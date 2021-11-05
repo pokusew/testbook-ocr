@@ -1,0 +1,290 @@
+[
+	{
+		"id": 42,
+		"category": 1,
+		"number": 42,
+		"text": "Pro pravé roztoky hnalytické disperze) platí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "poměr rozpuštěné léky a rozpouštědla je možné v určitých mezích plynule měnit",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "rozpuštěné částice jsu menší než 10-9 m",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pravé roztoky moho existovat pouze v tekutém stavu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "rozpuštěné částice Siasem sedimentují a lze je proto oddělit centrifugací",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 43,
+		"category": 1,
+		"number": 43,
+		"text": "Vyberte co z následjících tvrzení o rozpouštění látek ve vodě platí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "voda rozpouští předvším nepolární látky",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "rozpustnost plynů s bplotou klesá",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "rozpouštěné ionty jsu obklopovány molekulami vody",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je-li roztok nasycenýdalšího rozpouštění dané látky dosáhneme jen intenzivní mícháním",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 44,
+		"category": 1,
+		"number": 44,
+		"text": "Které/á z následujíích obecných tvrzení o rozpustnosti solí ve vodě platí?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "všechny dusičnany jsu dobře rozpustné",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "všechny chloridy jsol rozpustné s výjimkou chloridu vápenatého a hořečnatého",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "všechny sodné a drasıné soli jsou rozpustné",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "všechny barnaté sol sou rozpustné s výjimkou síranu barnatého",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 45,
+		"category": 1,
+		"number": 45,
+		"text": "Jestliže roztok obsa uje 0,9 % (w/v) NaCl, jeho hmotnostní koncentrace v g/l je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,9 g/l",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "9g/1",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "15g/l",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "údaj v procentech nele snadno přepočítat na g/l",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 46,
+		"category": 1,
+		"number": 46,
+		"text": "Iontový součin vodyK, = [H30*]-[OH-]:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se mění po přidání ky;eliny do roztoku",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se mění s teplotou",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je přibližně 14 mol²/12",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se mění při zředění roztoku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 47,
+		"category": 1,
+		"number": 47,
+		"text": "Objem jednoho moli plynu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "závisí na teplotě",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je pro plyny s dvouatonární molekulou dvakrát větší než pro vzácné plyny",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "při teplotě 0 °C je nulový",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "závisí na tlaku",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 48,
+		"category": 1,
+		"number": 48,
+		"text": "Silná kyselina:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "prakticky zcela disocilje",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vždy ve své molekule (bsahuje atom kyslíku",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je např. kyselina chlorhá",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je např. kyselina dusičhá",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 49,
+		"category": 1,
+		"number": 49,
+		"text": "Kyslíkaté kyseliny:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mohou být slabé i silne",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mohou být jednosytnéi vícesytné",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vytvářejí např. kovy alkalických zemin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mohou vznikat reakcí Sdpovídajících oxidů s vodou",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 50,
+		"category": 1,
+		"number": 50,
+		"text": "Hydrogenuhličitan sodný:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dává rozpuštěním ve výdě zásaditý roztok",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "má vlastnosti kyseliny i zásady",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "reaguje se silným zásaqami za uvolnění plynu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je zásaditější než uhličitan sodný",
+				"correct": false
+			}
+		]
+	}
+]

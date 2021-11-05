@@ -1,0 +1,290 @@
+[
+	{
+		"id": 783,
+		"category": 1,
+		"number": 783,
+		"text": "Která čísla můžeme osadit do vzorce CH3NH?, aby výsledek byl správný",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "3",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "2",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "5",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "2,3, nebo 4",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 784,
+		"category": 1,
+		"number": 784,
+		"text": "Ethylester kyseliny láselné vznikne",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "reakcí kyseliny octovés butanolem za kyselé katalýzy",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "reakcí kyseliny máselé s ethyletherem",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "reakcí kyseliny butanvé s ethanolem za kyselé katalýzy",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "reakcí kyseliny máselé s ethanolem za kyselé katalýzy",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 785,
+		"category": 1,
+		"number": 785,
+		"text": "Thiol má obecný vzoec",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "R-S-CH3",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "R-S-H",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "R-CH-SH",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "RS2",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 786,
+		"category": 1,
+		"number": 786,
+		"text": "Furan je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pětičlenný heterocyklis obsahující síru",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pětičlenný heterocyklis obsahující dusík",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pětičlenný heterocyklıs obsahující kyslík",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pětičlenný heterocyklıs se dvěma heteroatomy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 787,
+		"category": 1,
+		"number": 787,
+		"text": "Fosgen",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "obsahuje jeden atom bsforu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "obsahuje dva atomy fosforu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "má vzorec PH3",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se používal jako bojow plyn",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 788,
+		"category": 1,
+		"number": 788,
+		"text": "Acetanhydrid poskyuje za normální laboratorní teploty reakcí s vodou",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kyselinu octovou a etlanol",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dvě molekuly kyseliny octové",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "hydratovanou kyselini octovou",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "s vodou nereaguje, poize se naředí",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 789,
+		"category": 1,
+		"number": 789,
+		"text": "Tzv. disulfidické (simé) můstky může tvořit",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "cystein",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kyselina glutamová a isparagová",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "tyrosin a tryptofan",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "histidi OH",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 790,
+		"category": 1,
+		"number": 790,
+		"text": "Tato sloučenina HO-CH=CH-CH2-OH se nazývá",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "propan-2,3-dihydroxy-1-ol",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "propan-1,2,3-triol",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pyrokatechol",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "glycerol",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 791,
+		"category": 1,
+		"number": 791,
+		"text": "L-aminokyselina",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je a-aminokyselina, která má karboxylovou skupinu vlevo",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je sloučenina, jejíž aminoskupina ve Fisherově projekci směřuje doprava",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je základní jednotkou přirozeně se vyskytujících bílkovin",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "má aminoskupinu vždy na prvním nebo druhém uhlíku",
+				"correct": false
+			}
+		]
+	}
+]

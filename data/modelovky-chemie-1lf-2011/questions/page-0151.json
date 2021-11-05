@@ -1,0 +1,290 @@
+[
+	{
+		"id": 1224,
+		"category": 2,
+		"number": 1224,
+		"text": "Diethylether je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "první historicky používané anestetikum",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "průmyslová trhavina",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dobré rozpouštědlo tuků",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žíravina",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1225,
+		"category": 2,
+		"number": 1225,
+		"text": "Vitamíny rozpustné ve vodě jsou",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vitamíny skupiny B a vitamín C",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vitamíny A a D",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vitamín E a vitamín C",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vitamín C",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1226,
+		"category": 2,
+		"number": 1226,
+		"text": "Název esenciální aminokyselina znamená",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "aminokyselinu, kterou si tělo umí samo syntetizovat",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "aminokyselinu, kterou je třeba tělu dodat (např. potravou)",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "aminokyselinu, která není nutná pro proteosyntézu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "aminokyselinu, kterou si tělo neumí samo připravit",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1227,
+		"category": 2,
+		"number": 1227,
+		"text": "Stopové prvky je označení pro",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "prvky, které se nalézají v životním prostředí ve své čisté podobě velmi vzácně, např. zlato",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "prvky, které potřebujeme ke správné funkci organismu ve velmi malých množstvích",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "prvky, které jsou pro tělo postradatelné a je lepší je v potravě nepřijímat",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "organické a anorganické sloučeniny nepostradatelné pro funkci organismu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1228,
+		"category": 2,
+		"number": 1228,
+		"text": "Kosti jsou tvořeny",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "převážně z fosforečnanu vápenatého, hydroxyapatitu, a organických látek",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pouze z anorganických látek jako uhličitan vápenatý a fosforečnan sodný",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pouze z uhličitanu sodného",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "z uhličitanů, síranů, halogenidů, fosforečnanů a organokovových látek obsahujícíc vápník",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1229,
+		"category": 2,
+		"number": 1229,
+		"text": "Krev je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pravý roztok",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "suspenze",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "emulze",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "heterogenní směs",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1230,
+		"category": 2,
+		"number": 1230,
+		"text": "Ozón je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "alotropická modifikace kyslíku",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "izotop kyslíku",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "namodralý vysoce jedovatý plyn",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "sloučenina kyslíku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1231,
+		"category": 2,
+		"number": 1231,
+		"text": "Kuchyňská sůl je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "uhličitan vápenatý",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "chlorid sodný",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "součást fyziologického roztoku",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "iontová sloučenina",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1232,
+		"category": 2,
+		"number": 1232,
+		"text": "Jod je důležitý pro",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "krvetvorbu, zastává funkci centrálního atomu v prosthetické skupině hemu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "činnost štítné žlázy, je součástí jednoho z jejích hormonů",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kvalitu vlasů a kůže",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "činnost nadledvi a",
+				"correct": false
+			}
+		]
+	}
+]

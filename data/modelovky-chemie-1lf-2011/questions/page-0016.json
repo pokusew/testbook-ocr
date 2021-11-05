@@ -1,0 +1,290 @@
+[
+	{
+		"id": 119,
+		"category": 1,
+		"number": 119,
+		"text": "Pro reakce vratné platí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "výchozí látky reagují za vzniku různých produktů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "produkt reakce je výchozí látkou pro reakci následující",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "z reaktantů vznikají produkty a současně z produktů zpět reaktanty",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ani jedna možnost není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 120,
+		"category": 1,
+		"number": 120,
+		"text": "Rychlost chemické reakce:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "u plynů závisí na tlaku",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "závisí na teplotě",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "závisí na koncentraci výchozích látek",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nezávisí na velikosti aktivační energie",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 121,
+		"category": 1,
+		"number": 121,
+		"text": "Arrheniova rovnice:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "popisuje rychlost chemické reakce",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "popisuje závislost rychlostní konstanty na teplotě",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vypadá takto: v=k.[A].[B]",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vypadá takto: k = A.e-EA/RT",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 122,
+		"category": 1,
+		"number": 122,
+		"text": "Aktivovaný komplex:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je stabilní meziprodukt chemické reakce",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je nestabilní celek",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vzniká při aktivaci komplexních sloučenin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "obsahuje vazby silnější než ve výchozích látkách",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 123,
+		"category": 1,
+		"number": 123,
+		"text": "Katalyzátor:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "po skončení reakce se změní jeho struktura",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "může zvýšit rychlost chemické reakce",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zpravidla zvyšuje aktivační energii katalyzované reakce",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vede reakci jiným reakčním mechanismem",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 124,
+		"category": 1,
+		"number": 124,
+		"text": "Chemická termodynamika studuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "rychlost chemických reakcí",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "energetickou stránku soustav a jejich změn",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "uskutečnitelnost chemických reakcí",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "rovnováhy v reakčních soustavách",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 125,
+		"category": 1,
+		"number": 125,
+		"text": "První termodynamický zákon:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je zákon zachování tepla",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je zákon zachování energie",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je popsán rovnicí: AU = Q-W",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je popsán rovnicí: AU = Q+W",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 126,
+		"category": 1,
+		"number": 126,
+		"text": "Mezi stavové funkce patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vnitřní energie U",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "teplota T",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "objem V",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "práce W",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 127,
+		"category": 1,
+		"number": 127,
+		"text": "Entalpie:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "není stavová funkce",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zavádí se pro děje izotermické",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zavádí se pro děje izobarické",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je definována vztahem: H=U+px V",
+				"correct": true
+			}
+		]
+	}
+]

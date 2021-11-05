@@ -1,7 +1,7 @@
 1054) Obsazování jednotlivých orbitalů elektrony, neboli elektronová konfigurace atomu
 v základním stavu se řídí následujícími principy
 A) Pauliho vylučovací princip
-c) Heisenbergův princip neurčitosti
+b) Heisenbergův princip neurčitosti
 C) výstavbový princip - princip minimální energie
 D) Hundovo pravidlo
 1055) Pauliho vylučovací princip pro obsazování jednotlivých orbitalů elektrony

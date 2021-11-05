@@ -1,0 +1,258 @@
+[
+	{
+		"id": 966,
+		"category": 2,
+		"number": 966,
+		"text": "Která ze sloučenin bude barevná a proč (tj. sloučenina nebude bezbarvá a bud mít jinou barvu než bílou)?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "NaOH, protože všechny louhy jsou barevné",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "CuSO4, protože barevnost je typická pro přechodové prvky",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "CaCl2, barevné jsou všechny chloridy (žluté jako chlor)",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "BaSO4 je barevný, protože je nerozpustný",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 967,
+		"category": 2,
+		"number": 967,
+		"text": "Který z uvedených prvků má nejvíce kovový charakter?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "fosfor",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dusík",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vizmut",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "arsen",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 968,
+		"category": 2,
+		"number": 968,
+		"text": "Který z následujících halogenů můžeme čistit za laboratorní teploty sublimací?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "fluor",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "brom",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "chlor",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jod",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 969,
+		"category": 2,
+		"number": 969,
+		"text": "Při tvorbě sloučeniny mezi kovem a nekovem dochází k tomu, že",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kov vždy ztrácí elektron, stává se kationtem",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kov vždy přijímá elektron, stává se aniontem",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "platí někdy a) a někdy b), podle umístění kovu a nekovu v periodické tabulce",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mezi kovem a nekovem existuje pouze iontová vazba, takže nedochází vůbec k žádném pohybu elektronů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 970,
+		"category": 2,
+		"number": 970,
+		"text": "Atomy, které jsou v jedné skupině periodické tabulky mají určité shodné neb velmi blízké parametry. Těmi jsou",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "počty energetických hladin pro elektrony",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "atomové hmotnosti",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "atomová čísla",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "počty valenčních elektronů",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 971,
+		"category": 2,
+		"number": 971,
+		"text": "Který z následujících prvků má největší schopnost přitáhnout elektrony?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "sodík, protože snadno tvoří kladný aniont a ten přitáhne elektrony",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "brom, je elektronegativní a jeho atom má velký poloměr",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "chlor, je elektronegativní a má malý poloměr atomu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "osmium, stabilizuje tím elektronovou konfiguraci, proto jej nelze snadno oxidovat",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 972,
+		"category": 2,
+		"number": 972,
+		"text": "Za standardní teploty a tlaku (podle definice IUPAC) jsou vzácné plyn jednoatomové, ostatní plyny tvoří dvouatomové molekuly. Důvodem je, že",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vzácné plyny mají tak velké atomy, že by dvouatomové molekuly byly příliš objemné",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vzácné plyny mají příliš nízkou elektronegativitu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vzácné plyny mají kompletní elektronový oktet, takové sloučeniny jsou minimáln reaktivní a netvoří dvouatomové molekuly",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vzácné plyny nemají dostatečný rozdíl elektronegativit k tomu, aby se mohla vytvoři taková molekula",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 973,
+		"category": 2,
+		"number": 973,
+		"text": "Proces, ve kterém dochází k 12 (s) → 12 (g) se nazývá",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "destilace",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "sublimace",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kondenzace",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "var",
+				"correct": false
+			}
+		]
+	}
+]

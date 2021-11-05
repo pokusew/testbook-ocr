@@ -1,0 +1,258 @@
+[
+	{
+		"id": 500,
+		"category": 1,
+		"number": 500,
+		"text": "Galaktosa a glukosa jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "součástí maltosy",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "součástí laktosy",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "izomery",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "součástí laktasy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 501,
+		"category": 1,
+		"number": 501,
+		"text": "Rostlinný škrob je polysacharid:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "obsahující glukosové jednotky",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "obsahující amylosu a amylopektin",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dobře rozpustný ve studené vodě",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "obsažený v játrech člověka jako zásobní látka",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 502,
+		"category": 1,
+		"number": 502,
+		"text": "Produkty kyselé hydrolýzy sacharosy jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "maltosa a glukosa",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "fruktosa a glukosa",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pouze fruktosa",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pouze glukosa",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 503,
+		"category": 1,
+		"number": 503,
+		"text": "Alkoholickým kvašením glukosy kvasinkami za anaerobních podmínek vzniká:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "aceton a ethanol",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "methanol a ethanol",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ethanol a oxid uhličitý",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "methanol a oxid uhličitý",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 504,
+		"category": 1,
+		"number": 504,
+		"text": "Glukosa může být lidským organismem metabolicky přeměněna:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "na zásobní glykogen",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "na ethanol",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "až na oxid uhličitý a vodu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "na lipidy",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 505,
+		"category": 1,
+		"number": 505,
+		"text": "Objeví-li se v lidském organismu trvale zvýšená hladina glukosy v krvi i v moči může se jednat pravděpodobně:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "o úplavici, infekční průjmové onemocnění střev",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "o diabetes melitus",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "o tzv. úplavici cukrovou neboli cukrovku",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "o banální záležitost, která se nemusí ze zdravotního hlediska řešit",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 506,
+		"category": 1,
+		"number": 506,
+		"text": "Inulin je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hormon produkovaný slinivkou břišní",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "polysacharid obsahující fruktosové jednotky",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zásobním polysacharidem některých rostlin, např. topinamburů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "složkou bramborového škrobu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 507,
+		"category": 1,
+		"number": 507,
+		"text": "Neredukující disacharidy:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mají glykosidovou vazbu mezi atomem C1 jedné molekuly monosacharidu (aldosy) atomem C1 druhé molekuly monosacharidu (aldosy)",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mají glykosidovou vazbu mezi atomem C1 jedné molekuly monosacharidu (aldosy) atomem C2 druhé molekuly monosacharidu (ketosy)",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mají glykosidovou vazbu mezi atomem Ci jedné molekuly monosacharidu (aldosy) atomem C4 druhé molekuly monosacharidu (aldosy)",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mají glykosidovou vazbu mezi atomem C1 jedné molekuly monosacharidu (aldosy) atomem C6 druhé molekuly monosacharidu (aldosy)",
+				"correct": false
+			}
+		]
+	}
+]

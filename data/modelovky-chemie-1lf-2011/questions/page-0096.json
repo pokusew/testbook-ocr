@@ -1,0 +1,290 @@
+[
+	{
+		"id": 792,
+		"category": 1,
+		"number": 792,
+		"text": "Tento vzorec O=CH-CH-CH2-OH představuje",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kyselinu mléčnou",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "glyceraldehyd",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "hydroxyacetaldehyd",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "threosu nebo erythrosu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 793,
+		"category": 1,
+		"number": 793,
+		"text": "Který systematický název odpovídá alaninu?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kyselina alfa-aminobutandiová",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kyselina alfa-aminopropionová",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kyselina 2-amino-3-hydroxybutanová",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kyselina 2-aminopropionová",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 794,
+		"category": 1,
+		"number": 794,
+		"text": "Peptidová vazba je charakterizována",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vazbami -CH2-NH2",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vazbami -NH-CH2-NH",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vazbami -CO-NH-",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vazbami -CO-CH2-NH-",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 795,
+		"category": 1,
+		"number": 795,
+		"text": "Alternativní názvy pro 2-aminoethanovou kyselinu jsou",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "glycin",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "alanin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "2-aminooctová kyselina",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "2-aminopropionová kyselina",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 796,
+		"category": 1,
+		"number": 796,
+		"text": "Karboxylové kyseliny",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mohou poskytovat funkční a substituční deriváty",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "neposkytují kyselé (hydrogen-) soli",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mají často triviální názvy, které se však nepoužívají",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou často pojmenovávány triviálními názvy",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 797,
+		"category": 1,
+		"number": 797,
+		"text": "Glycin je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "neesenciální aminokyselina",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "opticky aktivní",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "molekula s rovinou symetrie",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zastoupen v bílkovinách",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 798,
+		"category": 1,
+		"number": 798,
+		"text": "Enantiomery tvoří každá sloučenina, která",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "má alespoň jeden asymetrický uhlík",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nemá rovinu symetrie",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zrcadlením neposkytne identický obraz",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "má alespoň dva asymetrické uhlíky",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 799,
+		"category": 1,
+		"number": 799,
+		"text": "Vyberte chirální objekty a sloučeniny",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "lidská ruka",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "glycin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "isopropylamin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "alanin",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 800,
+		"category": 1,
+		"number": 800,
+		"text": "Achirální látky",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou symetrické",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mají rovinu symetrie",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou neztotožnitelné se svým zrcadlovým obrazem",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mohou být opticky aktivní",
+				"correct": false
+			}
+		]
+	}
+]

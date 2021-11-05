@@ -1,0 +1,162 @@
+[
+	{
+		"id": 1054,
+		"category": 2,
+		"number": 1054,
+		"text": "Obsazování jednotlivých orbitalů elektrony, neboli elektronová konfigurace atom v základním stavu se řídí následujícími principy",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Pauliho vylučovací princip",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Heisenbergův princip neurčitosti",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "výstavbový princip - princip minimální energie",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Hundovo pravidlo",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1055,
+		"category": 2,
+		"number": 1055,
+		"text": "Pauliho vylučovací princip pro obsazování jednotlivých orbitalů elektron v základním stavu zní",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "každý orbital, charakterizovaný třemi kvantovými čísly n, l, m může být obsazen nejvýš jedním elektronem. Takto obsazené orbitaly musí obsahovat elektrony s odlišný čtvrtým kvantovým číslem - spinově magnetickým kvantovým číslem",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "každý orbital, charakterizovaný třemi kvantovými čísly n, l, m může být obsazen nejvýš dvěma elektrony, které se liší čtvrtým kvantovým číslem – spinově magnetický kvantovým číslem",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "každý orbital, charakterizovaný třemi kvantovými čísly n, 1, m může být obsazen nejvýš třemi elektrony, které se liší čtvrtým kvantovým číslem - spinově magnetický kvantovým číslem",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "každý orbital, charakterizovaný třemi kvantovými čísly n, l, m může být obsazen nejvýš čtyřmi elektrony, které se liší čtvrtým kvantovým číslem - spinově magnetický kvantovým číslem",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1056,
+		"category": 2,
+		"number": 1056,
+		"text": "Vyberte správný/é výrok/y",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "orbitaly se stejnou energií – tzv. degenerované orbitaly - se obsazují nejdříve po jedno elektronu. Spinová magnetická kvantová čísla elektronů v takto zpola zaplněnýc orbitalech jsou stejná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "orbitaly se stejnou energií – tzv. degenerované orbitaly - se obsazují nejdříve po jedno elektronu. Spinová magnetická kvantová čísla elektronů v takto zpola zaplněnýc orbitalech jsou různá",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "elektrony, obsazují energetické hladiny tak, aby měl ve výsledku systém co nejnižš energii",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ani jedna z variant a) až c) nejsou vyjádřením výstavbového principu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1057,
+		"category": 2,
+		"number": 1057,
+		"text": "Hundovo pravidlo pro obsazování jednotlivých orbitalů elektrony v základní stavu zní",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "orbitaly se stejnou energií – tzv. degenerované orbitaly - se obsazují nejdříve po jedno elektronu. Spinová magnetická kvantová čísla elektronů v takto zpola zaplněnýc orbitalech jsou stejná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "orbitaly se stejnou energií – tzv. degenerované orbitaly - se obsazují nejdříve po jedno elektronu. Spinová magnetická kvantová čísla elektronů v takto zpola zaplněnýc orbitalech jsou různá",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "elektrony, které v atomu s rostoucím protonovým číslem přibývají, obsazují hladiny tak aby měl ve výsledku systém co nejnižší energii",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ani jedna z variant a) až c) nejsou vyjádřením Hundova pravidla",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1058,
+		"category": 2,
+		"number": 1058,
+		"text": "Elektronegativní může být",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "molekula",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "atom",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "molekula i atom",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jakákoliv látka, která přitahuje elektrony",
+				"correct": false
+			}
+		]
+	}
+]

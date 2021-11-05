@@ -1,0 +1,258 @@
+[
+	{
+		"id": 1207,
+		"category": 2,
+		"number": 1207,
+		"text": "Smrtelná dávka KCN je asi 0,08 mmol na 1 kg hmotnosti lidského těla. Jak hmotnost KCN představuje smrtelné nebezpečí pro osobu vážící 70 kg (Rel at. hm. draslíku je 39 g/mol, uhlíku 12 g/mol a dusíku 14 g/mol)",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "3,64 mg",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "364 mg",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "11,6 mg",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "111,6 mg",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1208,
+		"category": 2,
+		"number": 1208,
+		"text": "V lidském těle je 65% kyslíku, 18% uhlíku, 10% vodíku (procenta jsou hmotnostn Kterých atomů je v těle nejvíce?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kyslíku",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vodíku",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "uhlíku a vodíku je přibližně stejně",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "uhlíku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1209,
+		"category": 2,
+		"number": 1209,
+		"text": "Kolik molů kyseliny sírové odpovídá 49 g kyseliny sírové (rel. atomové hmotnost (g/mol): kyslík - 16, vodík - 1, síra - 32)",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,5 molu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,9 molu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "2,5 molu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "5 molů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1210,
+		"category": 2,
+		"number": 1210,
+		"text": "Jaký objem amoniaku vznikne při reakci 24 mol vodíku s 8 moly dusíku? Teplot 20 °C, tlak 101,325 kPa.",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "179,21",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "223,41",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "358,41",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "411,61",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1211,
+		"category": 2,
+		"number": 1211,
+		"text": "První synteticky laboratorně cíleně připravená organická látka byla",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kyselina močová, připravená z kyanidu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kyselina barbiturová, připravená z močoviny",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "močovina, připravená z kyanatanu amonného",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "amoniak, připravený z dusíku a vodíku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1212,
+		"category": 2,
+		"number": 1212,
+		"text": "Methanal je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nejjednodušší aldehyd",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "produkt oxidace ethanolu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "formaldehyd, používaný k balzamaci těl",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "aromatický aldehyd odvozený od fenolu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1213,
+		"category": 2,
+		"number": 1213,
+		"text": "Aspirin, Acylpyrin - lék proti bolesti a zvýšené teplotě je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "N-acetyl-p-aminofenol",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kyselina p-acetylsalicylová",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "antibiotikum",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "heterocyklická sloučenina",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1214,
+		"category": 2,
+		"number": 1214,
+		"text": "Aktivní uhlí je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "sloučenina uhlíku a aktivních desinfekčních látek",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "speciální látka, která z povrchu uvolňuje prostředky proti hnilobnému kvašení v střevech",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "rostlinné uhlí, které má velkou adsorpční schopnost",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pouze rozemletý uhlík",
+				"correct": true
+			}
+		]
+	}
+]

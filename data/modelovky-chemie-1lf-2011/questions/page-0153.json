@@ -1,0 +1,290 @@
+[
+	{
+		"id": 1242,
+		"category": 2,
+		"number": 1242,
+		"text": "Zeolity jsou látky",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zelené barvy, které se přidávají ke snížení povrchového napětí",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hlinitokřemičitany, které se používají jako tzv. molekulová síta",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "schopné vázat do svých pórů kapaliny nebo i plyny",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "amorfní taveniny nerozpustné ve vodě",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1243,
+		"category": 2,
+		"number": 1243,
+		"text": "Silikony jsou látky, které",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou odvozeny od síry v amorfním stavu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "tvoří řetězec, ve kterém se opakují vazby Si-O-Si",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "můžeme popsat jako polysiloxany s alkylovými skupinami na křemíku",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou polymerované sirné sloučeniny",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1244,
+		"category": 2,
+		"number": 1244,
+		"text": "Tetraboritan disodný je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jeho dekahydrát je známý i pod jménem borax",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "používaný k výrobě glazur na keramice, má svoje místo při výrobě dentálních náhrad",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "látka kovového vzhledu prudce reagující s vodou",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "fialová krystalická látka používaná k oxidacím a jako slabý desinfekční přípravek",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1245,
+		"category": 2,
+		"number": 1245,
+		"text": "Jodová tinktura je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "sublimovaný jod",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "roztok jodu v jodidu sodném",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "roztok jodu v ethanolu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "schopna obarvit rozříznutou bramboru na modro - důkaz škrobu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1246,
+		"category": 2,
+		"number": 1246,
+		"text": "Amalgám je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "sulfid rtuťnatý HgS",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "sloučenina dvou kovů a jednoho elektronegativnějšího prvku, jedním z kovů je vždy rtuť",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "slitina rtuti nebo galia a dalšího kovu nebo některých polokovů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "možné připravit ze sodíku a rtuti",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1247,
+		"category": 2,
+		"number": 1247,
+		"text": "Rtuť je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "prudce jedovatá jako prvek i ve všech sloučeninách",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v kovovém stavu poměrně málo toxická",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "schopna tvořit organokovové sloučeniny s vysokou toxicitou",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kapalina, částečně rozpustná ve vodě",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1248,
+		"category": 2,
+		"number": 1248,
+		"text": "Co je to racemická směs?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "směs dvou libovolných látek, ve které je každá ze složek zastoupena stejnou měrou",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "homogenní směs dvou látek o stejných koncentracích",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "opticky inaktivní směs dvou izomerů s opačnou optickou otáčivostí",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ekvimolární opticky aktivní směs dvou geometrických izomerů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1249,
+		"category": 2,
+		"number": 1249,
+		"text": "Které z následujících procesů neobsahují chemické reakce?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "přeměna vody v páru",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "šlehání šlehačky",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kynutí těsta pomocí kvasnic",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "separace kovových částic pomocí magnetu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1250,
+		"category": 2,
+		"number": 1250,
+		"text": "Jaký je rozdíl mezi Na a Nat?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádný v chemických vlastnostech, pouze se liší o jeden elektron",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Na nemá žádný elektron ve vrstvě s",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Na explozivně reaguje s vodou, Nat se ve vodě rozpouští bez chemické reakce",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Na existuje jako kov, Nat je pouze hypotetická látka",
+				"correct": false
+			}
+		]
+	}
+]

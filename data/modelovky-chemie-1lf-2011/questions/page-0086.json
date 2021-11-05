@@ -1,0 +1,290 @@
+[
+	{
+		"id": 711,
+		"category": 1,
+		"number": 711,
+		"text": "Štěpení bílkovin v žaludku probíhá účinkem:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "chymotrypsinu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "trypsinu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pepsinu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "amylasy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 712,
+		"category": 1,
+		"number": 712,
+		"text": "Do skupiny enzymů lze zařadit:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ribosu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ribozymy",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "riboflavin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "reduktasy",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 713,
+		"category": 1,
+		"number": 713,
+		"text": "Prvním československým nositelem Nobelovy ceny za chemii byl:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "prof. Jaroslav Heyrovský",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "prof. Leopold Heyrovský",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "prof. Otto Wichterle",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "prof. Emil Votoček",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 714,
+		"category": 1,
+		"number": 714,
+		"text": "Prvním nositelem Nobelovy ceny za lékařství, který se narodil v Praze,",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "byla Gerty Theresa Cori",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "byl Carl Ferdinand Cori",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "byli Carl Ferdinand Cori a Gerty Theresa Cori",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nebyl nikdo z jmenovaných",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 715,
+		"category": 1,
+		"number": 715,
+		"text": "Profesor Leopold Heyrovský obdržel Nobelovu cenu za:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vynález polarografie",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vynález chromatografie",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nikdy neobdržel Nobelovu cenu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vynález kontaktních čoček",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 716,
+		"category": 1,
+		"number": 716,
+		"text": "Profesor Otto Wichterle obdržel Nobelovu cenu za:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vynález polarografie",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vynález chromatografie",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nikdy neobdržel Nobelovu cenu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vynález kontaktních čoček",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 717,
+		"category": 1,
+		"number": 717,
+		"text": "Gregor Johann Mendel se proslavil:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "objevem základních zákonů genetiky",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "realizací první pitvy na Moravě",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "objasněním struktury DNA",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "obdržením Nobelovy ceny za biologii",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 718,
+		"category": 1,
+		"number": 718,
+		"text": "V oblasti fyziologie, biologie, anatomie a filozofie se proslavil:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Jan Evangelista Purkyně",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Karel Purkyně",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Emanuel Purkyně",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Johann Eusebius Purkyně",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 719,
+		"category": 1,
+		"number": 719,
+		"text": "Uhlík může sdílet",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "3 valenční elektrony",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "4 valenční elektrony",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "5 valenčních elektronů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "6 valenčních elektronů",
+				"correct": false
+			}
+		]
+	}
+]

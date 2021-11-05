@@ -1,0 +1,290 @@
+[
+	{
+		"id": 1074,
+		"category": 2,
+		"number": 1074,
+		"text": "Vodíkové můstky",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vznikají v těžké vodě – D20",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vznikají v nepolárních sloučeninách",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vznikají v jedné molekule vody",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nevznikají v žádném z výše uvedených případů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1075,
+		"category": 2,
+		"number": 1075,
+		"text": "Označte typ vazby v molekule kyslíku",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "iontová",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kovalentní",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "oxidační",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "koordinačně kovalentní",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1076,
+		"category": 2,
+		"number": 1076,
+		"text": "Označte typ vazby v molekule chloru",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "iontová",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "polární",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kovalentní",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "polární kovalentní",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1077,
+		"category": 2,
+		"number": 1077,
+		"text": "Charakterizujte typ vazby v molekule chloridu sodného",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "polární kovalentní",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "polární iontová",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "iontová",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nepolární",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1078,
+		"category": 2,
+		"number": 1078,
+		"text": "Která/é z následujících sloučenin netvoří vodíkové můstky",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "voda",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "benzín",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kyselina sírová",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "benzen",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1079,
+		"category": 2,
+		"number": 1079,
+		"text": "Která/é z následujících sloučenin netvoří vodíkové můstky",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "uhlovodíky",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "sirovodík",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "molekuly vodíku",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "alkoholy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1080,
+		"category": 2,
+		"number": 1080,
+		"text": "Pokud má prvek malou ionizační energii, potom",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "snadno tvoří anionty",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "snadno tvoří kationty",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "snadno tvoří anionty i kationty",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je inertní",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1081,
+		"category": 2,
+		"number": 1081,
+		"text": "Anionty se snadno tvoří z prvků, které",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mají malou ionisační energii",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mají vysokou elektronegativitu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mají velkou elektronovou afinitu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou v prvních dvou skupinách periodické tabulky",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1082,
+		"category": 2,
+		"number": 1082,
+		"text": "Reakční teplo je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "teplo soustavou přijaté nebo vydané, uskuteční-li se chemická reakce stechiometricky",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pouze teplo soustavou vydané, uskuteční-li se reakce izobaricky nebo izochorick v jednotkovém rozsahu a je-li teplota výchozích látek a produktů stejná",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pouze teplo soustavou přijaté, uskuteční-li se reakce v jednotkovém rozsahu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádný z předešlých výroků v této otázce není správný",
+				"correct": false
+			}
+		]
+	}
+]

@@ -1,0 +1,290 @@
+[
+	{
+		"id": 904,
+		"category": 2,
+		"number": 904,
+		"text": "Allosterický efekt je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "spojen se změnou konformace molekuly",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "proces, který se uplatňuje při regulaci biologické aktivity některých bílkovin",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "efekt, který nastane pokud je vazebné místo zcela nasyceno substrátem",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vlastnost biopolymeru, při kterém látka navázaná na jedné části molekuly ovlivn schopnost navázání další látky na jinou část biopolymeru",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 905,
+		"category": 2,
+		"number": 905,
+		"text": "Alfa-helix je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "úty je totožný s pravotočivou dvoušroubovicí",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Častá sekundární struktura bílkovin",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "levotočivá šroubovice",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pravotočivá šroubovice",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 906,
+		"category": 2,
+		"number": 906,
+		"text": "Epitop",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se nachází na protilátce",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je oblast na protilátce",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je místo, kterým se váže antigen na protilátku",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je místo, které se na libovolném polymeru mnohokrát opakuje",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 907,
+		"category": 2,
+		"number": 907,
+		"text": "Isoenzymy",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je označení pro isomerasy",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou enzymy, které lze isolovat srážením",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou enzymy, které katalyzují stejnou reakci, ale mají odlišnou strukturu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou nazývány bílkovinné části složených enzymů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 908,
+		"category": 2,
+		"number": 908,
+		"text": "Micela",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je koloidní částice kulovitého tvaru",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vzniká shlukováním molekul, které obsahují polární a nepolární část",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je buněčný útvar, který předcházel mitochondriím",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se nazývá zaniklá organela",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 909,
+		"category": 2,
+		"number": 909,
+		"text": "Gel je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "suspenze malých izolovaných částic pevné fáze v kapalině",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "systém, ve kterém došlo k zesíťování disperzních částic",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "systém, jehož kapalným prostředím je výlučně voda (žádné jiné rozpouštědlo gel netvoří)",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "systém tvořený trojrozměrnou sítí a tekutinou a je spojitý",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 910,
+		"category": 2,
+		"number": 910,
+		"text": "Chromatografie je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "měření intenzity procházejícího světla",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "metoda, při které se rozděluje směs látek na jednotlivé složky",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "látka, která absorbuje elektromagnetické záření a je tedy barevná",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "analytická metoda sloužící k určení sekvence basí na jedné polovině chromosomu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 911,
+		"category": 2,
+		"number": 911,
+		"text": "Primární struktura bílkoviny je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "určena pořadím jednotlivých basí v peptidu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dána posloupností aminokyselin v daném řetězci",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "určuje sekundární strukturu bílkoviny",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "narušena při reverzibilní i ireverzibilní denaturaci",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 912,
+		"category": 2,
+		"number": 912,
+		"text": "Škrob a glykogen",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nemají nic společného",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou zásobní polysacharidy v lidském organismu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se liší ve své struktuře, glykogen je více rozvětvený",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou polysacharidy složené z molekul glukózy",
+				"correct": true
+			}
+		]
+	}
+]

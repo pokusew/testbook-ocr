@@ -1,4 +1,3 @@
-a
 1059) Pevnost chemické vazby se hodnotí podle
 a) počtu elektronů, které jsou v dané vazbě sdíleny
 b) rozdílu elektronegativit atomů, mezi kterými vazba existuje
@@ -15,7 +14,7 @@ a) vzájemným sdílením elektronů valenční vrstvy
 B) odtržením elektronů od atomu - donoru a jejich převodem k atomu - akceptoru
 c) nabídnutím elektronového páru donorového atomu na sdílení s akceptorovým atomem,
 který má prázdný orbital (donor-akceptorová vazba)
-C) excitací elektronů do vyšší valenční vrstvy
+D) excitací elektronů do vyšší valenční vrstvy
 1062) Které z následujících výroků o kovalentní vazbě o jsou pravdivé
 a) je to typ iontové vazby mezi atomy s nižšími rozdíly v elektronegativitě
 B) vznikne obsazením vazebného molekulového orbitalu o, který má osu souměrnosti
@@ -34,8 +33,8 @@ d) téměř vždy tvořena atomovými orbitaly f
 a) kombinací kovalentních vazeb orbitalů p uhlíku s orbitaly s vodíku. To platí pouze pro
 dvě vazby. Další dvě jsou tvořeny donor-akceptorovou vazbou, kde akceptorem je uhlík,
 poskytující vakantní orbitaly d a dva vodíky poskytují dva volné elektrony. Důvodem
-tohoto uspořádání je elektronová konfigurace 1s22p2. Orbital s atomu uhlíku je zaplněn
-a nemůže se tedy účastnit žádné chemické vazby, orbitaly p obsahují pouze dva
+tohoto uspořádání je elektronová konfigurace 1s22p2. Orbital s atomu uhlíku je zaplněn a
+nemůže se tedy účastnit žádné chemické vazby, orbitaly p obsahují pouze dva
 elektrony, a to je důvod existence donor-akceptorové vazby u dvou vazeb ze čtyř
 b) jeden elektron z orbitalu 1s atomu uhlíku je excitován do orbitalu p. Tím vzniknou čtyři
 nepárové elektrony, které se účastní kovalentní vazby s atomy vodíku

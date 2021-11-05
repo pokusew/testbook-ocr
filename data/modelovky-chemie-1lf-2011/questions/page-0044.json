@@ -1,0 +1,290 @@
+[
+	{
+		"id": 350,
+		"category": 1,
+		"number": 350,
+		"text": "Měd':",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "patří mezi biogenní prvky",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nereaguje s vodíkem",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nereaguje se vzdušným kyslíkem",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "reaguje s dusíkem",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 351,
+		"category": 1,
+		"number": 351,
+		"text": "Rtuť snadno tvoří amalgamy s:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "železem",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "niklem",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "stříbrem",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zlatem",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 352,
+		"category": 1,
+		"number": 352,
+		"text": "Rtuť obtížně tvoří amalgamy s:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kobaltem",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "niklem",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zinkem",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "stříbrem",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 353,
+		"category": 1,
+		"number": 353,
+		"text": "Mezi biogenní prvky patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "berylium",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "baryum",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "magnesium",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kalcium",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 354,
+		"category": 1,
+		"number": 354,
+		"text": "Mezi biogenní prvky nepatří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "berylium",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "baryum",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kalcium",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "magnesium",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 355,
+		"category": 1,
+		"number": 355,
+		"text": "Které z uvedených sloučenin jsou jedovaté?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "oxid uhličitý",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "freony",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "chlorid uhličitý",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "oxid uhelnatý",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 356,
+		"category": 1,
+		"number": 356,
+		"text": "Z uvedených kovů nejsou v malých dávkách jedovaté rozpustné sloučeniny:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zinku",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vápníku",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "barya",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "olova",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 357,
+		"category": 1,
+		"number": 357,
+		"text": "Hořčík (Mg) je součástí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hemoglobinu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kontrastních látek používaných v rentgenologii",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "lehkých slitin",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "chlorofylu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 358,
+		"category": 1,
+		"number": 358,
+		"text": "Vápník barví plamen:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zeleně",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "žlutě",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "karmínově červeně",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "cihlově červeně",
+				"correct": true
+			}
+		]
+	}
+]

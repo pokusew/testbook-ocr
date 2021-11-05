@@ -1,0 +1,290 @@
+[
+	{
+		"id": 473,
+		"category": 1,
+		"number": 473,
+		"text": "Laktosa je disacharid obsahující:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "fruktosu a glukosu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "fruktosu a galaktosu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "glukosu a galaktosu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "glukosu a maltosu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 474,
+		"category": 1,
+		"number": 474,
+		"text": "Sacharosa je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "redukující cukr",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "neredukující cukr",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "disacharid",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "monosacharid",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 475,
+		"category": 1,
+		"number": 475,
+		"text": "Molekula fruktosy obsahuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "2 chirální uhlíky",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "3 chirální uhlíky",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "4 chirální uhlíky",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "neobsahuje chirální uhlíky",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 476,
+		"category": 1,
+		"number": 476,
+		"text": "Epimery jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "D-ribosa a D-ribulosa",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "D-ribosa a D-glukosa",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "D-glukosa a D-mannosa",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "D-glukosa a D-galaktosa",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 477,
+		"category": 1,
+		"number": 477,
+		"text": "Enantiomery jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "D-ribosa a L-arabinosa",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "D-ribosa a L-ribosa",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "D-arabinosa a L-arabinosa",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "D-ribosa a L-ribulosa",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 478,
+		"category": 1,
+		"number": 478,
+		"text": "Mezi pentosy nepatří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "arabinosa",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "xylosa",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "erytrosa",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mannosa",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 479,
+		"category": 1,
+		"number": 479,
+		"text": "Neredukující cukry:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nemají volný hemiacetálový hydroxyl",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mají na hemiacetálovém hydroxylu vázanou necukernou složku",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou ketocukry",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou polysacharidy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 480,
+		"category": 1,
+		"number": 480,
+		"text": "Produkty hydrolýzy sacharosy jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "glukosa a galaktosa",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "glukosa a voda",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "2 glukosy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "glukosa a fruktosa",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 481,
+		"category": 1,
+		"number": 481,
+		"text": "Glucitol:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vzniká redukcí D-glukosy",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vzniká oxidací D-glukosy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je cukerný alkohol",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "má aldehydovou skupinu",
+				"correct": false
+			}
+		]
+	}
+]

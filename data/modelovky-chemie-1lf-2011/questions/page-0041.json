@@ -1,0 +1,290 @@
+[
+	{
+		"id": 323,
+		"category": 1,
+		"number": 323,
+		"text": "Sloučenina se vzorcem BaO2:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "neexistuje",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je oxid baryčitý",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je oxid barnatý",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je peroxid barnatý",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 324,
+		"category": 1,
+		"number": 324,
+		"text": "0,9% roztok NaCl:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je pro člověka hypertonický",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jedná se o tzv. fyziologický roztok",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je pro člověka hypotonický",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "můžeme jej připravit rozpuštěním 9 g NaCl v 1 litru destilované vody",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 325,
+		"category": 1,
+		"number": 325,
+		"text": "Jód:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je velmi dobře rozpustný ve vodě",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je rozpustný v ethanolu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je rozpustný v roztocích jodidů (například KI)",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "není pro lidský organismus potřebný",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 326,
+		"category": 1,
+		"number": 326,
+		"text": "Z následujících látek vykazují dezinfekční účinky:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ethanolový roztok jódu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "peroxid vodíku",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "chlorid-chlornan vápenatý",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "destilovaná voda",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 327,
+		"category": 1,
+		"number": 327,
+		"text": "HCN:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je slabá kyselina",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je silná kyselina",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "není na rozdíl od KCN toxická",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kyanidový ion je inhibitorem řady životně důležitých enzymů",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 328,
+		"category": 1,
+		"number": 328,
+		"text": "Chalkogeny jsou prvky:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "p*",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "p3",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "p",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "po",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 329,
+		"category": 1,
+		"number": 329,
+		"text": "O halogenech platí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se vzrůstajícím protonovým číslem klesá jejich elektronegativita",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jód vytěsňuje brom z KBr podle reakce 2KBr + 12 → 2KI + Br2",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jód rozpuštěný v jodidu draselném je znám pod názvem Fehlingovo činidlo",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "fluor není biogenní prvek",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 330,
+		"category": 1,
+		"number": 330,
+		"text": "Vyberte nesprávné tvrzení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádná ze sloučenin obsahující Ba2+ nemůže být pro svou toxicitu využita v medicíně",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Ba2+ ionty jsou toxické",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "síran barnatý má natolik nízký součin rozpustnosti, že je prakticky nerozpustný",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "síran barnatý je dolomit",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 331,
+		"category": 1,
+		"number": 331,
+		"text": "Sodík:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se v organismu vyskytuje převážně extracelulárně ve formě sodného kationtu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nereaguje s vodou",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je kov",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vyskytuje se výhradně v oxidačním stavu + b) Ba2+",
+				"correct": false
+			}
+		]
+	}
+]

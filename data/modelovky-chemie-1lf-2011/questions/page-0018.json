@@ -1,0 +1,258 @@
+[
+	{
+		"id": 135,
+		"category": 1,
+		"number": 135,
+		"text": "Aktivační energie reakce:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "má vztah k rychlosti chemické reakce",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je ovlivněná přítomností katalyzátoru",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "závisí na reakčním teple",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "závisí na rovnovážné konstantě",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 136,
+		"category": 1,
+		"number": 136,
+		"text": "Chemická rovnováha reakce 2 HBr + H2 + Br2 s hodnotou reakčního tepl Qm = +70 kJ. mol-? se posune na stranu reaktantu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zvýšením teploty",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "snížením teploty",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "odstraněním H2 z reakční směsi",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "přidáním HBr do reakční směsi",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 137,
+		"category": 1,
+		"number": 137,
+		"text": "Osmotický tlak (TT):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "závisí na počtu částic v roztoku",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je nepřímo úměrný koncentraci rozpuštěných látek",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "u zředěných roztoků můžeme vyjádřit vztahem: = i.c.R.T",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je stejný při různých teplotách",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 138,
+		"category": 1,
+		"number": 138,
+		"text": "O osmóze platí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je důležitá při podání injekcí do žíly",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "při osmóze se zmenšuje koncentrace látek v koncentrovanějším roztoku",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pomocí osmózy je možné z vodného roztoku oddělit hemoglobin od NaCl",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pokud dáme červené krvinky do roztoku NaCl o koncentraci c = 0,3 mol/l, zůstano nezměněné",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 139,
+		"category": 1,
+		"number": 139,
+		"text": "Difúze:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je formálně opakem osmózy",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je samovolný přechod částic látky z míst s větší koncentrací do míst s menší koncentrací",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je přechod rozpouštědla přes polopropustnou membránu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je formálně opakem dialýzy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 140,
+		"category": 1,
+		"number": 140,
+		"text": "Rozpouštění:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "závisí na chemické struktuře rozpouštěné látky, na typu rozpouštědla a na teplotě",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kapalných látek ve vodě se vyjadřuje konstantami rozpustnosti",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nezávisí na teplotě",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "u plynů závisí i na tlaku plynu nad roztokem",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 141,
+		"category": 1,
+		"number": 141,
+		"text": "Mírou rozpustnosti látky je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "koncentrace jejího nasyceného roztoku při daných podmínkách",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hodnota jejího solvatačního tepla",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "množství tepla, které se uvolní při rozpouštění",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "množství látky, které zůstane nerozpuštěné v nasyceném roztoku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 142,
+		"category": 1,
+		"number": 142,
+		"text": "Směšovací rovnici:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "můžeme vyjádřit vztahem: C(A) = m(A)/V x M(A)",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "můžeme použít pro výpočet pH pufrů po jejich přípravě ze dvou základních roztoků",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "používáme na výpočet hodnot ionizačních konstant aminokyselin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "používáme na výpočet složení výsledného roztoku po smísení dvou roztoků s různo koncentrací",
+				"correct": true
+			}
+		]
+	}
+]

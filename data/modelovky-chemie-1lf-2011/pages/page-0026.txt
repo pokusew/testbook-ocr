@@ -1,5 +1,4 @@
-=
-190) Při reakci 30 g zinku s kyselinou chlorovodíkovou vznikne x gramů chloridu
+198) Při reakci 30 g zinku s kyselinou chlorovodíkovou vznikne x gramů chloridu
 zinečnatého. Jaká je hodnota x? Počítejte se stoprocentní konverzí reakce.
 Ar(Zn) = 65, Ar(CI) = 35
 a) x=50g

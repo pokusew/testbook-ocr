@@ -1,0 +1,290 @@
+[
+	{
+		"id": 570,
+		"category": 1,
+		"number": 570,
+		"text": "Cholesterol:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je výchozí sloučeninou při syntéze žlučových kyselin",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je sekundární alkohol",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "neobsahuje ve své molekule dvojnou vazbu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je hlavním představitelem fytosterolů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 571,
+		"category": 1,
+		"number": 571,
+		"text": "Hlavní funkcí žlučových kyselin:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je udržování kyselého pH žluči",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je vyloučení degradačních produktů rozpadu hemu z organismu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je podpora vstřebávání sacharidů v tenkém střevě",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "není žádná z uvedených možností",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 572,
+		"category": 1,
+		"number": 572,
+		"text": "Mezi steroidy nepatří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vitamín D",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "skvalen",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "digitoxin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "gestageny",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 573,
+		"category": 1,
+		"number": 573,
+		"text": "Látky se steroidní strukturou mohou vykonávat tyto fyziologické funkc s výjimkou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hormonální regulace",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "regulace fluidity buněčných membrán",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "důležitá zásobárna metabolické energie v těle člověka",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "usnadnění vstřebávání lipidů v tenkém střevě",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 574,
+		"category": 1,
+		"number": 574,
+		"text": "Zvolte správné tvrzení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "všechny kódované aminokyseliny jsou chirální",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "všechny kódované aminokyseliny s výjimkou histidinu jsou chirální",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "všechny kódované aminokyseliny s výjimkou glycinu jsou chirální",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "všechny kódované aminokyseliny s výjimkou prolinu jsou chirální",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 575,
+		"category": 1,
+		"number": 575,
+		"text": "Zvolte správné tvrzení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "všechny kódované aminokyseliny kromě glycinu patří do skupiny a-aminokyselin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "všechny kódované aminokyseliny kromě prolinu patří do skupiny a-aminokyselin",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "všechny kódované aminokyseliny kromě histidinu patří do skupiny a-aminokyselin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "všechny kódované aminokyseliny kromě alaninu patří do skupiny a-aminokyselin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 576,
+		"category": 1,
+		"number": 576,
+		"text": "Zvolte správné tvrzení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "rostlinné bílkoviny většinou obsahují všechny esenciální aminokyseliny",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "rostlinné bílkoviny většinou neobsahují všechny esenciální aminokyseliny",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "živočišné bílkoviny většinou obsahují všechny esenciální aminokyseliny",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "živočišné bílkoviny většinou neobsahují všechny esenciální aminokyseliny",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 577,
+		"category": 1,
+		"number": 577,
+		"text": "Zvolte správné tvrzení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v silně kyselém prostředí mají aminokyseliny kladný náboj",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v silně kyselém prostředí mají aminokyseliny záporný náboj",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v silně zásaditém prostředí mají aminokyseliny záporný náboj",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v silně zásaditém prostředí mají aminokyseliny kladný náboj",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 578,
+		"category": 1,
+		"number": 578,
+		"text": "Kyselina 2-aminojantarová je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kyselina asparagová",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kyselina glutamová",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "aminokyselina se dvěma karboxylovými skupinami v molekule",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "alanin",
+				"correct": false
+			}
+		]
+	}
+]

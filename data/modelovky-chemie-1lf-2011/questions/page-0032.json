@@ -1,0 +1,290 @@
+[
+	{
+		"id": 244,
+		"category": 1,
+		"number": 244,
+		"text": "Při ztužování tuků hydrogenací dochází k:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "oxidaci mastných kyselin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vzniku násobných vazeb v mastných kyselinách",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "redukci mastných kyselin",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "hydrolytickému štěpení mastných kyselin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 245,
+		"category": 1,
+		"number": 245,
+		"text": "Nitrace benzenu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je typická elektrofilní substituce",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se provádí reakcí benzenu se směsí kyseliny dusičné a sírové",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zachovává aromatický charakter reaktantu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je reakce nukleofilního činidla s elektrofilním aromatickým systémem",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 246,
+		"category": 1,
+		"number": 246,
+		"text": "Dehydratací izopropanolu vzniká:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1-propanol",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1-propen",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1,2-propandien",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "2–propanon",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 247,
+		"category": 1,
+		"number": 247,
+		"text": "Dehydrogenací izopropanolu vzniká:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "propan",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "propanal",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "propanon",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kyselina propionová",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 248,
+		"category": 1,
+		"number": 248,
+		"text": "Reakce ketonu s primárním alkoholem:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je typická nukleofilní adice",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dává vznik poloacetalu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "neprobíhá",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je typická elektrofilní substituce",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 249,
+		"category": 1,
+		"number": 249,
+		"text": "Terminace radikálové substituce probíhá:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vzájemnou reakcí dvou radikálů substitučního činidla",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "reakcí radikálu substitučního činidla s produktem substituční reakce",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "reakcí radikálu substitučního činidla s reaktantem substituční reakce",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "reakcí radikálu substitučního činidla s jakýmkoli jiným přítomným radikálem",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 250,
+		"category": 1,
+		"number": 250,
+		"text": "Eliminací molekuly vody z kyseliny ftalové vzniká:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kyselina benzoová",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ftalanhydrid",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "xylen",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "hydrochinon",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 251,
+		"category": 1,
+		"number": 251,
+		"text": "Reakcí alkylhalogenidu s NaOH vznikne:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "alkoholát sodný",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "alkohol",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ester",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "alken",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 252,
+		"category": 1,
+		"number": 252,
+		"text": "Při substitučních reakcích na aromatické sloučenině rozhoduje o poloze dalšíh substituentu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "teplota za které reakce probíhá",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "typ prvního substituentu na struktuře aromatického jádra",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "poloha substituce je náhodná",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "typ skupiny, která se na aromatické jádro navazuje",
+				"correct": false
+			}
+		]
+	}
+]

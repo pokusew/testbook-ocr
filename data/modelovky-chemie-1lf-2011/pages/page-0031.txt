@@ -15,8 +15,8 @@ C) změnou teploty
 d) přidáním katalyzátoru
 239) Standardní elektrodoý potenciál K*/Kje -2,925 V, standardní elektrodový
 potenciál Ag*/Ag je 0,99 V. Pokud vložíme do nádoby stejné látkové množství
-kovového draslíku, choridu draselného, práškového kovového stříbra
-a dusičnanu stříbrnéb a přidáme destilovanou vodu, budou prvky obou kovů po
+kovového draslíku, choridu draselného, práškového kovového stříbra a
+dusičnanu stříbrnéb a přidáme destilovanou vodu, budou prvky obou kovů po
 ustálení rovnováhy pivážně jako:
 a) kovový draslík a kovovstříbro
 b) draselné kationty a střírné kationty

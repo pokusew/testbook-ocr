@@ -1,0 +1,258 @@
+[
+	{
+		"id": 544,
+		"category": 1,
+		"number": 544,
+		"text": "Vyberte správné/á tvrzení o zobrazené sloučenin OH:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je to karboxylová kyselina",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je to kyselina olejová",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je to esenciální mastná kyselina",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je to kyselina cis-oktadec-9-enová",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 545,
+		"category": 1,
+		"number": 545,
+		"text": "Zobrazená sloučenina je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "steran",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "strukturním základem cholesterolu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "fenanthren",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "strukturním základem glukokortikoidů",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 546,
+		"category": 1,
+		"number": 546,
+		"text": "Lipasy jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "transferasy",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "peptidasy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "součástí pankreatické šťávy",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "hydrolasy",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 547,
+		"category": 1,
+		"number": 547,
+		"text": "Která/é z uvedených látek patří mezi lipidy?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "lecithin",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "triacylglycerol",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "glutamin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kalcitonin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 548,
+		"category": 1,
+		"number": 548,
+		"text": "Zobrazená sloučenina je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žlučová kyselina",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "cholesterol",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vitamín A",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "stero HO",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 549,
+		"category": 1,
+		"number": 549,
+		"text": "Typickou vlastností lipidů je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hydrofilie",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dobrá rozpustnost v nepolárních rozpouštědlech",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "výskyt pouze u živočichů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná z uvedených",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 550,
+		"category": 1,
+		"number": 550,
+		"text": "Pro mastné kyseliny platí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kyselina palmitová je silnější kyselina než kyselina mravenčí",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v lidském organismu nejsou přítomny jako volné mastné kyseliny, ale vždy pouze jak součást triacylglycerolů nebo fosfolipidů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "obsahují převážně sudý počet uhlíkových atomů a nerozvětvený řetězec",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "obsahují obvykle 2 karboxylové skupiny",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 551,
+		"category": 1,
+		"number": 551,
+		"text": "Označte správné tvrzení týkající se esenciálních mastných kyselin:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v běžně přijímaných potravinách se nevyskytují",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "příkladem je kyselina stearová",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "příkladem je kyselina oktadecenová",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "obsahují 2 a více dvojných vazeb",
+				"correct": true
+			}
+		]
+	}
+]

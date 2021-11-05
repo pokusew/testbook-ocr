@@ -1,0 +1,226 @@
+[
+	{
+		"id": 143,
+		"category": 1,
+		"number": 143,
+		"text": "Hmotnostní koncentrace roztoku chlornanu sodného je 10 g/l. Jaká je látkov koncentrace tohoto roztoku? Ar(Na) = 23, Ar(CI) = 35,5",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,134 mol/1",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "745 mmol/l",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "134 mmol/l",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "0,171 mol/l",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 144,
+		"category": 1,
+		"number": 144,
+		"text": "Kolik je třeba navážit krystalického bezvodého dihydrogenfosforečnan draselného na přípravu 250 ml roztoku o koncentraci 0,1 mol/l? Ar(K) = 39 Ar(P) = 31",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "13,6 g",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "54,4 g",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "3,4 g",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "4,35 g",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 145,
+		"category": 1,
+		"number": 145,
+		"text": "V1 litru roztoku je rozpuštěno 50 g pentahydrátu síranu měďnatého. Jaká j koncentrace iontů Cu2+ v tomto roztoku? Ar(Cu) = 64, Ar(S) = 32",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,4 mol/l",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,3125 mol/l",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "0,625 mol/l",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "0,2 mol/l",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 146,
+		"category": 1,
+		"number": 146,
+		"text": "Kolik ml koncentrované kyseliny chlorovodíkové (12 mol/l) je potřeba na příprav 500 ml roztoku 0,1 mol/l?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "8,33 ml",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "4,167 ml",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "12 ml",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "13,367 ml",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 147,
+		"category": 1,
+		"number": 147,
+		"text": "Kolik vody je třeba přidat k 20 ml NaCl 1 mol/l, aby vznikl fyziologický rozto o koncentraci NaCl 9 g/l? Ar(Na) = 23, Ar(CI) = 35,5",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "130 ml",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "120 ml",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "110 ml",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "100 ml",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 148,
+		"category": 1,
+		"number": 148,
+		"text": "Kolik gramů KOH obsahuje 0,1 dm3 roztoku o látkové koncentrac C(KOH) = 0,1 mol.dm-3? Ar(K) = 39, Ar(0) = 16, Ar(H) = 1",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,56 g",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1,12 g",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "5,6 g",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "56 g",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 149,
+		"category": 1,
+		"number": 149,
+		"text": "Kolik gramů CaBr2 je třeba pro přípravu 10 dm3 roztoku o látkové koncentrac c(CaBr2)=0,01 mol.dm-3? Ar(Ca) = 40, Ar(Br) = 80",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "2g",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "20 g",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1,2 g",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "12 =",
+				"correct": false
+			}
+		]
+	}
+]

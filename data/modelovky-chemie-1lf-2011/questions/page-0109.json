@@ -1,0 +1,290 @@
+[
+	{
+		"id": 895,
+		"category": 2,
+		"number": 895,
+		"text": "Progesteron je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ženský pohlavní hormon",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hormon štítné žlázy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "peptid",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "steroidní látka",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 896,
+		"category": 2,
+		"number": 896,
+		"text": "Insulin je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hormon sleziny",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hormon pankreatu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "peptid",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "polysacharid",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 897,
+		"category": 2,
+		"number": 897,
+		"text": "Cukrovka je onemocnění, při kterém hraje podstatnou úlohu",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "oxytocin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "insulin",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "progestin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "leucin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 898,
+		"category": 2,
+		"number": 898,
+		"text": "Vitamíny jsou",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "organické látky potřebné v malých množstvích pro správné fungování organismu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "anorganické látky potřebné v malých množstvích pro správné fungování organismu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "organické nebo anorganické látky potřebné v malých množstvích pro správné fungován organismu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vždy rozpustné ve vodě",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 899,
+		"category": 2,
+		"number": 899,
+		"text": "Vitamin A",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je rozpustný ve vodě",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je rozpustný v tucích",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je v zelenině přítomen ve formě provitamínu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je ve vyšších dávkách toxický",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 900,
+		"category": 2,
+		"number": 900,
+		"text": "Vitamín D",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je látka steroidní povahy",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kladně působí na šeroslepost",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je důležitý pro správný vývoj kostí",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jeho nedostatek způsobuje křivici (rachitis)",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 901,
+		"category": 2,
+		"number": 901,
+		"text": "NAD+ a NADH se",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "od sebe v žádném ohledu neliší",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "NAD+ je redukovaná forma NADH",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "NADH je redukovaná forma NAD",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná z těchto látek neexistuje, existuje pouze NADPH",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 902,
+		"category": 2,
+		"number": 902,
+		"text": "Aktivní transport je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "transport látek pomocí aktivace buněčné membrány, která svými pohyby přepravuj částice",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "průnik roztoků přes buněčnou stěnu, který je spojen se spotřebou ATP",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "transport částice proti koncentračnímu spádu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "děj, ve kterém se mohou uplatnit tzv. iontové pumpy",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 903,
+		"category": 2,
+		"number": 903,
+		"text": "Adrenalin je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hormon, který je vylučován hlavně nadledvinkami",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "tzv. stresový hormon, jiný název je epinefrin",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pohlavní hormon savců",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "látka vylučovaná pankreatem ve stavu ohrožení organism Z",
+				"correct": false
+			}
+		]
+	}
+]

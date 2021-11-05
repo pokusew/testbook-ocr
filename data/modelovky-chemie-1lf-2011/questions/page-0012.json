@@ -1,0 +1,290 @@
+[
+	{
+		"id": 86,
+		"category": 1,
+		"number": 86,
+		"text": "Halogeny:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "všechny, vyjma astatu, nabývají oxidačního stavu -1 až +VII",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "všechny soli halogenvodíků jsou dobře rozpustné ve vodě",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou silně jedovaté, leptají sliznice",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "všechny velice ochotně reagují s vodou",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 87,
+		"category": 1,
+		"number": 87,
+		"text": "Vodík:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jako jediný prvek nikdy nemá v atomovém jádře neutron",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je významné redukční činidlo",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "při vyšších teplotách oxiduje alkalické kovy",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je to nejrozšířenější prvek na Zemi",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 88,
+		"category": 1,
+		"number": 88,
+		"text": "Beketovova řada kovů:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je seřazená dle hodnot jejich standardního elektrodového potenciálu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "obsahuje pouze kovy, které mají za pokojové teploty pevné skupenství",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "neobsahuje vodík",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "poskytuje informace především o oxidačně-redukčních vlastnostech kovů",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 89,
+		"category": 1,
+		"number": 89,
+		"text": "Redoxní potenciál:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nabývá pouze kladných hodnot",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nabývá pouze záporných hodnot",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nabývá kladných i záporných hodnot",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "za žádných okolností není roven nule",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 90,
+		"category": 1,
+		"number": 90,
+		"text": "Jednotkou elektrodového potenciálu je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "volt",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "joule",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kalorie",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "watt",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 91,
+		"category": 1,
+		"number": 91,
+		"text": "Termodynamická teplota:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nabývá kladných hodnot",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nabývá kladných i záporných hodnot",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nabývá pouze kladných hodnot a nuly",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je exponenciální funkcí tzv. absolutní teploty",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 92,
+		"category": 1,
+		"number": 92,
+		"text": "V soustavě SI se termodynamická teplota se vyjadřuje v:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Kelvinech",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "stupních Kelvina",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "stupních Celsia",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "stupních Fahrenheita",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 93,
+		"category": 1,
+		"number": 93,
+		"text": "Skleněná elektroda:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je typ iontově selektivní elektrody",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je elektroda určená především pro měření pH",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je nejběžnější typ referentní elektrody",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "slouží výhradně pro měření koncentrace chloridových iontů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 94,
+		"category": 1,
+		"number": 94,
+		"text": "Elektromotorické napětí skleněné elektrody:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je ovlivněno aktivitou iontů měřeného roztoku",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je ovlivněno koncentrací iontů měřeného roztoku",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je ovlivněno teplotou měřeného roztoku",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "není závislé na aktivitních koeficientech iontů měřeného roztoku",
+				"correct": false
+			}
+		]
+	}
+]

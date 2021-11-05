@@ -35,10 +35,9 @@ straně
 c) v iontových rovnicích jsou disociovány i pevné, nerospustné sloučeniny
 d) iontové rovnice se nevyčíslují, tj. rovnice je správná i tehdy, pokud nemá správně
 doplněné stechiometrické koeficienty
-990) Správný zápis iontové rovnice popisující vznik síranu sodného z kyseliny sírové
-a hydroxidu sodného je
+990) Správný zápis iontové rovnice popisující vznik síranu sodného z kyseliny sírové a
+hydroxidu sodného je
 a) 2NaOH + H2SO4 → 2Na+ + SO4- + H20
 B) 2Na+ + 20H% + 2H+ + SO4 + 2Na+ + SO4 + 2H20
 c) 2NaOH + 2H+ + SO4 → 2Na+ + SO4 + 2H20
 d) 2Na+ + 2OH + H2SO4+ 2Na+ + SOą- + 2H20
-+

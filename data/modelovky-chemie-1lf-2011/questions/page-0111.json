@@ -1,0 +1,290 @@
+[
+	{
+		"id": 913,
+		"category": 2,
+		"number": 913,
+		"text": "Glukóza přijatá potravou může být v lidském těle",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "oxidována až na CO2 a H20",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "uložena ve formě glykogenu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "uložena ve formě škrobu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "přeměněna na tuk",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 914,
+		"category": 2,
+		"number": 914,
+		"text": "Která/é z následujících látek se přirozeně nevyskytuje/í v živých buňkách?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kyselina mléčná nebo její soli",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kyselina jantarová nebo její soli",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kyselina mravenčí",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kyselina 2-hydroxypropanová",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 915,
+		"category": 2,
+		"number": 915,
+		"text": "Aminokyseliny, které obsahují další aminoskupinu v postranním řetězci jsou",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "isoleucin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "glutamin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "arginin",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "lysin",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 916,
+		"category": 2,
+		"number": 916,
+		"text": "Aminokyselina/y obsahující v postranním řetězci síru je/jsou",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "thiamin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "cystein",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "histidin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "prolin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 917,
+		"category": 2,
+		"number": 917,
+		"text": "Aminokyselina/y obsahující v postranním řetězci hydroxylovou skupinu je/jsou",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "methionin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "serin",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "threonin",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "fenylalanin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 918,
+		"category": 2,
+		"number": 918,
+		"text": "Aminokyselina/y, která/é ve své molekule obsahuje aromatický kruh je/jsou",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "glutamin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "tryptofan",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "fenylalanin",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "tyrosin",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 919,
+		"category": 2,
+		"number": 919,
+		"text": "Aminokyselina/y obsahující ve své molekule amidovou vazbu je/jsou",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "asparagin",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "glutamin",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "tyrosin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "takové aminokyseliny se v přírodě nevyskytují",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 920,
+		"category": 2,
+		"number": 920,
+		"text": "Která z uvedených látek je v lidském těle nejvíce zastoupena (tj. tuto látk obsahuje lidské tělo v největším množství)",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "proteiny (hlavně stavební funkce, např. svaly)",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "sacharidy a tuky (zásoba energie)",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "voda (rozpouštědlo polárních látek)",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "minerální látky (důležité např. pro přenos nervových vzruchů nebo stavbu kostní hmoty)",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 921,
+		"category": 2,
+		"number": 921,
+		"text": "Tuky jsou",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "polymery mastných kyselin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "soli mastných kyselin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "estery mastných kyselin",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "amidy mastných kyselin",
+				"correct": false
+			}
+		]
+	}
+]

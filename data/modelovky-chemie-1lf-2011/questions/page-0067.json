@@ -1,0 +1,290 @@
+[
+	{
+		"id": 552,
+		"category": 1,
+		"number": 552,
+		"text": "Kyselina cis-,cis-,cis-9,12,15-oktadekatrienová je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kyselina palmitová",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "esenciální mastná kyselina",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kyselina alfa linolenová",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "omega 3 nenasycená mastná kyselina",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 553,
+		"category": 1,
+		"number": 553,
+		"text": "O kyselině stearové platí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kompletním zmetabolizováním jednoho molu beta oxidací vznil 9 mol acetylkoenzymu A",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je to esenciální mastná kyselina",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "obsahuje dvě karboxylové skupiny",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "obsahuje 1 dvojnou vazbu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 554,
+		"category": 1,
+		"number": 554,
+		"text": "Molekula triacylglycerolu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "obsahuje esterově vázanou kyselinu fosforečnou",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "obsahuje tři esterové vazby",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vždy obsahuje pouze nasycené mastné kyseliny",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je základní součástí například rostlinných olejů",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 555,
+		"category": 1,
+		"number": 555,
+		"text": "Pro beta oxidaci platí, že:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "slouží k odbourávání steroidních látek",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "probíhá v matrix mitochondrií",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mastná kyselina musí být přítomná ve formě acylkoenzymu A",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "konečným produktem je oxid uhličitý a voda",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 556,
+		"category": 1,
+		"number": 556,
+		"text": "Kyselou hydrolýzou triacylglycerolů vzniká:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "acetylkoenzym A",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "voda a oxid uhličitý",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mýdlo a glycerol",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná z uvedených možností není správně",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 557,
+		"category": 1,
+		"number": 557,
+		"text": "Pro vosky je typické, že obsahují:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "glycerol",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vyšší mastnou kyselinu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jednu esterovou vazbu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vyšší jednosytný alkohol",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 558,
+		"category": 1,
+		"number": 558,
+		"text": "Při ztužování tuků:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se zvyšuje počet dvojných vazeb v molekulách mastných kyselin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dochází k hydrogenaci",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dochází k oxidační polymeraci",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mohou vznikat trans nenasycené mastné kyseliny",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 559,
+		"category": 1,
+		"number": 559,
+		"text": "Pro fosfatidylcholin platí že:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "patří mezi fosfolipidy",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "obsahuje ve své molekule dva zbytky mastných kyselin",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "slouží v organismu především jako zdroj metabolické energie",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "obsahuje ve své molekule aminoalkohol sfingosin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 560,
+		"category": 1,
+		"number": 560,
+		"text": "Označte správné tvrzení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "strukturním základem sfingolipidů je trojsytný alkohol",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "fosfolipidy patří mezi amfifilní látky",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "rostlinné oleje jsou směsi triacylglycerolů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mastná kyselina je v molekule sfingolipidů vázána esterovou vazbou",
+				"correct": false
+			}
+		]
+	}
+]

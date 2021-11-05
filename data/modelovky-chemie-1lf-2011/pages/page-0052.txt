@@ -1,19 +1,19 @@
-2) Heterocyklické sloučeniny jsou:
+422) Heterocyklické sloučeniny jsou:
 a) nestálé a v běžných podmínkách se nevyskytují
 b) anorganické sloučeniny uhlíku
 C) cyklické sloučeniny uhlíku spolu s ostatními prvky
 d) alifatické sloučeniny tvořené uhlíkovým řetězcem
-123) O heterocyklických sloučeninách platí:
+423) O heterocyklických sloučeninách platí:
 a) jsou tvořené výlučně izocyklickým řetězcem uhlíku
 b) vždy obsahují ve svém cyklu jenom jeden heteroatom
-e) nejčastějším heteroatomem jsou kyslík, síra, uhlík
+c) nejčastějším heteroatomem jsou kyslík, síra, uhlík
 D) mohou mít aromatický charakter
-124) O heterocyklických sloučeninách platí:
+424) O heterocyklických sloučeninách platí:
 a) jsou tvořené výlučně izocyklickým řetězcem křemíku
 B) vždy obsahují ve svém cyklu aspoň jeden heteroatom
 C) nejčastějším heteroatomem jsou kyslík, síra, dusík
 d) nemohou mít aromatický charakter
-125) O heterocyklických sloučeninách platí:
+425) O heterocyklických sloučeninách platí:
 A) mohou obsahovat dvojné vazby
 b) nejběžnější a nejstálejší jsou čtyř- a pětičlenné heterocykly
 C) dělíme dle počtu atomů kruhu na troj-, čtyř-, pěti-, šesti-, sedmi-, osmi- a více členné
@@ -23,12 +23,12 @@ a) nikdy nemají aromatický charakter
 b) nejběžnější jsou tříčlenné
 C) jsou důležitou součástí nukleových kyselin
 D) mohou být součástí bílkovin
-127) O heterocyklických sloučeninách platí:
+427) O heterocyklických sloučeninách platí:
 A) mohou obsahovat nasycené i nenasycené vazby
 B) nejběžnější jsou pěti- a šestičlenné
 c) v lidském organismu se s nimi nesetkáme
 d) mají vždy aromatický charakter
-128) O heterocyklických sloučeninách platí:
+428) O heterocyklických sloučeninách platí:
 a) jsou vždy látky plynné povahy
 b) jsou pro lidský organismus nebezpečné
 C) jsou součástí glykogenu

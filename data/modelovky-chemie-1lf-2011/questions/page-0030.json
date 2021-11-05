@@ -1,0 +1,258 @@
+[
+	{
+		"id": 228,
+		"category": 1,
+		"number": 228,
+		"text": "Aktivovaný komplex:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vzniká při přibližování molekul k sobě a oslabování vazeb uvnitř nich",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vzniká pouze v přítomnosti katalyzátoru",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vzniká po absorpci záření reaktantem",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je komplex reaktantu s radioaktivním izotopem",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 229,
+		"category": 1,
+		"number": 229,
+		"text": "Katalyzátor:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "způsobí, že reakce probíhá jiným mechanismem",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "způsobí, že v průběhu reakce vznikají jiné meziprodukty",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "stejnou měrou urychlí dopřednou i vratnou reakci",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zvýší rovnovážnou konstantu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 230,
+		"category": 1,
+		"number": 230,
+		"text": "Uvažujme děj, který probíhá v pevné uzavřené nádobě. Přes stěny nádoby se můž předávat teplo. Takový děj je nutně:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "izotermický",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "izobarický",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "izochorický",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "adiabatický",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 231,
+		"category": 1,
+		"number": 231,
+		"text": "Uvažujme děj, který probíhá v nádobě uzavřené volně pohyblivým pístem, v okol nádoby je konstantní tlak. Přes stěny nádoby se může předávat teplo. Takový dě je nutně:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "izotermický",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "izobarický",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "izochorický",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "adiabatický",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 232,
+		"category": 1,
+		"number": 232,
+		"text": "Uvažujme děj, který probíhá v nádobě izolované od okolí, aby nemohlo docháze k výměně tepla. Takový děj je nutně:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "izotermický",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "izobarický",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "izochorický",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "adiabatický",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 233,
+		"category": 1,
+		"number": 233,
+		"text": "Uvažujme děj, který probíhá v nádobě umístěné ve vodní lázni. Teplota lázně j udržována na stálé hodnotě. Obsah nádoby je dobře promícháván, takže jeh teplota je stejná jako teplota lázně. Takový děj je nutně:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "izotermický",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "izobarický",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "izochorický",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "adiabatický",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 234,
+		"category": 1,
+		"number": 234,
+		"text": "Reakční teplo lze vypočítat jako:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "součet slučovacích tepel reakčních produktů zmenšený o součet slučovacích tepe výchozích látek",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "součet spalných tepel výchozích látek zmenšený o součet spalných tepel reakčníc produktů",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "součet slučovacích a spalných tepel reakčních produktů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "součet spalných tepel reakčních produktů zmenšený o součet jejich slučovacích tepel",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 235,
+		"category": 1,
+		"number": 235,
+		"text": "Exotermické skladné reakce, tj. reakce, jejichž AH<0 a AS > 0:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mohou z termodynamického hlediska vždy probíhat samovolně",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nemohou probíhat samovolně",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mohou z termodynamického hlediska probíhat samovolně za vhodné teploty",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se v přírodě nevyskytují",
+				"correct": false
+			}
+		]
+	}
+]

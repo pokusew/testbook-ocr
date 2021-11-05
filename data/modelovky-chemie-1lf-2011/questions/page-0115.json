@@ -1,0 +1,290 @@
+[
+	{
+		"id": 949,
+		"category": 2,
+		"number": 949,
+		"text": "Která/é typ/y reakce/í je/jsou důležitý/é v Krebsově cyklu?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "oxidace",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "redukce",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "adice",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "eliminac a",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 950,
+		"category": 2,
+		"number": 950,
+		"text": "Která/é dvojice má/mají stejný počet uhlíků?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "fumarát a maleinát",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "sukcinát a citrát",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "citrát a isocitrát",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "alfa-ketoglutarát a sukcinát",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 951,
+		"category": 2,
+		"number": 951,
+		"text": "Aflatoxin je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "produkt plísně Aspergillus flavus",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zkomolenina Alfa-toxinu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "název plísně, která roste na burských oříšcích",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vysoce toxická látka",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 952,
+		"category": 2,
+		"number": 952,
+		"text": "Botulotoxin",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je známý také jako Botulin, klobásový jed",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je bakteriální toxin nalézající se ve špatně konzervovaných potravinách",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je neškodná, netoxická látka používající se při kosmetických procedurách k vyhlazen vrásek",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je velmi prudkým jedem",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 953,
+		"category": 2,
+		"number": 953,
+		"text": "Triacylglyceroly jsou",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "výchozími látkami metabolismu tuků",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "konečnými produkty metabolismu tuků",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zdrojem energie v lidském těle",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "rozpustné ve vodě",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 954,
+		"category": 2,
+		"number": 954,
+		"text": "Vitamín B12 ve své molekule obsahuje",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "měd'",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "železo",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kobalt",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nikl",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 955,
+		"category": 2,
+		"number": 955,
+		"text": "Jako esenciální mastné kyseliny označujeme ty kyseliny, které",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou nezbytné pro správnou funkci organismu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "organismus není schopen sám vyrobit",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou připojeny k určitému vitamínu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "tvoří triacylglyceroly. Ostatní mastné kyseliny tyto látky v lidském těle netvoří",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 956,
+		"category": 2,
+		"number": 956,
+		"text": "Při odbourávání bílkovin je/jsou produktem/produkty",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "směs cukrů, tuků a minerálních látek",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "glukóza",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "směs aminokyselin",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "dusíkaté látky",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 957,
+		"category": 2,
+		"number": 957,
+		"text": "Funkce žlučových kyselin je/jsou",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pomáhat při štěpení cukrů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "emulgovat tuky",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "katalyzovat různé reakce probíhající ve žlučníku",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nemají funkci",
+				"correct": false
+			}
+		]
+	}
+]

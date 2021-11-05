@@ -1,0 +1,194 @@
+[
+	{
+		"id": 1174,
+		"category": 2,
+		"number": 1174,
+		"text": "Vyberte správnou/é možnost/i. Kolik gramů koncentrované kyseliny sírov (96% roztok H2S04) je potřeba k přípravě 500 g 10% roztoku H2SO4 (koncentrac je v hmotnostních procentech)?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "10 g kyseliny sírové",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "10,4 g kyseliny sírové",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "26,05 g kyseliny sírové",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "52,1 g kyseliny sírové",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1175,
+		"category": 2,
+		"number": 1175,
+		"text": "Vyberte správnou/é možnost/i. Kolik gramů vody je potřeba k přípravě 500 10% roztoku H2SO4 z vody a 96% kyseliny sírové (koncentrace je v hmotnostníc procentech)?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "490 g",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "489,6 g",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "447,9 g",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "433,7 g",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1176,
+		"category": 2,
+		"number": 1176,
+		"text": "Vyberte správnou/é odpověd°/i. Jaký je objem roztoku NaOH o molárn koncentraci 1 mol/l, který potřebujete k přípravě 100 ml roztoku NaO o výsledné koncentraci 0,5 mol/l?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "50 ml roztoku",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "příklad není správně zadaný, chybí údaj o hustotě výsledného i zásobního roztoku, nelz jej spočítat",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "5 ml roztoku",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "příklad nelze spočítat, protože není zadána relativní molekulová hmotnost obou látek což jsou údaje k výpočtu nezbytné",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1177,
+		"category": 2,
+		"number": 1177,
+		"text": "Jaký je objem 1 molu kyslíku při desetinásobku normálního atmosferického tlak (p=101 325 Pa) při 20 °C?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "24,0551",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "2,4055 1",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "0,22411",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "0,83201",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1178,
+		"category": 2,
+		"number": 1178,
+		"text": "Jaký objem zaujme vodík, který byl připraven reakcí 30 g zinku s kyselino chlorovodíkovou? Teplota byla 20 °C, tlak 101 325 Pa, relativní atomová hmotnos zinku je 65,38 g/mol.",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "5,521",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "11,041",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "16,54",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná z uvedených variant není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1179,
+		"category": 2,
+		"number": 1179,
+		"text": "Kolik gramů chloridu zinečnatého vznikne z reakce 1g zinku s kyselino chlorovodíkovou, jestliže výtěžek reakce je 100 %? Relativní atomová hmotnos zinku je 65,38 g/mol, rel. molekulová hm. chloridu zinečnatého je 136,28 g/mol.",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,96 g",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "2,08 g",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "4,17 g",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná z uvedených možností není správná",
+				"correct": false
+			}
+		]
+	}
+]

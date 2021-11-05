@@ -1,0 +1,162 @@
+[
+	{
+		"id": 754,
+		"category": 1,
+		"number": 754,
+		"text": "Tot je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hexan v zákrytové konfiguraci",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "perspektivní vzorec",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Newmanova projekce ethanu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ethen",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 755,
+		"category": 1,
+		"number": 755,
+		"text": "Tot je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Fisherova projekce",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Newmanův vzorec pro vyjádření konformačních izomerů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "klínkový vzorec především používaný pro prostorové vyjádření uspořádání n asymetrickém uhlíku",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "perspektivní zobrazení konformace na čtyřvazném uhlíku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 756,
+		"category": 1,
+		"number": 756,
+		"text": "Tato šipka",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se v chemii používá jen v případě, když je rychlost přímé i zpětné reakce stejná",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se používá k vyjádření zvratné reakce",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se používá k vyjádření stavu, kdy výchozí látky zreagují z 50 %",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se v chemii nepoužívá",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 757,
+		"category": 1,
+		"number": 757,
+		"text": "Tato šipk s popiskem",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se v chemii používá jen v případě, kdy reakce proběhne s výtěžkem 100 %",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se používá k vyjádření zvratné reakce",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se používá pokud je reakce ozařována, např. z důvodu tvorby radikálů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je normální reakční šipka, ale symbol nad ní je nesmyslný",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 758,
+		"category": 1,
+		"number": 758,
+		"text": "Na obrázku vidíte",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "byretu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "chladič",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Erlenmayerovu baňku",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "součást aparatury pro destilac hv",
+				"correct": true
+			}
+		]
+	}
+]

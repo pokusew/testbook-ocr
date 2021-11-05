@@ -1,0 +1,226 @@
+[
+	{
+		"id": 128,
+		"category": 1,
+		"number": 128,
+		"text": "Které z uvedených tvrzení je správné:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pro exotermické reakce platí AH > 0",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pro exergonické reakce platí AH > 0",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pro endergonické reakce platí AG<0",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná z uvedených možností není správná",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 129,
+		"category": 1,
+		"number": 129,
+		"text": "Pro termochemické zákony platí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "první zákon tvrdí: reakční teplo určité reakce a reakční teplo téže reakce probíhající z stejných podmínek opačným směrem je až na znaménko stejné",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "první zákon tvrdí: reakční teplo určité reakce a reakční teplo téže reakce probíhající z stejných podmínek opačným směrem je úplně stejné",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "druhý zákon tvrdí: reakční teplo určité reakce je stejné jako součet reakčních tepe postupně prováděných reakcí, vycházejících z jakýchkoliv výchozích látek, ale končícíc stejnými produkty",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "druhý zákon tvrdí: reakční teplo určité reakce je stejné jako součet reakčních tepe postupně prováděných reakcí, vycházejících ze stejných výchozích látek a končícíc stejnými produkty",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 130,
+		"category": 1,
+		"number": 130,
+		"text": "Druhý termodynamický zákon:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zavádí do termodynamiky vnitřní energii U",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zavádí do termodynamiky entropii S",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zkoumá, kolik tepla přijatého od okolí může soustava přeměnit na práci",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "určuje přirozený směr, kterým přírodní procesy probíhají",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 131,
+		"category": 1,
+		"number": 131,
+		"text": "Guldberg-Waagův zákon:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vystihuje vztah pro rovnovážnou konstantu chemické reakce Kc",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je formulován: Součin rovnovážných koncentrací produktů dělený součine rovnovážných koncentrací výchozích látek je konstantní a rovná se rovnovážn konstantě dané reakce.",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "říká, že rovnováha chemické reakce je závislá na velikosti aktivační energie",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "říká, že rovnováha chemické reakce se rovná součtu koncentrací výchozích láte a produktů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 132,
+		"category": 1,
+		"number": 132,
+		"text": "Posun chemické rovnováhy:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "charakterizuje Le Chatelierův princip akce a reakce",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je způsoben změnou vnějších podmínek reakce",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je vyvolaný přítomností katalyzátorů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nelze ovlivnit přítomností katalyzátorů",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 133,
+		"category": 1,
+		"number": 133,
+		"text": "Rovnováha chemické reakce:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "znamená konstantní složení reakční směsi při daných podmínkách",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "má dynamický charakter",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je kvantitativně vyjádřená rovnovážnou konstantou",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "závisí na velikosti aktivační energie",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 134,
+		"category": 1,
+		"number": 134,
+		"text": "Rovnovážný stav reakce:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je stav, při kterém reakce probíhá stejnou rychlostí v obou směrech",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je stav, kdy se reaktanty úplně přeměnily na produkty",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Ize ovlivnit změnou teploty reakční směsi",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Ize ovlivnit změnou koncentrace produktů",
+				"correct": true
+			}
+		]
+	}
+]

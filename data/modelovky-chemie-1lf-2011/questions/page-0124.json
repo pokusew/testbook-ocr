@@ -1,0 +1,226 @@
+[
+	{
+		"id": 1022,
+		"category": 2,
+		"number": 1022,
+		"text": "Vyberte správné výroky",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dodáním dostatečného množství energie je možné oddělit elektron od atomu, tí vznikne aniont",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ionizační energie je definována jako energie, kterou je nutné dodat k rozštěpen kovalentní vazby",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ionizační energie se vyjadřuje buď v elektronvoltech nebo v kJ/mol",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "energii potřebnou k odtržení prvního elektronu od atomu označujeme jako prvn ionizační energii",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1023,
+		"category": 2,
+		"number": 1023,
+		"text": "Vyberte správné výroky",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ionizační energie je totéž co excitační energie",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "první ionizační energie je vždy nižší než druhá ionizační energie",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "hodnota ionizační energie je závislá na atomovém čísle prvku",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ionizační energie je mírou toho, jak snadno z prvku vznikne kationt nebo aniont",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1024,
+		"category": 2,
+		"number": 1024,
+		"text": "Vyberte správné výroky",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v periodách ionizační energie se stoupajícím protonovým číslem roste",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nepravidelnosti ve zvyšování ionizační energie v periodách jsou způsobován obsazováním hladin s vyšší energií",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ve skupinách ionizační energie se stoupajícím protonovým číslem roste",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nepravidelnosti ve zvyšování ionizační energie ve skupinách jsou způsobován obsazováním hladin s vyšší energií",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1025,
+		"category": 2,
+		"number": 1025,
+		"text": "Vyberte správné výroky. Molekula",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je uskupení dvou nebo více atomů, ve kterém zůstávají zachovány charakteristick vlastnosti jednotlivých prvků",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je částice hmoty tvořená atomy, které jsou navzájem spojeny výhradně kovalentní vazbou",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je nejmenší částice látky, která má charakteristické chemické vlastnosti této látky",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je složena z určitého počtu stejných nebo různých atomů spojených navzáje chemickými vazbami",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1026,
+		"category": 2,
+		"number": 1026,
+		"text": "Vyberte správné výroky. Relativní atomová hmotnost je definována jako",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hmotnost jedné dvanáctiny některého izotopu uhlíku 6C",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "poměr hmotnosti 1 molu daného atomu vůči jedné dvanáctině hmotnosti 1 mol nuklidu 12C",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "hmotnost atomu toho kterého prvku v gramech",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "poměr hmotnosti 1g daného atomu vůči 1 molu nuklidu 12C",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1027,
+		"category": 2,
+		"number": 1027,
+		"text": "Který/é z uvedených výroků je/jsou správné?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "proton je totožný s atomem vodíku",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "proton je totožný s ionizovaným atomem vodíku",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pozitron má stejnou hmotnost jako elektron, znaménko jeho náboje je opačné",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "neutrony nemají náboj a mají přibližně stejnou hmotnost jako elektrony",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1028,
+		"category": 2,
+		"number": 1028,
+		"text": "Látky složené z atomů, které se vyznačují stejným protonovým i nukleonový číslem se nazývají",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nukleony",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nuklidy",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "izotopy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "molekuly",
+				"correct": false
+			}
+		]
+	}
+]

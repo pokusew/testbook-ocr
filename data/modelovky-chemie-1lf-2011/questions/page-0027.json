@@ -1,0 +1,226 @@
+[
+	{
+		"id": 205,
+		"category": 1,
+		"number": 205,
+		"text": "Jaké látkové množství síranu vápenatého vzniklo při reakci 3 kg chlorid vápenatého s kyselinou sírovou? Počítejte se stoprocentní výtěžností reakce Ar(Ca) = 40, Ar(Cl) = 35, Ar(S) = 32, Ar(0) = 16",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "27,27 mol",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "40,12 mol",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "15,16 mol",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "19,65 mol",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 206,
+		"category": 1,
+		"number": 206,
+		"text": "Kolik chlorovodíku bylo uvolněno při reakci 10 kg chloridu vápenatého s kyselino sírovou při úplné konverzi chloridu? Ar(Ca) = 40, Ar(Cl) = 35, Ar(S) = 32 Ar(0) = 16, Ar(H) = 1",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "6645 g",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "7646g",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "6846g",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "6545 g",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 207,
+		"category": 1,
+		"number": 207,
+		"text": "Jaký je objem chlorovodíku, který vznikne při reakci 30 mol chloridu vápenatéh s kyselinou sírovou? Počítejte se stoprocentní konverzí reakce a podmínkami při kterých 1 mol ideálního plynu zaujímá 22, 4 dm3. Ar(Ca) = 40, Ar(CI) = 35 Ar(S) = 32, Ar(0) = 16, Ar(H) = 1",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "9384 dm3",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "789 dm3",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1,344 m3",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1,838 dm3",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 208,
+		"category": 1,
+		"number": 208,
+		"text": "Jaký je objem chlorovodíku, který vznikne při reakci 3,3 kg chloridu vápenatéh s kyselinou sírovou? Počítejte se stoprocentní konverzí reakce a podmínkami při kterých 1 mol ideálního plynu zaujímá 22,4 dm3. Ar(Ca) = 40, Ar(CI) = 35 Ar(S) = 32, Ar(0) = 16, Ar(H) = 1",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "9384 dm3",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "789 dm3",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1,344 m3",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1,838 dm3",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 209,
+		"category": 1,
+		"number": 209,
+		"text": "Jaký bude objem vodíku, který vznikne reakcí 8 molů sodíku s vodou? Uvažujt podmínky, při kterých 1 mol ideálního plynu zaujímá 22,4 dm3.",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "89,6 dm3",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "98,6 dm3",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "68,9 dm3",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "96,8 dm3",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 210,
+		"category": 1,
+		"number": 210,
+		"text": "Jaký bude objem vodíku, který vznikne reakcí 92 g sodíku s vodou? Uvažujt podmínky, při kterých 1 mol ideálního plynu zaujímá 22,4 dm3. Ar(Na) = 23",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,448 m3",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "448 dm3",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "4,48 dm3",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "44,8 dm3",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 211,
+		"category": 1,
+		"number": 211,
+		"text": "Při reakci sodíku s vodou vzniklo 1000 dm3 vodíku. Kolik sodíku bylo použit při této reakci? Uvažujte podmínky, při kterých 1 mol ideálního plynu zaujím 22,4 dm.",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "79,28 mol",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "89,28 mol",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "99,82 mol",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "44,6 mol",
+				"correct": false
+			}
+		]
+	}
+]

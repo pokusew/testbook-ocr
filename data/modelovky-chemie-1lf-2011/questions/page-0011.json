@@ -1,0 +1,290 @@
+[
+	{
+		"id": 77,
+		"category": 1,
+		"number": 77,
+		"text": "O periodické soustavě prvků platí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "prvky jsou v periodické tabulce seřazeny tak, že prvky ve skupině mají podobn vlastnosti",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je rozdělena na 18 skupin a 7 period",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kovový charakter prvků roste zleva doprava",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "podobné vlastnosti prvků vycházejí z podobné konfigurace valenčních elektronů",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 78,
+		"category": 1,
+		"number": 78,
+		"text": "Jakou hmotnost má 1 mol Na oproti 1 mol K?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vyšší",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nižší",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "stejnou",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "závisí to na tlaku a teplotě",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 79,
+		"category": 1,
+		"number": 79,
+		"text": "Elektronegativita (označte pravdivé/á tvrzení):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "roste v periodě zprava doleva",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "klesá v periodě zprava doleva",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nabývá nejnižší hodnoty ve skupině alkalických kovů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je nejvyšší u kyslíku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 80,
+		"category": 1,
+		"number": 80,
+		"text": "Halogeny:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "všechny, až na jod, jsou za normálních podmínek plyny",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "s rostoucím atomovým číslem roste jejich elektronegativita a teplota tání",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "všechny ochotně přijímají elektron a tvoří halogenidové anionty",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "všechny jsou ve vodě výborně rozpustné",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 81,
+		"category": 1,
+		"number": 81,
+		"text": "Kyslík:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nabývá vždy oxidačního stavu 0 nebo - II",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "tvoří dvou a tříatomové molekuly",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "reaguje exotermicky",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v atomové formě je jedovatý",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 82,
+		"category": 1,
+		"number": 82,
+		"text": "Alkalické kovy:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jejich elektronegativita roste s atomovou hmotností",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jejich teplota tání ve skupině klesá",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "charakteristicky barví plamen",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "tvoří rozpustné soli",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 83,
+		"category": 1,
+		"number": 83,
+		"text": "Kovy alkalických zemin:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v rámci skupiny jejich reaktivnost s atomovým číslem stoupá",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v přírodě se vyskytují i ryzí",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "s vodíkem tvoří hydridy",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "tvoří barevné sloučeniny",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 84,
+		"category": 1,
+		"number": 84,
+		"text": "Degenerované orbitaly:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "liší se magnetickým kvantovým číslem",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mají totéž magnetické kvantové číslo",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vždy se liší spinovým kvantovým číslem",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mají totéž hlavní a vedlejší kvantové číslo",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 85,
+		"category": 1,
+		"number": 85,
+		"text": "Vyberte pravdivé/á tvrzení o přechodných prvcích:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v poslední sféře mají až 6 valenčních elektronů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "všechny jsou kovy",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "většinou tvoří amfoterní oxidy",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "spontánně reagují s vodíkem",
+				"correct": false
+			}
+		]
+	}
+]

@@ -1,19 +1,19 @@
-173) Laktosa je disacharid obsahující:
+473) Laktosa je disacharid obsahující:
 a) fruktosu a glukosu
 b) fruktosu a galaktosu
 C) glukosu a galaktosu
-O glukosu a maltosu
-174) Sacharosa je:
+d) glukosu a maltosu
+474) Sacharosa je:
 a) redukující cukr
 B) neredukující cukr
 C) disacharid
 d) monosacharid
-175) Molekula fruktosy obsahuje:
+475) Molekula fruktosy obsahuje:
 a) 2 chirální uhlíky
 B) 3 chirální uhlíky
 c) 4 chirální uhlíky
 d) neobsahuje chirální uhlíky
-176) Epimery jsou:
+476) Epimery jsou:
 a) D-ribosa a D-ribulosa
 b) D-ribosa a D-glukosa
 C) D-glukosa a D-mannosa
@@ -28,7 +28,7 @@ a) arabinosa
 b) xylosa
 C) erytrosa
 D) mannosa
-179) Neredukující cukry:
+479) Neredukující cukry:
 A) nemají volný hemiacetálový hydroxyl
 b) mají na hemiacetálovém hydroxylu vázanou necukernou složku
 c) jsou ketocukry

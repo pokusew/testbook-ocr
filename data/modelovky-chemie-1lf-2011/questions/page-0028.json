@@ -1,0 +1,226 @@
+[
+	{
+		"id": 212,
+		"category": 1,
+		"number": 212,
+		"text": "Vyberte správnou možnost. Jaké jsou správné stechiometrické koeficient v rovnici, která vyjadřuje reakci uhličitanu sodného a hydroxidu vápenatého vzniká uhličitan vápenatý a hydroxid sodný?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "2 před hydroxidem sodným",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1 před hydroxidem sodným",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "2 před hydroxidem vápenatým",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "2 před uhličitanem sodným",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 213,
+		"category": 1,
+		"number": 213,
+		"text": "Vyberte správnou možnost. Jaké jsou správné stechiometrické koeficient v rovnici, která vyjadřuje reakci sulfidu rtuťnatého a oxidu vápenatého, vznik rtuť, sulfid vápenatý a síran vápenatý?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "3 před síranem vápenatým",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "3 před oxidem vápenatým",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "4 před sulfidem rtuťnatým",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "2 před síranem vápenatým",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 214,
+		"category": 1,
+		"number": 214,
+		"text": "Vyberte správnou možnost. Jaké jsou správné stechiometrické koeficienty v rovnici která vyjadřuje reakci chlorečnanu sodného s kyselinou chlorovodíkovou, vznik chlorid sodný, chlór a voda a",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "3 před chlorečnanem sodným",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "2 před chlórem",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "6 před kyselinou chlorovodíkovou",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "2 před vodou",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 215,
+		"category": 1,
+		"number": 215,
+		"text": "Vyberte správnou možnost. Jaké jsou správné stechiometrické koeficient v rovnici, která vyjadřuje reakci trihydrátu oxidu železitého se sulfanem, vznik sulfid železnatý, síra a voda?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "2 před trihydrátem oxidu železitého",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "3 před sulfanem",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "2 před sírou",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "4 před vodou",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 216,
+		"category": 1,
+		"number": 216,
+		"text": "Procentuální zastoupení prvků v látce s relativní molekulovou hmotností 46 j 52,17 % uhlíku, 13,04 % vodíku a 34 % kyslíku. Vyberte správný sumární vzore dané látky. Ar(C) = 12, Ar(O) = 16, Ar(H) = 1",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "C2H40",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "C2H4O2",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "C2H60",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "C6H1302",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 217,
+		"category": 1,
+		"number": 217,
+		"text": "Procentuální zastoupení prvků v látce s relativní molekulovou hmotností 32,04 je 37,45 % uhlíku, 12,48 % vodíku a 49,93 % kyslíku. Vyberte správný sumárn vzorec dané látky. Ar(C) = 12, Ar(0) = 16, Ar(H) = 1",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "C2H60",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "C2H4O2",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "CH60",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "CH40",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 218,
+		"category": 1,
+		"number": 218,
+		"text": "Reakce Ag+ (aq) + Cl- (aq) → AgCl může být označena jako:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "rozkladná",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "srážecí",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "iontová",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "radikálová",
+				"correct": false
+			}
+		]
+	}
+]

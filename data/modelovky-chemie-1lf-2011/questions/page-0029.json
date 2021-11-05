@@ -1,0 +1,290 @@
+[
+	{
+		"id": 219,
+		"category": 1,
+		"number": 219,
+		"text": "Eliminace:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je typem skladné reakce",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je opakem adice",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je typem substituce",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je reakce, při které dochází ke štěpení a vzniku vazeb",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 220,
+		"category": 1,
+		"number": 220,
+		"text": "Radikál:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "obsahuje nepárový elektron",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "může vzniknout homolytickým štěpením kovalentní vazby",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jde vždy o ion",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je zpravidla reaktivní částice",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 221,
+		"category": 1,
+		"number": 221,
+		"text": "Při oxidaci:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "oxidační číslo se zvětšuje",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dochází k přenosu protonů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "oxidovaná látka přijímá elektrony",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mění se elektronová konfigurace",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 222,
+		"category": 1,
+		"number": 222,
+		"text": "Při redukci:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "oxidační číslo se zvětšuje",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dochází k přenosu protonů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "redukovaná látka přijímá elektrony",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mění se elektronová konfigurace",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 223,
+		"category": 1,
+		"number": 223,
+		"text": "Většina anorganických reakcí ve vodných roztocích má charakter reakcí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "iontových",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "radikálových",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "skladných",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "přesmyků",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 224,
+		"category": 1,
+		"number": 224,
+		"text": "Reakční rychlost reakce N2 + 3 H2 → 2 NH3 můžeme vyjádřit:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "V=-d[N2]/dt",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v=d[N2]/dt",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v=-d[H2]/dt",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v=-d[NH3]/dt",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 225,
+		"category": 1,
+		"number": 225,
+		"text": "Sníží-li se teplota o 10 °C, rychlost reakce se za jinak konstantních podmínek:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zvýší",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "může zvýšit, snížit či zůstat beze změny",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "sníží",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nezmění",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 226,
+		"category": 1,
+		"number": 226,
+		"text": "Aby podle srážkové teorie mohla proběhnout reakce mezi dvěma částicemi, mus být splněny následující podmínky:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "částice jsou vhodně orientované",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "srážka má dostatečnou energii",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "okolí má dostatečnou termodynamickou teplotu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "koncentrace produktu je nízká",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 227,
+		"category": 1,
+		"number": 227,
+		"text": "Zvýší-li se teplota o 10 °C, rychlost reakce se za jinak konstantních podmínek:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zvýší asi 2-4x",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zvýší asi 5-20%",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zvýší asi 100-300x",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zvýší asi 1000-1000 000x",
+				"correct": false
+			}
+		]
+	}
+]

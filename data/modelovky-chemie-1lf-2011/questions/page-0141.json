@@ -1,0 +1,226 @@
+[
+	{
+		"id": 1154,
+		"category": 2,
+		"number": 1154,
+		"text": "Jaký je empirický vzorec sloučeniny, která obsahuje (hmotnostní procenta 85 % Ag a 15 % F? (relativní atomová hmotnost fluoru je 19 g.mol-?; relativn atomová hmotnost stříbra je 108 g.mol-?)",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "AgF",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "AgF2",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Ag2F",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Ag2F3",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1155,
+		"category": 2,
+		"number": 1155,
+		"text": "Jaké množství kyslíku je potřeba k uskutečnění celkové oxidace 1 molu methan podle rovnice CH4 + 202 = CO2 + 2H20",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "2 gramy",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "2 moly",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "2 atomy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "2 dm3",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1156,
+		"category": 2,
+		"number": 1156,
+		"text": "Kolik elektronů potřebuje atom fosforu, aby jeho konfigurace dosáhl elektronového oktetu?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "+5",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "+3",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "+1",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "-2",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1157,
+		"category": 2,
+		"number": 1157,
+		"text": "K přípravě 100g kyseliny octové o hmotnostní koncentraci 20%, tj. w=20 (hustota roztoku 1,05 g.cm-3) budu potřebovat",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "20 g kyseliny octové",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "19 ml kyseliny octové (přibližně)",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "21 ml kyseliny octové (přibližně)",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "76,1 ml kyseliny octové (přibližně)",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1158,
+		"category": 2,
+		"number": 1158,
+		"text": "Kolik vodíku vznikne, necháme-li reagovat 4,6 g kovového sodíku s vodou (relativní atomová hmotnost sodíku je 23 g.mol-?)",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádný, při této reakci vodík nevzniká",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,1 molu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "0,21",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "4,41",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1159,
+		"category": 2,
+		"number": 1159,
+		"text": "728% (hmotnostní procenta) vodný roztok NaCl obsahuje",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "10 g soli ve 100 ml vody",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "10 g soli v 1l vody",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "10 g soli ve 100 g roztoku",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "10 g soli a 90 g vody",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1160,
+		"category": 2,
+		"number": 1160,
+		"text": "Jaká je objemová procentová koncentrace alkoholu v roztoku, který obsahuj 164 cm 100% alkoholu? Celkový obsah roztoku je 300 cm (výsledek j zaokrouhlen na jedno desetinné místo).",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "18,2 %",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "49,2 %",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "54,7 %",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1,8 %",
+				"correct": false
+			}
+		]
+	}
+]

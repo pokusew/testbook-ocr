@@ -1,0 +1,162 @@
+[
+	{
+		"id": 619,
+		"category": 1,
+		"number": 619,
+		"text": "Uvedený vzorec je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "guanin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "6-aminopurin",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "hypoxanthin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "adeni N H :",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 620,
+		"category": 1,
+		"number": 620,
+		"text": "Uvedený vzorec je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "4-amino-5-oxypurin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "guano",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kyselina močová",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "guani H2 N HN",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 621,
+		"category": 1,
+		"number": 621,
+		"text": "Uvedený vzorec je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "guanin",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "2-amino-6-oxypurin",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "xanthin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "inosi H N NE 2",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 622,
+		"category": 1,
+		"number": 622,
+		"text": "Uvedený vzorec je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "3-aminopurin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "adenin",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "guanin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "adenosi N NH mhohe O O OH",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 623,
+		"category": 1,
+		"number": 623,
+		"text": "Uvedený vzorec je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "xanthosintrifosfát",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "adenosin-5'-trifosfát",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "guanosintrifosfá O OH",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ATP",
+				"correct": true
+			}
+		]
+	}
+]

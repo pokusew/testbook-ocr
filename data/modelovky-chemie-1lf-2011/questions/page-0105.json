@@ -1,0 +1,258 @@
+[
+	{
+		"id": 860,
+		"category": 2,
+		"number": 860,
+		"text": "Vyberte sumární vzorec pro tento racionální vzorec",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "C10H10",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "C10H12",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "C14H10",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "C14H1 - H V",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 861,
+		"category": 2,
+		"number": 861,
+		"text": "Na obrázku vidí Н.",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "cyklohexan v židličkové konformaci, všechny zobrazené vodíky jsou v axiální poloze",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "cyklohexan v židličkyvé konformaci, všechny zobrazené vodíky jsou v ekvatoriální poloze",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "cyklohexan ve vaničkové konformaci, všechny zobrazené vodíky jsou v ekvatoriáln poloze",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "cyklohexan ve vaničkové konformaci, všechny zobrazené vodíky jsou v axiální poloze",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 862,
+		"category": 2,
+		"number": 862,
+		"text": "Povaha reakcí, kte é probíhají v živých buňkách, je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "odlišná od průběhureakcí v laboratoři (mimo buňku)",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "shodná s průběhem reakcí v laboratoři (mimo buňku)",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "shodná s průběhem reakce v laboratoři (mimo buňku), ale pouze u redox reakcí",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "shodná s průběhem reakce v laboratoři (mimo buňku), ale pouze u některých živočichů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 863,
+		"category": 2,
+		"number": 863,
+		"text": "Enzymy působí tak, že",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "urychlují reakce, které katalyzují",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "u reakcí, které katalyzují, zajišťují vyšší výtěžek produktů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "posunují rovnováhu směrem doprava (k produktům)",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "katalyzují konverzi substrátů na produkty",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 864,
+		"category": 2,
+		"number": 864,
+		"text": "Rychlost enzymově katalyzovaných reakcí ovlivňuje",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pouze koncentrace enzymu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pouze teplota",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "koncentrace enzymų a substrátu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "teplota a pH",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 865,
+		"category": 2,
+		"number": 865,
+		"text": "Enzymy, které jsou přítomny ve slinách,",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "v žaludku pracují stejně jako v ústní dutině, dostávají se do žaludku při polknutí potravy",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nemohou v žaludku správně fungovat kvůli nízkému pH",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nemohou v žaludku pracovat kvůli vyšší teplotě (v žaludku nastává teplotní denaturace)",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "neexistují, tj. ve slinách nejsou žádné enzymy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 866,
+		"category": 2,
+		"number": 866,
+		"text": "Pokud jsou živočišné enzymy vystaveny vysoké teplotě (např. nad 100 °C), pa probíhá",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "demineralizace",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dekontaminace",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nevratná denaturace",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vratná denaturace",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 867,
+		"category": 2,
+		"number": 867,
+		"text": "Jak se jmenuje látka, kterou tvoří dvě aminokyseliny navzájem spojené amidovo vazbou?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "diamid",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dipeptid",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dimer",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "polymer",
+				"correct": false
+			}
+		]
+	}
+]

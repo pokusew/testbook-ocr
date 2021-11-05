@@ -1,0 +1,290 @@
+[
+	{
+		"id": 1013,
+		"category": 2,
+		"number": 1013,
+		"text": "V periodické soustavě prvků jsou atomy seřazeny podle",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "podle struktury jádra",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "podle rostoucích atomových čísel prvků",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "podle rostoucí relativní atomové hmotnosti prvků, s několika výjimkami",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "podle klesajícího mocenství",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1014,
+		"category": 2,
+		"number": 1014,
+		"text": "Pro atomy vzácných plynů, kromě helia, v základním stavu platí",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "všechny mají plně obsazenou pouze valenční vrstvu elektronů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ve všech obsazovaných orbitalech mají plný (maximální) počet elektronů",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jejich mocenství je pouze osm",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mají analogickou vnější elektronovou vrstvu, ve které je vždy osm elektronů",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1015,
+		"category": 2,
+		"number": 1015,
+		"text": "Helium",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je plynný prvek, který má ve vnější elektronové vrstvě jeden elektron v orbitale s a jede v orbitale p",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "má dva elektrony v orbitalu s",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "má jeden valenční elektron",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "může vzniknout jadernou fúzí ze dvou atomů vodíku H",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1016,
+		"category": 2,
+		"number": 1016,
+		"text": "Mezi vnitřně přechodné prvky",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "patří lanthanoidy",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "patří aktinoidy",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "patří transurany",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "patří prvky, jejichž dvě vnější slupky tvoří pouze forbitaly",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1017,
+		"category": 2,
+		"number": 1017,
+		"text": "První perioda Mendělejevovy periodické tabulky prvků obsahuje",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vodík",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vodík a helium",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "alkalické kovy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vodík a alkalické kovy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1018,
+		"category": 2,
+		"number": 1018,
+		"text": "Ve třetí periodě Mendělejevovy periodické tabulky prvků nalezneme",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Be, Mg, Ca, Sr, Ba, Ra",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "B, Al Ga, In, Tl",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Na, Mg, Al, Si",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Si, P, S, CI",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1019,
+		"category": 2,
+		"number": 1019,
+		"text": "Prvky první periody",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mají zaplněnou jedinou vrstvu K",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mají zaplněné s a d orbitaly",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "končí vzácným plynem s konfigurací vnější vrstvy ns? np",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nekončí jako jediné v tabulce vzácným plynem",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1020,
+		"category": 2,
+		"number": 1020,
+		"text": "Mezi přechodné prvky patří",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kovy i nekovy, musí mít ale elektrony v orbitalech d",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pouze kovy, ve valenční sféře mají pouze orbitaly f",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kovy, nemají nikdy zaplněné forbitaly",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "patří také prvky v řadě mezi 21Sc-30Zn",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1021,
+		"category": 2,
+		"number": 1021,
+		"text": "Najděte správné výroky",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "prvky zařazené v B periodách se označují jako přechodné",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "všechny lanthanoidy mají zaplněné f orbitaly",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "všechny aktinoidy mají zaplněné f orbitaly",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "spinová magnetická čísla ve zcela zaplněných atomových orbitalech jsou stejná",
+				"correct": false
+			}
+		]
+	}
+]

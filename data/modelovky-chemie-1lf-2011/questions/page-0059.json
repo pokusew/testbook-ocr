@@ -1,0 +1,290 @@
+[
+	{
+		"id": 482,
+		"category": 1,
+		"number": 482,
+		"text": "Uronové kyseliny maji karboxylovou skupinu na:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1. uhlíku",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "6. uhlíku",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1. a 6. uhlilu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "2. uhlíku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 483,
+		"category": 1,
+		"number": 483,
+		"text": "Oxidaci glukosy na 1. uhlíku vznikne:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kyselina gulonová",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kyselina glukuronová",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kyselina glukonová",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kyselina glutamová",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 484,
+		"category": 1,
+		"number": 484,
+		"text": "Sacharid obsažený v DNA je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "glukosa",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ribosa",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "deoxyribosa",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "fukosa",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 485,
+		"category": 1,
+		"number": 485,
+		"text": "Mezi polysacharidy nepatří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "škrob",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "agar",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "maltosa",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "inulin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 486,
+		"category": 1,
+		"number": 486,
+		"text": "Škrob obsahuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "amylasu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "galaktosu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "amylopektin",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "amonium",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 487,
+		"category": 1,
+		"number": 487,
+		"text": "Glykogen je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zásobní sacharid rostlin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hormon",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "peptid",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "glukan",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 488,
+		"category": 1,
+		"number": 488,
+		"text": "Účinkem a-amylasy na škrob vzniká:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "fruktosa",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "laktosa",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "maltosa",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "galaktosa",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 489,
+		"category": 1,
+		"number": 489,
+		"text": "Při fotosyntéze vzniká:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "oxid uhličitý a glukosa",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kyslík a glukosa",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "voda a glukosa",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pouze glukosa",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 490,
+		"category": 1,
+		"number": 490,
+		"text": "Glukan je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hormon",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "polysacharid",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "glykogen",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "škrob",
+				"correct": true
+			}
+		]
+	}
+]

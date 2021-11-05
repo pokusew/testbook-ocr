@@ -1,0 +1,258 @@
+[
+	{
+		"id": 991,
+		"category": 2,
+		"number": 991,
+		"text": "Rovnice Ag(+) + C1(-) → JAgCl popisuje",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vznik sraženiny",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "reakci stříbra s chlorem",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "reakci rozpustného stříbra s rozpustným chlorem",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vznik chloridu stříbrného",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 992,
+		"category": 2,
+		"number": 992,
+		"text": "Správná/é iontová/é rovnice pro reakci jodidu draselného s dusičnane stříbrným za vzniku dusičnanu draselného a sraženiny jodidu stříbrného je/jsou",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "AgNO3 + KI → KNO3 + Ag!",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Ag* + K+ + NO3 + 1 → Ag* + K+ NO3 + 1\"",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Ag* + K+ + NO3 + Iº → KNO3 + Ag+ + I\"",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Ag* + K+ + NO3 + Iº + K + NO3 + Agl",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 993,
+		"category": 2,
+		"number": 993,
+		"text": "Jaká/é je/jsou správná/správné iontová/é rovnice popisující reakci chroman draselného se stříbrnými solemi za vzniku sraženiny chromanu stříbrného Vyberte z možností.",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Ag + Cr04 → AgCr04",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Ag+ + CrO4 → AgCr04",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "2Ag+ + Croq ► Ag2Cr04",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "2Ag* + 2Croq Ag2Cr04",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 994,
+		"category": 2,
+		"number": 994,
+		"text": "Jaká/é je/jsou správná/správné iontová/é rovnice popisující reakci stříbrnýc solí s rozpustnými chlorovými solemi za vzniku sraženiny chloridu stříbrného Vyberte z možností.",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Ag+ + Cl → AgCil",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "AgNO3(aq) + NaCl(aq) → NaNO3(aq) + AgCl(s)",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "AgCl + NaNO3 NaCl + AgNO3",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Ag* + Na* + (NO3) + Cl → NaNO3 + AgCl",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 995,
+		"category": 2,
+		"number": 995,
+		"text": "Rovnice Fe°(s) + Cu\"SO4(aq) → Cuº(s) + FelISO4(aq) vyjadřuje děj, který patří mezi",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "acidobazické děje",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "redoxní děje",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "srážecí reakce",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "iontové rovnice",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 996,
+		"category": 2,
+		"number": 996,
+		"text": "Rovnice CuSO4 + 4H20 → [Cu(H2O)4]SO4 vyjadřuje děj, který patří mezi",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "komplexotvorné reakce",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "redoxní reakce",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "homogenní reakce",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "reakce, ve kterých dochází k zapojení volných elektronových párů na kyslíku v molekul vody do komplexní vazby",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 997,
+		"category": 2,
+		"number": 997,
+		"text": "Jaká/é je/jsou správná/správné iontová/é rovnice popisující vznik síran barnatého z chloridu barnatého? Vyberte z možností.",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Ba2+ + (SO4)2- → BaSO4",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "BaCl + SOą- + 2Na+ → Ba* +504 + NaCl",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "BaCl + SO4 + 2Na+ → Ba* + SOA- + Na+ + Cl-",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Ba* + SO4 + NaCl → Ba* + S0&+ Na+ Clº",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 998,
+		"category": 2,
+		"number": 998,
+		"text": "Vyberte správná tvrzení. V komplexním kationtu [Cu(NH3)4]2+",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je centrálním atomem ion Cu2+",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ligandy jsou molekuly NH3",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "donory elektronových párů (donorové atomy) jsou atomy dusíku čtyř molekul amoniaku",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "donory elektronových párů jsou vazby NH2",
+				"correct": false
+			}
+		]
+	}
+]

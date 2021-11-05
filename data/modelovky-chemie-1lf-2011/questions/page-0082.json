@@ -1,0 +1,290 @@
+[
+	{
+		"id": 675,
+		"category": 1,
+		"number": 675,
+		"text": "Alosterické enzymy:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kromě aktivního centra mají často další specifické vazebné místo",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "aktivita může být regulována koncentrací produktu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "aktivita se mění podle konformace enzymu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "aktivní a neaktivní forma se liší pořadím aminokyselin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 676,
+		"category": 1,
+		"number": 676,
+		"text": "Kompetitivní inhibitory:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "bývají strukturně podobné substrátu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "váží se v aktivním centru enzymu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "váží se na enzym kovalentními vazbami",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "soutěží o vazbu na alosterické místo enzymu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 677,
+		"category": 1,
+		"number": 677,
+		"text": "Aktivita enzymů v buňce:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se za fyziologických okolností zásadně nemění",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "reaguje na metabolické nároky",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "může být ovlivněna některými léky či jedy",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se může měnit účinkem hormonů",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 678,
+		"category": 1,
+		"number": 678,
+		"text": "Většina lidských enzymů:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je přijímána potravou",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nejlépe pracuje při teplotách mezi 30 a 42°C",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je odolná silně kyselému prostředí",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nemá obdobu jinde v přírodě",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 679,
+		"category": 1,
+		"number": 679,
+		"text": "Hydrolasy:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "katalyzují hydrolytické štěpení vazeb",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "katalyzuji hydrogenaci",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "katalyzují přenos hydroxidového aniontu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "katalyzují odštěpení vody za současného vzniku dvojné vazby",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 680,
+		"category": 1,
+		"number": 680,
+		"text": "Transferasy:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou enzymy",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "podílejí se na začlenění úseku nukleové kyseliny do jiné části genomu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "přenášejí bílkoviny mezi buněčnými oddíly",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou sacharidy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 681,
+		"category": 1,
+		"number": 681,
+		"text": "Ligasy:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou enzymy",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou sacharidy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "podílejí se na vzniku makromolekul",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kúčinku potřebují zdroj energie, např. ATP",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 682,
+		"category": 1,
+		"number": 682,
+		"text": "Měd':",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je pro člověka cizorodým prvkem nebezpečným i ve velmi malých množstvích",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je mikrobiogenní prvek",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jako ušlechtilý kov v přírodě prakticky netvoří ionty",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je kofaktorem některých enzymů",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 683,
+		"category": 1,
+		"number": 683,
+		"text": "Zinek:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je pro člověka cizorodým prvkem nebezpečným i ve velmi malých množstvích",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je mikrobiogenní prvek",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v přírodě prakticky netvoří ionty",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je kofaktorem některých enzymů",
+				"correct": true
+			}
+		]
+	}
+]

@@ -1,0 +1,290 @@
+[
+	{
+		"id": 1037,
+		"category": 2,
+		"number": 1037,
+		"text": "Elektronová konfigurace 1s 2s 2p5 bude příslušet",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "sodíku",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vápníku",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kyslíku",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "fluoru",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1038,
+		"category": 2,
+		"number": 1038,
+		"text": "Elektronová konfigurace 1s2 2s 2pº bude příslušet",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "sodíku",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vápníku",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kyslíku",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "fluoru",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1039,
+		"category": 2,
+		"number": 1039,
+		"text": "Celkový počet elektronů v zaplněných orbitalech s, p, dafje",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "26",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "32",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "38",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "42",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1040,
+		"category": 2,
+		"number": 1040,
+		"text": "Jaká elektronová konfigurace bude příslušet atomu 6C v základním stavu?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1s?, 2s2, 2p3",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1s?, 2s², 2p?",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1s?, 2s², 2p4",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1s?, 2s2, 2p6",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1041,
+		"category": 2,
+		"number": 1041,
+		"text": "Jaká elektronová konfigurace bude příslušet atomu „N v základním stavu?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1s?, 282, 2p?",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1s2, 2s?, 2p",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1s2, 2s?, 2p3",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "[He] 2s2, 2p3",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1042,
+		"category": 2,
+		"number": 1042,
+		"text": "Jaká elektronová konfigurace bude příslušet atomu 11 Na v základním stavu?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "[Ne] 3s1",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "[Ar] 3s1",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "[Ne] 3s",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "[Ar] 3s2",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1043,
+		"category": 2,
+		"number": 1043,
+		"text": "Jaká elektronová konfigurace bude příslušet atomu 30 v základním stavu?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1s2, 2s2, 2p?",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "[He] 2p4",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1s2, 2s?, 2p4",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "[He] 2s2,2p4",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1044,
+		"category": 2,
+		"number": 1044,
+		"text": "Jaká elektronová konfigurace bude příslušet atomu 5B v základním stavu?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1s?, 28², 2p?",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1s2, 2s2, 2p",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "[Ar] 2s2, 2p?",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "[He]2s",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1045,
+		"category": 2,
+		"number": 1045,
+		"text": "Jaká je elektronová konfigurace uhlíku 6C* (tj. v 1. excitovaném stavu)?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "[He] 2s°, 2p4",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "[He] 2s1, 2p3",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1s?, 2s1, 2p",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1s?, 281, 2p 4",
+				"correct": true
+			}
+		]
+	}
+]

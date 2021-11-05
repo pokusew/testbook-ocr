@@ -1,0 +1,290 @@
+[
+	{
+		"id": 377,
+		"category": 1,
+		"number": 377,
+		"text": "V molekule methanu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou vazebné úhly 109° 28'",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou vazebné úhly 120°",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou vazebné úhly 180°",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je atom uhlíku umístěn ve středu pravidelného čtyřstěnu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 378,
+		"category": 1,
+		"number": 378,
+		"text": "Dvě dvojné kovalentní vazby v molekule obsahuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "penten",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "cyklopentadien",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "cholesterol",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kyselina linolová",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 379,
+		"category": 1,
+		"number": 379,
+		"text": "Která sloučenina vykazuje cis-trans izomerii:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "but-1-en",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "but-2-en",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "hex-2-en",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "hex-3-en",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 380,
+		"category": 1,
+		"number": 380,
+		"text": "1-vazba v molekule ethylenu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zaniká při adičních reakcích",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "podmiňuje reaktivitu molekuly",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je pevnější, než vazba sigma",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "brání samovolné rotaci atomů okolo vazby sigma",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 381,
+		"category": 1,
+		"number": 381,
+		"text": "Označte dvojice sloučenin, které jsou vzájemnými cis-trans izomery:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kyselina maleinová a fumarová",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kyselina olejová a stearová",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kyselina olejová a linolová",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kyselina maleinová a jantarová",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 382,
+		"category": 1,
+		"number": 382,
+		"text": "Geometrické izomery tvoří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "but-2-en",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "but-1-en",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1,2-dichlorethen",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "3-chlorpropen",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 383,
+		"category": 1,
+		"number": 383,
+		"text": "Cis-trans izomery tvoří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pent-2-en",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1-chlorprop-1-en",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pent-1-en",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "propen",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 384,
+		"category": 1,
+		"number": 384,
+		"text": "Chirální atom uhlíku v molekule má:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kyselina vinná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "alanin",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kyselina 2-aminopropanová",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kyselina jablečná",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 385,
+		"category": 1,
+		"number": 385,
+		"text": "Chirální atom uhlíku v molekule má:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kyselina mléčná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "serin",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kyselina 2-hydroxypropanová",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "glyceraldehyd",
+				"correct": true
+			}
+		]
+	}
+]

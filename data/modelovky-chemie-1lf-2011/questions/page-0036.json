@@ -1,0 +1,290 @@
+[
+	{
+		"id": 280,
+		"category": 1,
+		"number": 280,
+		"text": "V čisté vodě, kde při teplotě 25 °C je koncentrace [H30+] = [OH-] = 10-7 mol.dm-3, j hodnota pH:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "12",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "7",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "5,5",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "14",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 281,
+		"category": 1,
+		"number": 281,
+		"text": "Neutrální pH je hodnota pH:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "5,5",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "7",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "14",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "0",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 282,
+		"category": 1,
+		"number": 282,
+		"text": "Pufry:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "slouží k udržení hodnoty pH",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mění minimálně hodnotu pH po přidání kyseliny či zásady",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou veškeré roztoky",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nenajdeme v našem těle",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 283,
+		"category": 1,
+		"number": 283,
+		"text": "V žaludku člověka se nachází:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,3-0,4 % kyselina chlorovodíková",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,3- % kyselina sírová",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "3-4 % kyselina chlorovodíková",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "3-4 % kyselina sírová",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 284,
+		"category": 1,
+		"number": 284,
+		"text": "Neutralizace je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "reakce mezi kyselinou a zásadou",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "reakce mezi kyselinou a vodou",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "reakce mezi zásadou a vodou",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "exotermická reakce, při níž se uvolňuje teplo",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 285,
+		"category": 1,
+		"number": 285,
+		"text": "Vede destilovaná voda elektrický proud?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ano, velmi dobře",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "velmi málo, pokud je zcela čistá",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ano, pouze pokud je vystavena slunečnému záření",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ano, pokud do ní přisypeme kuchyňskou sůl",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 286,
+		"category": 1,
+		"number": 286,
+		"text": "Titrace:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je analytická metoda, sloužící ke kvalitativní analýze",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je analytická metoda, sloužící ke kvantitativní analýze",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "slouží ke zjištění struktury chemických látek",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "slouží ke zjištění koncentrace chemických látek",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 287,
+		"category": 1,
+		"number": 287,
+		"text": "Indikátor:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mění barvu podle podmínek",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "v chemii se nevyužívá",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nemění barvu ani vlastnosti",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je např. fenolftalein, methyloranž",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 288,
+		"category": 1,
+		"number": 288,
+		"text": "Při acidimetrickém stanovení je titračním činidlem:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zásada",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kyselina",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "methyloranž",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "voda",
+				"correct": false
+			}
+		]
+	}
+]

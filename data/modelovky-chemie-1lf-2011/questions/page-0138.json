@@ -1,0 +1,258 @@
+[
+	{
+		"id": 1130,
+		"category": 2,
+		"number": 1130,
+		"text": "Který z následujících 0,1 M roztoků bude reagovat zásaditě? Ve vodném roztok zbarví fenolftalein do růžova až fialova",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "NaBr",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "LiOH",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "CH3OH",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "NH3",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1131,
+		"category": 2,
+		"number": 1131,
+		"text": "Reakce H+ + OH = H20 je reakcí",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hydrolytickou",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "substituční",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "neutralizační",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "esterifikační",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1132,
+		"category": 2,
+		"number": 1132,
+		"text": "Kyselina chlorovodíková byla přesně neutralizována hydroxidem sodným. V vzniklé reakční směsi bude koncentrace hydroxoniového kationtu",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vždy větší než koncentrace hydroxylového aniontu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vždy stejná jako koncentrace hydroxylového aniontu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vždy menší než koncentrace hydroxylového kationtu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vždy stejná jako celková koncentrace všech iontů na začátku reakce",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1133,
+		"category": 2,
+		"number": 1133,
+		"text": "Když ve vodném roztoku vzroste koncentrace vodíkových iontů, jak se bude měni koncentrace hydroxylových aniontů?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "poroste",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "bude klesat",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "poroste přímo úměrně se vzrůstem H+ koncentrace",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "bude klesat přímo úměrně se vzrůstem H* koncentrace",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1134,
+		"category": 2,
+		"number": 1134,
+		"text": "Student má připravit 100 ml vodného roztoku HCl o cílové koncentraci 6 mol/l. M k dispozici roztok HCl o koncentraci 12 mol/l a vodu. Jaký/jaké postup/y jso správné (i z hlediska bezpečnosti práce)? Předpokládejte, že aktivitní koeficien je roven jedné.",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "student nalije 50 ml vody do 50 ml roztoku HCl a vzniklý roztok poté dobře zamíchá",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "student nalije za míchání 50 ml HCl do 50 ml vody",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "student naráz slije 50 ml HCl a 50 ml vody a zamíchá, pokud je třeba",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádný z postupů není správný, je třeba zvolit jiný objemový poměr kyseliny a vody",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1135,
+		"category": 2,
+		"number": 1135,
+		"text": "Co je to pufr?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "látka, která podle okolností přijímá protony nebo elektrony nebo obojí",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "směs, která umí vyrovnávat pH tak, že bud přijímá protony nebo hydroxylové anionty",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "látka, která umí udržet pH vždy v hodnotách kolem pH = 7, pro ostatní hodnoty se pufr nepoužívají",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "látka, která umí udržet výchozí pH i po zředění v jistém rozmezí",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1136,
+		"category": 2,
+		"number": 1136,
+		"text": "Mezi směsi, které mají pufrační schopnost nepatří",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "roztok KCl v HCl",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vodný roztok NH3 a CH3COOH",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "roztok CH3COOH a CH3COONa",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "roztok CH3COOK a CH3COOH",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1137,
+		"category": 2,
+		"number": 1137,
+		"text": "Hydrofobní v chemii znamená",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "látka se neomezeně rozpouští ve vodě",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "látka se téměř nerozpouští ve vodě a v polárních rozpouštědlech",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "omezeně rozpustný ve vodě",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vytěsňující vodu z některých sloučeni =",
+				"correct": false
+			}
+		]
+	}
+]

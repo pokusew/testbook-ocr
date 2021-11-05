@@ -1,0 +1,258 @@
+[
+	{
+		"id": 19,
+		"category": 1,
+		"number": 19,
+		"text": "Jednotkou hmotnostní koncentrace je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mol.dm-3",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mol",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "g.dm",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kg.m- - -3",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 20,
+		"category": 1,
+		"number": 20,
+		"text": "Jednotkou látkového množství je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kg.m-3",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mol",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mol.dm",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kg.dm-3",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 21,
+		"category": 1,
+		"number": 21,
+		"text": "Avogardova konstanta udává:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hmotnost 1 molu jakékoliv látky v gramech",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "počet částic v 1 molu jakékoliv látky",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "počet částic ve 12 g uhlíku 12C",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "náboj jednoho mol elektronů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 22,
+		"category": 1,
+		"number": 22,
+		"text": "Rozpuštěním 1 molu chloridu sodného v destilované vodě do výsledného objem 1 litr získáme roztok který obsahuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,5 molu sodných iontů a 0,5 molu chloridových iontů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1 mol sodných iontů a 1 mol chloridových iontů",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1 mol molekul NaCl",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1 mol sodných iontů a 2 moly chloridových iontů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 23,
+		"category": 1,
+		"number": 23,
+		"text": "Které z uvedených látek mohou existovat za běžných podmínek jako samostatn molekuly?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "H2",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Na2SO4",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "CO2",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "KCI",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 24,
+		"category": 1,
+		"number": 24,
+		"text": "Stechiometrický (empirický) vzorec glukózy je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "CH20",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "C6H1206",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "CH3CH2CH2OH",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "CH2OH(CHOH)4CHO",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 25,
+		"category": 1,
+		"number": 25,
+		"text": "Granule zinku se rozpouští v kyselině chlorovodíkové za současného vývinu plynu Tento plyn je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dusík",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kyslík",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vodík",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "oxid uhličitý",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 26,
+		"category": 1,
+		"number": 26,
+		"text": "Kapka octa nanesená na povrch mramoru šumí neboť se vyvíjí plyn. Tento plyn je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dusík",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kyslík",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vodík",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "oxid uhličitý",
+				"correct": true
+			}
+		]
+	}
+]

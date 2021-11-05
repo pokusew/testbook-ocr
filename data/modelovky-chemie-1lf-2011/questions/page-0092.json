@@ -1,0 +1,226 @@
+[
+	{
+		"id": 759,
+		"category": 1,
+		"number": 759,
+		"text": "Na obrázku vidíte",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Erlenmayerovu baňku",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kádinku",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "odměrnou baňku používanou v analytické chemii",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "destilační baňk představuje",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 760,
+		"category": 1,
+		"number": 760,
+		"text": "Toto zobrazení",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "benzen, Kekulů orec",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "židličkovou konformaci",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vaničkovou konformaci",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "cyklohexan",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 761,
+		"category": 1,
+		"number": 761,
+		"text": "Tento obráze představuje",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "znázornění dvou rezonančních (mezomerních) forem benzenu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "rovnováhu mezi dvěma polohovými izomery benzenu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "rovnovážný stav benzenu, kdy ani jeden konformační izomer není v převaze",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "dva tautomery odvozené od benzen 1 Н.С",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 762,
+		"category": 1,
+		"number": 762,
+		"text": "Tato látk OH poskytne reakcí s ethanolem za katalýzy mineráln kyselino o",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dvě molekuly acetonu H,C-C-CHz a vodu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ethylacetát a vodu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jen výchozí látky, s ethanolem reaguje pouze za podmínek alkalické katalýzy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "oxid uhličitý a methanol",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 763,
+		"category": 1,
+		"number": 763,
+		"text": "Kyselina maleinová je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dikarboxylová nenasycená kyselina",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dikarboxylová kyselina obsahující dvojnou vazbu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "alfa-hydroxykyselina",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nesprávný název, správný název je kyselina malinová",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 764,
+		"category": 1,
+		"number": 764,
+		"text": "Alkány jsou",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nasycené uhlovodíky, které reagují iontovým nebo radikálovým mechanismem",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nasycené a nenasycené uhlovodíky, které reagují podle konkrétních reakčních podmínek",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nasycené uhlovodíky, reagující především radikálovým mechanismem",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "sloučeniny obsahující pouze uhlík a vodík, bez násobných vazeb",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 765,
+		"category": 1,
+		"number": 765,
+		"text": "Alkeny jsou",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "uhlovodíky, které obsahují dvojnou vazbu a jsou tudíž reaktivnější než alkány",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "někdy nazývány parafiny",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "látky, které tvoří cis-trans izomery rotací kolem dvojné vazby",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "sloučeniny, které ochotně reagují mechanismem elektrofilní adic a",
+				"correct": true
+			}
+		]
+	}
+]

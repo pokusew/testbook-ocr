@@ -1,0 +1,290 @@
+[
+	{
+		"id": 297,
+		"category": 1,
+		"number": 297,
+		"text": "Mezi silné kyseliny nepatří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "HCI",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "HF",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "KCN",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "C(CI)3COOH",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 298,
+		"category": 1,
+		"number": 298,
+		"text": "Mezi silné baze patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hydroxid sodný",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "amoniak",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "glycin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "hydroxid barnatý",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 299,
+		"category": 1,
+		"number": 299,
+		"text": "Mezi slabé baze patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hydroxid sodný",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "amoniak",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pyridin",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "hydroxid barnatý",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 300,
+		"category": 1,
+		"number": 300,
+		"text": "Mezi silné kyseliny patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kyselina octová",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ethylendiamin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kyselina trichloroctová",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kyselina jablečná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 301,
+		"category": 1,
+		"number": 301,
+		"text": "Iontový součin vody K, má hodnotu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "10-7 mol/l",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "10-14 mol/l",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "10-10 mol/l",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "10-5 mol/1",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 302,
+		"category": 1,
+		"number": 302,
+		"text": "Jaká je látková koncentrace H307 ve vodném roztoku NaOH, který obsahuj 0,2 mmol NaOH v 1 litru roztoku?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "5x10-1° mol/1",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "5x10-11 mol/l",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "5x10-12 mol/l",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "5x10-4 mol/l",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 303,
+		"category": 1,
+		"number": 303,
+		"text": "Jaká je látková koncentrace OH v roztoku HNO3 o pH = 4?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "10-5 mol/1",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "10-4 mol/l",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "10-10 mol/l",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "10-9 mol/l",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 304,
+		"category": 1,
+		"number": 304,
+		"text": "Jaká je látková koncentrace roztoku KOH, jestliže pH je 11?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "10-3 mol/1",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "10-11 mol/l",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1 mmol/l",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "11 mmol/l",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 305,
+		"category": 1,
+		"number": 305,
+		"text": "Jaká je látková koncentrace OHⓇ ve vodném roztoku NaOH, který obsahuj 0,05 mmol NaOH v 1 litru roztoku?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "5x10-10 mol/l",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "5x10-11 mol/l",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "5x10-12 mol/l",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "5x10-5 mol/l",
+				"correct": true
+			}
+		]
+	}
+]

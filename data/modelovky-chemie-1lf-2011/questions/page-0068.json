@@ -1,0 +1,290 @@
+[
+	{
+		"id": 561,
+		"category": 1,
+		"number": 561,
+		"text": "2-monoacylglycerol:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "obsahuje dvě esterové vazby",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vzniká například při trávení triacylglycerolů v tenkém střevě působením pankreatick lipasy",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "obsahuje kyselinu fosforečnou vázanou v poloze 3",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "patří mezi fosfolipidy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 562,
+		"category": 1,
+		"number": 562,
+		"text": "Kyselina olejová:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se v lidském organismu nevyskytuje",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je monoenová mastná kyselina",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je monokarboxylová kyselina",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je kyselina cis-9 hexadecenová",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 563,
+		"category": 1,
+		"number": 563,
+		"text": "Označte správné/á tvrzení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "menthol patří mezi monoterpeny",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "za vyšší bod tání většiny živočišných tuků v porovnání s rostlinnými oleji je zodpovědn nižší podíl nenasycených mastných kyselin",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kyselina arachidonová je nenasycená mastná kyselina",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "stearylalkohol může být součástí vosků",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 564,
+		"category": 1,
+		"number": 564,
+		"text": "Hydrofilní vlastnosti fosfolipidů jsou dány:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "přítomností glycerolu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "přítomností zbytku kyseliny fosforečné",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "přítomností řetězce mastné kyseliny",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "všemi uvedenými částmi molekuly",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 565,
+		"category": 1,
+		"number": 565,
+		"text": "O terpenech platí následující výroky:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "monoterpeny obsahují 20 uhlíkových atomů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mezi terpeny patří například kafr",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vitamín A je diterpen",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mezi terpeny patří například inhibitor růstu u rostlin kyselina abscisová",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 566,
+		"category": 1,
+		"number": 566,
+		"text": "Pro tetraterpeny platí že:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou tvořeny 8 isoprenoidními jednotkami",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mají 40 uhlíkových atomů",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jejich zástupcem je skvalen",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou odvozeny od 2-methylbuta-1,3-dienu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 567,
+		"category": 1,
+		"number": 567,
+		"text": "Pro vitamín A platí že:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je to monoterpen",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je důležitou součástí zrakového pigmentu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "může vznikat rozštěpením ß-karotenu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je též označován jako retinol",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 568,
+		"category": 1,
+		"number": 568,
+		"text": "Pro triterpeny platí že:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou meziproduktem při syntéze cholesterolu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mají 30 uhlíkových atomů",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "patří mezi ně například gutaperča",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "v přírodě se běžně nevyskytují, jsou připravovány pouze synteticky",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 569,
+		"category": 1,
+		"number": 569,
+		"text": "Pro steroidy platí že:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "výchozí látkou pro jejich syntézu je acetylkoenzym A",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou odvozeny od steranu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nikdy neobsahují ve své struktuře aromatické jádro",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se vyskytují pouze u živočichů",
+				"correct": false
+			}
+		]
+	}
+]

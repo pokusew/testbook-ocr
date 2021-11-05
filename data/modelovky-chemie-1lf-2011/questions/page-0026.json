@@ -1,0 +1,226 @@
+[
+	{
+		"id": 198,
+		"category": 1,
+		"number": 198,
+		"text": "Při reakci 30 g zinku s kyselinou chlorovodíkovou vznikne x gramů chlorid zinečnatého. Jaká je hodnota x? Počítejte se stoprocentní konverzí reakce Ar(Zn) = 65, Ar(CI) = 35",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "x=50g",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "X=62 g",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "X=30 g",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "x=72 g",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 199,
+		"category": 1,
+		"number": 199,
+		"text": "Jaké množství NaCl vznikne rozkladem 318 g uhličitanu sodného kyselino chlorovodíkovou? Počítejte se stoprocentní konverzí reakce. Mr(Na2CO3) = 106 Ar(CI) = 35, Ar(Na) = 23",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "348 g",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "174 g",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "348 mg",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "328 g",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 200,
+		"category": 1,
+		"number": 200,
+		"text": "Jaké množství CO2 vznikne rozkladem 318 g uhličitanu sodného kyselino chlorovodíkovou? Počítejte se stoprocentní konverzí reakce. Mr(Na2CO3) = 106 Ar(Na) = 23, Ar(C) = 12",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "105 mg",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "85 mg",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "132 g",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "15 g",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 201,
+		"category": 1,
+		"number": 201,
+		"text": "Kolik vody je obsaženo v 15 g pentahydrátu síranu měďnatého? Mr(CuSO4) = 160 Ar(0) = 16",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "10,8 g",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1080 mg",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "2,9 g",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "5,4 g",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 202,
+		"category": 1,
+		"number": 202,
+		"text": "Jaké látkové množství zinku musíte přidat do HCl, aby vzniklo 100 g chlorid zinečnatého? Počítejte se 100% konverzí reakce. Ar(Zn) = 65, Ar(CI) = 35",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,74 mol",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1,48 mol",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "0,37 mol",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "74 mmol",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 203,
+		"category": 1,
+		"number": 203,
+		"text": "Jaké množství sacharosy musíte podat pacientovi, aby mu při hydrolýze celéh množství tohoto cukru bylo dodáno 30 g fruktosy? Mr(sacharosa) = 342 Mr(glukosa) = 180",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "63 g",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "57 g",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "60g",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "65 g",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 204,
+		"category": 1,
+		"number": 204,
+		"text": "Při reakci chloridu vápenatého s kyselinou sírovou vzniklo 100 g síran vápenatého. Výtěžnost reakce byla 100 %. Kolik chloridu vápenatého vstoupil do reakce? Ar(Ca) = 40, Ar(CI) = 35, Ar(S) = 32, Ar(0) = 16",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "40,9 g",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "60,3 g",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "70,5g",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "80,8 =",
+				"correct": true
+			}
+		]
+	}
+]

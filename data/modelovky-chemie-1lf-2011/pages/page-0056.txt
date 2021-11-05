@@ -1,13 +1,13 @@
-487) Vstupem heteroatomů do cyklopentadienu:
+457) Vstupem heteroatomů do cyklopentadienu:
 A) se mohou volné elektronové páry heteroatomů zapojit do konjugace s ti-vazbami
 přítomnými v cyklu
 b) se nemohou volné elektronové páry heteroatomů zapojit do konjugace s -vazbami
 přítomnými v cyklu
-) vznikají heterocyklické sloučeniny jejichž fyzikální a chemické vlastnosti se neliší od
+c) vznikají heterocyklické sloučeniny jejichž fyzikální a chemické vlastnosti se neliší od
 původní sloučeniny
 D) vznikají heterocyklické sloučeniny jejichž fyzikální a chemické vlastnosti se budou
 podobat vlastnostem benzenu
-450) Molekulu purinu tvoří:
+458) Molekulu purinu tvoří:
 a) šestičlenný heterocyklus se dvěma dusíkovými heteroatomy
 b) dva šestičlenné kondenzované heterocykly celkem se čtyřmi dusíkovými heteroatomy
 C) jeden šestičlenný heterocyklus kondenzovaný s pětičlenným heterocyklem celkem se
@@ -19,7 +19,7 @@ A) purinu
 b) chinolinu
 c) indolu
 d) naftylaminu
-160) Adenin:
+460) Adenin:
 A) obsahuje ve své molekule aminoskupinu
 B) obsahuje ve své molekule purinovou basi
 c) obsahuje ve své molekule hydroxylovou skupinu

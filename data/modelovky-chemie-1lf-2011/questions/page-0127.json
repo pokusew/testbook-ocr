@@ -1,0 +1,258 @@
+[
+	{
+		"id": 1046,
+		"category": 2,
+		"number": 1046,
+		"text": "Ionizační energie v řadě Li, Na, K, Rb, Cs",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "klesá, protože roste počet elektronů, které jsou ve vnějších slupkách atomu a tyto shodn nabité části se navzájem odpuzují",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "stoupá, protože roste počet elektronů, které jsou ve vnějších slupkách atomu a tyt shodně nabité části se navzájem odpuzují",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "klesá, protože roste atomový poloměr a tím přitažlivá síla jádra",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "stoupá, protože roste atomový poloměr a tím přitažlivá síla jádra",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1047,
+		"category": 2,
+		"number": 1047,
+		"text": "Vyberte správnou/é definici/definice. Orbital je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "označení pro dráhu valenčního elektronu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dráha elektronu, která může být např. kruhová",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "prostor, v němž je v okolí jádra nejpravděpodobnější výskyt elektroru",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "druh nebo stav elektronu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1048,
+		"category": 2,
+		"number": 1048,
+		"text": "Vazebnou energií nazýváme",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "energii, která je nutná k rozštěpení dané vazby",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "energii, která se uvolní při vzniku vazby",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "energii, která je potřeba k vytvoření jednoho molu sloučeniny",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "energii, která je potřeba k přechodu do excitovaného stavu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1049,
+		"category": 2,
+		"number": 1049,
+		"text": "V molekule NH4Cl nalezneme vazby",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kovalentní nepolární",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kovalentní polární",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "iontové",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kovové",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1050,
+		"category": 2,
+		"number": 1050,
+		"text": "Vznik chemické vazby mezi dvěma atomy",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je vždy spojen s uvolněním energie",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je někdy spojen s uvolněním, někdy se spotřebou energie",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je založen na sdílení elektronů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je založen na sdílení elektronů nebo přeskupení protonů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1051,
+		"category": 2,
+		"number": 1051,
+		"text": "Excitovaný stav je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "stav, který je schopen uchovávat energii pro pozdější použití, např. ATP je excitovaný stavem ADP",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je fyzikální jev, při kterém jsou elektrony přeneseny na vyšší energetickou hladinu než j jejich normální hladina",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je stav, kdy se molekula nachází ve svém energetickém maximu, lze toho dosáhnou dodáním energie teplem",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "stav molekuly, kdy se extrémně zrychlí Brownův pohyb částic",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1052,
+		"category": 2,
+		"number": 1052,
+		"text": "Elektronová konfigurace 2s 2p² patří",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "excitovanému stavu boru",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "základnímu stavu boru",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "excitovanému stavu uhlíku",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "základnímu stavu uhlíku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1053,
+		"category": 2,
+		"number": 1053,
+		"text": "Stav atomu o nejnižší energii se nazývá",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "základní",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "primární",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1. excitovaný",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "neaktivní",
+				"correct": false
+			}
+		]
+	}
+]

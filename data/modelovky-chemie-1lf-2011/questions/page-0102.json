@@ -1,0 +1,194 @@
+[
+	{
+		"id": 840,
+		"category": 1,
+		"number": 840,
+		"text": "Skupina Nje typická pro",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "aminya",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "amidy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nitrosloučeniny",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nitrososloučeniny",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 841,
+		"category": 1,
+		"number": 841,
+		"text": "Sloučenina H2N-OH je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "močovina",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hydroxylamin",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "amoniol",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "hydrazi Н.С C -N-",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 842,
+		"category": 1,
+		"number": 842,
+		"text": "Tato sloučenina H, je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "tetramethylamoniová sůl CH",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "tetraethylamoniová sůl",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nesmysl, dusík má více vazeb než je možné",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "substituovaný amonia Н •C: ..",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 843,
+		"category": 1,
+		"number": 843,
+		"text": "Tato sloučenina H je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "methylový kation",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "methylový radikál",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "methyl vyjádřený Lewisovým vzorcem",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kladně nabit je",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 844,
+		"category": 1,
+		"number": 844,
+		"text": "Tato sloučenina",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "trifenylfosfan",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "trifenylfosfid",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "trifenylfosfát",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "trifenylfosforita 0 je",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 845,
+		"category": 1,
+		"number": 845,
+		"text": "Tato sloučenina 0-P",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "fosfit",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "fosfan",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "fosfid",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "fosforita 3",
+				"correct": true
+			}
+		]
+	}
+]

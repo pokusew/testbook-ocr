@@ -1,0 +1,290 @@
+[
+	{
+		"id": 639,
+		"category": 1,
+		"number": 639,
+		"text": "Informační RNA se značí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "tRNA",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mRNA",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "rRNA",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nRNA",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 640,
+		"category": 1,
+		"number": 640,
+		"text": "Která z nukleových kyselin přenáší genetickou informaci z DNA do proteinu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "rRNA",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "noRNA",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "tRNA",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mRNA",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 641,
+		"category": 1,
+		"number": 641,
+		"text": "Genetický kód je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "degenerovaný",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nedegerovaný",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "třípísmenový",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "čtyřpísmenkový",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 642,
+		"category": 1,
+		"number": 642,
+		"text": "Konformačním motivem DNA je dvoušroubovice, která má tyto znaky:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je tvořena dvěma samostatnými vlákny",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "obě vlákna jsou orientována stejným směrem od 5'k 3",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "base jsou párovány vodíkovými můstky",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "šroubovice je převážně pravotočivá",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 643,
+		"category": 1,
+		"number": 643,
+		"text": "Přenos genetické informace z DNA do RNA se nazývá:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "translace",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "transkripce",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "transpozice",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "transaminace",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 644,
+		"category": 1,
+		"number": 644,
+		"text": "Funkcí nukleových kyselin v živých organismech je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "uchování a přenos genetické informace z generace na generaci",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vý vba buněk a tkání",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "regulace látkové přeměny buněk a tkání",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "uchování a přenos informace pro tvorbu bílkovin (proteosyntézu)",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 645,
+		"category": 1,
+		"number": 645,
+		"text": "Nukleové kyseliny:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "patří mezi biopolymery",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jedná se o polynukleotidy",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou svou povahou homopolymery (složeny ze stejných typů základních jednotek)",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "řadíme mezi heteropolymery (složeny z různých typů základních jednotek)",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 646,
+		"category": 1,
+		"number": 646,
+		"text": "V buňkách lidského organismu se nachází:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "transferová RNA (TRNA)",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ribosomální RNA (rRNA)",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jaderná (nukleární) RNA (snRNA)",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "messengerová RNA (mRNA)",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 647,
+		"category": 1,
+		"number": 647,
+		"text": "Haploidní lidský genom obsahuje řádově:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "103 párů nukleotidů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "106 párů nukleotidů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "108 párů nukleotidů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1012 párů nukleotidů",
+				"correct": false
+			}
+		]
+	}
+]

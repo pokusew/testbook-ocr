@@ -1,0 +1,290 @@
+[
+	{
+		"id": 535,
+		"category": 1,
+		"number": 535,
+		"text": "B-oxidace je metabolický děj, při kterém se:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "oxiduje B-D-glukopyranosa",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "oxidují aminokyseliny na ß-uhlíku",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "oxidují mastné kyseliny na B-uhlíku",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "přeměňují ß-anomery cukrů na příslušné a-anomery",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 536,
+		"category": 1,
+		"number": 536,
+		"text": "Cholesterol:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je dobře rozpustný ve vodě",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "obsahuje dvě OH skupiny",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je součástí buněčných membrán",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "základem struktury je steran",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 537,
+		"category": 1,
+		"number": 537,
+		"text": "Cholesterol:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "může být esterifikován mastnou kyselinou",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je jednosytný alkohol",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vzniká ze žlučových kyselin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je derivátem cholecystokininu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 538,
+		"category": 1,
+		"number": 538,
+		"text": "Žlučové kyseliny:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vznikají ve žluči",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "emulgují tuky",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "působí v tenkém střevě",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou deriváty steranu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 539,
+		"category": 1,
+		"number": 539,
+		"text": "Žlučové kyseliny:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou deriváty cholinu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vznikají přeměnou bilirubinu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "působí v žaludku",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vznikají z cholesterolu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 540,
+		"category": 1,
+		"number": 540,
+		"text": "Lecithin je označení pro:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "fosfatidylcholin",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vaječný žloutek",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "fosfatidylserin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vitamín A",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 541,
+		"category": 1,
+		"number": 541,
+		"text": "Fosfolipidy mohou obsahovat:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "glycerol",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "cholin",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "adenin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "aminokyselinu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 542,
+		"category": 1,
+		"number": 542,
+		"text": "Emulgaci tuků ve střevě umožňují:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žlučové kyseliny",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "inzulín",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "adrenalin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vitamín C",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 543,
+		"category": 1,
+		"number": 543,
+		"text": "Které z vyjmenovaných sloučenin jsou odvozeny od steranu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vitamín C",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vitamín B1",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "žlučové kyseliny",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "progesteron",
+				"correct": true
+			}
+		]
+	}
+]

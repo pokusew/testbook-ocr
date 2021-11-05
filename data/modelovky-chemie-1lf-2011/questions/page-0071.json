@@ -1,0 +1,258 @@
+[
+	{
+		"id": 587,
+		"category": 1,
+		"number": 587,
+		"text": "Vzorec na obrázku -CH=CH-COOHpředstavuje aminokyselinu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "tryptofa NH,",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "tyrosin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "histidin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "fenylalanin",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 588,
+		"category": 1,
+		"number": 588,
+		"text": "Mezi esenciální aminokyseliny patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "tyrosin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "fenylalanin",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "lysin",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "threonin",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 589,
+		"category": 1,
+		"number": 589,
+		"text": "Mezi postradatelné aminokyseliny patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "methionin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "fenylalanin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "tyrosin",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "leucin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 590,
+		"category": 1,
+		"number": 590,
+		"text": "Mezi hemoproteiny patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hemoglobin",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "myoglobin",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "cytochromy",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ferritin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 591,
+		"category": 1,
+		"number": 591,
+		"text": "Mezi fibrilární bílkoviny patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kolagen",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "albumin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "histony",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "transferin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 592,
+		"category": 1,
+		"number": 592,
+		"text": "Zvolte správné tvrzení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "primární struktura bílkoviny je daná počtem aminokyselin v polypeptidovém řetězci",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "primární struktura bílkoviny je daná pořadím aminokyselin v polypeptidovém řetězci",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "sekundární strukturou bílkoviny rozumíme posloupnost aminokyselin v polypeptidové řetězci",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "terciární strukturou se rozumí uspořádání celého polypeptidového řetězce v prostoru",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 593,
+		"category": 1,
+		"number": 593,
+		"text": "Na terciární struktuře bílkoviny se nepodílí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vodíkové vazby",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "peptidové vazby",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "iontové vazby",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "hydrofobní inerakce",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 594,
+		"category": 1,
+		"number": 594,
+		"text": "Zvolte správné tvrzení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hemoproteiny patří mezi glykoproteiny",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hemoproteiny patří mezi lipoproteiny",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "hemoproteiny patří mezi fosfoproteiny",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "hemoproteiny patří mezi metaloproteiny",
+				"correct": true
+			}
+		]
+	}
+]

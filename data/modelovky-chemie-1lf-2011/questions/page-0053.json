@@ -1,0 +1,290 @@
+[
+	{
+		"id": 431,
+		"category": 1,
+		"number": 431,
+		"text": "Mezi heterocykly obsahující síru patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pyridin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "thiofen",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pyrrol",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "indol",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 432,
+		"category": 1,
+		"number": 432,
+		"text": "Mezi heterocykly obsahující dusík patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "furan",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pyridin",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pyrrol",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "thiofen",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 433,
+		"category": 1,
+		"number": 433,
+		"text": "Mezi šestičlenné heterocykly s dvěma heteroatomy patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "furan",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pyrimidin",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "thiazol",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "purin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 434,
+		"category": 1,
+		"number": 434,
+		"text": "Mezi pětičlenné heterocykly s dvěma heteroatomy patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "furan",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pyrimidin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "thiazol",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "purin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 435,
+		"category": 1,
+		"number": 435,
+		"text": "Mezi heterocyklické sloučeniny obsahující dva heterocykly patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pyrimidin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "purin",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pyrrol",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "thiofen",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 436,
+		"category": 1,
+		"number": 436,
+		"text": "Mezi deriváty heterocyklu pyrimidinu patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "cytosin",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "uracil",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "thymin",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "thiofen",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 437,
+		"category": 1,
+		"number": 437,
+		"text": "Mezi heterocykly patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kyselina močová",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "purin",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "močovina",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kyselina octová",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 438,
+		"category": 1,
+		"number": 438,
+		"text": "Mezi heterocykly patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "adenin",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "guanin",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kyselina uhličitá",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kyselina palmitová",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 439,
+		"category": 1,
+		"number": 439,
+		"text": "Heterocyklus obsahují:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "močovina",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "histidin",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "guanosin",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kyselina octová",
+				"correct": false
+			}
+		]
+	}
+]

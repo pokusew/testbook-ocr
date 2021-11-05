@@ -1,0 +1,290 @@
+[
+	{
+		"id": 491,
+		"category": 1,
+		"number": 491,
+		"text": "V celulose jsou přítomny vazby:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "a-1,6-glykosidové",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "B-1,6-glykosidové",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "a-1,4-glykosidové",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "B-1,4-glykosidové",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 492,
+		"category": 1,
+		"number": 492,
+		"text": "Glukagon je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "lipid",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "polysacharid",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "hormon",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "peptid",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 493,
+		"category": 1,
+		"number": 493,
+		"text": "D-glukosa se nejčastěji vyskytuje jako:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "a-D-fruktofuranosa",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "a-D-glukopyranosa",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "a-D-glukofuranosa",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "B-D-glukofuranosa",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 494,
+		"category": 1,
+		"number": 494,
+		"text": "Molekula glukosy obsahuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "3 chirální uhlíky",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "4 chirální uhlíky",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "5 chirálních uhlíků",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "6 chirálních uhlíků",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 495,
+		"category": 1,
+		"number": 495,
+		"text": "Glykogenese značí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "syntézu glukosy",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "syntézu glykogenu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "degradaci glykogenu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "degradaci glukosy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 496,
+		"category": 1,
+		"number": 496,
+		"text": "Pentosový cyklus slouží:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "k získání energie (ATP)",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "k syntéze glukosy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "k syntéze pentos",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "k získání redukčních koenzymů",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 497,
+		"category": 1,
+		"number": 497,
+		"text": "Glyceraldehyd patří mezi:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "organické sloučeniny",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "anorganické sloučeniny",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "triosy",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "sloučeniny obsahující karbonylovou skupinu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 498,
+		"category": 1,
+		"number": 498,
+		"text": "Monosacharidy můžeme zařadit mezi:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "anorganické sloučeniny s jednoduchým obecným vzorcem CnH2nOn",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "makromolekulární látky s molekulovou hmotností větší než 1000 g/mol",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "heterocyklické sloučeniny s kyslíkovým heteroatomem, obsahují-li více než 4 uhlíkov atomy v molekule",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "polyhydroxysloučeniny, s karbonylovou skupinou ve své molekule",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 499,
+		"category": 1,
+		"number": 499,
+		"text": "Mezi disacharidy patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "rafinosa",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "glukosa",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "sacharosa",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "maltosa",
+				"correct": true
+			}
+		]
+	}
+]

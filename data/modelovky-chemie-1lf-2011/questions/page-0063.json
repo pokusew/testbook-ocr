@@ -1,0 +1,290 @@
+[
+	{
+		"id": 517,
+		"category": 1,
+		"number": 517,
+		"text": "Celulosa je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "protein nerozpustný ve vodě",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "polysacharid složený z B-D-glukopyranosových jednotek, nerozpustný ve vodě",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "polysacharid složený z a-D-glukopyranosových jednotek, dobre rozpustný ve vodě",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "polysacharid složený z amylopektinu a amylosy",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 518,
+		"category": 1,
+		"number": 518,
+		"text": "Polysacharidy jsou makromolekulární látky:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "složené z různých aminokyselin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "složené pouze z glukosových jednotek",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "složené z monosacharidových jednotek",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "s dlouhými řetězci, složené z více než 11 monosacharidových jednotek, spojenýc navzájem glykosidovou vazbou",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 519,
+		"category": 1,
+		"number": 519,
+		"text": "Součástí nukleových kyselin jsou především tyto dvojice sacharidů:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ribosa a deoxyribitol",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "ribosa a deoxyribosa",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "deoxyribosa a xylosa",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ribitol a deoxyxylosa",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 520,
+		"category": 1,
+		"number": 520,
+		"text": "Epimery sacharidů jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "struktury sacharidů, které se liší pouze orientací poloacetalového hydroxylu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "struktury sacharidů, které se liší konfigurací na dvou uhlíkových atomech v řetězci",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "např. D-glukosa a D-mannosa",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "struktury sacharidů, které se liší konfigurací na jednom uhlíkatém atomu v řetězci",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 521,
+		"category": 1,
+		"number": 521,
+		"text": "Které sacharidy budou dávat pozitivní reakci s Fehlingovým činidlem?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "sacharosa",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "glukosa",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "maltosa",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "celulosa",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 522,
+		"category": 1,
+		"number": 522,
+		"text": "Z uvedených mastných kyselin má nejnižší bod tání:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kyselina butanová",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kyselina palmitová",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kyselina stearová",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kyselina hexanová",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 523,
+		"category": 1,
+		"number": 523,
+		"text": "Z uvedených mastných kyselin má nejvyšší bod tání:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kyselina butanová",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kyselina palmitová",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kyselina stearová",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kyselina hexanová",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 524,
+		"category": 1,
+		"number": 524,
+		"text": "Mastné kyseliny jsou v molekule triacylglycerolu připojeny:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "esterovou vazbou",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "iontovou vazbou",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "peptidovou vazbou",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "amidovou vazbo ОН:",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 525,
+		"category": 1,
+		"number": 525,
+		"text": "Pojmenujte sloučeninu",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kyselina máselná",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kyselina palmitová",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kyselina stearová",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kyselina arachidonová",
+				"correct": false
+			}
+		]
+	}
+]

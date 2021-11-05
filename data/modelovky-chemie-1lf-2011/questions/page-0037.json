@@ -1,0 +1,258 @@
+[
+	{
+		"id": 289,
+		"category": 1,
+		"number": 289,
+		"text": "Při titracích se využívá laboratorního skla:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "teploměr",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "byreta",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "titrační baňka",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "chladič",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 290,
+		"category": 1,
+		"number": 290,
+		"text": "Optimální pH lidské krve je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "7,4",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1,4",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "5,4",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "10,4",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 291,
+		"category": 1,
+		"number": 291,
+		"text": "Která kyselina je silná:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kyselina sírová",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kyselina octová",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kyselina dusičná",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kyselina mravenčí",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 292,
+		"category": 1,
+		"number": 292,
+		"text": "Při polití pokožky kyselinou postupujeme:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "postižené místo omyjeme proudem studené vody a poté použijeme mýdlo či slabo zásadu na opláchnutí postiženého místa",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "postižené místo omyjeme proudem studené vody a poté použijeme ocet či jinou slabo kyselinu na opláchnutí postiženého místa",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "postižené místo omyjeme proudem teplé vody a poté použijeme kyselin chlorovodíkovou na opláchnutí postiženého místa",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "postižené místo omyjeme proudem studené vody a poté použijeme hydroxid sodný č jinou silnou zásadu na opláchnutí postiženého místa.",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 293,
+		"category": 1,
+		"number": 293,
+		"text": "Označte dvojici, která tvoří konjugovaný pár podle Brönstedovy teorie:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "H3PO4 a H2P04",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "HCl a Clº",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "H3PO4 a HPO42-",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "NH3 a NH4+",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 294,
+		"category": 1,
+		"number": 294,
+		"text": "Označte dvojici, která tvoří konjugovaný pár podle Brönstedovy teorie:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "H2P04 a HPO42",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "H2SO4 a H2SO3",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "NH2CH2COOH a NH2CH2C00-",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "NH2CH2COOH a (NH3)+CH2COOH",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 295,
+		"category": 1,
+		"number": 295,
+		"text": "Označte dvojici, která tvoří konjugovaný pár podle Brönstedovy teorie:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "H2P04 a HPO42-",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "HS04 a S04",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "H2SO4 a SO42-",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "H30* a OH-",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 296,
+		"category": 1,
+		"number": 296,
+		"text": "Označte dvojici, která tvoří konjugovaný pár podle Brönstedovy teorie:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "HS04 a HSO3-",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "CH3COOH a CH3C00-",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "HOOC-COOH a -00C-C00-",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "H2O a O 2 2-",
+				"correct": true
+			}
+		]
+	}
+]

@@ -1,0 +1,194 @@
+[
+	{
+		"id": 1090,
+		"category": 2,
+		"number": 1090,
+		"text": "Brönstedova zásada",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je látka, která je schopná přijímat od jiné látky proton",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je látka, která je schopná předávat jiné látce proton",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je látka s volným elektronovým párem, který může sdílet s jinou látkou",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je látka zvyšující koncentraci elektronů v roztoku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1091,
+		"category": 2,
+		"number": 1091,
+		"text": "Vacidobazické rovnovážné reakci popsané rovnic CH3COOH + H20 H30* + CH3C0 Jsou tyto konjugované páry (ve smyslu Brönstedovy teorie kyselin a zásad)",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kyselina octová a voda (levá strana rovnice)",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kation H30+ a anion CH3C00- (pravá strana rovnice)",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kyselina octová a anion CH3C00-",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "voda a kation H30+",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1092,
+		"category": 2,
+		"number": 1092,
+		"text": "Vacidobazické rovnovážné reakci popsané reakcí CH3COOH + H20 H30* + CH3C00 je rovnovážná konstanta Kc vyjádřena vzorcem (koncentrace v hranatýc závorkách představují rovnovážné koncentrace)",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "[CH3COOH][H20]/[CH, C00-][H3O+]",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "[CH3C00-][H3O+] /[CH, COOH]",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "[CH2C00-][H3O+]/[CH3COOH][H20]",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "[H3O+][H20]/[CH3COO-[CH3COOH]",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1093,
+		"category": 2,
+		"number": 1093,
+		"text": "Zacidobazické rovnovážné reakce popsané reakcí CH3COOH + H20 H30* + CH3C00 můžeme vyjádřit disociační konstantu kyseliny octové K, výrazem",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "[CH3COOH][H20]/[CH2 C00-][H20+]",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "[CH3COO-][H3O+]/[CH3COOH]",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "[CH3COO-][H20+]/[CH2COOH][H2O]",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "[H3O+][H20]/[CH, C00-][CH3COOH]",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1094,
+		"category": 2,
+		"number": 1094,
+		"text": "Iontový součin autoprotolýzy vody, tj. reakce 2H20 H30* + OH- má při 25° přibližně hodnotu (předpokládáme, že roztok se chová ideálně)",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "10^14",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "10^-14",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "10^-7",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1095,
+		"category": 2,
+		"number": 1095,
+		"text": "Pro kyselé vodné roztoky platí",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "[H3O+] < [OH-]",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "[H3O+] > [OH-]",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "[H30+] <= [OH-]",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "[H3O+] >= [OH-]",
+				"correct": false
+			}
+		]
+	}
+]

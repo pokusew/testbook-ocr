@@ -1,0 +1,258 @@
+[
+	{
+		"id": 190,
+		"category": 1,
+		"number": 190,
+		"text": "Jaká je hmotnostní koncentrace roztoku chromanu draselného, když v 800 m roztoku je 0,35 molu chromanu draselného? Ar(Cr) = 52, Ar(K) = 39",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "67,8g/1",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "242,5 g/l",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "124,6 g/l",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "84,9 g/l",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 191,
+		"category": 1,
+		"number": 191,
+		"text": "Kolik NaBr je třeba přidat k 40 g 10% roztoku NaBr, aby vznikl 20% roztok NaBr?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "20 g",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "10 g",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "5g",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "15 g",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 192,
+		"category": 1,
+		"number": 192,
+		"text": "Kolik molů látky obsahuje 1 kg octanu olovnatého? Ar(Pb) = 207",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "3,76 molu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "3,1 molu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "2,4 molu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "2,84 molu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 193,
+		"category": 1,
+		"number": 193,
+		"text": "Hmotnostní zlomek (wa) roztoku připraveného z 1 litru destilované vody a 155 Hyklátu Doxycyklinu má hodnotu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,134",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,155",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "115",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "15,5 %",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 194,
+		"category": 1,
+		"number": 194,
+		"text": "Rozpuštěním 5 g soli v 750 ml destilované vody vznikne roztok, jehož hmotnostn zlomek odpovídá hodnotě:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,06 g",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,06 mg",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "0,0066",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "0,0066 litrů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 195,
+		"category": 1,
+		"number": 195,
+		"text": "Celkový objem roztoku při ého z 9g NaCl a vody je 1000 ml. Hmotnostn koncentrace NaCl v roztoku má hodnotu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,9 g/1",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "9000 mg/l",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1 mol/dm3",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "900 mg",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 196,
+		"category": 1,
+		"number": 196,
+		"text": "Látková koncentrace chloridových iontů v roztoku připraveném z 500 m destilované vody a 5 g NaCl je: Mr(NaCl) = 58, Ar(Na) = 23",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,17 mol/1",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,5 mol/l",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1,72 mmol/l",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "0,045 mol/l",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 197,
+		"category": 1,
+		"number": 197,
+		"text": "Látková koncentrace sodíkových iontů v roztoku připraveném ze 21 destilovan vody a 10g NaCl je: Mr(NaCl) = 58, Ar(CI) = 35",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,172 mmol/l",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,045 mol/l",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "0,172 mol/l",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "0,086 mol/l",
+				"correct": true
+			}
+		]
+	}
+]

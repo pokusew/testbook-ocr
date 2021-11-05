@@ -1,0 +1,194 @@
+[
+	{
+		"id": 1161,
+		"category": 2,
+		"number": 1161,
+		"text": "Jakou číselnou hodnotu má molární koncentrace 5 litrů roztoku, který obsahuje 1 molů KBr?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,5",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "2",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "50",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "k výpočtu potřebuji znát relativní molekulovou hmotnost KBr, proto takto zadaný příkla nelze vypočítat",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1162,
+		"category": 2,
+		"number": 1162,
+		"text": "Jakou číselnou hodnotu má molární koncentrace 6 litrů roztoku, který obsahuj 3 moly KBr?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,5",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1,8",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "2",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "k výpočtu potřebuji znát relativní molekulovou hmotnost KBr, proto takto zadaný příkla nelze vypočítat",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1163,
+		"category": 2,
+		"number": 1163,
+		"text": "Jakou číselnou hodnotu má molární koncentrace 3 litrů roztoku, který obsahuj 9 molů KBr?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,33",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "2,7",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "3",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "k výpočtu potřebuji znát relativní molekulovou hmotnost KBr, proto takto zadaný příkla nelze vypočítat",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1164,
+		"category": 2,
+		"number": 1164,
+		"text": "Jaký bude objem roztoku o koncentraci 2,00 mol/l, k jehož přípravě bylo použit 6,00 molů NaCl?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "121",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "31",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "0,331",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "k výpočtu potřebuji znát relativní molekulovou hmotnost NaCl, proto takto zadan příklad nelze vypočítat",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1165,
+		"category": 2,
+		"number": 1165,
+		"text": "Jaký bude objem roztoku o koncentraci 10,00 mol/l, k jehož přípravě bylo použit 5,00 molů NaCl?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "501",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "21",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "0,51",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "k výpočtu potřebuji znát relativní molekulovou hmotnost NaCl, proto takto zadan příklad nelze vypočítat",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1166,
+		"category": 2,
+		"number": 1166,
+		"text": "Jaký bude objem roztoku o koncentraci 5,00 mol/l, k jehož přípravě bylo použit 10,00 molů NaCl?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "501",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "21",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "0,51",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "k výpočtu potřebuji znát relativní molekulovou hmotnost NaCl, proto takto zadan příklad nelze vypočítat",
+				"correct": false
+			}
+		]
+	}
+]

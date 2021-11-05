@@ -6,7 +6,7 @@ zinečnatého je 136,28 g/mol.
 a) 37,49 g
 b) 36,45 g
 C) 72,90 g
-c) žádná z uvedených možností není správná
+d) žádná z uvedených možností není správná
 1181) Kolik gramů zinku bude potřeba, aby bylo reakcí zinku s kyselinou
 chlorovodíkovou připraveno 24,055 l vodíku? Teplota v laboratoři je 20 °C,
 tlak 101 325 Pa. Relativní atomová hmotnost zinku je 65,38 g/mol, relativní

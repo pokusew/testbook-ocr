@@ -1,0 +1,290 @@
+[
+	{
+		"id": 526,
+		"category": 1,
+		"number": 526,
+		"text": "Sfingosin je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hormon",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vitamín",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "součást některých lipidů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "alkohol",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 527,
+		"category": 1,
+		"number": 527,
+		"text": "Kyselina linolová a linolenová:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se liší počtem uhlíků",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou mastné kyseliny",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "liší se počtem dvojných vazeb",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou aminokyseliny",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 528,
+		"category": 1,
+		"number": 528,
+		"text": "Hydrolýzou triacyglycerolů vznikají:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "glycerol a mastné kyseliny",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "voda a mastné kyseliny",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "monosacharidy, mastné kyseliny a glycerol",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mastné kyseliny, aminokyseliny a voda",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 529,
+		"category": 1,
+		"number": 529,
+		"text": "Vyberte správné/á tvrzení o kyselině linolové:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "má 16 uhlíků",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je to esenciální mastná kyselina",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "má dvě dvojné vazby",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je to karboxylová kyselina",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 530,
+		"category": 1,
+		"number": 530,
+		"text": "Kyselina olejová a elaidová se liší:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "počtem uhlíků",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "polohou dvojné vazby",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "konfigurací dvojné vazby",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "počtem dvojných vazeb",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 531,
+		"category": 1,
+		"number": 531,
+		"text": "Většina přirozených nenasycených mastných kyselin:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "má sudý počet uhlíků",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "má nerozvětvený uhlovodíkový řetězec",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "má dvojné vazby v cis konfiguraci",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "obsahuje pouze jednu dvojnou vazbu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 532,
+		"category": 1,
+		"number": 532,
+		"text": "Vyberte správné/á tvrzení o triacylglycerolech:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou hydrofobní",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "obsahují tři mastné kyseliny",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou dobře rozpustné ve vodě",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou to estery glycerolu a mastných kyselin",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 533,
+		"category": 1,
+		"number": 533,
+		"text": "Vyberte správné/á tvrzení o bodu tání mastných kyselin:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "stoupá se zvyšujícím se počtem uhlíků v molekule mastné kyseliny",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "klesá se zvyšujícím se počtem dvojných vazeb",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je ovlivněn délkou a stupněm saturace uhlovodíkového řetězce mastné kyseliny",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "všechny mastné kyseliny mají stejný bod tán OH:",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 534,
+		"category": 1,
+		"number": 534,
+		"text": "Název zobrazené sloučeniny je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kyselina máselná",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kyselina palmitová",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kyselina stearová",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kyselina arachidonová",
+				"correct": false
+			}
+		]
+	}
+]

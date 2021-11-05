@@ -1,0 +1,258 @@
+[
+	{
+		"id": 182,
+		"category": 1,
+		"number": 182,
+		"text": "V kolika kg vody je 1 kg vodíku?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "16 kg",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "8,5 kg",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "2 kg",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "9 kg",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 183,
+		"category": 1,
+		"number": 183,
+		"text": "V 500 ml roztoku je rozpuštěno 0,15 molu NaCl. Jaká je hmotnostní procentualit NaCl v roztoku? Ar(Na) =23, Ar(CI) = 35,5",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "8,24 %",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "2,54 %",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1,76 %",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "11,7 %",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 184,
+		"category": 1,
+		"number": 184,
+		"text": "24% roztok o objemu 500 ml se má odpařením vody zahustit na 60%. Jaký bud výsledný objem?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "200 ml",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "300 ml",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "285 ml",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "166 ml",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 185,
+		"category": 1,
+		"number": 185,
+		"text": "Z 30 g 65% HNO3 je třeba připravit 2% kyselinu. Kolik vody budeme potřebovat?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1417,5 g",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1890 g",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "945g",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "756 g",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 186,
+		"category": 1,
+		"number": 186,
+		"text": "Do roztoku s 15 g KOH přidáme 15 g čisté HNO3. Jaká bude výsledná reakce roztoku Ar(K) = 39",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "neutrální",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zásaditá",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kyselá",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "slabě kyselá",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 187,
+		"category": 1,
+		"number": 187,
+		"text": "Kolik litrů vodíku vznikne reakcí 25 g zinku s HCI? Ar(Zn) = 65; reakce probíhá z normálních podmínek.",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "6,281",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "17,241",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "12,561",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "8,621",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 188,
+		"category": 1,
+		"number": 188,
+		"text": "Kolik g vody je potřeba pro ztuhnutí 435 g sádry? Ar(Ca) = 40, Ar(S) = 32",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "89 g",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "54 g",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "81 g",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "146 g",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 189,
+		"category": 1,
+		"number": 189,
+		"text": "Kolik g kyseliny octové vznikne teoreticky z 690 g ethanolu?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "900 g",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "750 g",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "450 g",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "840 g",
+				"correct": false
+			}
+		]
+	}
+]

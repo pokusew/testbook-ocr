@@ -1,0 +1,258 @@
+[
+	{
+		"id": 1105,
+		"category": 2,
+		"number": 1105,
+		"text": "U exotermických dějů má hodnota entalpie",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kladné znaménko, soustava odevzdává teplo do okolí",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "záporné znaménko, soustava odevzdává teplo do okolí",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kladné znaménko, soustava si ponechává teplo",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "záporné znaménko, soustava přijímá teplo",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1106,
+		"category": 2,
+		"number": 1106,
+		"text": "Reakční mechanismus je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "sled elementárních reakcí, který v konečném výsledku vede k chemické přeměně",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "podrobný popis procesu, ve kterém se částice výchozí látky přeorganizují na aktivovan komplex, který se nakonec přemění na výsledné produkty reakce",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "popis jednotlivých kroků při vícestupňové syntéze",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "popis procesu, při kterém se z monomerů stává polymer",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1107,
+		"category": 2,
+		"number": 1107,
+		"text": "Rovnovážná konstanta reakce se se změnou teploty",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nemění",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mění",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nemění, pokud se nemění zároveň i tlak",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nemění, pokud se jedná o endotermní reakci",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1108,
+		"category": 2,
+		"number": 1108,
+		"text": "Jeden mol elektronů je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nesmysl, mol je definován jen pro atomy",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "6,022 x 1023 elektronů",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "taková hmotnost elektronů, kterou má 0,012 kg uhlíku 12C",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "počet elektronů, které má jakákoli látka v jednom molu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1109,
+		"category": 2,
+		"number": 1109,
+		"text": "Entropie je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "termodynamická veličina, kterou lze charakterizovat míru neurčitosti neb neuspořádanosti systému",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "teplo, které přijme soustava, která nekoná žádnou objemovou práci",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "molární teplo uvolněné rozpadem jednoho gramu látky",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pojmenování pro uspořádání menších částí, platí pouze v rámci velké definovan struktury",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1110,
+		"category": 2,
+		"number": 1110,
+		"text": "PV=nRT platí pouze",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "při konstantní teplotě a tlaku pro všechny plyny",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pro ideální plyn",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pro reakci, ve které jsou všechny složky kapalné",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pro hlavní kvantové číslo n = 1 a 2",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1111,
+		"category": 2,
+		"number": 1111,
+		"text": "Iontová vazba je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kovalentní vazba mezi dvěma atomy s odlišnou elektronegativitou",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "realizována na principu vzájemné přitažlivosti obráceně nabitých částic",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "elektrostatická interakce mezi kationtem a aniontem",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kovalentní vazba, ve které se uplatňují ionty",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1112,
+		"category": 2,
+		"number": 1112,
+		"text": "Mezi kovalentní vazby nepatří - vyberte možnosti, kde jsou jen nekovalentní vazby",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "elektrostatické síly, koordinační vazby, van de Waalsovy síly a vodíkové můstky",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "elektrostatické interakce a van der Waalsovy síly",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vodíkové můstky, van der Waalsovy síly a násobné vazby u nenasycených uhlovodíků",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "konjugované vazby, vodíkové můstky a van der Waalsovy síly",
+				"correct": false
+			}
+		]
+	}
+]

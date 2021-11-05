@@ -1,0 +1,226 @@
+[
+	{
+		"id": 853,
+		"category": 2,
+		"number": 853,
+		"text": "Tento vzorec",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "benzoát",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "fenolát",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "salicylát",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "toluená -O představuje",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 854,
+		"category": 2,
+		"number": 854,
+		"text": "Tento vzorec",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "benzoát",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "fenolát",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "salicylát",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "toluená O sloučeniny je",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 855,
+		"category": 2,
+		"number": 855,
+		"text": "Název této O",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ethandioát",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "acetát",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "oxalát",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "šťavelan",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 856,
+		"category": 2,
+		"number": 856,
+		"text": "Kyselina máselná má",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "tři uhlíky",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "čtyři uhlíky",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pět uhlíků",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "šest uhlíků",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 857,
+		"category": 2,
+		"number": 857,
+		"text": "Vyberte sumární vzorec pro tento racionální vzorec",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "C10H16",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "C10H18",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "C12H20",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "C12H1 OH",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 858,
+		"category": 2,
+		"number": 858,
+		"text": "Vyberte sumární vzorec pro tento racionální vzorec",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "C6H110",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "C6H,0",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "C6H100",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "C6H2OH",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 859,
+		"category": 2,
+		"number": 859,
+		"text": "Vyberte sumární vzorec pro tento racionální vzorec",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "C5H5N",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "C5H N",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "C3H5NH",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "C5H4N",
+				"correct": false
+			}
+		]
+	}
+]

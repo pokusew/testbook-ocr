@@ -1,0 +1,194 @@
+[
+	{
+		"id": 834,
+		"category": 1,
+		"number": 834,
+		"text": "Správný název této sloučeniny O",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "2,3-dihydroxypropanal",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "akrolein",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "glyceraldehyd",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "2,3-dihydroxypropano -О -ОНje",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 835,
+		"category": 1,
+		"number": 835,
+		"text": "Správný název této sloučeniny H-",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "2,3,4-trihydroxypentanal",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "2,3,4-trihydroxybutanal",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "D-ribóza",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "D-erythróz O H -О НО - -О OH je",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 836,
+		"category": 1,
+		"number": 836,
+		"text": "Správný název této sloučeniny H-",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "2,3,4,5,6-pentahydrohyhexanal",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "2,3,4,5,6-pentahydrohyhexanol",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "glukóza",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "allóz O B Hje",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 837,
+		"category": 1,
+		"number": 837,
+		"text": "Správný název této látky CH3-",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "brommethan",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "brometha H H",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1-brom-cyklopropan",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jiný název než uvedené variant je",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 838,
+		"category": 1,
+		"number": 838,
+		"text": "Správný název této látky",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "cyklodekan",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "cyklododekan",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "cykloundekan",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "cyklon",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 839,
+		"category": 1,
+		"number": 839,
+		"text": "Tato skupina HN=NEN je typická pro",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "azidy",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hydrazidy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "amidy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "imidy",
+				"correct": false
+			}
+		]
+	}
+]

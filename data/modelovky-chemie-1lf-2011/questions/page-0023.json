@@ -1,0 +1,258 @@
+[
+	{
+		"id": 174,
+		"category": 1,
+		"number": 174,
+		"text": "Kolik g 3% roztoku KCl získáme, když rozpustíme 13 g jeho soli?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "433,3 g",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "23,1 g",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "122,4 g",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "533,3 g",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 175,
+		"category": 1,
+		"number": 175,
+		"text": "Jaká je látková koncentrace 125 ml roztoku připraveného rozpuštěním 3,656 g NaC ve vodě? Ar(Na) = 23, Ar(CI) = 35,5",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "2 mol/l",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Imol/l",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "0,5 mol/l",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "0,4 mol/l",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 176,
+		"category": 1,
+		"number": 176,
+		"text": "Jaká je látková koncentrace 300 ml roztoku připraveného rozpuštěním 10 siřičitanu sodného ve vodě? Ar(Na) = 23, Ar(S) = 32",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,32 mol/l",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,26 mol/l",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "0,23 mol/l",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "0,28 mol/l",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 177,
+		"category": 1,
+		"number": 177,
+		"text": "Kolik g NaNO3 obsahuje 600 ml 2 M roztoku NaNO3? Ar(Na) = 23",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "72 g",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "51 g",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "96g",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "102 g",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 178,
+		"category": 1,
+		"number": 178,
+		"text": "Kolik g dusičnanu barnatého obsahuje 150 ml 0,2 M roztoku dusičnanu barnatéh Ar(Ba) = 137",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "39,15 g",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "5,97 g",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "7,83 g",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "29,85 g",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 179,
+		"category": 1,
+		"number": 179,
+		"text": "Tuhnutí malty probíhá reakcí hydroxidu vápenatého s oxidem uhličitým. Kolik k oxidu uhličitého se spotřebuje na 100 kg hydroxidu vápenatého? Ar(Ca) = 40",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "48,6 kg",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "118,9 kg",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "59,5 kg",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "168,2 kg",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 180,
+		"category": 1,
+		"number": 180,
+		"text": "Jaký objem za normálních podmínek má 60 kg CO2?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "45,5 m",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "22,6 m3",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "38401",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "30,5 m²",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 181,
+		"category": 1,
+		"number": 181,
+		"text": "K 5 ml roztoku močoviny o látkové koncentraci 0,01 mol/l přidáme 20 ml vody. Jak bude látková koncentrace výsledného roztoku?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,002 mol/l",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,02 mol/l",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "2 mmol/l",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "20 mmol/l",
+				"correct": false
+			}
+		]
+	}
+]

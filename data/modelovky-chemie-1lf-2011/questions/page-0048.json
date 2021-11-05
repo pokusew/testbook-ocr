@@ -1,0 +1,290 @@
+[
+	{
+		"id": 386,
+		"category": 1,
+		"number": 386,
+		"text": "Které z uvedených sloučenin jsou opticky aktivní:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kyselina mléčná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kyselina citrónová",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "2-methylbutan-1-ol",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "2-methylpropan",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 387,
+		"category": 1,
+		"number": 387,
+		"text": "Adice halogenovodíků na alkeny:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se řídí Markovnikovovým pravidlem",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "začíná adicí nukleofilu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "začíná adicí elektrofilního činidla",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vznikají při ní halogenderiváty alkanů",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 388,
+		"category": 1,
+		"number": 388,
+		"text": "Adice vody na ethen:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "poskytuje vinylalkohol",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vede k zániku dvojné vazby",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je dehydratace",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je elektrofilní adice",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 389,
+		"category": 1,
+		"number": 389,
+		"text": "Reakce methanu s chlórem:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je radikálová řetězová reakce",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je tvořena iniciací, propagací a terminací",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je substituční heterolytická reakce",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je substituční homolytická reakce",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 390,
+		"category": 1,
+		"number": 390,
+		"text": "Které heterocyklické sloučeniny mají aromatický charakter:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "purin",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "adenin",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pyrolidin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "porfyrin",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 391,
+		"category": 1,
+		"number": 391,
+		"text": "Hydrogenace acetonu je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "spojena s izomerizací acetonu na acetaldehyd",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "oxidace acetonu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "redukce acetonu vodíkem",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "spojena se vznikem sekundárního alkoholu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 392,
+		"category": 1,
+		"number": 392,
+		"text": "K hydroxyderivátům uhlovodíků patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "sorbitol",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "alkoholy",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "fenoly",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ketony",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 393,
+		"category": 1,
+		"number": 393,
+		"text": "K terciárním alkoholům patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hydrochinon",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "glycerol",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "cyklohexanol",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "2-methylpropan-1-ol",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 394,
+		"category": 1,
+		"number": 394,
+		"text": "C6H5-COOH je kyselina:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nasycená",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "aromatická",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "acyklická, se 2 dvojnými vazbami v molekule",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "alicyklická",
+				"correct": false
+			}
+		]
+	}
+]

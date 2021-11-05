@@ -1,0 +1,226 @@
+[
+	{
+		"id": 1083,
+		"category": 2,
+		"number": 1083,
+		"text": "První termochemický zákon říká",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "soustava při reakci uvolňuje nebo spotřebovává tepelnou energii",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "H = U + PV",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "reakční teplo určité reakce je stejné jako součet reakčních tepel postupně prováděnýc reakcí, vycházejících ze stejných výchozích látek a končících stejnými produkty",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádný z předešlých výroků v této otázce není správný",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1084,
+		"category": 2,
+		"number": 1084,
+		"text": "Druhý termochemický zákon říká",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "soustava při reakci uvolňuje nebo spotřebovává tepelnou energii",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "reakční teplo určité reakce a reakční teplo téže reakce probíhající za stejných podmíne opačným směrem je až na znaménko stejné",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "reakční teplo určité reakce je stejné jako součet reakčních tepel postupně prováděnýc reakcí, vycházejících ze stejných výchozích látek a končících stejnými produkty",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "celkové slučovací teplo reakce je vždy nulové",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1085,
+		"category": 2,
+		"number": 1085,
+		"text": "Jestliže je reakce exotermní, pak platí",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "ΔΗ > 0",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "AH< 0",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "AG > 0",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "AG < 0",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1086,
+		"category": 2,
+		"number": 1086,
+		"text": "První termodynamický zákon",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nelze sestrojit stroj, který by trvale dodával mechanickou energii, aniž by spotřebova odpovídající množství energie jiného druhu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "teplo nemůže při styku dvou těles různých teplot samovolně přecházet z těles chladnějšího na těleso teplejší",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "celkové množství energie (všech druhů) izolované soustavy zůstává zachováno",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "při absolutní nulové teplotě je entropie čisté látky pevného nebo kapalného skupenstv rovna nule",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1087,
+		"category": 2,
+		"number": 1087,
+		"text": "Druhý termodynamický zákon",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nelze sestrojit stroj, který by trvale dodával mechanickou energii, aniž by spotřebova odpovídající množství energie jiného druhu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "teplo nemůže při styku dvou těles různých teplot samovolně přecházet z těles chladnějšího na těleso teplejší",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "celkové množství energie (všech druhů) izolované soustavy zůstává zachováno",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nelze sestrojit perpetuum mobile druhého druhu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1088,
+		"category": 2,
+		"number": 1088,
+		"text": "Třetí termodynamický zákon",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nelze sestrojit stroj, který by trvale dodával mechanickou energii, aniž by spotřebova odpovídající množství energie jiného druhu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "při absolutní nulové teplotě je entropie čisté látky pevného nebo kapalného skupenstv rovna nule",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "čistou pevnou látku nelze konečným pochodem ochladit na absolutní nulovou teplotu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nelze sestrojit perpetuum mobile druhého druhu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1089,
+		"category": 2,
+		"number": 1089,
+		"text": "Brönstedova kyselina",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je látka, která je schopná přijímat od jiné látky proton",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je látka, která je schopná předávat jiné látce proton",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je látka s volným elektronovým párem, který může sdílet s jinou látkou",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je látka zvyšující koncentraci elektronů v roztoku",
+				"correct": false
+			}
+		]
+	}
+]

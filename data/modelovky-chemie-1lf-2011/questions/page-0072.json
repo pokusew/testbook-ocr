@@ -1,0 +1,258 @@
+[
+	{
+		"id": 595,
+		"category": 1,
+		"number": 595,
+		"text": "Zvolte správné tvrzení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "sekundární struktura bílkoviny je dána periodicky uspořádanými konformačními motivy",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "terciární strukturou se rozumí prostorové vztahy nesousedních částí peptidovéh řetězce",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kvarterní strukturou se rozumí prostorové vztahy nesousedních částí peptidovéh řetězce",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "u všech bílkovin rovněž rozlišujeme kvarterní strukturu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 596,
+		"category": 1,
+		"number": 596,
+		"text": "Závity a-helixu v proteinu jsou stabilizovány zejména:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hydrofobními interakcemi",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "iontovými vazbami",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vodíkovými vazbami",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "van der Waalsovými silami",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 597,
+		"category": 1,
+		"number": 597,
+		"text": "Zvolte správné tvrzení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "na stabilizaci terciární struktury se podílí vodíkové vazby",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "na stabilizaci terciární struktury se podílí disulfidové můstky",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "na stabilizaci terciární struktury se nepodílí disulfidové můstky",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "na stabilizaci terciární struktury se podílí iontové vazby",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 598,
+		"category": 1,
+		"number": 598,
+		"text": "Zvolte správné tvrzení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "při denaturaci proteinu dochází ke změně primární struktury",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "při denaturaci proteinu nedochází ke změně primární struktury",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "při denaturaci proteinu se nemění jeho konformace",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "při denaturaci proteinu se mění jeho konformace",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 599,
+		"category": 1,
+		"number": 599,
+		"text": "Které z jmenovaných aminokyselin jsou klasifikovány jako hydrofobní?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "glutamin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "lysin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "leucin",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "serin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 600,
+		"category": 1,
+		"number": 600,
+		"text": "Které z jmenovaných aminokyselin obsahují aromatické jádro?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "tyrosin",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "threonin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "tryptofan",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "prolin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 601,
+		"category": 1,
+		"number": 601,
+		"text": "Vyberte dvojice aminokyselin, jejichž postranní řetězce po začlenění d polypeptidového řetězce mohou vzájemně interagovat iontovou vazbou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "glutamin a asparagin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "serin a glycin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "arginin a kyselina asparagová",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "leucin a isoleucin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 602,
+		"category": 1,
+		"number": 602,
+		"text": "Izoelektrický bod aminokyseliny je hodnota pH při níž:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "aminokyselina neváže žádné protony",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "celkový náboj aminokyseliny je nulový",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je aminokyselina nejméně rozpustná",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je aminokyselina plně ionizována",
+				"correct": false
+			}
+		]
+	}
+]

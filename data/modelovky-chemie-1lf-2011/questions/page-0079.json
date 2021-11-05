@@ -1,0 +1,290 @@
+[
+	{
+		"id": 648,
+		"category": 1,
+		"number": 648,
+		"text": "Mononukleotid nukleové kyseliny obsahuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "sacharid",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "sulfát",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "fosfát",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "lipid",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 649,
+		"category": 1,
+		"number": 649,
+		"text": "Mononukleotid nukleové kyseliny obsahuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "fosforečnou basi",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dusíkatou basi",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ribonukleovou basi",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "deoxyribonukleovou basi",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 650,
+		"category": 1,
+		"number": 650,
+		"text": "Sacharidem v mononukleotidu nukleové kyseliny může být:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "deoxyglukosa",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "deoxysacharosa",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "deoxyribosa",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "deoxyribulosa",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 651,
+		"category": 1,
+		"number": 651,
+		"text": "Base nukleotidů DNA a RNA obsahují:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "uhlík",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dusík",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "fosfor",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "selen",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 652,
+		"category": 1,
+		"number": 652,
+		"text": "Které z následujících dusíkatých basí nepatří mezi deriváty purinu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "adenin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "guanin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "cytosin",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "uracil",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 653,
+		"category": 1,
+		"number": 653,
+		"text": "Které z následujících dusíkatých basí patří mezi deriváty purinu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "adenin",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "guanin",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "cytosin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "thymin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 654,
+		"category": 1,
+		"number": 654,
+		"text": "Které z následujících dusíkatých basí nepatří mezi deriváty pyrimidinu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "cytosin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "uracil",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "adenin",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "thymin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 655,
+		"category": 1,
+		"number": 655,
+		"text": "Které z následujících dusíkatých basí patří mezi deriváty pyrimidinu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "cytosin",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "uracil",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "adenin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "thymin",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 656,
+		"category": 1,
+		"number": 656,
+		"text": "Která z následujících dusíkatých basí se vyskytuje pouze v nukleotidech DNA:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "uracil",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "cytosin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "thymin",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "adenin",
+				"correct": false
+			}
+		]
+	}
+]

@@ -1,0 +1,290 @@
+[
+	{
+		"id": 422,
+		"category": 1,
+		"number": 422,
+		"text": "Heterocyklické sloučeniny jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nestálé a v běžných podmínkách se nevyskytují",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "anorganické sloučeniny uhlíku",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "cyklické sloučeniny uhlíku spolu s ostatními prvky",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "alifatické sloučeniny tvořené uhlíkovým řetězcem",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 423,
+		"category": 1,
+		"number": 423,
+		"text": "O heterocyklických sloučeninách platí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou tvořené výlučně izocyklickým řetězcem uhlíku",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vždy obsahují ve svém cyklu jenom jeden heteroatom",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nejčastějším heteroatomem jsou kyslík, síra, uhlík",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mohou mít aromatický charakter",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 424,
+		"category": 1,
+		"number": 424,
+		"text": "O heterocyklických sloučeninách platí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou tvořené výlučně izocyklickým řetězcem křemíku",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vždy obsahují ve svém cyklu aspoň jeden heteroatom",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nejčastějším heteroatomem jsou kyslík, síra, dusík",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nemohou mít aromatický charakter",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 425,
+		"category": 1,
+		"number": 425,
+		"text": "O heterocyklických sloučeninách platí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mohou obsahovat dvojné vazby",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nejběžnější a nejstálejší jsou čtyř- a pětičlenné heterocykly",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dělíme dle počtu atomů kruhu na troj-, čtyř-, pěti-, šesti-, sedmi-, osmi- a více členné",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mohou se skládat z více cyklů, z niž alespoň jeden je heterocyklus",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 426,
+		"category": 1,
+		"number": 426,
+		"text": "O heterocyklických sloučeninách platí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nikdy nemají aromatický charakter",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nejběžnější jsou tříčlenné",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou důležitou součástí nukleových kyselin",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mohou být součástí bílkovin",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 427,
+		"category": 1,
+		"number": 427,
+		"text": "O heterocyklických sloučeninách platí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mohou obsahovat nasycené i nenasycené vazby",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nejběžnější jsou pěti- a šestičlenné",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v lidském organismu se s nimi nesetkáme",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mají vždy aromatický charakter",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 428,
+		"category": 1,
+		"number": 428,
+		"text": "O heterocyklických sloučeninách platí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou vždy látky plynné povahy",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou pro lidský organismus nebezpečné",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou součástí glykogenu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mají vždy aromatický charakter",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 429,
+		"category": 1,
+		"number": 429,
+		"text": "Mezi pětičlenné heterocykly patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pyridin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "furan",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pyrrol",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "indol",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 430,
+		"category": 1,
+		"number": 430,
+		"text": "Mezi šestičlenné heterocykly patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "furan",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pyridin",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pyrrol",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "thiazol",
+				"correct": false
+			}
+		]
+	}
+]

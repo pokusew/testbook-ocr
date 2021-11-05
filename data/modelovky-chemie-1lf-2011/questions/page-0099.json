@@ -1,0 +1,290 @@
+[
+	{
+		"id": 817,
+		"category": 1,
+		"number": 817,
+		"text": "Mezi kondenzované areny patří",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "bifenyl",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "binaftyl",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "chinon",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "antracen",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 818,
+		"category": 1,
+		"number": 818,
+		"text": "Oxo-enol tautomerie může nastat u těchto látek",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kyselina močová",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kyselina octová",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pyrimidinové base",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kyselina citronová",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 819,
+		"category": 1,
+		"number": 819,
+		"text": "Acetaldehyd a ethenol",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "spolu nemají nic společného",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou identické látky",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou tautomery",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou konfigurační izomery",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 820,
+		"category": 1,
+		"number": 820,
+		"text": "Různé konformační izomery u cyklických sloučenin",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vznikají vlivem otáčení kolem jednoduchých zeb C-C",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vznikají pouze po jejich substituci vlivem přidaných funkčních skupin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vznikají pouze tam, kde jsou různé i konstituční izomery",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vůbec nevznikají",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 821,
+		"category": 1,
+		"number": 821,
+		"text": "Vanička a židlička jsou pojmenování pro",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "konfigurační izomery cyklohexanu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "konformační izomery cyklohexanu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "konstituční izomery cyklohexanu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jakékoli konformační izomery cyklických sloučenin",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 822,
+		"category": 1,
+		"number": 822,
+		"text": "Jako geometrické izomery označujeme",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "látky s izomerií vzniklou různou substitucí dvojné vazby",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "látky s izomerií vzniklou různou substitucí trojné vazby",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "látky s izomerií vzniklou různou substitucí na cyklohexanovém kruhu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "látky s izomerií vzniklou různou substitucí na jakémkoli kruhu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 823,
+		"category": 1,
+		"number": 823,
+		"text": "Polyvinylchlorid je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "polymer připravený z vinylu a chloridových iontů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "biopolymer",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "makromolekulární látka",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "látka připravená z vinylchloridu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 824,
+		"category": 1,
+		"number": 824,
+		"text": "Kaučuk a gutaperča jsou",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "synteticky vyrobené polymery, které se v přírodě nevyskytují",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "látky odvozené od izoprenu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dvě látky, které nemají společné žádné strukturní rysy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "látky, které lze získat z rostlin",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 825,
+		"category": 1,
+		"number": 825,
+		"text": "Propanol a izopropanol (propan-2-ol) jsou izomery",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "optické",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "konformační",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "geometrické (cis, trans)",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "konstituční",
+				"correct": true
+			}
+		]
+	}
+]

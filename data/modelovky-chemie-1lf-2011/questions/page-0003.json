@@ -1,0 +1,290 @@
+[
+	{
+		"id": 10,
+		"category": 1,
+		"number": 10,
+		"text": "Prvek je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "chemicky čistá látka",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "tvořen atomy",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "tvořen atomy se stejným nukleonovým číslem",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "tvořen atomy se stejným atomovým číslem",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 11,
+		"category": 1,
+		"number": 11,
+		"text": "Prvek je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "volný atom (například He)",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "atom vázaný v molekule (například Cl2)",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "atom přítomný v krystalové struktuře (diamant)",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "žádná odpověď není správná",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 12,
+		"category": 1,
+		"number": 12,
+		"text": "Sloučenina obsahuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "různé molekuly tvořené ze dvou nebo více různých atomů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "různé molekuly tvořené atomy jednoho prvku",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "stejné molekuly tvořené ze dvou nebo více různých atomů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "stejné molekuly tvořené atomy jednoho prvku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 13,
+		"category": 1,
+		"number": 13,
+		"text": "Sloučenina je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "CO2",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Cl2",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Naci",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "H2",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 14,
+		"category": 1,
+		"number": 14,
+		"text": "Pořadí a způsob jakým jsou atomy v molekule vázány je vyjádřen vzorcem:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "sumárním",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "empirickým",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "stechiometrickým",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "konstitučním",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 15,
+		"category": 1,
+		"number": 15,
+		"text": "Prostorové uspořádání atomů nebo iontů v molekule je vyjádřeno vzorcem:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "sumárním",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "geometrickým",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "stechiometrickým",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "konstitučním",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 16,
+		"category": 1,
+		"number": 16,
+		"text": "Vaznost atomu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "určuje počet kovalentních vazeb vycházejících z atomu prvku ve sloučenině",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "odpovídá počtu vazebných elektronových párů, které atom sdílí s jinými atomy",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "lze odvodit z elektronové konfigurace atomu v základním stavu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se vždy řídí podle oktetového pravidla",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 17,
+		"category": 1,
+		"number": 17,
+		"text": "Která z uvedených sloučenin nemůže existovat?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "PC13",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "PC15",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "NC13",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "NCI",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 18,
+		"category": 1,
+		"number": 18,
+		"text": "Jednotkou látkové koncentrace je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mol.dm3",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "g.mol-1",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mol.dm-3",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "g.mol",
+				"correct": false
+			}
+		]
+	}
+]

@@ -1,15 +1,15 @@
-200) V čisté vodě, kde při teplotě 25 °C je koncentrace [H30+] = [OH-] = 10-7 mol.dm-3, je
+280) V čisté vodě, kde při teplotě 25 °C je koncentrace [H30+] = [OH-] = 10-7 mol.dm-3, je
 hodnota pH:
 a) 12
 B) 7
-e) 5,5
+c) 5,5
 d) 14
-201) Neutrální pH je hodnota pH:
+281) Neutrální pH je hodnota pH:
 a) 5,5
 B) 7
-d) 14
-c) 0
-202) Pufry:
+c) 14
+d) 0
+282) Pufry:
 A) slouží k udržení hodnoty pH
 B) mění minimálně hodnotu pH po přidání kyseliny či zásady
 c) jsou veškeré roztoky

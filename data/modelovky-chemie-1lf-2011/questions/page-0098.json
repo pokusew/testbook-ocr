@@ -1,0 +1,258 @@
+[
+	{
+		"id": 809,
+		"category": 1,
+		"number": 809,
+		"text": "Kyselina se vzorcem H, C CH, Oje kyselinou",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "2-hydroxy-propionovou",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "2-hydroxybutanovou",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "3-hydroxybutanovou",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "dá se označit i jako 3-karboxy-propan-2-ol",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 810,
+		"category": 1,
+		"number": 810,
+		"text": "Hydroxyderivát! (viz obrázek) se správně jmenuje",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "cyklohex-3-en-1-ol",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1-cyklohex-3-ol",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "3-cyklohex-1-ol",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "cyklohex-l-en-3-ol",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 811,
+		"category": 1,
+		"number": 811,
+		"text": "719-Naftol je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "aromatický hydroxyderivát",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "primární alkohol",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "sekundární alkohol",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "fenol",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 812,
+		"category": 1,
+		"number": 812,
+		"text": "Ethylenglykol má",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dvě dvojné vazby",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dvojnou vazbu a dvě hydroxyskupiny",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dvě hydroxyskupiny",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jednu dvojnou vazbu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 813,
+		"category": 1,
+		"number": 813,
+		"text": "Mezi karboxylové kyseliny nepatří",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kyselina jantarová",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kyselina močová",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kyselina adipová",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kyselina akrylová",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 814,
+		"category": 1,
+		"number": 814,
+		"text": "Nitroglycerin je podle systematického názvosloví nesprávný název, protože",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "sloučenina neobsahuje nitro, ale aminoskupinu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "název glycerin se již nesmí používat",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "není určena poloha funkčních skupin",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je to ester kyseliny dusičné, nikoli nitrosločenina",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 815,
+		"category": 1,
+		"number": 815,
+		"text": "Cholesterol je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "alkohol",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "fenol",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "steroidní látka",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "obsažen v rostlinném i živočišném tuku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 816,
+		"category": 1,
+		"number": 816,
+		"text": "Při redukci disulfidické vazby vznikají",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dva sulfidy",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dva sulfoxidy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dva thioly",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "dva thioalkoholy",
+				"correct": true
+			}
+		]
+	}
+]

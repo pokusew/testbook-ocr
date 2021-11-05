@@ -1,0 +1,258 @@
+[
+	{
+		"id": 1029,
+		"category": 2,
+		"number": 1029,
+		"text": "Vyberte správné/á tvrzení",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nuklidy, které se liší hmotností, se nazývají izotopy",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "látky, které jsou složeny z atomů se shodným protonovým a neutronovým číslem s nazývají izotopy",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "většina prvků v přírodě je směsí několika izotopů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "izotopy jsou většinou radioaktivní, příkladem radioaktivního izotopu je 130",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1030,
+		"category": 2,
+		"number": 1030,
+		"text": "Planckova konstanta má rozměr",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "mol/kg",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je bezrozměrná",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "eV",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "J.S",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1031,
+		"category": 2,
+		"number": 1031,
+		"text": "Fotoelektrický jev vysvětluje",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "proč dochází k zahřívání nebo ochlazování látek během jejich rozpouštění",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "proč je rychlost světla konečná",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jak může dojít k přeměně světelné energie na elektrický proud",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jev, kdy se vlivem světelné energie z některých látek uvolňují elektrony",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1032,
+		"category": 2,
+		"number": 1032,
+		"text": "Nukleony",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je název pro protony, neutrony a elektrony, ne však pozitrony",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je název pro protony a neutrony",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je název pro protony a elektrony",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je název pro elektrony a neutrony",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1033,
+		"category": 2,
+		"number": 1033,
+		"text": "Vyberte správnou možnost/správné možnosti. Písmeno l označuje vedlejš kvantové číslo. Magnetické kvantové číslo",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "může nabývat hodnot od -1 do +1 včetně nuly",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "může nabývat hodnoty od -1 do +1, kromě nuly",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "může nabývat pouze hodnot od -1 do nuly",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "může nabývat pouze hodnot od nuly do +1",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1034,
+		"category": 2,
+		"number": 1034,
+		"text": "Vyberte správnou odpověd/správné odpovědi. Mají různé izotopy téhož prvk shodnou elektronovou konfiguraci?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nemají, liší se v počtu protonů a tudíž i elektronů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nemají, podle Pauliho principu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "mají, protože izotopy mají shodný počet elektronů a stejná pravidla pro obsazován orbitalů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "mají, protože izotopy se sice liší v počtu elektronů, ale vzhledem k pravidlům obsazován je výsledek stejný",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1035,
+		"category": 2,
+		"number": 1035,
+		"text": "Elektronová konfigurac 1s 2s2 2 163s1 bude příslušet",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "některému z prvků alkalických zemin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "sodíku",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "chloru",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kyslíku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1036,
+		"category": 2,
+		"number": 1036,
+		"text": "Elektronová konfigurace 1s 2s 2p 3s 3pó 4s2 bude příslušet",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "fluoru",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "sodíku",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vápníku",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kyslík 6",
+				"correct": false
+			}
+		]
+	}
+]

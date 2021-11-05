@@ -1,0 +1,66 @@
+[
+	{
+		"id": 1287,
+		"category": 2,
+		"number": 1287,
+		"text": "Dehet je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "hořlavá hornina",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "produkt karbonizace černého uhlí",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "někdy používán v medicíně pro svoje dezinfekční účinky",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kapalná směs organických sloučenin",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1288,
+		"category": 2,
+		"number": 1288,
+		"text": "Tenzidy",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou povrchově aktivní látky",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mají hydrofobní a hydrofilní část",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou látky používané k aní a čištění, zahrnují i mýdla",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zvyšují povrchové napětí vody",
+				"correct": false
+			}
+		]
+	}
+]

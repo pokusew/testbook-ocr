@@ -1,0 +1,258 @@
+[
+	{
+		"id": 236,
+		"category": 1,
+		"number": 236,
+		"text": "Reakce, které z termoynamického hlediska nemohou probíhat samovolně:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se nevyskytují v živýchystémech",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "mohou proběhnout ve vřažení s jiným dějem",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "jsou vždy endotermní",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou například endoterické syntézy (AH > 0, AS<0)",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 237,
+		"category": 1,
+		"number": 237,
+		"text": "Chemická rovnováha stav, kdy:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se nemění složení sousvy",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "neprobíhají žádné reak",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "složky soustavy vznikav reakcích stejně rychle, jako se spotřebovávají",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Gibbsova energie soustry se nemění",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 238,
+		"category": 1,
+		"number": 238,
+		"text": "Látkovou koncentraciložek soustavy v rovnovážném stavu lze změnit:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "přidáním reaktantů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "odvedením produktů",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "změnou teploty",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "přidáním katalyzátoru",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 239,
+		"category": 1,
+		"number": 239,
+		"text": "Standardní elektrodoý potenciál K*/Kje -2,925 V, standardní elektrodov potenciál Ag*/Ag je 0,99 V. Pokud vložíme do nádoby stejné látkové množstv kovového draslíku, choridu draselného, práškového kovového stříbra dusičnanu stříbrnéb a přidáme destilovanou vodu, budou prvky obou kovů p ustálení rovnováhy pivážně jako:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "kovový draslík a kovovstříbro",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "draselné kationty a střírné kationty",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "kovový draslík a stříbrr kationty",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "draselné kationty a kové stříbro",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 240,
+		"category": 1,
+		"number": 240,
+		"text": "Říkáme, že měd' je ušlchtilejší kov než zinek. Mimo jiné to znamená, že:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "při ponoření zinkovéhdrátu do roztoku měd'natých iontů se na drátu vyloučí měď",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "při ponoření zinkovéhdrátu do roztoku mědnatých iontů se část zinku oxiduje n zinečnaté soli",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "při ponoření měděnéhrátu do roztoku zinečnatých iontů se na drátu vyloučí zinek",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "při ponoření měděnéhdrátu do roztoku zinečnatých iontů se část mědi oxiduje n měd'naté ionty",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 241,
+		"category": 1,
+		"number": 241,
+		"text": "Standardní vodíková lektroda:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "má nulový standardní ptenciál",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je redoxní elektroda H+H2",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je redoxní elektroda HoHº",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je redoxní elektroda H+H20",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 242,
+		"category": 1,
+		"number": 242,
+		"text": "Vyberte pravdivé/á tvzení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "redukční činidlo je akcetor elektronů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "oxidační činidlo je akcetor elektronů",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "redukční činidlo je donr elektronů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "oxidační činidlo je donc elektronů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 243,
+		"category": 1,
+		"number": 243,
+		"text": "Při elektrofilní adici n dvojnou vazbu:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "se elektrofilnější část čiidla aduje na uhlík s větším počtem vodíkových atomů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se elektrofilnější část čiidla aduje na uhlík s menším počtem vodíkových atomů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se elektrofilnější část činidla aduje se stejnou pravděpodobností na oba uhlíkové atomy",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "dochází k zániku dvojn«vazby",
+				"correct": true
+			}
+		]
+	}
+]

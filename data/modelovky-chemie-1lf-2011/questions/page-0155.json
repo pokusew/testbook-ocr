@@ -1,0 +1,290 @@
+[
+	{
+		"id": 1260,
+		"category": 2,
+		"number": 1260,
+		"text": "Vzácné plyny",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Jsou v přírodě málo zastoupené a netvoří žádné sloučeniny",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Alespoň jeden se využívá v lékařství",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Jsou netečné, ale jinak normální plyny s dvouatomovou molekulou jako má např. vodile",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Jsou vždy těžší než vzduch",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1261,
+		"category": 2,
+		"number": 1261,
+		"text": "Zlato se používá v medicíně a stomatologii, protože",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je chemicky velmi stálé",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je špatným vodičem el. proudu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je tvrdé a pružné",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nepodléhá korozi",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1262,
+		"category": 2,
+		"number": 1262,
+		"text": "Arsen",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je téměř netoxický jako prvek, ale toxický ve většině sloučenin, např. oxidu arsenitém",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je zcela toxický jako prvek a ve většině sloučenin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je polokov",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je součástí zdravotně závadného spadu v okolí hutí a tepelných elektráren",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1263,
+		"category": 2,
+		"number": 1263,
+		"text": "Vyberte správné tvrzení. Polokovy",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou vodivé ve stejné míře jako kovy",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou v periodické tabulce umísteny úhlopříčně, mezi kovy a nekovy",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "obvykle tvoří amfoterní oxidy",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zahrnují B, Si, Ge, As, Se a další",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1264,
+		"category": 2,
+		"number": 1264,
+		"text": "Sodík se uchovává pod vrstvou petroleje, protože",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "silně zapáchá",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "reaguje prudce s vodou",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "reaguje prudce s kyslíkem",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se skladuje v křemenném písku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1265,
+		"category": 2,
+		"number": 1265,
+		"text": "Vyberte správnou možnost. Tzv. těžké kovy",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou sloučeniny prvků, které mají vysokou atomovou hmotnost jako je např. olovo",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je skupina složená převážně z přechodných prvků",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je skupina kovů, které jsou všechny toxické",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zahrnují i železo",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 1266,
+		"category": 2,
+		"number": 1266,
+		"text": "Přechodové kovy (také přechodné n. tranzitní)",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou prvky, které nemají zcela zaplněný d-orbital",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou přechodem mezi kovy a nekovy a vedou proud i při nízkých teplotách",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zahrnují Cu, Ag, Au",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nezahrnují žádný radioaktivní prvek",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1267,
+		"category": 2,
+		"number": 1267,
+		"text": "Biodegradace je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "odkládání odpadů v přírodě",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "biologické odbourávání látek",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "proces, ve kterém se často využívá činnosti mikroorganismů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "postup, při kterém je necitlivými zásahy zničena cenná přírodní oblast (např. stavb v chráněné oblasti)",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1268,
+		"category": 2,
+		"number": 1268,
+		"text": "Přírodní hedvábí je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "produkt slinných žláz jednoho druhu pavouků",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "získáváno ze zámotků bource morušového",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "látka bílkovinné povahy",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "polysacharid, podobně jako celulóza",
+				"correct": false
+			}
+		]
+	}
+]

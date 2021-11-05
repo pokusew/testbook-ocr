@@ -1,0 +1,290 @@
+[
+	{
+		"id": 720,
+		"category": 1,
+		"number": 720,
+		"text": "Atom je popsán protonovým (atomovým) číslem, které udává",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pouze počet protonů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "součet protonů a elektronů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "součet protonů a neutronů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "součet protonů, neutronů a elektronů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 721,
+		"category": 1,
+		"number": 721,
+		"text": "Počet protonů v atomu je shodný s počtem",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "neutronů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "elektronů",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "neutronů plus elektronů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "neutronů minus elektronů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 722,
+		"category": 1,
+		"number": 722,
+		"text": "Orbital je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "místo, kde se nachází největší hustota elektronů kovalentní vazby mezi dvěma atomy",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vlnová funkce",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vyjádření popisu chování elektronu v atomu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vyjádření chování každé částice v atomu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 723,
+		"category": 1,
+		"number": 723,
+		"text": "V organické chemii mají největší význam orbitaly (vyznačené tučně)",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pad",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "daf",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "sap",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "paf",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 724,
+		"category": 1,
+		"number": 724,
+		"text": "Elektronová konfigurace základního stavu vodíku je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1s1",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1s2",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "1s+ pro izotop 1H a 1s? pro deuterium",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "1s4 pro izotop ‘H a 1s? pro deuterium a 1s²2p- pro tritium",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 725,
+		"category": 1,
+		"number": 725,
+		"text": "Která z pravidel skutečně popisují uspořádání atomu s nejnižší energií tj. elektronovou konfiguraci v základním stavu atomu",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nejprve se zaplňují orbitaly s nejnižší energií",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nejprve se zaplňují všechny orbitaly s, potom orbitaly pad",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "každý orbital je obsazen maximálně dvěma elektrony, tyto elektrony mají opačný spin",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou-li k dispozici dva orbitaly, které jsou neobsazené a mají stejnou energii, pak je každ z nich obsazován jedním elektronem a oba tyto elektrony mají stejný spin",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 726,
+		"category": 1,
+		"number": 726,
+		"text": "Uhlík má",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "čtyři elektrony a konfigurace jeho základního stavu je 1s? 2s?",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pět elektronů a konfigurace jeho základního stavu je 1s? 2s? 2p1",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "šest elektronů a konfigurace jeho základního stavu je 182 2s²2p2",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "sedm elektronů a konfigurace jeho základního stavu je 1s? 2s²2p3s1",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 727,
+		"category": 1,
+		"number": 727,
+		"text": "Kolik elektronů má ve vnější elektronové slupce draslík?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "žádný",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jeden",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "dva",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "více než 3",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 728,
+		"category": 1,
+		"number": 728,
+		"text": "Kolik elektronů má ve vnější elektronové slupce hořčík?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jeden",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "dva",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "tři",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jako čistý kov nemá žádný",
+				"correct": false
+			}
+		]
+	}
+]

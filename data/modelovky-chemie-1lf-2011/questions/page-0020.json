@@ -1,0 +1,258 @@
+[
+	{
+		"id": 150,
+		"category": 1,
+		"number": 150,
+		"text": "Jaký objem vody je třeba pro přípravu 250 ml roztoku ethanolu, má-li být v výsledném roztoku objemová procentní koncentrace ethanolu 35 %?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "87,5 ml",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "162,5 ml",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "62,5 ml",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "187,5 ml",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 151,
+		"category": 1,
+		"number": 151,
+		"text": "13% roztok (w/w) NaOH obsahuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "13 gramů NaOH v 87 gramech vody",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "13 gramů NaOH v 87 gramech roztoku",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "13 gramů NaOH v 100 gramech vody",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "13 gramů NaOH ve 87 ml vody",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 152,
+		"category": 1,
+		"number": 152,
+		"text": "Kolik gramů 4% roztoku bromidu vápenatého (CaBrz) je třeba, abychom jeh smísením s 20 gramy 30% roztoku získali roztok 20%? Ar(Ca) =40, Ar(Br) = 80",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "10 gramů",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "12,5 gramů",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "16 gramů",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "20 gramů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 153,
+		"category": 1,
+		"number": 153,
+		"text": "Při titraci 10 ml kyseliny sírové bylo spotřebováno 18 ml KOH o koncentrac 0,25 mol/l. Jaká je koncentrace kyseliny sírové?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,225 mol/l",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,450 mol/l",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "0,250 mol/l",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "0,180 mol/l",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 154,
+		"category": 1,
+		"number": 154,
+		"text": "Při titraci 15 ml kyseliny sírové bylo spotřebováno 25 ml hydroxidu barnatéh o koncentraci 0,12 mol/l. Jaká je koncentrace kyseliny sírové?",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "0,4 mol/l",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "0,1 mol/l",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "0,2 mol/l",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "0,3 mol/l",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 155,
+		"category": 1,
+		"number": 155,
+		"text": "Kolik g KOH je třeba na neutralizaci 250 ml H2SO4 o konc. 0,5 mol/l? Ar(K) = 39",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "7g",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "28 g",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "56 g",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "14 g",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 156,
+		"category": 1,
+		"number": 156,
+		"text": "Kolik g NaOH je třeba na neutralizaci 400 ml HCl o konc. 0,75 mol/l? Ar(Na) = 23",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "24 g",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "12 g",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "6g",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "18 g",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 157,
+		"category": 1,
+		"number": 157,
+		"text": "Jaká je látková koncentrace kyanidu sodného, když hmotnostní koncentrace j 35 g/l? Ar(Na) = 23",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "1,457 mol/l",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "1,400 mol/l",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "0,714 mol/l",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "0,686 mol/l",
+				"correct": false
+			}
+		]
+	}
+]

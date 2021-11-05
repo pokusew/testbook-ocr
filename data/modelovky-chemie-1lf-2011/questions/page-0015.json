@@ -1,0 +1,258 @@
+[
+	{
+		"id": 111,
+		"category": 1,
+		"number": 111,
+		"text": "Separační metoda, jež rozděluje kapalné látky na základě rozdílů v bodu varu, s nazývá:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "destilace",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "difuze",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "osmóza",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "extrakce",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 112,
+		"category": 1,
+		"number": 112,
+		"text": "Molekula, jež obsahuje hydrofilní a hydrofobní část:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "neexistuje",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "existuje, avšak je za normálních podmínek velmi nestabilní a ihned se rozpadá",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "existuje pouze v plynném skupenství",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "existuje, jedná se o běžnou molekulu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 113,
+		"category": 1,
+		"number": 113,
+		"text": "Vyberte pravdivé tvrzení pro rozpustnost fosfolipidů ve vodě za laboratorn teploty:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "jsou dokonale rozpustné, tvoří pravé roztoky",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "jsou téměř nerozpustné, protože jejich molekula je kompletně hydrofobní",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "rozpouští se omezeně za tvorby micelárních roztoků",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou dokonale rozpustné, protože jejich molekula je kompletně hydrofilní",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 114,
+		"category": 1,
+		"number": 114,
+		"text": "Pokud při výpočtu pH zanedbáváme aktivitní koeficient, považujeme jej za:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "rovný 1",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "blížící se plus nekonečnu",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "blížící se mínus nekonečnu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "rovný 0",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 115,
+		"category": 1,
+		"number": 115,
+		"text": "Aktivitní koeficient při výpočtu pH lze s přijatelnou mírou nepřesnosti zanedba (považovat za přibližně rovný 1) v případě roztoků:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "velmi zředěných",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "velmi koncentrovaných",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nasycených",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "přesycených",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 116,
+		"category": 1,
+		"number": 116,
+		"text": "Voda byla kontaminována chloridem olovnatým. Snížit koncentraci olovnatýc iontů ve vzniklém roztoku lze:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "přidáním chloridových iontů",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "přidáním kuchyňské soli",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "přidáním síranových iontů",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "vložením olověné desky, na níž se olovnaté ionty vysráží",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 117,
+		"category": 1,
+		"number": 117,
+		"text": "Iontová síla roztoku:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je funkcí koncentrace rozpuštěných látek",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je funkcí náboje rozpuštěných látek",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se užívá při výpočtu aktivitního koeficientu",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je zanedbatelná v případě všech koncentrovaných roztoků",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 118,
+		"category": 1,
+		"number": 118,
+		"text": "Reakční kinetika studuje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "rychlost chemických reakcí",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "možnost průběhu chemických reakcí z energetického hlediska",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "faktory, které ovlivňují rychlost chemické reakce",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "energetický stav výchozích látek a produktů",
+				"correct": false
+			}
+		]
+	}
+]

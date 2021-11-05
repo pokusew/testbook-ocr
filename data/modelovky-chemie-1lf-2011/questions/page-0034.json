@@ -1,0 +1,290 @@
+[
+	{
+		"id": 262,
+		"category": 1,
+		"number": 262,
+		"text": "Vodný roztok fosforečnanu sodného:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "bude mít pH neutrální",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "bude mít pH kyselé",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "bude mít pH zásadité",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "bude mít pH v závislosti na teplotě buď kyselé nebo zásadité",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 263,
+		"category": 1,
+		"number": 263,
+		"text": "Změna Gibbsovy energie je u samovolného děje:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "záporná",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kladná",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "nemění se",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "stejná jako změna entalpie",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 264,
+		"category": 1,
+		"number": 264,
+		"text": "Při endotermické reakci:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "systém teplo uvolňuje",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "systém teplo spotřebovává",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je změna reakčního tepla AH kladná",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "systém uvolňuje teplotu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 265,
+		"category": 1,
+		"number": 265,
+		"text": "Chemická reakce zapsaná touto rovnicí: Cu2+ (aq) + Fe(s) → Fe2+ (aq) + Cu(s)",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je reakce molekulová",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je reakce iontová",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je reakce radikálová",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je reakce oxidačně-redukční",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 266,
+		"category": 1,
+		"number": 266,
+		"text": "Při chemické katalýze:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "dochází k rychlejšímu ustavení rovnovážného stavu",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je rovnovážný stav posunutý výrazně ve prospěch produktů",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se katalyzátor reakce přímo neúčastní",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "katalyzátor zpravidla snižuje aktivační energii reakce",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 267,
+		"category": 1,
+		"number": 267,
+		"text": "Sklo (SiO2) se rozpouští v:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "HCl",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "HF",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "H2SO4",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "HNO3",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 268,
+		"category": 1,
+		"number": 268,
+		"text": "Elektrolyty jsou:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "látky, které se ve vodném roztoku rozštěpují na pohyblivé ionty",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "látky, které se ve vodném prostředí neštěpí na ionty",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "látky, které nevedou elektrický proud",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "látky, které vedou elektrický proud",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 269,
+		"category": 1,
+		"number": 269,
+		"text": "Elektrolytická disociace je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "proces, při kterém se látky štěpí ve vodném roztoku na ionty",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "rozpad látek elektrickým proudem",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "proces, při kterém vznikají elektrolyty",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "rozpad látek působením tepla",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 270,
+		"category": 1,
+		"number": 270,
+		"text": "Chlorid sodný ve vodě:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je elektrolyt",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "je kuchyňská sůl",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "vede elektrický proud",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nevede elektrický proud",
+				"correct": false
+			}
+		]
+	}
+]

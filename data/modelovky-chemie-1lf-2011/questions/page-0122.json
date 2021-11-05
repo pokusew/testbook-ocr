@@ -1,0 +1,194 @@
+[
+	{
+		"id": 1007,
+		"category": 2,
+		"number": 1007,
+		"text": "Molekula uvedená na obrázk má triviální název",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pyran",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "furen",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "furan",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pyre má triviální název",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1008,
+		"category": 2,
+		"number": 1008,
+		"text": "Molekula uvedená na obrázku",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "thiofan",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "thiofen",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "thiofuran",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "thiofure N I má triviální název",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1009,
+		"category": 2,
+		"number": 1009,
+		"text": "Molekula uvedená na obrázku",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "pyrimidin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pyridin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pyrrol",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "imidazo má triviální název",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1010,
+		"category": 2,
+		"number": 1010,
+		"text": "Molekula uvedená na obrázku",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "chinolin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "purin",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "indol",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "imidazo má triviální název",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1011,
+		"category": 2,
+		"number": 1011,
+		"text": "Molekula uvedená na obrázku",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "chinolin",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "purin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "indol",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "imidazo má triviální název",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 1012,
+		"category": 2,
+		"number": 1012,
+		"text": "Molekula uvedená na obrázku",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "chinolin",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "purin",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "indol",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "imidazol",
+				"correct": false
+			}
+		]
+	}
+]

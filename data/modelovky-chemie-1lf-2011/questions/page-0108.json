@@ -1,0 +1,290 @@
+[
+	{
+		"id": 886,
+		"category": 2,
+		"number": 886,
+		"text": "Proenzym je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "druh koenzymu",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "neaktivní forma enzymu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "aktivátor enzymů, který svým působením převádí neaktivní formu na funční",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jeden z inhibitorů enzymů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 887,
+		"category": 2,
+		"number": 887,
+		"text": "Beta-oxidace je proces, jehož konečným/i produktem/produkty je/jsou",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "acetylkoenzym A",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "oxid uhličitý a voda",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "glukóza",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "triacylglycerol",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 888,
+		"category": 2,
+		"number": 888,
+		"text": "Štěpení tuků je reakce",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "proteolytická",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "hydrolytická",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "hygroskopická",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "kterou katalyzují lipázy",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 889,
+		"category": 2,
+		"number": 889,
+		"text": "V citrátovém cyklu se",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zpracovává kyselina citronová, která vznikla jako produkt štěpení tuků",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "se zpracovává acetylkoenzym A",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "se nevyskytují redox reakce",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "se vyskytují redox reakce",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 890,
+		"category": 2,
+		"number": 890,
+		"text": "Metabolizmem se nazývá",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "soubor všech reakcí živých i neživých systémů, které jsou součástí přírody",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pouze komplex citrátového cyklu, glykolýzy a beta-oxidace u člověka",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "soubor všech enzymových reakcí, ve kterých dojde k přeměně látek a energie v buňkách v živých organismech",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pouze soubor vybraných základních reakcí pro daný živočišný druh",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 891,
+		"category": 2,
+		"number": 891,
+		"text": "Anabolický pochod znamená",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "proces vyrábějící pouze energii",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "pochod vytvářející nové látky v organismu",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "pochod, který spotřebovává energii",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "proces, který odbourává zásobní látky organismu",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 892,
+		"category": 2,
+		"number": 892,
+		"text": "Katabolický děj je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "děj, ve kterém se uvolňuje energie",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "například dýchací řetězec",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "například syntéza bílkovin",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "pochod, ve kterém se spotřebovává energie",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 893,
+		"category": 2,
+		"number": 893,
+		"text": "Cholesterol je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "škodlivý, tělo jej nijak nevyužívá, jenom se hromadí v cévách",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "prekurzor hormonů",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "součást buněčných membrán",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "látka, která se vyskytuje v živočišném a v menší části i rostlinném tuku/oleji",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 894,
+		"category": 2,
+		"number": 894,
+		"text": "Testosteron, mužský pohlavní hormon je",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "peptid",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "bílkovina",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "steroid",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "asteroid",
+				"correct": false
+			}
+		]
+	}
+]

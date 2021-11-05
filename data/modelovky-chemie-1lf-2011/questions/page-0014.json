@@ -1,0 +1,258 @@
+[
+	{
+		"id": 103,
+		"category": 1,
+		"number": 103,
+		"text": "Pro vyjádření množství plynu se uvádí tzv. „normální podmínky“. Rozumí se tím:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "objem plynu za laboratorní teploty a tlaku v laboratoři",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "objem plynu za teploty 0°C a tlaku 101325 Pa",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "objem plynu za teploty 293,15 K a tlaku 1 MPa",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "objem plynu za teploty 273,15 K a tlaku 1013,25 hPa",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 104,
+		"category": 1,
+		"number": 104,
+		"text": "Elektroda, na níž probíhá redukce je:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vždy katoda",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vždy anoda",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "v případě galvanického článku anoda, v případě elektrolytického katoda",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "nelze rozhodnout pro nedostatek dalších údajů",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 105,
+		"category": 1,
+		"number": 105,
+		"text": "Mezi ušlechtilé (volné) formy energie patří:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "elektrický proud",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "chemická energie",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "teplo",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "ani jedna z uvedených možností",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 106,
+		"category": 1,
+		"number": 106,
+		"text": "Kostka ledu (vytvořená z vody), umístěná za normálního tlaku a při teplotě -5° na vzduchu svůj objem v čase:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "nemění",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "zvětšuje",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "zmenšuje v důsledku částečné přeměny na kapalnou vodu",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "zmenšuje v důsledku sublimace",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 107,
+		"category": 1,
+		"number": 107,
+		"text": "Kapalná voda za normálního tlaku (při zanedbání ztrát v důsledku odpařování):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "zachovává konstantní objem v celém teplotním rozsahu (0-100 °C)",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "má nejvyšší hustotu při teplotě 99,9°C",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "má nejvyšší hustotu při teplotě 3,99°C",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "má nejvyšší hustotu při teplotě 2,99 °C",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 108,
+		"category": 1,
+		"number": 108,
+		"text": "V termodynamické soustavě v rovnováze platí, že:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "počet skupenství je vždy totožný s počtem fází",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "počet skupenství je vždy vyšší než počet fází",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "počet skupenství je vždy nižší než počet fází",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "počet skupenství je vždy nižší nebo stejný než počet fází",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 109,
+		"category": 1,
+		"number": 109,
+		"text": "Seřad'te prvky podle jejich vzrůstající hustoty (za normálních podmínek):",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "Fe, Ag, Pb, Hg, Au",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "Ag, Au, Fe, Hg, Pb",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Ag, Fe, Au, Hg, Pb",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Fe, Ag, Pb, Au, Hg",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 110,
+		"category": 1,
+		"number": 110,
+		"text": "Metoda, jež užívá k přechodu látek mezi dvěma fázemi vzájemně různ rozpustnosti v nich, se nazývá:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "extrakce",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vyluhování",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "difuze",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "destilace",
+				"correct": false
+			}
+		]
+	}
+]

@@ -1,0 +1,290 @@
+[
+	{
+		"id": 332,
+		"category": 1,
+		"number": 332,
+		"text": "O oxidech dusíku platí:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vyskytují se ve všech známých oxidačních stavech",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "popsaný je pouze oxid dusný, dusitý a dusičný",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "oxid dusný lze použít jako anestetikum",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "oxid dusnatý je tzv. rajský plyn",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 333,
+		"category": 1,
+		"number": 333,
+		"text": "Kyselina sírová:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "le silná jednosytná kyselina",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "nasycená oxidem sírovým se nazývá oleum",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "koncentrovaná má oxidační účinky",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "je součástí směsi, které se říká lučavka královská",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 334,
+		"category": 1,
+		"number": 334,
+		"text": "Oxid uhelnatý:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "má vzorec CO2",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "vzniká spalováním uhlíku v nadbytku kyslíku",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "je prudce toxický",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "Jeho navázáním na hemoglobin vzniká karbonylhemoglobin",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 335,
+		"category": 1,
+		"number": 335,
+		"text": "Rtuť:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "je nekov",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "využívá se při polarografii",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "všechny její sloučeniny jsou netoxické",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "chlorid rtuťnatý známe pod triviálním názvem sublimát",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 336,
+		"category": 1,
+		"number": 336,
+		"text": "Vyberte správné kombinace vzorec - název:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "KCI - chlorid draselný",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "CaSO4. 42 H20 - hemihydrogen síranu vápenatého",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "KH2PO4 - dihydrogenfosforečnan draselný",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "H2S207 - kyselina dichromová",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 337,
+		"category": 1,
+		"number": 337,
+		"text": "Vyberte nesprávné kombinace vzorec - název:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "K3[Fe(CN)6] - hexakyanoželezitan draselný",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "K4[Fe(CN)6] - hexakyanoželezičitan draselný",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "Na2S2O3 - disíran sodný",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "LiH - hydrid lithný",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 338,
+		"category": 1,
+		"number": 338,
+		"text": "Vyberte pravdivá tvrzení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "vápenaté ionty se nacházejí rozpuštěné v plasmě",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "kyslík je typické redukční činidlo",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "voda je nepolární rozpouštědlo",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "hořečnatý kation je centrální atom tetrapyrrolu v molekule kobalaminu (vitamín B12)",
+				"correct": false
+			}
+		]
+	},
+	{
+		"id": 339,
+		"category": 1,
+		"number": 339,
+		"text": "Vyberte nepravdivá tvrzení:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "měď není biogenní prvek",
+				"correct": true
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "alkalické kovy charakteristickým způsobem barví plamen",
+				"correct": false
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "ledky se využívají jako hnojiva",
+				"correct": false
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "skalice modrá obsahuje zinečnatý kation",
+				"correct": true
+			}
+		]
+	},
+	{
+		"id": 340,
+		"category": 1,
+		"number": 340,
+		"text": "Peroxidy:",
+		"choices": [
+			{
+				"id": 1,
+				"name": "a",
+				"text": "obsahují pouze jeden atom kyslíku",
+				"correct": false
+			},
+			{
+				"id": 2,
+				"name": "b",
+				"text": "formální oxidační číslo kyslíku je -I",
+				"correct": true
+			},
+			{
+				"id": 3,
+				"name": "c",
+				"text": "peroxo- skupina je skupina (02)2-",
+				"correct": true
+			},
+			{
+				"id": 4,
+				"name": "d",
+				"text": "jsou popsány pouze pro prvky I.A skupiny",
+				"correct": false
+			}
+		]
+	}
+]
