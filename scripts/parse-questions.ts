@@ -37,7 +37,24 @@ interface QuestionPartial {
 
 const ENDS_WITH_WORD_BREAK = /[\S]-$/u;
 const CATEGORY_HEADING_PATTERN = /^[\p{Lu} -]{5,}$/u;
-const QUESTION_START_PATTERN = /^([0-9]+)\.( |$)/;
+const QUESTION_START_PATTERN_DOT = /^([0-9]+)\.( |$)/;
+const QUESTION_START_PATTERN_RP = /^([0-9]+)\)( |$)/;
+const getQuestionStartPattern = (separator) => {
+
+	if (separator === '.') {
+		return QUESTION_START_PATTERN_DOT;
+	}
+
+	if (separator === ')') {
+		return QUESTION_START_PATTERN_RP;
+	}
+
+	// this would be very insecure
+	// return new RegExp(`^([0-9]+)\\${separator}( |$)`);
+
+	throw new Error(`Unsupported question number separator '${separator}'. Supported values are: '.', ')'`);
+
+};
 // note: sometimes the trailing ')' might be missing due to the OCR errors
 //       e.g. we allow 'D some choice' instead of correct 'D) some choice'
 const CHOICE_START_PATTERN = /^([ABCDabcd])(\))? /;
@@ -96,6 +113,10 @@ class ParseError extends Error {
 
 }
 
+interface QuestionsParserOptions {
+	questionNumberSeparator?: string;
+}
+
 class QuestionsParser {
 
 	private categoryId: number = 0;
@@ -108,13 +129,15 @@ class QuestionsParser {
 	private categories: CategoryPartial[] = [];
 	private questions: QuestionPartial[] = [];
 
+	private readonly questionStartPattern: RegExp;
 	private readonly numChoicesPerQuestion: number = 4;
 	private readonly allowedChoicesNames: Set<string>;
 	private readonly ensureChoicesCorrectOrder: boolean;
 	private readonly nextChoiceName: (name: string | undefined) => string | undefined;
 
-	constructor() {
+	constructor({ questionNumberSeparator }: QuestionsParserOptions = {}) {
 
+		this.questionStartPattern = getQuestionStartPattern(questionNumberSeparator ?? '.');
 		this.numChoicesPerQuestion = 4;
 		this.allowedChoicesNames = new Set<string>(['a', 'b', 'c', 'd']);
 		this.ensureChoicesCorrectOrder = true;
@@ -294,7 +317,7 @@ class QuestionsParser {
 		// 	return false;
 		// }
 
-		const match = QUESTION_START_PATTERN.exec(line);
+		const match = this.questionStartPattern.exec(line);
 
 		if (!isDefined(match)) {
 			return false;
@@ -382,10 +405,11 @@ class QuestionsParser {
 
 const toPrettyJSON = (obj: any) => JSON.stringify(obj, undefined, '\t');
 
-const run = async (pagesDir: string, questionsDir: string) => {
+const run = async (pagesDir: string, questionsDir: string, questionNumberSeparator: string = '.') => {
 
 	console.log(`pagesDir = ${pagesDir}`);
 	console.log(`questionsDir = ${questionsDir}`);
+	console.log(`questionNumberSeparator = ${questionNumberSeparator}`);
 
 	const questionsFileNameBase = path.join(questionsDir, 'page-');
 
@@ -399,7 +423,9 @@ const run = async (pagesDir: string, questionsDir: string) => {
 	// sort names (A-Z) (in place)
 	pageFiles.sort();
 
-	const parser = new QuestionsParser();
+	const parser = new QuestionsParser({
+		questionNumberSeparator: questionNumberSeparator,
+	});
 
 	// ensure output dir exists or create it (including any parent dirs if needed)
 	await fs.mkdir(questionsDir, { recursive: true });
@@ -458,11 +484,11 @@ const run = async (pagesDir: string, questionsDir: string) => {
 // process.argv[0] - path to node (Node.js interpreter)
 // process.argv[1] - path to script
 if (!isDefined(process.argv[2]) || !isDefined(process.argv[3])) {
-	console.error('usage: {pagesDir} {questionsDir}');
+	console.error('usage: {pagesDir} {questionsDir} [question number separator - defaults to . (dot)]');
 	process.exit(1);
 }
 
-run(process.argv[2], process.argv[3])
+run(process.argv[2], process.argv[3], process.argv[4])
 	.then(() => {
 		console.log('script finished');
 		process.exit(0);
