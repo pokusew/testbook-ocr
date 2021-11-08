@@ -1,7 +1,7 @@
 [
 	{
 		"id": 1096,
-		"category": 2,
+		"category": 1,
 		"number": 1096,
 		"text": "Redoxními reakcemi se nazývají reakce",
 		"choices": [
@@ -33,7 +33,7 @@
 	},
 	{
 		"id": 1097,
-		"category": 2,
+		"category": 1,
 		"number": 1097,
 		"text": "Oxidace je reakce, při níž",
 		"choices": [
@@ -65,7 +65,7 @@
 	},
 	{
 		"id": 1098,
-		"category": 2,
+		"category": 1,
 		"number": 1098,
 		"text": "Redukce je reakce, při níž",
 		"choices": [
@@ -97,7 +97,7 @@
 	},
 	{
 		"id": 1099,
-		"category": 2,
+		"category": 1,
 		"number": 1099,
 		"text": "Oxidační činidlo je látka, která",
 		"choices": [
@@ -129,7 +129,7 @@
 	},
 	{
 		"id": 1100,
-		"category": 2,
+		"category": 1,
 		"number": 1100,
 		"text": "Redukční činidlo je látka, která",
 		"choices": [
@@ -161,7 +161,7 @@
 	},
 	{
 		"id": 1101,
-		"category": 2,
+		"category": 1,
 		"number": 1101,
 		"text": "Který/které z uvedených vztahů je/jsou správné pro dva různé plyny A a B Podmínky: stálá teplota i tlak, m je hmotnost, M je relativní molekulov hmotnost, p je hustota a c je koncentrace",
 		"choices": [
@@ -193,7 +193,7 @@
 	},
 	{
 		"id": 1102,
-		"category": 2,
+		"category": 1,
 		"number": 1102,
 		"text": "Katalyzátor je látka, která",
 		"choices": [
@@ -225,7 +225,7 @@
 	},
 	{
 		"id": 1103,
-		"category": 2,
+		"category": 1,
 		"number": 1103,
 		"text": "Látka, které říkáme hydrofilní se",
 		"choices": [
@@ -257,7 +257,7 @@
 	},
 	{
 		"id": 1104,
-		"category": 2,
+		"category": 1,
 		"number": 1104,
 		"text": "Adiabatický děj znamená, že",
 		"choices": [

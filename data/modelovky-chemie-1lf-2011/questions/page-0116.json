@@ -1,7 +1,7 @@
 [
 	{
 		"id": 958,
-		"category": 2,
+		"category": 1,
 		"number": 958,
 		"text": "Mezi lipidy nepatří",
 		"choices": [
@@ -33,7 +33,7 @@
 	},
 	{
 		"id": 959,
-		"category": 2,
+		"category": 1,
 		"number": 959,
 		"text": "Fosforylace",
 		"choices": [
@@ -65,7 +65,7 @@
 	},
 	{
 		"id": 960,
-		"category": 2,
+		"category": 1,
 		"number": 960,
 		"text": "Pojem hydrolýza",
 		"choices": [
@@ -97,7 +97,7 @@
 	},
 	{
 		"id": 961,
-		"category": 2,
+		"category": 1,
 		"number": 961,
 		"text": "Katabolický děj je",
 		"choices": [
@@ -129,7 +129,7 @@
 	},
 	{
 		"id": 962,
-		"category": 2,
+		"category": 1,
 		"number": 962,
 		"text": "Vyznačte, které ionty nebo prvky byly oxidován 2Ag(s) + Cu2+(aq) + S0% (aq) + 2Ag2+(aq) + Cu(s) + SO42-(aq)",
 		"choices": [
@@ -161,7 +161,7 @@
 	},
 	{
 		"id": 963,
-		"category": 2,
+		"category": 1,
 		"number": 963,
 		"text": "Jaký je produkt/jaké jsou produkty následující reakce NaCl(aq) + H2SO4(aq) →",
 		"choices": [
@@ -193,7 +193,7 @@
 	},
 	{
 		"id": 964,
-		"category": 2,
+		"category": 1,
 		"number": 964,
 		"text": "Jaké jsou produkty následující reakce NaHCO3(aq) + HCl(aq) →",
 		"choices": [
@@ -225,7 +225,7 @@
 	},
 	{
 		"id": 965,
-		"category": 2,
+		"category": 1,
 		"number": 965,
 		"text": "Látky, které jsou silné elektrolyty mají následující vlastnost/i",
 		"choices": [

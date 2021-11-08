@@ -1,7 +1,7 @@
 [
 	{
 		"id": 1130,
-		"category": 2,
+		"category": 1,
 		"number": 1130,
 		"text": "Který z následujících 0,1 M roztoků bude reagovat zásaditě? Ve vodném roztok zbarví fenolftalein do růžova až fialova",
 		"choices": [
@@ -33,7 +33,7 @@
 	},
 	{
 		"id": 1131,
-		"category": 2,
+		"category": 1,
 		"number": 1131,
 		"text": "Reakce H+ + OH = H20 je reakcí",
 		"choices": [
@@ -65,7 +65,7 @@
 	},
 	{
 		"id": 1132,
-		"category": 2,
+		"category": 1,
 		"number": 1132,
 		"text": "Kyselina chlorovodíková byla přesně neutralizována hydroxidem sodným. V vzniklé reakční směsi bude koncentrace hydroxoniového kationtu",
 		"choices": [
@@ -97,7 +97,7 @@
 	},
 	{
 		"id": 1133,
-		"category": 2,
+		"category": 1,
 		"number": 1133,
 		"text": "Když ve vodném roztoku vzroste koncentrace vodíkových iontů, jak se bude měni koncentrace hydroxylových aniontů?",
 		"choices": [
@@ -129,7 +129,7 @@
 	},
 	{
 		"id": 1134,
-		"category": 2,
+		"category": 1,
 		"number": 1134,
 		"text": "Student má připravit 100 ml vodného roztoku HCl o cílové koncentraci 6 mol/l. M k dispozici roztok HCl o koncentraci 12 mol/l a vodu. Jaký/jaké postup/y jso správné (i z hlediska bezpečnosti práce)? Předpokládejte, že aktivitní koeficien je roven jedné.",
 		"choices": [
@@ -161,7 +161,7 @@
 	},
 	{
 		"id": 1135,
-		"category": 2,
+		"category": 1,
 		"number": 1135,
 		"text": "Co je to pufr?",
 		"choices": [
@@ -193,7 +193,7 @@
 	},
 	{
 		"id": 1136,
-		"category": 2,
+		"category": 1,
 		"number": 1136,
 		"text": "Mezi směsi, které mají pufrační schopnost nepatří",
 		"choices": [
@@ -225,7 +225,7 @@
 	},
 	{
 		"id": 1137,
-		"category": 2,
+		"category": 1,
 		"number": 1137,
 		"text": "Hydrofobní v chemii znamená",
 		"choices": [

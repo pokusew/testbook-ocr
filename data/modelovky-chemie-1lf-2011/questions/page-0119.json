@@ -1,7 +1,7 @@
 [
 	{
 		"id": 983,
-		"category": 2,
+		"category": 1,
 		"number": 983,
 		"text": "Vyberte správný/é název/názvy pro sloučeninu se vzorcem 2 Cu(OH)2 · Cr(OH)3",
 		"choices": [
@@ -33,7 +33,7 @@
 	},
 	{
 		"id": 984,
-		"category": 2,
+		"category": 1,
 		"number": 984,
 		"text": "Vyberte správný/é název/názvy pro vodný roztok H2S",
 		"choices": [
@@ -65,7 +65,7 @@
 	},
 	{
 		"id": 985,
-		"category": 2,
+		"category": 1,
 		"number": 985,
 		"text": "Vyberte správný/é název/názvy pro sloučeninu se vzorcem H3106",
 		"choices": [
@@ -97,7 +97,7 @@
 	},
 	{
 		"id": 986,
-		"category": 2,
+		"category": 1,
 		"number": 986,
 		"text": "Vyberte správný/é název/názvy pro sloučeninu se vzorcem HOCN",
 		"choices": [
@@ -129,7 +129,7 @@
 	},
 	{
 		"id": 987,
-		"category": 2,
+		"category": 1,
 		"number": 987,
 		"text": "Vyberte správný/é název/názvy pro sloučeninu se vzorcem H2Cr20,",
 		"choices": [
@@ -161,7 +161,7 @@
 	},
 	{
 		"id": 988,
-		"category": 2,
+		"category": 1,
 		"number": 988,
 		"text": "Vyberte správný/é název/názvy pro sloučeninu se vzorcem NOCI",
 		"choices": [
@@ -193,7 +193,7 @@
 	},
 	{
 		"id": 989,
-		"category": 2,
+		"category": 1,
 		"number": 989,
 		"text": "Vyberte správný/é výrok/y",
 		"choices": [
@@ -225,7 +225,7 @@
 	},
 	{
 		"id": 990,
-		"category": 2,
+		"category": 1,
 		"number": 990,
 		"text": "Správný zápis iontové rovnice popisující vznik síranu sodného z kyseliny sírové hydroxidu sodného je",
 		"choices": [

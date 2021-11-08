@@ -26,7 +26,7 @@
 			{
 				"id": 4,
 				"name": "d",
-				"text": "2,3-dihydroxypropano -О -ОНje",
+				"text": "2,3-dihydroxypropanon",
 				"correct": false
 			}
 		]
@@ -58,7 +58,7 @@
 			{
 				"id": 4,
 				"name": "d",
-				"text": "D-erythróz O H -О НО - -О OH je",
+				"text": "D-erythróza",
 				"correct": true
 			}
 		]
@@ -90,7 +90,7 @@
 			{
 				"id": 4,
 				"name": "d",
-				"text": "allóz O B Hje",
+				"text": "allóza",
 				"correct": false
 			}
 		]
@@ -110,7 +110,7 @@
 			{
 				"id": 2,
 				"name": "b",
-				"text": "brometha H H",
+				"text": "bromethan",
 				"correct": false
 			},
 			{
@@ -122,7 +122,7 @@
 			{
 				"id": 4,
 				"name": "d",
-				"text": "jiný název než uvedené variant je",
+				"text": "jiný název než uvedené varianty",
 				"correct": true
 			}
 		]

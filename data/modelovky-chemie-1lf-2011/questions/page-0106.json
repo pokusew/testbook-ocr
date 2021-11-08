@@ -1,7 +1,7 @@
 [
 	{
 		"id": 868,
-		"category": 2,
+		"category": 1,
 		"number": 868,
 		"text": "Co je triacylglycerol?",
 		"choices": [
@@ -33,7 +33,7 @@
 	},
 	{
 		"id": 869,
-		"category": 2,
+		"category": 1,
 		"number": 869,
 		"text": "Z jakých prvků jsou složeny triacylglyceroly, součásti přírodních tuků?",
 		"choices": [
@@ -65,7 +65,7 @@
 	},
 	{
 		"id": 870,
-		"category": 2,
+		"category": 1,
 		"number": 870,
 		"text": "Lidské vlasy, nehty, zvířecí drápy a pavučiny obsahují jeden stejný protein. Je to",
 		"choices": [
@@ -97,7 +97,7 @@
 	},
 	{
 		"id": 871,
-		"category": 2,
+		"category": 1,
 		"number": 871,
 		"text": "Histon je",
 		"choices": [
@@ -129,7 +129,7 @@
 	},
 	{
 		"id": 872,
-		"category": 2,
+		"category": 1,
 		"number": 872,
 		"text": "Synonymum pro protilátky je",
 		"choices": [
@@ -161,7 +161,7 @@
 	},
 	{
 		"id": 873,
-		"category": 2,
+		"category": 1,
 		"number": 873,
 		"text": "Chitin je",
 		"choices": [
@@ -193,7 +193,7 @@
 	},
 	{
 		"id": 874,
-		"category": 2,
+		"category": 1,
 		"number": 874,
 		"text": "Reakční rychlost",
 		"choices": [
@@ -225,7 +225,7 @@
 	},
 	{
 		"id": 875,
-		"category": 2,
+		"category": 1,
 		"number": 875,
 		"text": "Enzymy",
 		"choices": [
@@ -257,7 +257,7 @@
 	},
 	{
 		"id": 876,
-		"category": 2,
+		"category": 1,
 		"number": 876,
 		"text": "Konečným/i produktem/produkty ethanolového kvašení je",
 		"choices": [

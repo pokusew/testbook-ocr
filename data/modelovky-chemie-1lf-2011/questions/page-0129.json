@@ -1,7 +1,7 @@
 [
 	{
 		"id": 1059,
-		"category": 2,
+		"category": 1,
 		"number": 1059,
 		"text": "Pevnost chemické vazby se hodnotí podle",
 		"choices": [
@@ -33,7 +33,7 @@
 	},
 	{
 		"id": 1060,
-		"category": 2,
+		"category": 1,
 		"number": 1060,
 		"text": "O kovalentní vazbě platí",
 		"choices": [
@@ -65,7 +65,7 @@
 	},
 	{
 		"id": 1061,
-		"category": 2,
+		"category": 1,
 		"number": 1061,
 		"text": "Kovalentní vazba nemůže vzniknout tímto postupem",
 		"choices": [
@@ -97,7 +97,7 @@
 	},
 	{
 		"id": 1062,
-		"category": 2,
+		"category": 1,
 		"number": 1062,
 		"text": "Které z následujících výroků o kovalentní vazbě o jsou pravdivé",
 		"choices": [
@@ -129,7 +129,7 @@
 	},
 	{
 		"id": 1063,
-		"category": 2,
+		"category": 1,
 		"number": 1063,
 		"text": "Jednoduchá kovalentní vazba je",
 		"choices": [
@@ -161,7 +161,7 @@
 	},
 	{
 		"id": 1064,
-		"category": 2,
+		"category": 1,
 		"number": 1064,
 		"text": "Vazby C-H v metanu jsou tvořeny",
 		"choices": [

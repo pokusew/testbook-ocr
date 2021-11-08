@@ -1,7 +1,7 @@
 [
 	{
 		"id": 1161,
-		"category": 2,
+		"category": 1,
 		"number": 1161,
 		"text": "Jakou číselnou hodnotu má molární koncentrace 5 litrů roztoku, který obsahuje 1 molů KBr?",
 		"choices": [
@@ -33,7 +33,7 @@
 	},
 	{
 		"id": 1162,
-		"category": 2,
+		"category": 1,
 		"number": 1162,
 		"text": "Jakou číselnou hodnotu má molární koncentrace 6 litrů roztoku, který obsahuj 3 moly KBr?",
 		"choices": [
@@ -65,7 +65,7 @@
 	},
 	{
 		"id": 1163,
-		"category": 2,
+		"category": 1,
 		"number": 1163,
 		"text": "Jakou číselnou hodnotu má molární koncentrace 3 litrů roztoku, který obsahuj 9 molů KBr?",
 		"choices": [
@@ -97,7 +97,7 @@
 	},
 	{
 		"id": 1164,
-		"category": 2,
+		"category": 1,
 		"number": 1164,
 		"text": "Jaký bude objem roztoku o koncentraci 2,00 mol/l, k jehož přípravě bylo použit 6,00 molů NaCl?",
 		"choices": [
@@ -129,7 +129,7 @@
 	},
 	{
 		"id": 1165,
-		"category": 2,
+		"category": 1,
 		"number": 1165,
 		"text": "Jaký bude objem roztoku o koncentraci 10,00 mol/l, k jehož přípravě bylo použit 5,00 molů NaCl?",
 		"choices": [
@@ -161,7 +161,7 @@
 	},
 	{
 		"id": 1166,
-		"category": 2,
+		"category": 1,
 		"number": 1166,
 		"text": "Jaký bude objem roztoku o koncentraci 5,00 mol/l, k jehož přípravě bylo použit 10,00 molů NaCl?",
 		"choices": [

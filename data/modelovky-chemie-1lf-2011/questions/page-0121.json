@@ -1,7 +1,7 @@
 [
 	{
 		"id": 999,
-		"category": 2,
+		"category": 1,
 		"number": 999,
 		"text": "Vyberte správná tvrzení. V komplexním aniontu [Fe(CN)6]3-",
 		"choices": [
@@ -33,7 +33,7 @@
 	},
 	{
 		"id": 1000,
-		"category": 2,
+		"category": 1,
 		"number": 1000,
 		"text": "Koordinační sloučenina s větším počtem centrálních atomů či iontů se nazývá",
 		"choices": [
@@ -65,7 +65,7 @@
 	},
 	{
 		"id": 1001,
-		"category": 2,
+		"category": 1,
 		"number": 1001,
 		"text": "V názvu koordinační sloučeniny se",
 		"choices": [
@@ -97,7 +97,7 @@
 	},
 	{
 		"id": 1002,
-		"category": 2,
+		"category": 1,
 		"number": 1002,
 		"text": "V koordinační sloučenině",
 		"choices": [
@@ -129,7 +129,7 @@
 	},
 	{
 		"id": 1003,
-		"category": 2,
+		"category": 1,
 		"number": 1003,
 		"text": "Molekula uvedená na obrázk má triviální název",
 		"choices": [
@@ -161,7 +161,7 @@
 	},
 	{
 		"id": 1004,
-		"category": 2,
+		"category": 1,
 		"number": 1004,
 		"text": "Molekula uvedená na obrázku",
 		"choices": [
@@ -193,7 +193,7 @@
 	},
 	{
 		"id": 1005,
-		"category": 2,
+		"category": 1,
 		"number": 1005,
 		"text": "Molekula uvedená na obrázku",
 		"choices": [
@@ -225,7 +225,7 @@
 	},
 	{
 		"id": 1006,
-		"category": 2,
+		"category": 1,
 		"number": 1006,
 		"text": "Molekula uvedená na obrázku",
 		"choices": [

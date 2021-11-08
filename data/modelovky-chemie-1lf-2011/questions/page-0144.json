@@ -1,7 +1,7 @@
 [
 	{
 		"id": 1174,
-		"category": 2,
+		"category": 1,
 		"number": 1174,
 		"text": "Vyberte správnou/é možnost/i. Kolik gramů koncentrované kyseliny sírov (96% roztok H2S04) je potřeba k přípravě 500 g 10% roztoku H2SO4 (koncentrac je v hmotnostních procentech)?",
 		"choices": [
@@ -33,7 +33,7 @@
 	},
 	{
 		"id": 1175,
-		"category": 2,
+		"category": 1,
 		"number": 1175,
 		"text": "Vyberte správnou/é možnost/i. Kolik gramů vody je potřeba k přípravě 500 10% roztoku H2SO4 z vody a 96% kyseliny sírové (koncentrace je v hmotnostníc procentech)?",
 		"choices": [
@@ -65,7 +65,7 @@
 	},
 	{
 		"id": 1176,
-		"category": 2,
+		"category": 1,
 		"number": 1176,
 		"text": "Vyberte správnou/é odpověd°/i. Jaký je objem roztoku NaOH o molárn koncentraci 1 mol/l, který potřebujete k přípravě 100 ml roztoku NaO o výsledné koncentraci 0,5 mol/l?",
 		"choices": [
@@ -97,7 +97,7 @@
 	},
 	{
 		"id": 1177,
-		"category": 2,
+		"category": 1,
 		"number": 1177,
 		"text": "Jaký je objem 1 molu kyslíku při desetinásobku normálního atmosferického tlak (p=101 325 Pa) při 20 °C?",
 		"choices": [
@@ -129,7 +129,7 @@
 	},
 	{
 		"id": 1178,
-		"category": 2,
+		"category": 1,
 		"number": 1178,
 		"text": "Jaký objem zaujme vodík, který byl připraven reakcí 30 g zinku s kyselino chlorovodíkovou? Teplota byla 20 °C, tlak 101 325 Pa, relativní atomová hmotnos zinku je 65,38 g/mol.",
 		"choices": [
@@ -161,7 +161,7 @@
 	},
 	{
 		"id": 1179,
-		"category": 2,
+		"category": 1,
 		"number": 1179,
 		"text": "Kolik gramů chloridu zinečnatého vznikne z reakce 1g zinku s kyselino chlorovodíkovou, jestliže výtěžek reakce je 100 %? Relativní atomová hmotnos zinku je 65,38 g/mol, rel. molekulová hm. chloridu zinečnatého je 136,28 g/mol.",
 		"choices": [

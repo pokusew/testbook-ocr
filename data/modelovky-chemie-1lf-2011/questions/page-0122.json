@@ -1,7 +1,7 @@
 [
 	{
 		"id": 1007,
-		"category": 2,
+		"category": 1,
 		"number": 1007,
 		"text": "Molekula uvedená na obrázk má triviální název",
 		"choices": [
@@ -33,7 +33,7 @@
 	},
 	{
 		"id": 1008,
-		"category": 2,
+		"category": 1,
 		"number": 1008,
 		"text": "Molekula uvedená na obrázku",
 		"choices": [
@@ -65,7 +65,7 @@
 	},
 	{
 		"id": 1009,
-		"category": 2,
+		"category": 1,
 		"number": 1009,
 		"text": "Molekula uvedená na obrázku",
 		"choices": [
@@ -97,7 +97,7 @@
 	},
 	{
 		"id": 1010,
-		"category": 2,
+		"category": 1,
 		"number": 1010,
 		"text": "Molekula uvedená na obrázku",
 		"choices": [
@@ -129,7 +129,7 @@
 	},
 	{
 		"id": 1011,
-		"category": 2,
+		"category": 1,
 		"number": 1011,
 		"text": "Molekula uvedená na obrázku",
 		"choices": [
@@ -161,7 +161,7 @@
 	},
 	{
 		"id": 1012,
-		"category": 2,
+		"category": 1,
 		"number": 1012,
 		"text": "Molekula uvedená na obrázku",
 		"choices": [

@@ -1,7 +1,7 @@
 [
 	{
 		"id": 886,
-		"category": 2,
+		"category": 1,
 		"number": 886,
 		"text": "Proenzym je",
 		"choices": [
@@ -33,7 +33,7 @@
 	},
 	{
 		"id": 887,
-		"category": 2,
+		"category": 1,
 		"number": 887,
 		"text": "Beta-oxidace je proces, jehož konečným/i produktem/produkty je/jsou",
 		"choices": [
@@ -65,7 +65,7 @@
 	},
 	{
 		"id": 888,
-		"category": 2,
+		"category": 1,
 		"number": 888,
 		"text": "Štěpení tuků je reakce",
 		"choices": [
@@ -97,7 +97,7 @@
 	},
 	{
 		"id": 889,
-		"category": 2,
+		"category": 1,
 		"number": 889,
 		"text": "V citrátovém cyklu se",
 		"choices": [
@@ -129,7 +129,7 @@
 	},
 	{
 		"id": 890,
-		"category": 2,
+		"category": 1,
 		"number": 890,
 		"text": "Metabolizmem se nazývá",
 		"choices": [
@@ -161,7 +161,7 @@
 	},
 	{
 		"id": 891,
-		"category": 2,
+		"category": 1,
 		"number": 891,
 		"text": "Anabolický pochod znamená",
 		"choices": [
@@ -193,7 +193,7 @@
 	},
 	{
 		"id": 892,
-		"category": 2,
+		"category": 1,
 		"number": 892,
 		"text": "Katabolický děj je",
 		"choices": [
@@ -225,7 +225,7 @@
 	},
 	{
 		"id": 893,
-		"category": 2,
+		"category": 1,
 		"number": 893,
 		"text": "Cholesterol je",
 		"choices": [
@@ -257,7 +257,7 @@
 	},
 	{
 		"id": 894,
-		"category": 2,
+		"category": 1,
 		"number": 894,
 		"text": "Testosteron, mužský pohlavní hormon je",
 		"choices": [

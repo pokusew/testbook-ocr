@@ -1,7 +1,7 @@
 [
 	{
 		"id": 974,
-		"category": 2,
+		"category": 1,
 		"number": 974,
 		"text": "Vyberte správný/é název/názvy pro sloučeninu se vzorcem BaSO4",
 		"choices": [
@@ -33,7 +33,7 @@
 	},
 	{
 		"id": 975,
-		"category": 2,
+		"category": 1,
 		"number": 975,
 		"text": "Vyberte správný/é název/názvy pro sloučeninu se vzorcem Sic",
 		"choices": [
@@ -65,7 +65,7 @@
 	},
 	{
 		"id": 976,
-		"category": 2,
+		"category": 1,
 		"number": 976,
 		"text": "Vyberte správný/é název/názvy pro sloučeninu se vzorcem BH,",
 		"choices": [
@@ -97,7 +97,7 @@
 	},
 	{
 		"id": 977,
-		"category": 2,
+		"category": 1,
 		"number": 977,
 		"text": "Vyberte správný/é název/názvy pro sloučeninu se vzorcem NH3",
 		"choices": [
@@ -129,7 +129,7 @@
 	},
 	{
 		"id": 978,
-		"category": 2,
+		"category": 1,
 		"number": 978,
 		"text": "Vyberte správný/é název/názvy pro CO2 (s)",
 		"choices": [
@@ -161,7 +161,7 @@
 	},
 	{
 		"id": 979,
-		"category": 2,
+		"category": 1,
 		"number": 979,
 		"text": "Vyberte správný/é název/názvy pro sloučeninu se vzorcem P2H2",
 		"choices": [
@@ -193,7 +193,7 @@
 	},
 	{
 		"id": 980,
-		"category": 2,
+		"category": 1,
 		"number": 980,
 		"text": "Vyberte správný/é název/názvy pro sloučeninu se vzorcem Mn02",
 		"choices": [
@@ -225,7 +225,7 @@
 	},
 	{
 		"id": 981,
-		"category": 2,
+		"category": 1,
 		"number": 981,
 		"text": "Vyberte správný/é název/názvy pro sloučeninu se vzorcem As2O3",
 		"choices": [
@@ -257,7 +257,7 @@
 	},
 	{
 		"id": 982,
-		"category": 2,
+		"category": 1,
 		"number": 982,
 		"text": "Vyberte správný/é název/názvy pro sloučeninu se vzorcem MgTi03",
 		"choices": [

@@ -1,7 +1,7 @@
 [
 	{
 		"id": 1022,
-		"category": 2,
+		"category": 1,
 		"number": 1022,
 		"text": "Vyberte správné výroky",
 		"choices": [
@@ -33,7 +33,7 @@
 	},
 	{
 		"id": 1023,
-		"category": 2,
+		"category": 1,
 		"number": 1023,
 		"text": "Vyberte správné výroky",
 		"choices": [
@@ -65,7 +65,7 @@
 	},
 	{
 		"id": 1024,
-		"category": 2,
+		"category": 1,
 		"number": 1024,
 		"text": "Vyberte správné výroky",
 		"choices": [
@@ -97,7 +97,7 @@
 	},
 	{
 		"id": 1025,
-		"category": 2,
+		"category": 1,
 		"number": 1025,
 		"text": "Vyberte správné výroky. Molekula",
 		"choices": [
@@ -129,7 +129,7 @@
 	},
 	{
 		"id": 1026,
-		"category": 2,
+		"category": 1,
 		"number": 1026,
 		"text": "Vyberte správné výroky. Relativní atomová hmotnost je definována jako",
 		"choices": [
@@ -161,7 +161,7 @@
 	},
 	{
 		"id": 1027,
-		"category": 2,
+		"category": 1,
 		"number": 1027,
 		"text": "Který/é z uvedených výroků je/jsou správné?",
 		"choices": [
@@ -193,7 +193,7 @@
 	},
 	{
 		"id": 1028,
-		"category": 2,
+		"category": 1,
 		"number": 1028,
 		"text": "Látky složené z atomů, které se vyznačují stejným protonovým i nukleonový číslem se nazývají",
 		"choices": [

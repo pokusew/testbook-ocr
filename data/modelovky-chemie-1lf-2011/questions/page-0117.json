@@ -1,7 +1,7 @@
 [
 	{
 		"id": 966,
-		"category": 2,
+		"category": 1,
 		"number": 966,
 		"text": "Která ze sloučenin bude barevná a proč (tj. sloučenina nebude bezbarvá a bud mít jinou barvu než bílou)?",
 		"choices": [
@@ -33,7 +33,7 @@
 	},
 	{
 		"id": 967,
-		"category": 2,
+		"category": 1,
 		"number": 967,
 		"text": "Který z uvedených prvků má nejvíce kovový charakter?",
 		"choices": [
@@ -65,7 +65,7 @@
 	},
 	{
 		"id": 968,
-		"category": 2,
+		"category": 1,
 		"number": 968,
 		"text": "Který z následujících halogenů můžeme čistit za laboratorní teploty sublimací?",
 		"choices": [
@@ -97,7 +97,7 @@
 	},
 	{
 		"id": 969,
-		"category": 2,
+		"category": 1,
 		"number": 969,
 		"text": "Při tvorbě sloučeniny mezi kovem a nekovem dochází k tomu, že",
 		"choices": [
@@ -129,7 +129,7 @@
 	},
 	{
 		"id": 970,
-		"category": 2,
+		"category": 1,
 		"number": 970,
 		"text": "Atomy, které jsou v jedné skupině periodické tabulky mají určité shodné neb velmi blízké parametry. Těmi jsou",
 		"choices": [
@@ -161,7 +161,7 @@
 	},
 	{
 		"id": 971,
-		"category": 2,
+		"category": 1,
 		"number": 971,
 		"text": "Který z následujících prvků má největší schopnost přitáhnout elektrony?",
 		"choices": [
@@ -193,7 +193,7 @@
 	},
 	{
 		"id": 972,
-		"category": 2,
+		"category": 1,
 		"number": 972,
 		"text": "Za standardní teploty a tlaku (podle definice IUPAC) jsou vzácné plyn jednoatomové, ostatní plyny tvoří dvouatomové molekuly. Důvodem je, že",
 		"choices": [
@@ -225,7 +225,7 @@
 	},
 	{
 		"id": 973,
-		"category": 2,
+		"category": 1,
 		"number": 973,
 		"text": "Proces, ve kterém dochází k 12 (s) → 12 (g) se nazývá",
 		"choices": [

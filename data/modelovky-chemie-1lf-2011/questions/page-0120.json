@@ -1,7 +1,7 @@
 [
 	{
 		"id": 991,
-		"category": 2,
+		"category": 1,
 		"number": 991,
 		"text": "Rovnice Ag(+) + C1(-) → JAgCl popisuje",
 		"choices": [
@@ -33,7 +33,7 @@
 	},
 	{
 		"id": 992,
-		"category": 2,
+		"category": 1,
 		"number": 992,
 		"text": "Správná/é iontová/é rovnice pro reakci jodidu draselného s dusičnane stříbrným za vzniku dusičnanu draselného a sraženiny jodidu stříbrného je/jsou",
 		"choices": [
@@ -65,7 +65,7 @@
 	},
 	{
 		"id": 993,
-		"category": 2,
+		"category": 1,
 		"number": 993,
 		"text": "Jaká/é je/jsou správná/správné iontová/é rovnice popisující reakci chroman draselného se stříbrnými solemi za vzniku sraženiny chromanu stříbrného Vyberte z možností.",
 		"choices": [
@@ -97,7 +97,7 @@
 	},
 	{
 		"id": 994,
-		"category": 2,
+		"category": 1,
 		"number": 994,
 		"text": "Jaká/é je/jsou správná/správné iontová/é rovnice popisující reakci stříbrnýc solí s rozpustnými chlorovými solemi za vzniku sraženiny chloridu stříbrného Vyberte z možností.",
 		"choices": [
@@ -129,7 +129,7 @@
 	},
 	{
 		"id": 995,
-		"category": 2,
+		"category": 1,
 		"number": 995,
 		"text": "Rovnice Fe°(s) + Cu\"SO4(aq) → Cuº(s) + FelISO4(aq) vyjadřuje děj, který patří mezi",
 		"choices": [
@@ -161,7 +161,7 @@
 	},
 	{
 		"id": 996,
-		"category": 2,
+		"category": 1,
 		"number": 996,
 		"text": "Rovnice CuSO4 + 4H20 → [Cu(H2O)4]SO4 vyjadřuje děj, který patří mezi",
 		"choices": [
@@ -193,7 +193,7 @@
 	},
 	{
 		"id": 997,
-		"category": 2,
+		"category": 1,
 		"number": 997,
 		"text": "Jaká/é je/jsou správná/správné iontová/é rovnice popisující vznik síran barnatého z chloridu barnatého? Vyberte z možností.",
 		"choices": [
@@ -225,7 +225,7 @@
 	},
 	{
 		"id": 998,
-		"category": 2,
+		"category": 1,
 		"number": 998,
 		"text": "Vyberte správná tvrzení. V komplexním kationtu [Cu(NH3)4]2+",
 		"choices": [

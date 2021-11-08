@@ -1,7 +1,7 @@
 [
 	{
 		"id": 1122,
-		"category": 2,
+		"category": 1,
 		"number": 1122,
 		"text": "Protická rozpouštědla jsou",
 		"choices": [
@@ -33,7 +33,7 @@
 	},
 	{
 		"id": 1123,
-		"category": 2,
+		"category": 1,
 		"number": 1123,
 		"text": "Která/é varianta/y představuje/í vzorec soli?",
 		"choices": [
@@ -65,7 +65,7 @@
 	},
 	{
 		"id": 1124,
-		"category": 2,
+		"category": 1,
 		"number": 1124,
 		"text": "Která z následujících látek je kyselinou podle Arrheniovy teorie?",
 		"choices": [
@@ -97,7 +97,7 @@
 	},
 	{
 		"id": 1125,
-		"category": 2,
+		"category": 1,
 		"number": 1125,
 		"text": "Která z látek bude reagovat alkalicky?",
 		"choices": [
@@ -129,7 +129,7 @@
 	},
 	{
 		"id": 1126,
-		"category": 2,
+		"category": 1,
 		"number": 1126,
 		"text": "Jaké je (přibližně) pH 0,00001 molárního vodného roztoku HCl? (Aktivitn koeficient považujte za roven 1)",
 		"choices": [
@@ -161,7 +161,7 @@
 	},
 	{
 		"id": 1127,
-		"category": 2,
+		"category": 1,
 		"number": 1127,
 		"text": "Jaká je přibližná koncentrace H30+ iontů ve vodném roztoku NaOH o koncentrac 0,01 molu? (Aktivitní koeficient považujte za roven 1)",
 		"choices": [
@@ -193,7 +193,7 @@
 	},
 	{
 		"id": 1128,
-		"category": 2,
+		"category": 1,
 		"number": 1128,
 		"text": "Roztok kyseliny sírové, síranu sodného a vody",
 		"choices": [
@@ -225,7 +225,7 @@
 	},
 	{
 		"id": 1129,
-		"category": 2,
+		"category": 1,
 		"number": 1129,
 		"text": "Podle Arrheniovy i Broenstedovy teorie je kyselina látka, která",
 		"choices": [

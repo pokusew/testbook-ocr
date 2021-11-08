@@ -1,7 +1,7 @@
 [
 	{
 		"id": 931,
-		"category": 2,
+		"category": 1,
 		"number": 931,
 		"text": "Fruktóza",
 		"choices": [
@@ -33,7 +33,7 @@
 	},
 	{
 		"id": 932,
-		"category": 2,
+		"category": 1,
 		"number": 932,
 		"text": "Inulin je",
 		"choices": [
@@ -65,7 +65,7 @@
 	},
 	{
 		"id": 933,
-		"category": 2,
+		"category": 1,
 		"number": 933,
 		"text": "Který/é výrok/y je/jsou nesprávný/é",
 		"choices": [
@@ -97,7 +97,7 @@
 	},
 	{
 		"id": 934,
-		"category": 2,
+		"category": 1,
 		"number": 934,
 		"text": "Který/é výrok/y je/jsou nesprávný/é",
 		"choices": [
@@ -129,7 +129,7 @@
 	},
 	{
 		"id": 935,
-		"category": 2,
+		"category": 1,
 		"number": 935,
 		"text": "Vitamín B6 je odvozený od",
 		"choices": [
@@ -161,7 +161,7 @@
 	},
 	{
 		"id": 936,
-		"category": 2,
+		"category": 1,
 		"number": 936,
 		"text": "Který/é výrok/y je/jsou nesprávný/é",
 		"choices": [
@@ -193,7 +193,7 @@
 	},
 	{
 		"id": 937,
-		"category": 2,
+		"category": 1,
 		"number": 937,
 		"text": "Který/é výrok/y je/jsou nesprávný/é",
 		"choices": [
@@ -225,7 +225,7 @@
 	},
 	{
 		"id": 938,
-		"category": 2,
+		"category": 1,
 		"number": 938,
 		"text": "Který/é výrok/y je/jsou nesprávný/é",
 		"choices": [
@@ -257,7 +257,7 @@
 	},
 	{
 		"id": 939,
-		"category": 2,
+		"category": 1,
 		"number": 939,
 		"text": "Který/é výrok/y je/jsou nesprávný/é",
 		"choices": [

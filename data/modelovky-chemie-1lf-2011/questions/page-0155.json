@@ -1,7 +1,7 @@
 [
 	{
 		"id": 1260,
-		"category": 2,
+		"category": 1,
 		"number": 1260,
 		"text": "Vzácné plyny",
 		"choices": [
@@ -33,7 +33,7 @@
 	},
 	{
 		"id": 1261,
-		"category": 2,
+		"category": 1,
 		"number": 1261,
 		"text": "Zlato se používá v medicíně a stomatologii, protože",
 		"choices": [
@@ -65,7 +65,7 @@
 	},
 	{
 		"id": 1262,
-		"category": 2,
+		"category": 1,
 		"number": 1262,
 		"text": "Arsen",
 		"choices": [
@@ -97,7 +97,7 @@
 	},
 	{
 		"id": 1263,
-		"category": 2,
+		"category": 1,
 		"number": 1263,
 		"text": "Vyberte správné tvrzení. Polokovy",
 		"choices": [
@@ -129,7 +129,7 @@
 	},
 	{
 		"id": 1264,
-		"category": 2,
+		"category": 1,
 		"number": 1264,
 		"text": "Sodík se uchovává pod vrstvou petroleje, protože",
 		"choices": [
@@ -161,7 +161,7 @@
 	},
 	{
 		"id": 1265,
-		"category": 2,
+		"category": 1,
 		"number": 1265,
 		"text": "Vyberte správnou možnost. Tzv. těžké kovy",
 		"choices": [
@@ -193,7 +193,7 @@
 	},
 	{
 		"id": 1266,
-		"category": 2,
+		"category": 1,
 		"number": 1266,
 		"text": "Přechodové kovy (také přechodné n. tranzitní)",
 		"choices": [
@@ -225,7 +225,7 @@
 	},
 	{
 		"id": 1267,
-		"category": 2,
+		"category": 1,
 		"number": 1267,
 		"text": "Biodegradace je",
 		"choices": [
@@ -257,7 +257,7 @@
 	},
 	{
 		"id": 1268,
-		"category": 2,
+		"category": 1,
 		"number": 1268,
 		"text": "Přírodní hedvábí je",
 		"choices": [

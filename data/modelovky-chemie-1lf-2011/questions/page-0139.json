@@ -1,7 +1,7 @@
 [
 	{
 		"id": 1138,
-		"category": 2,
+		"category": 1,
 		"number": 1138,
 		"text": "Součin rozpustnosti síranu barnatého ve vodě je 1,5x10-9 a sádry, za stejnýc podmínek, je 3x10-5.S použitím této informace vyberte správné/správná tvrzení",
 		"choices": [
@@ -33,7 +33,7 @@
 	},
 	{
 		"id": 1139,
-		"category": 2,
+		"category": 1,
 		"number": 1139,
 		"text": "Hodnota pH vodného roztoku závisí na",
 		"choices": [
@@ -65,7 +65,7 @@
 	},
 	{
 		"id": 1140,
-		"category": 2,
+		"category": 1,
 		"number": 1140,
 		"text": "Amfoterní látka je taková, která",
 		"choices": [
@@ -97,7 +97,7 @@
 	},
 	{
 		"id": 1141,
-		"category": 2,
+		"category": 1,
 		"number": 1141,
 		"text": "Iontový součin vody",
 		"choices": [
@@ -129,7 +129,7 @@
 	},
 	{
 		"id": 1142,
-		"category": 2,
+		"category": 1,
 		"number": 1142,
 		"text": "Která z následujících látek představuje binární sloučeninu?",
 		"choices": [
@@ -161,7 +161,7 @@
 	},
 	{
 		"id": 1143,
-		"category": 2,
+		"category": 1,
 		"number": 1143,
 		"text": "Který vzorec patří ke sloučenině s názvem oxalát sodný?",
 		"choices": [
@@ -193,7 +193,7 @@
 	},
 	{
 		"id": 1144,
-		"category": 2,
+		"category": 1,
 		"number": 1144,
 		"text": "Kolik je numerický součet všech koeficientů ve správně vyčíslené rovnic Al + 0 2 = Al203? K vyčíslení použijte pouze nejmenší možná celá čísla.",
 		"choices": [
@@ -225,7 +225,7 @@
 	},
 	{
 		"id": 1145,
-		"category": 2,
+		"category": 1,
 		"number": 1145,
 		"text": "Kolik atomů celkem obsahuje sloučenina se vzorcem CuSO4 * 5H20",
 		"choices": [
@@ -257,7 +257,7 @@
 	},
 	{
 		"id": 1146,
-		"category": 2,
+		"category": 1,
 		"number": 1146,
 		"text": "Kolik atomů obsahují 2 moly niklu (rel. atomová hmotnost niklu je 58,9)?",
 		"choices": [

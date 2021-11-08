@@ -1,7 +1,7 @@
 [
 	{
 		"id": 1013,
-		"category": 2,
+		"category": 1,
 		"number": 1013,
 		"text": "V periodické soustavě prvků jsou atomy seřazeny podle",
 		"choices": [
@@ -33,7 +33,7 @@
 	},
 	{
 		"id": 1014,
-		"category": 2,
+		"category": 1,
 		"number": 1014,
 		"text": "Pro atomy vzácných plynů, kromě helia, v základním stavu platí",
 		"choices": [
@@ -65,7 +65,7 @@
 	},
 	{
 		"id": 1015,
-		"category": 2,
+		"category": 1,
 		"number": 1015,
 		"text": "Helium",
 		"choices": [
@@ -97,7 +97,7 @@
 	},
 	{
 		"id": 1016,
-		"category": 2,
+		"category": 1,
 		"number": 1016,
 		"text": "Mezi vnitřně přechodné prvky",
 		"choices": [
@@ -129,7 +129,7 @@
 	},
 	{
 		"id": 1017,
-		"category": 2,
+		"category": 1,
 		"number": 1017,
 		"text": "První perioda Mendělejevovy periodické tabulky prvků obsahuje",
 		"choices": [
@@ -161,7 +161,7 @@
 	},
 	{
 		"id": 1018,
-		"category": 2,
+		"category": 1,
 		"number": 1018,
 		"text": "Ve třetí periodě Mendělejevovy periodické tabulky prvků nalezneme",
 		"choices": [
@@ -193,7 +193,7 @@
 	},
 	{
 		"id": 1019,
-		"category": 2,
+		"category": 1,
 		"number": 1019,
 		"text": "Prvky první periody",
 		"choices": [
@@ -225,7 +225,7 @@
 	},
 	{
 		"id": 1020,
-		"category": 2,
+		"category": 1,
 		"number": 1020,
 		"text": "Mezi přechodné prvky patří",
 		"choices": [
@@ -257,7 +257,7 @@
 	},
 	{
 		"id": 1021,
-		"category": 2,
+		"category": 1,
 		"number": 1021,
 		"text": "Najděte správné výroky",
 		"choices": [

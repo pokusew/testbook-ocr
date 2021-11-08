@@ -1,7 +1,7 @@
 [
 	{
 		"id": 940,
-		"category": 2,
+		"category": 1,
 		"number": 940,
 		"text": "Který/é výrok/y je/jsou nesprávný/é",
 		"choices": [
@@ -33,7 +33,7 @@
 	},
 	{
 		"id": 941,
-		"category": 2,
+		"category": 1,
 		"number": 941,
 		"text": "Mezi alkaloidy obsažené v máku patří",
 		"choices": [
@@ -65,7 +65,7 @@
 	},
 	{
 		"id": 942,
-		"category": 2,
+		"category": 1,
 		"number": 942,
 		"text": "Pyrol je součástí",
 		"choices": [
@@ -97,7 +97,7 @@
 	},
 	{
 		"id": 943,
-		"category": 2,
+		"category": 1,
 		"number": 943,
 		"text": "Kyselina mléčná",
 		"choices": [
@@ -129,7 +129,7 @@
 	},
 	{
 		"id": 944,
-		"category": 2,
+		"category": 1,
 		"number": 944,
 		"text": "Glukóza-6 fosfát vzniká v procesu glykolýzy. K jejímu vzniku tímto procesem j potřeba",
 		"choices": [
@@ -161,7 +161,7 @@
 	},
 	{
 		"id": 945,
-		"category": 2,
+		"category": 1,
 		"number": 945,
 		"text": "Glyceraldehyd nebo jeho deriváty vznikají při",
 		"choices": [
@@ -193,7 +193,7 @@
 	},
 	{
 		"id": 946,
-		"category": 2,
+		"category": 1,
 		"number": 946,
 		"text": "Sorbitol se od sorbózy liší",
 		"choices": [
@@ -225,7 +225,7 @@
 	},
 	{
 		"id": 947,
-		"category": 2,
+		"category": 1,
 		"number": 947,
 		"text": "Glukóza",
 		"choices": [
@@ -257,7 +257,7 @@
 	},
 	{
 		"id": 948,
-		"category": 2,
+		"category": 1,
 		"number": 948,
 		"text": "Během Krebsova cyklu dochází",
 		"choices": [

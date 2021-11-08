@@ -1,7 +1,7 @@
 [
 	{
 		"id": 1105,
-		"category": 2,
+		"category": 1,
 		"number": 1105,
 		"text": "U exotermických dějů má hodnota entalpie",
 		"choices": [
@@ -33,7 +33,7 @@
 	},
 	{
 		"id": 1106,
-		"category": 2,
+		"category": 1,
 		"number": 1106,
 		"text": "Reakční mechanismus je",
 		"choices": [
@@ -65,7 +65,7 @@
 	},
 	{
 		"id": 1107,
-		"category": 2,
+		"category": 1,
 		"number": 1107,
 		"text": "Rovnovážná konstanta reakce se se změnou teploty",
 		"choices": [
@@ -97,7 +97,7 @@
 	},
 	{
 		"id": 1108,
-		"category": 2,
+		"category": 1,
 		"number": 1108,
 		"text": "Jeden mol elektronů je",
 		"choices": [
@@ -129,7 +129,7 @@
 	},
 	{
 		"id": 1109,
-		"category": 2,
+		"category": 1,
 		"number": 1109,
 		"text": "Entropie je",
 		"choices": [
@@ -161,7 +161,7 @@
 	},
 	{
 		"id": 1110,
-		"category": 2,
+		"category": 1,
 		"number": 1110,
 		"text": "PV=nRT platí pouze",
 		"choices": [
@@ -193,7 +193,7 @@
 	},
 	{
 		"id": 1111,
-		"category": 2,
+		"category": 1,
 		"number": 1111,
 		"text": "Iontová vazba je",
 		"choices": [
@@ -225,7 +225,7 @@
 	},
 	{
 		"id": 1112,
-		"category": 2,
+		"category": 1,
 		"number": 1112,
 		"text": "Mezi kovalentní vazby nepatří - vyberte možnosti, kde jsou jen nekovalentní vazby",
 		"choices": [

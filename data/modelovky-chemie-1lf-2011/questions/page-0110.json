@@ -1,7 +1,7 @@
 [
 	{
 		"id": 904,
-		"category": 2,
+		"category": 1,
 		"number": 904,
 		"text": "Allosterický efekt je",
 		"choices": [
@@ -33,7 +33,7 @@
 	},
 	{
 		"id": 905,
-		"category": 2,
+		"category": 1,
 		"number": 905,
 		"text": "Alfa-helix je",
 		"choices": [
@@ -65,7 +65,7 @@
 	},
 	{
 		"id": 906,
-		"category": 2,
+		"category": 1,
 		"number": 906,
 		"text": "Epitop",
 		"choices": [
@@ -97,7 +97,7 @@
 	},
 	{
 		"id": 907,
-		"category": 2,
+		"category": 1,
 		"number": 907,
 		"text": "Isoenzymy",
 		"choices": [
@@ -129,7 +129,7 @@
 	},
 	{
 		"id": 908,
-		"category": 2,
+		"category": 1,
 		"number": 908,
 		"text": "Micela",
 		"choices": [
@@ -161,7 +161,7 @@
 	},
 	{
 		"id": 909,
-		"category": 2,
+		"category": 1,
 		"number": 909,
 		"text": "Gel je",
 		"choices": [
@@ -193,7 +193,7 @@
 	},
 	{
 		"id": 910,
-		"category": 2,
+		"category": 1,
 		"number": 910,
 		"text": "Chromatografie je",
 		"choices": [
@@ -225,7 +225,7 @@
 	},
 	{
 		"id": 911,
-		"category": 2,
+		"category": 1,
 		"number": 911,
 		"text": "Primární struktura bílkoviny je",
 		"choices": [
@@ -257,7 +257,7 @@
 	},
 	{
 		"id": 912,
-		"category": 2,
+		"category": 1,
 		"number": 912,
 		"text": "Škrob a glykogen",
 		"choices": [

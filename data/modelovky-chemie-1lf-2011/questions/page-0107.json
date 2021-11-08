@@ -1,7 +1,7 @@
 [
 	{
 		"id": 877,
-		"category": 2,
+		"category": 1,
 		"number": 877,
 		"text": "Za aerobních podmínek je konečným produktem odbourávámí glukózy u člověka;",
 		"choices": [
@@ -33,7 +33,7 @@
 	},
 	{
 		"id": 878,
-		"category": 2,
+		"category": 1,
 		"number": 878,
 		"text": "Od anorganických katalyzátorů se enzymy liší",
 		"choices": [
@@ -65,7 +65,7 @@
 	},
 	{
 		"id": 879,
-		"category": 2,
+		"category": 1,
 		"number": 879,
 		"text": "Enzymy ze třídy transferáz",
 		"choices": [
@@ -97,7 +97,7 @@
 	},
 	{
 		"id": 880,
-		"category": 2,
+		"category": 1,
 		"number": 880,
 		"text": "Enzymy ze třídy oxidoreduktáz",
 		"choices": [
@@ -129,7 +129,7 @@
 	},
 	{
 		"id": 881,
-		"category": 2,
+		"category": 1,
 		"number": 881,
 		"text": "Ligázy",
 		"choices": [
@@ -161,7 +161,7 @@
 	},
 	{
 		"id": 882,
-		"category": 2,
+		"category": 1,
 		"number": 882,
 		"text": "Lyázy",
 		"choices": [
@@ -193,7 +193,7 @@
 	},
 	{
 		"id": 883,
-		"category": 2,
+		"category": 1,
 		"number": 883,
 		"text": "Nebílkovinné složky enzymů",
 		"choices": [
@@ -225,7 +225,7 @@
 	},
 	{
 		"id": 884,
-		"category": 2,
+		"category": 1,
 		"number": 884,
 		"text": "Mezi koenzymy patří",
 		"choices": [
@@ -257,7 +257,7 @@
 	},
 	{
 		"id": 885,
-		"category": 2,
+		"category": 1,
 		"number": 885,
 		"text": "Biologický a klinický význam enzymů spočívá v",
 		"choices": [

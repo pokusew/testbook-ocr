@@ -1,7 +1,7 @@
 [
 	{
 		"id": 1200,
-		"category": 2,
+		"category": 1,
 		"number": 1200,
 		"text": "Vyberte správnou možnost/i. Určete správné stechiometriche influenty v rovnic která vyjadřuje reakci síranu rtuťnatého s chloridem sodným. Vznikne síra sodný a chlorid rtuťnatý.",
 		"choices": [
@@ -33,7 +33,7 @@
 	},
 	{
 		"id": 1201,
-		"category": 2,
+		"category": 1,
 		"number": 1201,
 		"text": "Určete reakční teplo, které vznikne při reakci uhlíku s vodni parou, jestl pro vodu je –241,8 KJ/mol a pro CO je -110,5 kJ/mol. Produkty realic uhelnatý a vodík.",
 		"choices": [
@@ -65,7 +65,7 @@
 	},
 	{
 		"id": 1202,
-		"category": 2,
+		"category": 1,
 		"number": 1202,
 		"text": "Určete hmotnost 1 atomu bromu. Vyberte správnou možnost z následujícíc Molární hmotnost bromu je 79,9 g/mol a Avogadrova konstanta NA = 6,023 * 10%,",
 		"choices": [
@@ -97,7 +97,7 @@
 	},
 	{
 		"id": 1203,
-		"category": 2,
+		"category": 1,
 		"number": 1203,
 		"text": "Určete hmotnost jednoho atomu uhlíku, jestliže jeho molární hmotnost je 12 Avogadrova konstanta Na = 6,023 x 1023",
 		"choices": [
@@ -129,7 +129,7 @@
 	},
 	{
 		"id": 1204,
-		"category": 2,
+		"category": 1,
 		"number": 1204,
 		"text": "Určete hmotnost 1 molu oxidu uhelnatého (v gramech), jestliže relativn atomová hmotnost uhlíku je 12 g/mol, kyslíku 16 g/mol, Avogadrova konstant NA = 6,023 x 1023",
 		"choices": [
@@ -161,7 +161,7 @@
 	},
 	{
 		"id": 1205,
-		"category": 2,
+		"category": 1,
 		"number": 1205,
 		"text": "Kolik gramů váží 1,6 mol chloridu sodného (rel. atomová hmotnost Na=23 g/mol Cl=35 g/mol)?",
 		"choices": [
@@ -193,7 +193,7 @@
 	},
 	{
 		"id": 1206,
-		"category": 2,
+		"category": 1,
 		"number": 1206,
 		"text": "Jakému látkovému množství HCI přibližně odpovídá 30 g HCI? Rel. atomov hmotnost chloru je 35 g/mol, rel. at. hm. vodíku je 1 g/mol.",
 		"choices": [

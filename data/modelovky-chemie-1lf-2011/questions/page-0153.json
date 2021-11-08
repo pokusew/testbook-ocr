@@ -1,7 +1,7 @@
 [
 	{
 		"id": 1242,
-		"category": 2,
+		"category": 1,
 		"number": 1242,
 		"text": "Zeolity jsou látky",
 		"choices": [
@@ -33,7 +33,7 @@
 	},
 	{
 		"id": 1243,
-		"category": 2,
+		"category": 1,
 		"number": 1243,
 		"text": "Silikony jsou látky, které",
 		"choices": [
@@ -65,7 +65,7 @@
 	},
 	{
 		"id": 1244,
-		"category": 2,
+		"category": 1,
 		"number": 1244,
 		"text": "Tetraboritan disodný je",
 		"choices": [
@@ -97,7 +97,7 @@
 	},
 	{
 		"id": 1245,
-		"category": 2,
+		"category": 1,
 		"number": 1245,
 		"text": "Jodová tinktura je",
 		"choices": [
@@ -129,7 +129,7 @@
 	},
 	{
 		"id": 1246,
-		"category": 2,
+		"category": 1,
 		"number": 1246,
 		"text": "Amalgám je",
 		"choices": [
@@ -161,7 +161,7 @@
 	},
 	{
 		"id": 1247,
-		"category": 2,
+		"category": 1,
 		"number": 1247,
 		"text": "Rtuť je",
 		"choices": [
@@ -193,7 +193,7 @@
 	},
 	{
 		"id": 1248,
-		"category": 2,
+		"category": 1,
 		"number": 1248,
 		"text": "Co je to racemická směs?",
 		"choices": [
@@ -225,7 +225,7 @@
 	},
 	{
 		"id": 1249,
-		"category": 2,
+		"category": 1,
 		"number": 1249,
 		"text": "Které z následujících procesů neobsahují chemické reakce?",
 		"choices": [
@@ -257,7 +257,7 @@
 	},
 	{
 		"id": 1250,
-		"category": 2,
+		"category": 1,
 		"number": 1250,
 		"text": "Jaký je rozdíl mezi Na a Nat?",
 		"choices": [

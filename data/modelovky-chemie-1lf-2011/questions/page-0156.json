@@ -1,7 +1,7 @@
 [
 	{
 		"id": 1269,
-		"category": 2,
+		"category": 1,
 		"number": 1269,
 		"text": "Bavlna",
 		"choices": [
@@ -33,7 +33,7 @@
 	},
 	{
 		"id": 1270,
-		"category": 2,
+		"category": 1,
 		"number": 1270,
 		"text": "Pektiny",
 		"choices": [
@@ -65,7 +65,7 @@
 	},
 	{
 		"id": 1271,
-		"category": 2,
+		"category": 1,
 		"number": 1271,
 		"text": "Atropin je",
 		"choices": [
@@ -97,7 +97,7 @@
 	},
 	{
 		"id": 1272,
-		"category": 2,
+		"category": 1,
 		"number": 1272,
 		"text": "Odstranění bradavice tekutým dusíkem je možné, protože",
 		"choices": [
@@ -129,7 +129,7 @@
 	},
 	{
 		"id": 1273,
-		"category": 2,
+		"category": 1,
 		"number": 1273,
 		"text": "Tvrdost vody",
 		"choices": [
@@ -161,7 +161,7 @@
 	},
 	{
 		"id": 1274,
-		"category": 2,
+		"category": 1,
 		"number": 1274,
 		"text": "Cytostatikum je",
 		"choices": [
@@ -193,7 +193,7 @@
 	},
 	{
 		"id": 1275,
-		"category": 2,
+		"category": 1,
 		"number": 1275,
 		"text": "Onemocnění tetanem",
 		"choices": [
@@ -225,7 +225,7 @@
 	},
 	{
 		"id": 1276,
-		"category": 2,
+		"category": 1,
 		"number": 1276,
 		"text": "Borová voda je",
 		"choices": [
@@ -257,7 +257,7 @@
 	},
 	{
 		"id": 1277,
-		"category": 2,
+		"category": 1,
 		"number": 1277,
 		"text": "Včelí med je složen převážně z",
 		"choices": [

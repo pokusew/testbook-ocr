@@ -9059,7 +9059,7 @@
 			},
 			{
 				"id": 4,
-				"text": "H2O a O 2 2-"
+				"text": "H2O a OH"
 			}
 		]
 	},
@@ -25387,7 +25387,7 @@
 			},
 			{
 				"id": 4,
-				"text": "konstituční izomer je"
+				"text": "konstituční izomery"
 			}
 		]
 	},
@@ -25418,7 +25418,7 @@
 			},
 			{
 				"id": 4,
-				"text": "cyklický este jsou v poloze"
+				"text": "cyklický ester"
 			}
 		]
 	},
@@ -25440,7 +25440,7 @@
 			},
 			{
 				"id": 2,
-				"text": "met R"
+				"text": "meta"
 			},
 			{
 				"id": 3,
@@ -25538,7 +25538,7 @@
 			},
 			{
 				"id": 4,
-				"text": "CH30 CH CH C OH j OH"
+				"text": "CH30-"
 			}
 		]
 	},
@@ -25600,7 +25600,7 @@
 			},
 			{
 				"id": 4,
-				"text": "2,3-dihydroxypropano -О -ОНje"
+				"text": "2,3-dihydroxypropanon"
 			}
 		]
 	},
@@ -25631,7 +25631,7 @@
 			},
 			{
 				"id": 4,
-				"text": "D-erythróz O H -О НО - -О OH je"
+				"text": "D-erythróza"
 			}
 		]
 	},
@@ -25662,7 +25662,7 @@
 			},
 			{
 				"id": 4,
-				"text": "allóz O B Hje"
+				"text": "allóza"
 			}
 		]
 	},
@@ -25684,7 +25684,7 @@
 			},
 			{
 				"id": 2,
-				"text": "brometha H H"
+				"text": "bromethan"
 			},
 			{
 				"id": 3,
@@ -25692,7 +25692,7 @@
 			},
 			{
 				"id": 4,
-				"text": "jiný název než uvedené variant je"
+				"text": "jiný název než uvedené varianty"
 			}
 		]
 	},
@@ -25966,7 +25966,7 @@
 			},
 			{
 				"id": 4,
-				"text": "fosforečna -oje"
+				"text": "fosforečnan"
 			}
 		]
 	},
@@ -25988,7 +25988,7 @@
 			},
 			{
 				"id": 2,
-				"text": "kyselina trifosforečn 0"
+				"text": "kyselina trifosforečná"
 			},
 			{
 				"id": 3,
@@ -26116,14 +26116,14 @@
 			},
 			{
 				"id": 4,
-				"text": "laktá //"
+				"text": "laktát"
 			}
 		]
 	},
 	{
 		"id": 852,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 852,
 		"type": "choice",
 		"text": "Tento vzorec \"OOC-C představuje",
@@ -26153,7 +26153,7 @@
 	{
 		"id": 853,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 853,
 		"type": "choice",
 		"text": "Tento vzorec",
@@ -26183,7 +26183,7 @@
 	{
 		"id": 854,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 854,
 		"type": "choice",
 		"text": "Tento vzorec",
@@ -26213,7 +26213,7 @@
 	{
 		"id": 855,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 855,
 		"type": "choice",
 		"text": "Název této O",
@@ -26245,7 +26245,7 @@
 	{
 		"id": 856,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 856,
 		"type": "choice",
 		"text": "Kyselina máselná má",
@@ -26275,7 +26275,7 @@
 	{
 		"id": 857,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 857,
 		"type": "choice",
 		"text": "Vyberte sumární vzorec pro tento racionální vzorec",
@@ -26305,7 +26305,7 @@
 	{
 		"id": 858,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 858,
 		"type": "choice",
 		"text": "Vyberte sumární vzorec pro tento racionální vzorec",
@@ -26335,7 +26335,7 @@
 	{
 		"id": 859,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 859,
 		"type": "choice",
 		"text": "Vyberte sumární vzorec pro tento racionální vzorec",
@@ -26365,7 +26365,7 @@
 	{
 		"id": 860,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 860,
 		"type": "choice",
 		"text": "Vyberte sumární vzorec pro tento racionální vzorec",
@@ -26395,7 +26395,7 @@
 	{
 		"id": 861,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 861,
 		"type": "choice",
 		"text": "Na obrázku vidí Н.",
@@ -26425,7 +26425,7 @@
 	{
 		"id": 862,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 862,
 		"type": "choice",
 		"text": "Povaha reakcí, kte é probíhají v živých buňkách, je",
@@ -26455,7 +26455,7 @@
 	{
 		"id": 863,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 863,
 		"type": "choice",
 		"text": "Enzymy působí tak, že",
@@ -26486,7 +26486,7 @@
 	{
 		"id": 864,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 864,
 		"type": "choice",
 		"text": "Rychlost enzymově katalyzovaných reakcí ovlivňuje",
@@ -26517,7 +26517,7 @@
 	{
 		"id": 865,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 865,
 		"type": "choice",
 		"text": "Enzymy, které jsou přítomny ve slinách,",
@@ -26547,7 +26547,7 @@
 	{
 		"id": 866,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 866,
 		"type": "choice",
 		"text": "Pokud jsou živočišné enzymy vystaveny vysoké teplotě (např. nad 100 °C), pa probíhá",
@@ -26577,7 +26577,7 @@
 	{
 		"id": 867,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 867,
 		"type": "choice",
 		"text": "Jak se jmenuje látka, kterou tvoří dvě aminokyseliny navzájem spojené amidovo vazbou?",
@@ -26607,7 +26607,7 @@
 	{
 		"id": 868,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 868,
 		"type": "choice",
 		"text": "Co je triacylglycerol?",
@@ -26638,7 +26638,7 @@
 	{
 		"id": 869,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 869,
 		"type": "choice",
 		"text": "Z jakých prvků jsou složeny triacylglyceroly, součásti přírodních tuků?",
@@ -26668,7 +26668,7 @@
 	{
 		"id": 870,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 870,
 		"type": "choice",
 		"text": "Lidské vlasy, nehty, zvířecí drápy a pavučiny obsahují jeden stejný protein. Je to",
@@ -26698,7 +26698,7 @@
 	{
 		"id": 871,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 871,
 		"type": "choice",
 		"text": "Histon je",
@@ -26729,7 +26729,7 @@
 	{
 		"id": 872,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 872,
 		"type": "choice",
 		"text": "Synonymum pro protilátky je",
@@ -26759,7 +26759,7 @@
 	{
 		"id": 873,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 873,
 		"type": "choice",
 		"text": "Chitin je",
@@ -26789,7 +26789,7 @@
 	{
 		"id": 874,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 874,
 		"type": "choice",
 		"text": "Reakční rychlost",
@@ -26819,7 +26819,7 @@
 	{
 		"id": 875,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 875,
 		"type": "choice",
 		"text": "Enzymy",
@@ -26849,7 +26849,7 @@
 	{
 		"id": 876,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 876,
 		"type": "choice",
 		"text": "Konečným/i produktem/produkty ethanolového kvašení je",
@@ -26879,7 +26879,7 @@
 	{
 		"id": 877,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 877,
 		"type": "choice",
 		"text": "Za aerobních podmínek je konečným produktem odbourávámí glukózy u člověka;",
@@ -26909,7 +26909,7 @@
 	{
 		"id": 878,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 878,
 		"type": "choice",
 		"text": "Od anorganických katalyzátorů se enzymy liší",
@@ -26942,7 +26942,7 @@
 	{
 		"id": 879,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 879,
 		"type": "choice",
 		"text": "Enzymy ze třídy transferáz",
@@ -26973,7 +26973,7 @@
 	{
 		"id": 880,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 880,
 		"type": "choice",
 		"text": "Enzymy ze třídy oxidoreduktáz",
@@ -27004,7 +27004,7 @@
 	{
 		"id": 881,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 881,
 		"type": "choice",
 		"text": "Ligázy",
@@ -27035,7 +27035,7 @@
 	{
 		"id": 882,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 882,
 		"type": "choice",
 		"text": "Lyázy",
@@ -27065,7 +27065,7 @@
 	{
 		"id": 883,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 883,
 		"type": "choice",
 		"text": "Nebílkovinné složky enzymů",
@@ -27097,7 +27097,7 @@
 	{
 		"id": 884,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 884,
 		"type": "choice",
 		"text": "Mezi koenzymy patří",
@@ -27128,7 +27128,7 @@
 	{
 		"id": 885,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 885,
 		"type": "choice",
 		"text": "Biologický a klinický význam enzymů spočívá v",
@@ -27159,7 +27159,7 @@
 	{
 		"id": 886,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 886,
 		"type": "choice",
 		"text": "Proenzym je",
@@ -27189,7 +27189,7 @@
 	{
 		"id": 887,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 887,
 		"type": "choice",
 		"text": "Beta-oxidace je proces, jehož konečným/i produktem/produkty je/jsou",
@@ -27219,7 +27219,7 @@
 	{
 		"id": 888,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 888,
 		"type": "choice",
 		"text": "Štěpení tuků je reakce",
@@ -27250,7 +27250,7 @@
 	{
 		"id": 889,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 889,
 		"type": "choice",
 		"text": "V citrátovém cyklu se",
@@ -27281,7 +27281,7 @@
 	{
 		"id": 890,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 890,
 		"type": "choice",
 		"text": "Metabolizmem se nazývá",
@@ -27311,7 +27311,7 @@
 	{
 		"id": 891,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 891,
 		"type": "choice",
 		"text": "Anabolický pochod znamená",
@@ -27342,7 +27342,7 @@
 	{
 		"id": 892,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 892,
 		"type": "choice",
 		"text": "Katabolický děj je",
@@ -27373,7 +27373,7 @@
 	{
 		"id": 893,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 893,
 		"type": "choice",
 		"text": "Cholesterol je",
@@ -27404,7 +27404,7 @@
 	{
 		"id": 894,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 894,
 		"type": "choice",
 		"text": "Testosteron, mužský pohlavní hormon je",
@@ -27434,7 +27434,7 @@
 	{
 		"id": 895,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 895,
 		"type": "choice",
 		"text": "Progesteron je",
@@ -27465,7 +27465,7 @@
 	{
 		"id": 896,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 896,
 		"type": "choice",
 		"text": "Insulin je",
@@ -27496,7 +27496,7 @@
 	{
 		"id": 897,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 897,
 		"type": "choice",
 		"text": "Cukrovka je onemocnění, při kterém hraje podstatnou úlohu",
@@ -27526,7 +27526,7 @@
 	{
 		"id": 898,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 898,
 		"type": "choice",
 		"text": "Vitamíny jsou",
@@ -27556,7 +27556,7 @@
 	{
 		"id": 899,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 899,
 		"type": "choice",
 		"text": "Vitamin A",
@@ -27588,7 +27588,7 @@
 	{
 		"id": 900,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 900,
 		"type": "choice",
 		"text": "Vitamín D",
@@ -27620,7 +27620,7 @@
 	{
 		"id": 901,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 901,
 		"type": "choice",
 		"text": "NAD+ a NADH se",
@@ -27650,7 +27650,7 @@
 	{
 		"id": 902,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 902,
 		"type": "choice",
 		"text": "Aktivní transport je",
@@ -27682,7 +27682,7 @@
 	{
 		"id": 903,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 903,
 		"type": "choice",
 		"text": "Adrenalin je",
@@ -27713,7 +27713,7 @@
 	{
 		"id": 904,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 904,
 		"type": "choice",
 		"text": "Allosterický efekt je",
@@ -27745,7 +27745,7 @@
 	{
 		"id": 905,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 905,
 		"type": "choice",
 		"text": "Alfa-helix je",
@@ -27776,7 +27776,7 @@
 	{
 		"id": 906,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 906,
 		"type": "choice",
 		"text": "Epitop",
@@ -27806,7 +27806,7 @@
 	{
 		"id": 907,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 907,
 		"type": "choice",
 		"text": "Isoenzymy",
@@ -27836,7 +27836,7 @@
 	{
 		"id": 908,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 908,
 		"type": "choice",
 		"text": "Micela",
@@ -27867,7 +27867,7 @@
 	{
 		"id": 909,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 909,
 		"type": "choice",
 		"text": "Gel je",
@@ -27898,7 +27898,7 @@
 	{
 		"id": 910,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 910,
 		"type": "choice",
 		"text": "Chromatografie je",
@@ -27928,7 +27928,7 @@
 	{
 		"id": 911,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 911,
 		"type": "choice",
 		"text": "Primární struktura bílkoviny je",
@@ -27959,7 +27959,7 @@
 	{
 		"id": 912,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 912,
 		"type": "choice",
 		"text": "Škrob a glykogen",
@@ -27990,7 +27990,7 @@
 	{
 		"id": 913,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 913,
 		"type": "choice",
 		"text": "Glukóza přijatá potravou může být v lidském těle",
@@ -28022,7 +28022,7 @@
 	{
 		"id": 914,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 914,
 		"type": "choice",
 		"text": "Která/é z následujících látek se přirozeně nevyskytuje/í v živých buňkách?",
@@ -28052,7 +28052,7 @@
 	{
 		"id": 915,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 915,
 		"type": "choice",
 		"text": "Aminokyseliny, které obsahují další aminoskupinu v postranním řetězci jsou",
@@ -28083,7 +28083,7 @@
 	{
 		"id": 916,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 916,
 		"type": "choice",
 		"text": "Aminokyselina/y obsahující v postranním řetězci síru je/jsou",
@@ -28113,7 +28113,7 @@
 	{
 		"id": 917,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 917,
 		"type": "choice",
 		"text": "Aminokyselina/y obsahující v postranním řetězci hydroxylovou skupinu je/jsou",
@@ -28144,7 +28144,7 @@
 	{
 		"id": 918,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 918,
 		"type": "choice",
 		"text": "Aminokyselina/y, která/é ve své molekule obsahuje aromatický kruh je/jsou",
@@ -28176,7 +28176,7 @@
 	{
 		"id": 919,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 919,
 		"type": "choice",
 		"text": "Aminokyselina/y obsahující ve své molekule amidovou vazbu je/jsou",
@@ -28207,7 +28207,7 @@
 	{
 		"id": 920,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 920,
 		"type": "choice",
 		"text": "Která z uvedených látek je v lidském těle nejvíce zastoupena (tj. tuto látk obsahuje lidské tělo v největším množství)",
@@ -28237,7 +28237,7 @@
 	{
 		"id": 921,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 921,
 		"type": "choice",
 		"text": "Tuky jsou",
@@ -28267,7 +28267,7 @@
 	{
 		"id": 922,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 922,
 		"type": "choice",
 		"text": "Inositol je",
@@ -28298,7 +28298,7 @@
 	{
 		"id": 923,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 923,
 		"type": "choice",
 		"text": "Kolagen je",
@@ -28330,7 +28330,7 @@
 	{
 		"id": 924,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 924,
 		"type": "choice",
 		"text": "Globulární bílkoviny",
@@ -28361,7 +28361,7 @@
 	{
 		"id": 925,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 925,
 		"type": "choice",
 		"text": "Glykoproteiny",
@@ -28391,7 +28391,7 @@
 	{
 		"id": 926,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 926,
 		"type": "choice",
 		"text": "Kyselou hydrolýzou polysacharidu vznikají",
@@ -28422,7 +28422,7 @@
 	{
 		"id": 927,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 927,
 		"type": "choice",
 		"text": "Monosacharidy jsou",
@@ -28453,7 +28453,7 @@
 	{
 		"id": 928,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 928,
 		"type": "choice",
 		"text": "Polysacharidy mohou mít funkci",
@@ -28484,7 +28484,7 @@
 	{
 		"id": 929,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 929,
 		"type": "choice",
 		"text": "Mezi disacharidy patří",
@@ -28515,7 +28515,7 @@
 	{
 		"id": 930,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 930,
 		"type": "choice",
 		"text": "Celulóza",
@@ -28546,7 +28546,7 @@
 	{
 		"id": 931,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 931,
 		"type": "choice",
 		"text": "Fruktóza",
@@ -28577,7 +28577,7 @@
 	{
 		"id": 932,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 932,
 		"type": "choice",
 		"text": "Inulin je",
@@ -28608,7 +28608,7 @@
 	{
 		"id": 933,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 933,
 		"type": "choice",
 		"text": "Který/é výrok/y je/jsou nesprávný/é",
@@ -28638,7 +28638,7 @@
 	{
 		"id": 934,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 934,
 		"type": "choice",
 		"text": "Který/é výrok/y je/jsou nesprávný/é",
@@ -28669,7 +28669,7 @@
 	{
 		"id": 935,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 935,
 		"type": "choice",
 		"text": "Vitamín B6 je odvozený od",
@@ -28699,7 +28699,7 @@
 	{
 		"id": 936,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 936,
 		"type": "choice",
 		"text": "Který/é výrok/y je/jsou nesprávný/é",
@@ -28730,7 +28730,7 @@
 	{
 		"id": 937,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 937,
 		"type": "choice",
 		"text": "Který/é výrok/y je/jsou nesprávný/é",
@@ -28761,7 +28761,7 @@
 	{
 		"id": 938,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 938,
 		"type": "choice",
 		"text": "Který/é výrok/y je/jsou nesprávný/é",
@@ -28792,7 +28792,7 @@
 	{
 		"id": 939,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 939,
 		"type": "choice",
 		"text": "Který/é výrok/y je/jsou nesprávný/é",
@@ -28823,7 +28823,7 @@
 	{
 		"id": 940,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 940,
 		"type": "choice",
 		"text": "Který/é výrok/y je/jsou nesprávný/é",
@@ -28853,7 +28853,7 @@
 	{
 		"id": 941,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 941,
 		"type": "choice",
 		"text": "Mezi alkaloidy obsažené v máku patří",
@@ -28883,7 +28883,7 @@
 	{
 		"id": 942,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 942,
 		"type": "choice",
 		"text": "Pyrol je součástí",
@@ -28913,7 +28913,7 @@
 	{
 		"id": 943,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 943,
 		"type": "choice",
 		"text": "Kyselina mléčná",
@@ -28944,7 +28944,7 @@
 	{
 		"id": 944,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 944,
 		"type": "choice",
 		"text": "Glukóza-6 fosfát vzniká v procesu glykolýzy. K jejímu vzniku tímto procesem j potřeba",
@@ -28975,7 +28975,7 @@
 	{
 		"id": 945,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 945,
 		"type": "choice",
 		"text": "Glyceraldehyd nebo jeho deriváty vznikají při",
@@ -29005,7 +29005,7 @@
 	{
 		"id": 946,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 946,
 		"type": "choice",
 		"text": "Sorbitol se od sorbózy liší",
@@ -29037,7 +29037,7 @@
 	{
 		"id": 947,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 947,
 		"type": "choice",
 		"text": "Glukóza",
@@ -29068,7 +29068,7 @@
 	{
 		"id": 948,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 948,
 		"type": "choice",
 		"text": "Během Krebsova cyklu dochází",
@@ -29099,7 +29099,7 @@
 	{
 		"id": 949,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 949,
 		"type": "choice",
 		"text": "Která/é typ/y reakce/í je/jsou důležitý/é v Krebsově cyklu?",
@@ -29132,7 +29132,7 @@
 	{
 		"id": 950,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 950,
 		"type": "choice",
 		"text": "Která/é dvojice má/mají stejný počet uhlíků?",
@@ -29163,7 +29163,7 @@
 	{
 		"id": 951,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 951,
 		"type": "choice",
 		"text": "Aflatoxin je",
@@ -29194,7 +29194,7 @@
 	{
 		"id": 952,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 952,
 		"type": "choice",
 		"text": "Botulotoxin",
@@ -29226,7 +29226,7 @@
 	{
 		"id": 953,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 953,
 		"type": "choice",
 		"text": "Triacylglyceroly jsou",
@@ -29258,7 +29258,7 @@
 	{
 		"id": 954,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 954,
 		"type": "choice",
 		"text": "Vitamín B12 ve své molekule obsahuje",
@@ -29288,7 +29288,7 @@
 	{
 		"id": 955,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 955,
 		"type": "choice",
 		"text": "Jako esenciální mastné kyseliny označujeme ty kyseliny, které",
@@ -29319,7 +29319,7 @@
 	{
 		"id": 956,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 956,
 		"type": "choice",
 		"text": "Při odbourávání bílkovin je/jsou produktem/produkty",
@@ -29350,7 +29350,7 @@
 	{
 		"id": 957,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 957,
 		"type": "choice",
 		"text": "Funkce žlučových kyselin je/jsou",
@@ -29380,7 +29380,7 @@
 	{
 		"id": 958,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 958,
 		"type": "choice",
 		"text": "Mezi lipidy nepatří",
@@ -29411,7 +29411,7 @@
 	{
 		"id": 959,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 959,
 		"type": "choice",
 		"text": "Fosforylace",
@@ -29442,7 +29442,7 @@
 	{
 		"id": 960,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 960,
 		"type": "choice",
 		"text": "Pojem hydrolýza",
@@ -29472,7 +29472,7 @@
 	{
 		"id": 961,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 961,
 		"type": "choice",
 		"text": "Katabolický děj je",
@@ -29502,7 +29502,7 @@
 	{
 		"id": 962,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 962,
 		"type": "choice",
 		"text": "Vyznačte, které ionty nebo prvky byly oxidován 2Ag(s) + Cu2+(aq) + S0% (aq) + 2Ag2+(aq) + Cu(s) + SO42-(aq)",
@@ -29532,7 +29532,7 @@
 	{
 		"id": 963,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 963,
 		"type": "choice",
 		"text": "Jaký je produkt/jaké jsou produkty následující reakce NaCl(aq) + H2SO4(aq) →",
@@ -29562,7 +29562,7 @@
 	{
 		"id": 964,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 964,
 		"type": "choice",
 		"text": "Jaké jsou produkty následující reakce NaHCO3(aq) + HCl(aq) →",
@@ -29593,7 +29593,7 @@
 	{
 		"id": 965,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 965,
 		"type": "choice",
 		"text": "Látky, které jsou silné elektrolyty mají následující vlastnost/i",
@@ -29624,7 +29624,7 @@
 	{
 		"id": 966,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 966,
 		"type": "choice",
 		"text": "Která ze sloučenin bude barevná a proč (tj. sloučenina nebude bezbarvá a bud mít jinou barvu než bílou)?",
@@ -29654,7 +29654,7 @@
 	{
 		"id": 967,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 967,
 		"type": "choice",
 		"text": "Který z uvedených prvků má nejvíce kovový charakter?",
@@ -29684,7 +29684,7 @@
 	{
 		"id": 968,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 968,
 		"type": "choice",
 		"text": "Který z následujících halogenů můžeme čistit za laboratorní teploty sublimací?",
@@ -29714,7 +29714,7 @@
 	{
 		"id": 969,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 969,
 		"type": "choice",
 		"text": "Při tvorbě sloučeniny mezi kovem a nekovem dochází k tomu, že",
@@ -29744,7 +29744,7 @@
 	{
 		"id": 970,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 970,
 		"type": "choice",
 		"text": "Atomy, které jsou v jedné skupině periodické tabulky mají určité shodné neb velmi blízké parametry. Těmi jsou",
@@ -29774,7 +29774,7 @@
 	{
 		"id": 971,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 971,
 		"type": "choice",
 		"text": "Který z následujících prvků má největší schopnost přitáhnout elektrony?",
@@ -29804,7 +29804,7 @@
 	{
 		"id": 972,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 972,
 		"type": "choice",
 		"text": "Za standardní teploty a tlaku (podle definice IUPAC) jsou vzácné plyn jednoatomové, ostatní plyny tvoří dvouatomové molekuly. Důvodem je, že",
@@ -29834,7 +29834,7 @@
 	{
 		"id": 973,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 973,
 		"type": "choice",
 		"text": "Proces, ve kterém dochází k 12 (s) → 12 (g) se nazývá",
@@ -29864,7 +29864,7 @@
 	{
 		"id": 974,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 974,
 		"type": "choice",
 		"text": "Vyberte správný/é název/názvy pro sloučeninu se vzorcem BaSO4",
@@ -29894,7 +29894,7 @@
 	{
 		"id": 975,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 975,
 		"type": "choice",
 		"text": "Vyberte správný/é název/názvy pro sloučeninu se vzorcem Sic",
@@ -29924,7 +29924,7 @@
 	{
 		"id": 976,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 976,
 		"type": "choice",
 		"text": "Vyberte správný/é název/názvy pro sloučeninu se vzorcem BH,",
@@ -29954,7 +29954,7 @@
 	{
 		"id": 977,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 977,
 		"type": "choice",
 		"text": "Vyberte správný/é název/názvy pro sloučeninu se vzorcem NH3",
@@ -29985,7 +29985,7 @@
 	{
 		"id": 978,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 978,
 		"type": "choice",
 		"text": "Vyberte správný/é název/názvy pro CO2 (s)",
@@ -30016,7 +30016,7 @@
 	{
 		"id": 979,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 979,
 		"type": "choice",
 		"text": "Vyberte správný/é název/názvy pro sloučeninu se vzorcem P2H2",
@@ -30046,7 +30046,7 @@
 	{
 		"id": 980,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 980,
 		"type": "choice",
 		"text": "Vyberte správný/é název/názvy pro sloučeninu se vzorcem Mn02",
@@ -30077,7 +30077,7 @@
 	{
 		"id": 981,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 981,
 		"type": "choice",
 		"text": "Vyberte správný/é název/názvy pro sloučeninu se vzorcem As2O3",
@@ -30108,7 +30108,7 @@
 	{
 		"id": 982,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 982,
 		"type": "choice",
 		"text": "Vyberte správný/é název/názvy pro sloučeninu se vzorcem MgTi03",
@@ -30138,7 +30138,7 @@
 	{
 		"id": 983,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 983,
 		"type": "choice",
 		"text": "Vyberte správný/é název/názvy pro sloučeninu se vzorcem 2 Cu(OH)2 · Cr(OH)3",
@@ -30168,7 +30168,7 @@
 	{
 		"id": 984,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 984,
 		"type": "choice",
 		"text": "Vyberte správný/é název/názvy pro vodný roztok H2S",
@@ -30199,7 +30199,7 @@
 	{
 		"id": 985,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 985,
 		"type": "choice",
 		"text": "Vyberte správný/é název/názvy pro sloučeninu se vzorcem H3106",
@@ -30229,7 +30229,7 @@
 	{
 		"id": 986,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 986,
 		"type": "choice",
 		"text": "Vyberte správný/é název/názvy pro sloučeninu se vzorcem HOCN",
@@ -30259,7 +30259,7 @@
 	{
 		"id": 987,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 987,
 		"type": "choice",
 		"text": "Vyberte správný/é název/názvy pro sloučeninu se vzorcem H2Cr20,",
@@ -30289,7 +30289,7 @@
 	{
 		"id": 988,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 988,
 		"type": "choice",
 		"text": "Vyberte správný/é název/názvy pro sloučeninu se vzorcem NOCI",
@@ -30319,7 +30319,7 @@
 	{
 		"id": 989,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 989,
 		"type": "choice",
 		"text": "Vyberte správný/é výrok/y",
@@ -30349,7 +30349,7 @@
 	{
 		"id": 990,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 990,
 		"type": "choice",
 		"text": "Správný zápis iontové rovnice popisující vznik síranu sodného z kyseliny sírové hydroxidu sodného je",
@@ -30379,7 +30379,7 @@
 	{
 		"id": 991,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 991,
 		"type": "choice",
 		"text": "Rovnice Ag(+) + C1(-) → JAgCl popisuje",
@@ -30410,7 +30410,7 @@
 	{
 		"id": 992,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 992,
 		"type": "choice",
 		"text": "Správná/é iontová/é rovnice pro reakci jodidu draselného s dusičnane stříbrným za vzniku dusičnanu draselného a sraženiny jodidu stříbrného je/jsou",
@@ -30440,7 +30440,7 @@
 	{
 		"id": 993,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 993,
 		"type": "choice",
 		"text": "Jaká/é je/jsou správná/správné iontová/é rovnice popisující reakci chroman draselného se stříbrnými solemi za vzniku sraženiny chromanu stříbrného Vyberte z možností.",
@@ -30470,7 +30470,7 @@
 	{
 		"id": 994,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 994,
 		"type": "choice",
 		"text": "Jaká/é je/jsou správná/správné iontová/é rovnice popisující reakci stříbrnýc solí s rozpustnými chlorovými solemi za vzniku sraženiny chloridu stříbrného Vyberte z možností.",
@@ -30500,7 +30500,7 @@
 	{
 		"id": 995,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 995,
 		"type": "choice",
 		"text": "Rovnice Fe°(s) + Cu\"SO4(aq) → Cuº(s) + FelISO4(aq) vyjadřuje děj, který patří mezi",
@@ -30530,7 +30530,7 @@
 	{
 		"id": 996,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 996,
 		"type": "choice",
 		"text": "Rovnice CuSO4 + 4H20 → [Cu(H2O)4]SO4 vyjadřuje děj, který patří mezi",
@@ -30561,7 +30561,7 @@
 	{
 		"id": 997,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 997,
 		"type": "choice",
 		"text": "Jaká/é je/jsou správná/správné iontová/é rovnice popisující vznik síran barnatého z chloridu barnatého? Vyberte z možností.",
@@ -30591,7 +30591,7 @@
 	{
 		"id": 998,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 998,
 		"type": "choice",
 		"text": "Vyberte správná tvrzení. V komplexním kationtu [Cu(NH3)4]2+",
@@ -30623,7 +30623,7 @@
 	{
 		"id": 999,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 999,
 		"type": "choice",
 		"text": "Vyberte správná tvrzení. V komplexním aniontu [Fe(CN)6]3-",
@@ -30654,7 +30654,7 @@
 	{
 		"id": 1000,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1000,
 		"type": "choice",
 		"text": "Koordinační sloučenina s větším počtem centrálních atomů či iontů se nazývá",
@@ -30684,7 +30684,7 @@
 	{
 		"id": 1001,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1001,
 		"type": "choice",
 		"text": "V názvu koordinační sloučeniny se",
@@ -30715,7 +30715,7 @@
 	{
 		"id": 1002,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1002,
 		"type": "choice",
 		"text": "V koordinační sloučenině",
@@ -30746,7 +30746,7 @@
 	{
 		"id": 1003,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1003,
 		"type": "choice",
 		"text": "Molekula uvedená na obrázk má triviální název",
@@ -30776,7 +30776,7 @@
 	{
 		"id": 1004,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1004,
 		"type": "choice",
 		"text": "Molekula uvedená na obrázku",
@@ -30806,7 +30806,7 @@
 	{
 		"id": 1005,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1005,
 		"type": "choice",
 		"text": "Molekula uvedená na obrázku",
@@ -30836,7 +30836,7 @@
 	{
 		"id": 1006,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1006,
 		"type": "choice",
 		"text": "Molekula uvedená na obrázku",
@@ -30866,7 +30866,7 @@
 	{
 		"id": 1007,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1007,
 		"type": "choice",
 		"text": "Molekula uvedená na obrázk má triviální název",
@@ -30896,7 +30896,7 @@
 	{
 		"id": 1008,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1008,
 		"type": "choice",
 		"text": "Molekula uvedená na obrázku",
@@ -30926,7 +30926,7 @@
 	{
 		"id": 1009,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1009,
 		"type": "choice",
 		"text": "Molekula uvedená na obrázku",
@@ -30956,7 +30956,7 @@
 	{
 		"id": 1010,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1010,
 		"type": "choice",
 		"text": "Molekula uvedená na obrázku",
@@ -30986,7 +30986,7 @@
 	{
 		"id": 1011,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1011,
 		"type": "choice",
 		"text": "Molekula uvedená na obrázku",
@@ -31016,7 +31016,7 @@
 	{
 		"id": 1012,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1012,
 		"type": "choice",
 		"text": "Molekula uvedená na obrázku",
@@ -31046,7 +31046,7 @@
 	{
 		"id": 1013,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1013,
 		"type": "choice",
 		"text": "V periodické soustavě prvků jsou atomy seřazeny podle",
@@ -31077,7 +31077,7 @@
 	{
 		"id": 1014,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1014,
 		"type": "choice",
 		"text": "Pro atomy vzácných plynů, kromě helia, v základním stavu platí",
@@ -31108,7 +31108,7 @@
 	{
 		"id": 1015,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1015,
 		"type": "choice",
 		"text": "Helium",
@@ -31139,7 +31139,7 @@
 	{
 		"id": 1016,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1016,
 		"type": "choice",
 		"text": "Mezi vnitřně přechodné prvky",
@@ -31171,7 +31171,7 @@
 	{
 		"id": 1017,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1017,
 		"type": "choice",
 		"text": "První perioda Mendělejevovy periodické tabulky prvků obsahuje",
@@ -31201,7 +31201,7 @@
 	{
 		"id": 1018,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1018,
 		"type": "choice",
 		"text": "Ve třetí periodě Mendělejevovy periodické tabulky prvků nalezneme",
@@ -31232,7 +31232,7 @@
 	{
 		"id": 1019,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1019,
 		"type": "choice",
 		"text": "Prvky první periody",
@@ -31262,7 +31262,7 @@
 	{
 		"id": 1020,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1020,
 		"type": "choice",
 		"text": "Mezi přechodné prvky patří",
@@ -31292,7 +31292,7 @@
 	{
 		"id": 1021,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1021,
 		"type": "choice",
 		"text": "Najděte správné výroky",
@@ -31323,7 +31323,7 @@
 	{
 		"id": 1022,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1022,
 		"type": "choice",
 		"text": "Vyberte správné výroky",
@@ -31354,7 +31354,7 @@
 	{
 		"id": 1023,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1023,
 		"type": "choice",
 		"text": "Vyberte správné výroky",
@@ -31385,7 +31385,7 @@
 	{
 		"id": 1024,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1024,
 		"type": "choice",
 		"text": "Vyberte správné výroky",
@@ -31416,7 +31416,7 @@
 	{
 		"id": 1025,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1025,
 		"type": "choice",
 		"text": "Vyberte správné výroky. Molekula",
@@ -31447,7 +31447,7 @@
 	{
 		"id": 1026,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1026,
 		"type": "choice",
 		"text": "Vyberte správné výroky. Relativní atomová hmotnost je definována jako",
@@ -31477,7 +31477,7 @@
 	{
 		"id": 1027,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1027,
 		"type": "choice",
 		"text": "Který/é z uvedených výroků je/jsou správné?",
@@ -31508,7 +31508,7 @@
 	{
 		"id": 1028,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1028,
 		"type": "choice",
 		"text": "Látky složené z atomů, které se vyznačují stejným protonovým i nukleonový číslem se nazývají",
@@ -31538,7 +31538,7 @@
 	{
 		"id": 1029,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1029,
 		"type": "choice",
 		"text": "Vyberte správné/á tvrzení",
@@ -31569,7 +31569,7 @@
 	{
 		"id": 1030,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1030,
 		"type": "choice",
 		"text": "Planckova konstanta má rozměr",
@@ -31599,7 +31599,7 @@
 	{
 		"id": 1031,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1031,
 		"type": "choice",
 		"text": "Fotoelektrický jev vysvětluje",
@@ -31630,7 +31630,7 @@
 	{
 		"id": 1032,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1032,
 		"type": "choice",
 		"text": "Nukleony",
@@ -31660,7 +31660,7 @@
 	{
 		"id": 1033,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1033,
 		"type": "choice",
 		"text": "Vyberte správnou možnost/správné možnosti. Písmeno l označuje vedlejš kvantové číslo. Magnetické kvantové číslo",
@@ -31690,7 +31690,7 @@
 	{
 		"id": 1034,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1034,
 		"type": "choice",
 		"text": "Vyberte správnou odpověd/správné odpovědi. Mají různé izotopy téhož prvk shodnou elektronovou konfiguraci?",
@@ -31720,7 +31720,7 @@
 	{
 		"id": 1035,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1035,
 		"type": "choice",
 		"text": "Elektronová konfigurac 1s 2s2 2 163s1 bude příslušet",
@@ -31750,7 +31750,7 @@
 	{
 		"id": 1036,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1036,
 		"type": "choice",
 		"text": "Elektronová konfigurace 1s 2s 2p 3s 3pó 4s2 bude příslušet",
@@ -31780,7 +31780,7 @@
 	{
 		"id": 1037,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1037,
 		"type": "choice",
 		"text": "Elektronová konfigurace 1s 2s 2p5 bude příslušet",
@@ -31810,7 +31810,7 @@
 	{
 		"id": 1038,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1038,
 		"type": "choice",
 		"text": "Elektronová konfigurace 1s2 2s 2pº bude příslušet",
@@ -31840,7 +31840,7 @@
 	{
 		"id": 1039,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1039,
 		"type": "choice",
 		"text": "Celkový počet elektronů v zaplněných orbitalech s, p, dafje",
@@ -31870,7 +31870,7 @@
 	{
 		"id": 1040,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1040,
 		"type": "choice",
 		"text": "Jaká elektronová konfigurace bude příslušet atomu 6C v základním stavu?",
@@ -31900,7 +31900,7 @@
 	{
 		"id": 1041,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1041,
 		"type": "choice",
 		"text": "Jaká elektronová konfigurace bude příslušet atomu „N v základním stavu?",
@@ -31931,7 +31931,7 @@
 	{
 		"id": 1042,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1042,
 		"type": "choice",
 		"text": "Jaká elektronová konfigurace bude příslušet atomu 11 Na v základním stavu?",
@@ -31961,7 +31961,7 @@
 	{
 		"id": 1043,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1043,
 		"type": "choice",
 		"text": "Jaká elektronová konfigurace bude příslušet atomu 30 v základním stavu?",
@@ -31992,7 +31992,7 @@
 	{
 		"id": 1044,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1044,
 		"type": "choice",
 		"text": "Jaká elektronová konfigurace bude příslušet atomu 5B v základním stavu?",
@@ -32022,7 +32022,7 @@
 	{
 		"id": 1045,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1045,
 		"type": "choice",
 		"text": "Jaká je elektronová konfigurace uhlíku 6C* (tj. v 1. excitovaném stavu)?",
@@ -32053,7 +32053,7 @@
 	{
 		"id": 1046,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1046,
 		"type": "choice",
 		"text": "Ionizační energie v řadě Li, Na, K, Rb, Cs",
@@ -32083,7 +32083,7 @@
 	{
 		"id": 1047,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1047,
 		"type": "choice",
 		"text": "Vyberte správnou/é definici/definice. Orbital je",
@@ -32113,7 +32113,7 @@
 	{
 		"id": 1048,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1048,
 		"type": "choice",
 		"text": "Vazebnou energií nazýváme",
@@ -32144,7 +32144,7 @@
 	{
 		"id": 1049,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1049,
 		"type": "choice",
 		"text": "V molekule NH4Cl nalezneme vazby",
@@ -32175,7 +32175,7 @@
 	{
 		"id": 1050,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1050,
 		"type": "choice",
 		"text": "Vznik chemické vazby mezi dvěma atomy",
@@ -32206,7 +32206,7 @@
 	{
 		"id": 1051,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1051,
 		"type": "choice",
 		"text": "Excitovaný stav je",
@@ -32236,7 +32236,7 @@
 	{
 		"id": 1052,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1052,
 		"type": "choice",
 		"text": "Elektronová konfigurace 2s 2p² patří",
@@ -32266,7 +32266,7 @@
 	{
 		"id": 1053,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1053,
 		"type": "choice",
 		"text": "Stav atomu o nejnižší energii se nazývá",
@@ -32296,7 +32296,7 @@
 	{
 		"id": 1054,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1054,
 		"type": "choice",
 		"text": "Obsazování jednotlivých orbitalů elektrony, neboli elektronová konfigurace atom v základním stavu se řídí následujícími principy",
@@ -32328,7 +32328,7 @@
 	{
 		"id": 1055,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1055,
 		"type": "choice",
 		"text": "Pauliho vylučovací princip pro obsazování jednotlivých orbitalů elektron v základním stavu zní",
@@ -32358,7 +32358,7 @@
 	{
 		"id": 1056,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1056,
 		"type": "choice",
 		"text": "Vyberte správný/é výrok/y",
@@ -32389,7 +32389,7 @@
 	{
 		"id": 1057,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1057,
 		"type": "choice",
 		"text": "Hundovo pravidlo pro obsazování jednotlivých orbitalů elektrony v základní stavu zní",
@@ -32419,7 +32419,7 @@
 	{
 		"id": 1058,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1058,
 		"type": "choice",
 		"text": "Elektronegativní může být",
@@ -32449,7 +32449,7 @@
 	{
 		"id": 1059,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1059,
 		"type": "choice",
 		"text": "Pevnost chemické vazby se hodnotí podle",
@@ -32479,7 +32479,7 @@
 	{
 		"id": 1060,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1060,
 		"type": "choice",
 		"text": "O kovalentní vazbě platí",
@@ -32511,7 +32511,7 @@
 	{
 		"id": 1061,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1061,
 		"type": "choice",
 		"text": "Kovalentní vazba nemůže vzniknout tímto postupem",
@@ -32542,7 +32542,7 @@
 	{
 		"id": 1062,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1062,
 		"type": "choice",
 		"text": "Které z následujících výroků o kovalentní vazbě o jsou pravdivé",
@@ -32572,7 +32572,7 @@
 	{
 		"id": 1063,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1063,
 		"type": "choice",
 		"text": "Jednoduchá kovalentní vazba je",
@@ -32602,7 +32602,7 @@
 	{
 		"id": 1064,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1064,
 		"type": "choice",
 		"text": "Vazby C-H v metanu jsou tvořeny",
@@ -32632,7 +32632,7 @@
 	{
 		"id": 1065,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1065,
 		"type": "choice",
 		"text": "Komplexní vazba",
@@ -32663,7 +32663,7 @@
 	{
 		"id": 1066,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1066,
 		"type": "choice",
 		"text": "Elektronegativita je",
@@ -32693,7 +32693,7 @@
 	{
 		"id": 1067,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1067,
 		"type": "choice",
 		"text": "Hybridizace je",
@@ -32723,7 +32723,7 @@
 	{
 		"id": 1068,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1068,
 		"type": "choice",
 		"text": "Hybridní orbital",
@@ -32753,7 +32753,7 @@
 	{
 		"id": 1069,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1069,
 		"type": "choice",
 		"text": "Polarita kovalentní vazby je způsobena",
@@ -32783,7 +32783,7 @@
 	{
 		"id": 1070,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1070,
 		"type": "choice",
 		"text": "Elektrický dipólový moment charakterizuje",
@@ -32813,7 +32813,7 @@
 	{
 		"id": 1071,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1071,
 		"type": "choice",
 		"text": "van der Waalsovy síly",
@@ -32843,7 +32843,7 @@
 	{
 		"id": 1072,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1072,
 		"type": "choice",
 		"text": "Vodíková vazba (vodíkový můstek)",
@@ -32873,7 +32873,7 @@
 	{
 		"id": 1073,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1073,
 		"type": "choice",
 		"text": "Vodíkové můstky nevznikají",
@@ -32904,7 +32904,7 @@
 	{
 		"id": 1074,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1074,
 		"type": "choice",
 		"text": "Vodíkové můstky",
@@ -32934,7 +32934,7 @@
 	{
 		"id": 1075,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1075,
 		"type": "choice",
 		"text": "Označte typ vazby v molekule kyslíku",
@@ -32964,7 +32964,7 @@
 	{
 		"id": 1076,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1076,
 		"type": "choice",
 		"text": "Označte typ vazby v molekule chloru",
@@ -32994,7 +32994,7 @@
 	{
 		"id": 1077,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1077,
 		"type": "choice",
 		"text": "Charakterizujte typ vazby v molekule chloridu sodného",
@@ -33024,7 +33024,7 @@
 	{
 		"id": 1078,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1078,
 		"type": "choice",
 		"text": "Která/é z následujících sloučenin netvoří vodíkové můstky",
@@ -33055,7 +33055,7 @@
 	{
 		"id": 1079,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1079,
 		"type": "choice",
 		"text": "Která/é z následujících sloučenin netvoří vodíkové můstky",
@@ -33086,7 +33086,7 @@
 	{
 		"id": 1080,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1080,
 		"type": "choice",
 		"text": "Pokud má prvek malou ionizační energii, potom",
@@ -33116,7 +33116,7 @@
 	{
 		"id": 1081,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1081,
 		"type": "choice",
 		"text": "Anionty se snadno tvoří z prvků, které",
@@ -33147,7 +33147,7 @@
 	{
 		"id": 1082,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1082,
 		"type": "choice",
 		"text": "Reakční teplo je",
@@ -33177,7 +33177,7 @@
 	{
 		"id": 1083,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1083,
 		"type": "choice",
 		"text": "První termochemický zákon říká",
@@ -33207,7 +33207,7 @@
 	{
 		"id": 1084,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1084,
 		"type": "choice",
 		"text": "Druhý termochemický zákon říká",
@@ -33237,7 +33237,7 @@
 	{
 		"id": 1085,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1085,
 		"type": "choice",
 		"text": "Jestliže je reakce exotermní, pak platí",
@@ -33267,7 +33267,7 @@
 	{
 		"id": 1086,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1086,
 		"type": "choice",
 		"text": "První termodynamický zákon",
@@ -33298,7 +33298,7 @@
 	{
 		"id": 1087,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1087,
 		"type": "choice",
 		"text": "Druhý termodynamický zákon",
@@ -33329,7 +33329,7 @@
 	{
 		"id": 1088,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1088,
 		"type": "choice",
 		"text": "Třetí termodynamický zákon",
@@ -33360,7 +33360,7 @@
 	{
 		"id": 1089,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1089,
 		"type": "choice",
 		"text": "Brönstedova kyselina",
@@ -33390,7 +33390,7 @@
 	{
 		"id": 1090,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1090,
 		"type": "choice",
 		"text": "Brönstedova zásada",
@@ -33421,7 +33421,7 @@
 	{
 		"id": 1091,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1091,
 		"type": "choice",
 		"text": "Vacidobazické rovnovážné reakci popsané rovnic CH3COOH + H20 H30* + CH3C0 Jsou tyto konjugované páry (ve smyslu Brönstedovy teorie kyselin a zásad)",
@@ -33452,10 +33452,10 @@
 	{
 		"id": 1092,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1092,
 		"type": "choice",
-		"text": "Vacidobazické rovnovážné reakci popsané reakcí CH3COOH + H20 H30* + CH3C00 je rovnovážná konstanta Kc vyjádřena vzorcem (koncentrace v hranatýc závorkách představují rovnovážné koncentrace)",
+		"text": "Vacidobazické rovnovážné reakci popsané reakcí CH3COOH + H20 H30* + CH3C00- j rovnovážná konstanta Kc vyjádřena vzorcem (koncentrace v hranatýc závorkách představují rovnovážné koncentrace)",
 		"multiple": true,
 		"correct": [
 			3
@@ -33482,10 +33482,10 @@
 	{
 		"id": 1093,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1093,
 		"type": "choice",
-		"text": "Zacidobazické rovnovážné reakce popsané reakcí CH3COOH + H20 H30* + CH3C00 můžeme vyjádřit disociační konstantu kyseliny octové K, výrazem",
+		"text": "Zacidobazické rovnovážné reakce popsané reakcí CH3COOH + H20 H30* + CH3C00- můžem vyjádřit disociační konstantu kyseliny octové K, výrazem",
 		"multiple": true,
 		"correct": [
 			2
@@ -33512,7 +33512,7 @@
 	{
 		"id": 1094,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1094,
 		"type": "choice",
 		"text": "Iontový součin autoprotolýzy vody, tj. reakce 2H20 H30* + OH- má při 25° přibližně hodnotu (předpokládáme, že roztok se chová ideálně)",
@@ -33542,7 +33542,7 @@
 	{
 		"id": 1095,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1095,
 		"type": "choice",
 		"text": "Pro kyselé vodné roztoky platí",
@@ -33572,7 +33572,7 @@
 	{
 		"id": 1096,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1096,
 		"type": "choice",
 		"text": "Redoxními reakcemi se nazývají reakce",
@@ -33602,7 +33602,7 @@
 	{
 		"id": 1097,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1097,
 		"type": "choice",
 		"text": "Oxidace je reakce, při níž",
@@ -33632,7 +33632,7 @@
 	{
 		"id": 1098,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1098,
 		"type": "choice",
 		"text": "Redukce je reakce, při níž",
@@ -33662,7 +33662,7 @@
 	{
 		"id": 1099,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1099,
 		"type": "choice",
 		"text": "Oxidační činidlo je látka, která",
@@ -33692,7 +33692,7 @@
 	{
 		"id": 1100,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1100,
 		"type": "choice",
 		"text": "Redukční činidlo je látka, která",
@@ -33722,7 +33722,7 @@
 	{
 		"id": 1101,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1101,
 		"type": "choice",
 		"text": "Který/které z uvedených vztahů je/jsou správné pro dva různé plyny A a B Podmínky: stálá teplota i tlak, m je hmotnost, M je relativní molekulov hmotnost, p je hustota a c je koncentrace",
@@ -33754,7 +33754,7 @@
 	{
 		"id": 1102,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1102,
 		"type": "choice",
 		"text": "Katalyzátor je látka, která",
@@ -33784,7 +33784,7 @@
 	{
 		"id": 1103,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1103,
 		"type": "choice",
 		"text": "Látka, které říkáme hydrofilní se",
@@ -33814,7 +33814,7 @@
 	{
 		"id": 1104,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1104,
 		"type": "choice",
 		"text": "Adiabatický děj znamená, že",
@@ -33844,7 +33844,7 @@
 	{
 		"id": 1105,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1105,
 		"type": "choice",
 		"text": "U exotermických dějů má hodnota entalpie",
@@ -33874,7 +33874,7 @@
 	{
 		"id": 1106,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1106,
 		"type": "choice",
 		"text": "Reakční mechanismus je",
@@ -33905,7 +33905,7 @@
 	{
 		"id": 1107,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1107,
 		"type": "choice",
 		"text": "Rovnovážná konstanta reakce se se změnou teploty",
@@ -33935,7 +33935,7 @@
 	{
 		"id": 1108,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1108,
 		"type": "choice",
 		"text": "Jeden mol elektronů je",
@@ -33965,7 +33965,7 @@
 	{
 		"id": 1109,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1109,
 		"type": "choice",
 		"text": "Entropie je",
@@ -33995,7 +33995,7 @@
 	{
 		"id": 1110,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1110,
 		"type": "choice",
 		"text": "PV=nRT platí pouze",
@@ -34025,7 +34025,7 @@
 	{
 		"id": 1111,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1111,
 		"type": "choice",
 		"text": "Iontová vazba je",
@@ -34056,7 +34056,7 @@
 	{
 		"id": 1112,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1112,
 		"type": "choice",
 		"text": "Mezi kovalentní vazby nepatří - vyberte možnosti, kde jsou jen nekovalentní vazby",
@@ -34086,7 +34086,7 @@
 	{
 		"id": 1113,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1113,
 		"type": "choice",
 		"text": "Heterogenní směsí je",
@@ -34117,7 +34117,7 @@
 	{
 		"id": 1114,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1114,
 		"type": "choice",
 		"text": "Izotopy daného prvku se od sebe",
@@ -34147,7 +34147,7 @@
 	{
 		"id": 1115,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1115,
 		"type": "choice",
 		"text": "Aktivační energie reakce je",
@@ -34178,7 +34178,7 @@
 	{
 		"id": 1116,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1116,
 		"type": "choice",
 		"text": "Složení reakční směsi v rovnováze mohu ovlivnit",
@@ -34210,7 +34210,7 @@
 	{
 		"id": 1117,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1117,
 		"type": "choice",
 		"text": "Poločas (např. rozpadu) je u chemických přeměn",
@@ -34240,7 +34240,7 @@
 	{
 		"id": 1118,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1118,
 		"type": "choice",
 		"text": "Pomocí Hessova zákona lze",
@@ -34270,7 +34270,7 @@
 	{
 		"id": 1119,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1119,
 		"type": "choice",
 		"text": "Rozměr univerzální plynové konstanty ve stavové rovnici PV=nRT je",
@@ -34300,7 +34300,7 @@
 	{
 		"id": 1120,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1120,
 		"type": "choice",
 		"text": "Exotermní reakce bude vykazovat",
@@ -34330,7 +34330,7 @@
 	{
 		"id": 1121,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1121,
 		"type": "choice",
 		"text": "Endotermní reakce bude vykazovat",
@@ -34360,7 +34360,7 @@
 	{
 		"id": 1122,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1122,
 		"type": "choice",
 		"text": "Protická rozpouštědla jsou",
@@ -34390,7 +34390,7 @@
 	{
 		"id": 1123,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1123,
 		"type": "choice",
 		"text": "Která/é varianta/y představuje/í vzorec soli?",
@@ -34421,7 +34421,7 @@
 	{
 		"id": 1124,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1124,
 		"type": "choice",
 		"text": "Která z následujících látek je kyselinou podle Arrheniovy teorie?",
@@ -34452,7 +34452,7 @@
 	{
 		"id": 1125,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1125,
 		"type": "choice",
 		"text": "Která z látek bude reagovat alkalicky?",
@@ -34483,7 +34483,7 @@
 	{
 		"id": 1126,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1126,
 		"type": "choice",
 		"text": "Jaké je (přibližně) pH 0,00001 molárního vodného roztoku HCl? (Aktivitn koeficient považujte za roven 1)",
@@ -34513,7 +34513,7 @@
 	{
 		"id": 1127,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1127,
 		"type": "choice",
 		"text": "Jaká je přibližná koncentrace H30+ iontů ve vodném roztoku NaOH o koncentrac 0,01 molu? (Aktivitní koeficient považujte za roven 1)",
@@ -34543,7 +34543,7 @@
 	{
 		"id": 1128,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1128,
 		"type": "choice",
 		"text": "Roztok kyseliny sírové, síranu sodného a vody",
@@ -34573,7 +34573,7 @@
 	{
 		"id": 1129,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1129,
 		"type": "choice",
 		"text": "Podle Arrheniovy i Broenstedovy teorie je kyselina látka, která",
@@ -34604,7 +34604,7 @@
 	{
 		"id": 1130,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1130,
 		"type": "choice",
 		"text": "Který z následujících 0,1 M roztoků bude reagovat zásaditě? Ve vodném roztok zbarví fenolftalein do růžova až fialova",
@@ -34635,7 +34635,7 @@
 	{
 		"id": 1131,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1131,
 		"type": "choice",
 		"text": "Reakce H+ + OH = H20 je reakcí",
@@ -34665,7 +34665,7 @@
 	{
 		"id": 1132,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1132,
 		"type": "choice",
 		"text": "Kyselina chlorovodíková byla přesně neutralizována hydroxidem sodným. V vzniklé reakční směsi bude koncentrace hydroxoniového kationtu",
@@ -34695,7 +34695,7 @@
 	{
 		"id": 1133,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1133,
 		"type": "choice",
 		"text": "Když ve vodném roztoku vzroste koncentrace vodíkových iontů, jak se bude měni koncentrace hydroxylových aniontů?",
@@ -34726,7 +34726,7 @@
 	{
 		"id": 1134,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1134,
 		"type": "choice",
 		"text": "Student má připravit 100 ml vodného roztoku HCl o cílové koncentraci 6 mol/l. M k dispozici roztok HCl o koncentraci 12 mol/l a vodu. Jaký/jaké postup/y jso správné (i z hlediska bezpečnosti práce)? Předpokládejte, že aktivitní koeficien je roven jedné.",
@@ -34756,7 +34756,7 @@
 	{
 		"id": 1135,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1135,
 		"type": "choice",
 		"text": "Co je to pufr?",
@@ -34787,7 +34787,7 @@
 	{
 		"id": 1136,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1136,
 		"type": "choice",
 		"text": "Mezi směsi, které mají pufrační schopnost nepatří",
@@ -34818,7 +34818,7 @@
 	{
 		"id": 1137,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1137,
 		"type": "choice",
 		"text": "Hydrofobní v chemii znamená",
@@ -34848,7 +34848,7 @@
 	{
 		"id": 1138,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1138,
 		"type": "choice",
 		"text": "Součin rozpustnosti síranu barnatého ve vodě je 1,5x10-9 a sádry, za stejnýc podmínek, je 3x10-5.S použitím této informace vyberte správné/správná tvrzení",
@@ -34879,7 +34879,7 @@
 	{
 		"id": 1139,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1139,
 		"type": "choice",
 		"text": "Hodnota pH vodného roztoku závisí na",
@@ -34910,7 +34910,7 @@
 	{
 		"id": 1140,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1140,
 		"type": "choice",
 		"text": "Amfoterní látka je taková, která",
@@ -34941,7 +34941,7 @@
 	{
 		"id": 1141,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1141,
 		"type": "choice",
 		"text": "Iontový součin vody",
@@ -34972,7 +34972,7 @@
 	{
 		"id": 1142,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1142,
 		"type": "choice",
 		"text": "Která z následujících látek představuje binární sloučeninu?",
@@ -35002,7 +35002,7 @@
 	{
 		"id": 1143,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1143,
 		"type": "choice",
 		"text": "Který vzorec patří ke sloučenině s názvem oxalát sodný?",
@@ -35032,7 +35032,7 @@
 	{
 		"id": 1144,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1144,
 		"type": "choice",
 		"text": "Kolik je numerický součet všech koeficientů ve správně vyčíslené rovnic Al + 0 2 = Al203? K vyčíslení použijte pouze nejmenší možná celá čísla.",
@@ -35062,7 +35062,7 @@
 	{
 		"id": 1145,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1145,
 		"type": "choice",
 		"text": "Kolik atomů celkem obsahuje sloučenina se vzorcem CuSO4 * 5H20",
@@ -35092,7 +35092,7 @@
 	{
 		"id": 1146,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1146,
 		"type": "choice",
 		"text": "Kolik atomů obsahují 2 moly niklu (rel. atomová hmotnost niklu je 58,9)?",
@@ -35122,7 +35122,7 @@
 	{
 		"id": 1147,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1147,
 		"type": "choice",
 		"text": "Kolik procent kyslíku obsahuje oxid hořečnatý (rel. atomová hmotnost lystilu j 16 g/mol, hořčíku je 24 g/mol)?",
@@ -35152,7 +35152,7 @@
 	{
 		"id": 1148,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1148,
 		"type": "choice",
 		"text": "Který roztok je nejkoncentrovanější?",
@@ -35182,7 +35182,7 @@
 	{
 		"id": 1149,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1149,
 		"type": "choice",
 		"text": "Kolik molů je 9,03 x 1023 atomů vodíku (přibližně)?",
@@ -35212,7 +35212,7 @@
 	{
 		"id": 1150,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1150,
 		"type": "choice",
 		"text": "Kolik molů H2SO4 potřebujete, abyste připravili 5 1 kyseliny sírové o koncentrac 2 mol/l? (relativní atomová hmotnost vodíku = 1 g/mol, kyslíku = 16 g/mol síry = 32 g.mol-1)",
@@ -35242,7 +35242,7 @@
 	{
 		"id": 1151,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1151,
 		"type": "choice",
 		"text": "Jaká je přibližná hmotnost 3 x 1023 molekul oxidu uhličitého? (rel. atomov hmotnost uhlíku je 12 g/mol, kyslíku 16 g/mol)",
@@ -35272,7 +35272,7 @@
 	{
 		"id": 1152,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1152,
 		"type": "choice",
 		"text": "Kolik procent vody přibližně obsahuje sloučenina NazC03 * 10H20 (relativn atomová hmotnost sodíku = 23 g/mol, kyslíku = 16 g/mol, uhlíku = 12 g/mol vodíku 1 g/mol)",
@@ -35302,7 +35302,7 @@
 	{
 		"id": 1153,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1153,
 		"type": "choice",
 		"text": "Jaká je molární koncentrace KF v roztoku, jestliže je rozpuštěno 116g soli v jedno litru vody? (relativní atomová hmotnost draslíku je 39 g.mol-?; relativní atomov hmotnost fluoru je 19 g.mol-1)",
@@ -35332,7 +35332,7 @@
 	{
 		"id": 1154,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1154,
 		"type": "choice",
 		"text": "Jaký je empirický vzorec sloučeniny, která obsahuje (hmotnostní procenta 85 % Ag a 15 % F? (relativní atomová hmotnost fluoru je 19 g.mol-?; relativn atomová hmotnost stříbra je 108 g.mol-?)",
@@ -35362,7 +35362,7 @@
 	{
 		"id": 1155,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1155,
 		"type": "choice",
 		"text": "Jaké množství kyslíku je potřeba k uskutečnění celkové oxidace 1 molu methan podle rovnice CH4 + 202 = CO2 + 2H20",
@@ -35392,7 +35392,7 @@
 	{
 		"id": 1156,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1156,
 		"type": "choice",
 		"text": "Kolik elektronů potřebuje atom fosforu, aby jeho konfigurace dosáhl elektronového oktetu?",
@@ -35422,7 +35422,7 @@
 	{
 		"id": 1157,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1157,
 		"type": "choice",
 		"text": "K přípravě 100g kyseliny octové o hmotnostní koncentraci 20%, tj. w=20 (hustota roztoku 1,05 g.cm-3) budu potřebovat",
@@ -35453,7 +35453,7 @@
 	{
 		"id": 1158,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1158,
 		"type": "choice",
 		"text": "Kolik vodíku vznikne, necháme-li reagovat 4,6 g kovového sodíku s vodou (relativní atomová hmotnost sodíku je 23 g.mol-?)",
@@ -35484,7 +35484,7 @@
 	{
 		"id": 1159,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1159,
 		"type": "choice",
 		"text": "728% (hmotnostní procenta) vodný roztok NaCl obsahuje",
@@ -35515,7 +35515,7 @@
 	{
 		"id": 1160,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1160,
 		"type": "choice",
 		"text": "Jaká je objemová procentová koncentrace alkoholu v roztoku, který obsahuj 164 cm 100% alkoholu? Celkový obsah roztoku je 300 cm (výsledek j zaokrouhlen na jedno desetinné místo).",
@@ -35545,7 +35545,7 @@
 	{
 		"id": 1161,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1161,
 		"type": "choice",
 		"text": "Jakou číselnou hodnotu má molární koncentrace 5 litrů roztoku, který obsahuje 1 molů KBr?",
@@ -35575,7 +35575,7 @@
 	{
 		"id": 1162,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1162,
 		"type": "choice",
 		"text": "Jakou číselnou hodnotu má molární koncentrace 6 litrů roztoku, který obsahuj 3 moly KBr?",
@@ -35605,7 +35605,7 @@
 	{
 		"id": 1163,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1163,
 		"type": "choice",
 		"text": "Jakou číselnou hodnotu má molární koncentrace 3 litrů roztoku, který obsahuj 9 molů KBr?",
@@ -35635,7 +35635,7 @@
 	{
 		"id": 1164,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1164,
 		"type": "choice",
 		"text": "Jaký bude objem roztoku o koncentraci 2,00 mol/l, k jehož přípravě bylo použit 6,00 molů NaCl?",
@@ -35665,7 +35665,7 @@
 	{
 		"id": 1165,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1165,
 		"type": "choice",
 		"text": "Jaký bude objem roztoku o koncentraci 10,00 mol/l, k jehož přípravě bylo použit 5,00 molů NaCl?",
@@ -35695,7 +35695,7 @@
 	{
 		"id": 1166,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1166,
 		"type": "choice",
 		"text": "Jaký bude objem roztoku o koncentraci 5,00 mol/l, k jehož přípravě bylo použit 10,00 molů NaCl?",
@@ -35725,7 +35725,7 @@
 	{
 		"id": 1167,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1167,
 		"type": "choice",
 		"text": "Jaký je objem vodného roztoku NaCl o koncentraci 3 mol/l, který připravím z 526,5 g soli? Molekulová hmotnost NaCl je 58,5 g/mol.",
@@ -35755,7 +35755,7 @@
 	{
 		"id": 1168,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1168,
 		"type": "choice",
 		"text": "Kolik molů CaCl2 bude použito k přípravě 5,00 x 102 cmº roztoku o molárn koncentraci 5,0 mol/l?",
@@ -35785,7 +35785,7 @@
 	{
 		"id": 1169,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1169,
 		"type": "choice",
 		"text": "Kolik procent molekuly CO2 je tvořeno uhlíkem? Relativní atomová hmotnos uhlíku je 12, kyslíku 16 (obojí v g/mol).",
@@ -35815,7 +35815,7 @@
 	{
 		"id": 1170,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1170,
 		"type": "choice",
 		"text": "Jaké je procentové zastoupení jednotlivých prvků v glukóze? Sumární vzore glukosy je C6H1206, relativní atomové hmotnosti (g/mol): uhlík: 12, kyslík: 16 vodík 1. Najděte a označte správné možnosti.",
@@ -35846,7 +35846,7 @@
 	{
 		"id": 1171,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1171,
 		"type": "choice",
 		"text": "Jaký bude objem oxidu uhličitého, který vynikne reakcí glukos s přebytkem kyslíku podle níže uvedené rovnice, za standardníc podmínek? Pozor, rovnici je nejprve třeba řádně vyčíslit. Rovnice přeměn C6H1206(s) + O2(g) → H2O(g) + CO2(g)",
@@ -35876,7 +35876,7 @@
 	{
 		"id": 1172,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1172,
 		"type": "choice",
 		"text": "Vypočtěte procentický obsah síranu zinečnatého (molekulová hmotnos 161,5 g/mol) v heptahydrátu síranu zinečnatého (molekulová hmotnos 287,6 g/mol).",
@@ -35906,7 +35906,7 @@
 	{
 		"id": 1173,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1173,
 		"type": "choice",
 		"text": "Jaká je molární koncentrace roztoku, který vznikl rozpuštěním 26 g síran železnatého (M = 151,9 g/mol) ve 100 g vody, přičemž výsledný roztok má hustot r = 1,095 g/ml?",
@@ -35936,7 +35936,7 @@
 	{
 		"id": 1174,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1174,
 		"type": "choice",
 		"text": "Vyberte správnou/é možnost/i. Kolik gramů koncentrované kyseliny sírov (96% roztok H2S04) je potřeba k přípravě 500 g 10% roztoku H2SO4 (koncentrac je v hmotnostních procentech)?",
@@ -35966,7 +35966,7 @@
 	{
 		"id": 1175,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1175,
 		"type": "choice",
 		"text": "Vyberte správnou/é možnost/i. Kolik gramů vody je potřeba k přípravě 500 10% roztoku H2SO4 z vody a 96% kyseliny sírové (koncentrace je v hmotnostníc procentech)?",
@@ -35996,7 +35996,7 @@
 	{
 		"id": 1176,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1176,
 		"type": "choice",
 		"text": "Vyberte správnou/é odpověd°/i. Jaký je objem roztoku NaOH o molárn koncentraci 1 mol/l, který potřebujete k přípravě 100 ml roztoku NaO o výsledné koncentraci 0,5 mol/l?",
@@ -36026,7 +36026,7 @@
 	{
 		"id": 1177,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1177,
 		"type": "choice",
 		"text": "Jaký je objem 1 molu kyslíku při desetinásobku normálního atmosferického tlak (p=101 325 Pa) při 20 °C?",
@@ -36056,7 +36056,7 @@
 	{
 		"id": 1178,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1178,
 		"type": "choice",
 		"text": "Jaký objem zaujme vodík, který byl připraven reakcí 30 g zinku s kyselino chlorovodíkovou? Teplota byla 20 °C, tlak 101 325 Pa, relativní atomová hmotnos zinku je 65,38 g/mol.",
@@ -36086,7 +36086,7 @@
 	{
 		"id": 1179,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1179,
 		"type": "choice",
 		"text": "Kolik gramů chloridu zinečnatého vznikne z reakce 1g zinku s kyselino chlorovodíkovou, jestliže výtěžek reakce je 100 %? Relativní atomová hmotnos zinku je 65,38 g/mol, rel. molekulová hm. chloridu zinečnatého je 136,28 g/mol.",
@@ -36116,7 +36116,7 @@
 	{
 		"id": 1180,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1180,
 		"type": "choice",
 		"text": "Kolik gramů kyseliny chlorovodíkové je potřeba do reakce se zinkem, ab vznikl jeden mol chloridu zinečnatého? Počítejte se stoprocentní konverz reakce. Relativní atomová hmotnost zinku je 65,38 g/mol, relativní molekulov hmotnost kyseliny chlorovodíkové je 36,45 g/mol, rel. molekulová hm. chlorid zinečnatého je 136,28 g/mol.",
@@ -36146,7 +36146,7 @@
 	{
 		"id": 1181,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1181,
 		"type": "choice",
 		"text": "Kolik gramů zinku bude potřeba, aby bylo reakcí zinku s kyselino chlorovodíkovou připraveno 24,055 l vodíku? Teplota v laboratoři je 20 °C tlak 101 325 Pa. Relativní atomová hmotnost zinku je 65,38 g/mol, relativn molekulová hmotnost kyseliny chlorovodíkové je 36,45 g/mol, rel. molekulov hm. chloridu zinečnatého je 136,28 g/mol, relativní atomová hmotnost vodík je 1 g/mol.",
@@ -36176,7 +36176,7 @@
 	{
 		"id": 1182,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1182,
 		"type": "choice",
 		"text": "Kolik g acetaldehydu je potřeba k přípravě 1 molu kyseliny octové? Počítejte s 100% konverzí. Relativní atomová hmotnost uhlíku je 12 g/mol, relativní atomov hmotnost kyslíku je 16 g/mol a vodíku 1 g/mol.",
@@ -36206,7 +36206,7 @@
 	{
 		"id": 1183,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1183,
 		"type": "choice",
 		"text": "Kolik litrů acetylenu se získá přidáním 2 molů vody k jednomu molu karbid vápenatého při reakčních podmínkách p=101325 Pa a t=20 °C?",
@@ -36236,7 +36236,7 @@
 	{
 		"id": 1184,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1184,
 		"type": "choice",
 		"text": "Vyberte správnou/é odpověd/odpovědi. Hmotnostní zlomek roztoku, ve které bylo rozpuštěno 20 g NaCl ve 150 ml vody je",
@@ -36266,7 +36266,7 @@
 	{
 		"id": 1185,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1185,
 		"type": "choice",
 		"text": "Vyberte správnou/é odpověd/odpovědi. Hmotnostní zlomek roztoku, ve které bylo rozpuštěno 30 g KCl ve 200 ml vody je",
@@ -36296,7 +36296,7 @@
 	{
 		"id": 1186,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1186,
 		"type": "choice",
 		"text": "Vyberte správnou/é odpověď/odpovědi. Nasycený roztok NaCl obsahuje pr 20 °C 26,39 g rozpuštěné soli ve 100 g roztoku. Hmotnostní zlomek Nacij (zaokrouhleno na tři desetinná mista)",
@@ -36326,7 +36326,7 @@
 	{
 		"id": 1187,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1187,
 		"type": "choice",
 		"text": "Vyberte správnou/é odpověd/odpovědi. Nasycený roztok NaCl obsahuje při 20 ° 26,39 g rozpuštěné soli ve 100 g roztoku. Hmotnostní zlomek vody je",
@@ -36356,7 +36356,7 @@
 	{
 		"id": 1188,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1188,
 		"type": "choice",
 		"text": "Vyberte správnou/é odpověd'/odpovědi. Nasycený roztok KCl obsahuje při 20 ° 25,5 g rozpuštěné soli ve 100 g roztoku. Hmotnostní zlomek KCI je",
@@ -36386,7 +36386,7 @@
 	{
 		"id": 1189,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1189,
 		"type": "choice",
 		"text": "Vyberte správnou/é odpověd/odpovědi. Nasycený roztok KCl obsahuje při 20° 25,5 g rozpuštěné soli ve 100 g roztoku. Hmotnostní zlomek vody je",
@@ -36416,7 +36416,7 @@
 	{
 		"id": 1190,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1190,
 		"type": "choice",
 		"text": "Vyberte správnou/é odpověd/odpovědi. Nasycený roztok KCl obsahuje při 20° 25,5 g rozpuštěné soli ve 100 g roztoku. Kolik soli je třeba navážit do 100 g vody aby byl získán nasycený roztok?",
@@ -36446,7 +36446,7 @@
 	{
 		"id": 1191,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1191,
 		"type": "choice",
 		"text": "Vyberte správnou/é odpověd/odpovědi. Nasycený roztok KCI obsahuje při 20 ° 25,5 g rozpuštěné soli ve 100 g roztoku. Kolik vody je třeba přidat ke 34,2 g soli aby byl získán nasycený roztok?",
@@ -36476,7 +36476,7 @@
 	{
 		"id": 1192,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1192,
 		"type": "choice",
 		"text": "Vyberte správnou možnost/i. Jaké jsou správné stechiometrické koeficient v rovnici, která vyjadřuje reakci chloridu stříbrného s vodíkem, vzniká stříbro a chlorovodík",
@@ -36508,7 +36508,7 @@
 	{
 		"id": 1193,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1193,
 		"type": "choice",
 		"text": "Vyberte správnou možnost/i. Jaké jsou správné stechiometrické koeficient v rovnici, která vyjadřuje reakci sulfidu stříbrného s vodíkem, vzniká stříbro a sulfan",
@@ -36538,7 +36538,7 @@
 	{
 		"id": 1194,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1194,
 		"type": "choice",
 		"text": "Vyberte správnou možnost/i. Jaké jsou správné stechiometrické koeficient v rovnici, která vyjadřuje reakci oxidu uhelnatého s vodíkem, vzniká methanol",
@@ -36568,7 +36568,7 @@
 	{
 		"id": 1195,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1195,
 		"type": "choice",
 		"text": "Vyberte správnou možnost/i. Jaké jsou správné stechiometrické koeficient v rovnici, která vyjadřuje reakci čistého železa s vodní parou, vzniká oxi železnato-železitý a vodík",
@@ -36599,7 +36599,7 @@
 	{
 		"id": 1196,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1196,
 		"type": "choice",
 		"text": "Vyberte správnou možnost/i. Jaké jsou správné stechiometrické koeficient v rovnici, která vyjadřuje reakci vodní páry s rozžhaveným koksem (uhlík) vzniká vodík a oxid uhelnatý.",
@@ -36629,7 +36629,7 @@
 	{
 		"id": 1197,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1197,
 		"type": "choice",
 		"text": "Vyberte správnou možnost/i. Jaké jsou správné stechiometrické koeficient v rovnici, která vyjadřuje reakci fosfidu vápenatého s vodou, vzniká fosfan a hydroxid vápenatý",
@@ -36660,7 +36660,7 @@
 	{
 		"id": 1198,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1198,
 		"type": "choice",
 		"text": "Vyberte správnou možnost/i. Jaké jsou správné stechiometrické koeficient v rovnici, která vyjadřuje reakci oxidu křemičitého s hydroxidem sodným, vznik křemičitan sodný a voda",
@@ -36690,7 +36690,7 @@
 	{
 		"id": 1199,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1199,
 		"type": "choice",
 		"text": "Vyberte správnou možnost/i. Jaké jsou správné stechiometrické koeficient v rovnici, která vyjadřuje reakci oxidu křemičitého s uhlíkem, vzniká karbi křemičitý a oxid uhelnatý",
@@ -36721,7 +36721,7 @@
 	{
 		"id": 1200,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1200,
 		"type": "choice",
 		"text": "Vyberte správnou možnost/i. Určete správné stechiometriche influenty v rovnic která vyjadřuje reakci síranu rtuťnatého s chloridem sodným. Vznikne síra sodný a chlorid rtuťnatý.",
@@ -36751,7 +36751,7 @@
 	{
 		"id": 1201,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1201,
 		"type": "choice",
 		"text": "Určete reakční teplo, které vznikne při reakci uhlíku s vodni parou, jestl pro vodu je –241,8 KJ/mol a pro CO je -110,5 kJ/mol. Produkty realic uhelnatý a vodík.",
@@ -36781,7 +36781,7 @@
 	{
 		"id": 1202,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1202,
 		"type": "choice",
 		"text": "Určete hmotnost 1 atomu bromu. Vyberte správnou možnost z následujícíc Molární hmotnost bromu je 79,9 g/mol a Avogadrova konstanta NA = 6,023 * 10%,",
@@ -36811,7 +36811,7 @@
 	{
 		"id": 1203,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1203,
 		"type": "choice",
 		"text": "Určete hmotnost jednoho atomu uhlíku, jestliže jeho molární hmotnost je 12 Avogadrova konstanta Na = 6,023 x 1023",
@@ -36841,7 +36841,7 @@
 	{
 		"id": 1204,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1204,
 		"type": "choice",
 		"text": "Určete hmotnost 1 molu oxidu uhelnatého (v gramech), jestliže relativn atomová hmotnost uhlíku je 12 g/mol, kyslíku 16 g/mol, Avogadrova konstant NA = 6,023 x 1023",
@@ -36871,7 +36871,7 @@
 	{
 		"id": 1205,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1205,
 		"type": "choice",
 		"text": "Kolik gramů váží 1,6 mol chloridu sodného (rel. atomová hmotnost Na=23 g/mol Cl=35 g/mol)?",
@@ -36901,7 +36901,7 @@
 	{
 		"id": 1206,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1206,
 		"type": "choice",
 		"text": "Jakému látkovému množství HCI přibližně odpovídá 30 g HCI? Rel. atomov hmotnost chloru je 35 g/mol, rel. at. hm. vodíku je 1 g/mol.",
@@ -36931,7 +36931,7 @@
 	{
 		"id": 1207,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1207,
 		"type": "choice",
 		"text": "Smrtelná dávka KCN je asi 0,08 mmol na 1 kg hmotnosti lidského těla. Jak hmotnost KCN představuje smrtelné nebezpečí pro osobu vážící 70 kg (Rel at. hm. draslíku je 39 g/mol, uhlíku 12 g/mol a dusíku 14 g/mol)",
@@ -36961,7 +36961,7 @@
 	{
 		"id": 1208,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1208,
 		"type": "choice",
 		"text": "V lidském těle je 65% kyslíku, 18% uhlíku, 10% vodíku (procenta jsou hmotnostn Kterých atomů je v těle nejvíce?",
@@ -36991,7 +36991,7 @@
 	{
 		"id": 1209,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1209,
 		"type": "choice",
 		"text": "Kolik molů kyseliny sírové odpovídá 49 g kyseliny sírové (rel. atomové hmotnost (g/mol): kyslík - 16, vodík - 1, síra - 32)",
@@ -37021,7 +37021,7 @@
 	{
 		"id": 1210,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1210,
 		"type": "choice",
 		"text": "Jaký objem amoniaku vznikne při reakci 24 mol vodíku s 8 moly dusíku? Teplot 20 °C, tlak 101,325 kPa.",
@@ -37051,7 +37051,7 @@
 	{
 		"id": 1211,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1211,
 		"type": "choice",
 		"text": "První synteticky laboratorně cíleně připravená organická látka byla",
@@ -37081,7 +37081,7 @@
 	{
 		"id": 1212,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1212,
 		"type": "choice",
 		"text": "Methanal je",
@@ -37112,7 +37112,7 @@
 	{
 		"id": 1213,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1213,
 		"type": "choice",
 		"text": "Aspirin, Acylpyrin - lék proti bolesti a zvýšené teplotě je",
@@ -37142,7 +37142,7 @@
 	{
 		"id": 1214,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1214,
 		"type": "choice",
 		"text": "Aktivní uhlí je",
@@ -37173,7 +37173,7 @@
 	{
 		"id": 1215,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1215,
 		"type": "choice",
 		"text": "Denaturovaný alkohol je",
@@ -37204,7 +37204,7 @@
 	{
 		"id": 1216,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1216,
 		"type": "choice",
 		"text": "Benzín je",
@@ -37234,7 +37234,7 @@
 	{
 		"id": 1217,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1217,
 		"type": "choice",
 		"text": "Ocet, čili vodný roztok kyseliny octové, se dá vyrobit",
@@ -37266,7 +37266,7 @@
 	{
 		"id": 1218,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1218,
 		"type": "choice",
 		"text": "Mezi polysacharidy patří",
@@ -37296,7 +37296,7 @@
 	{
 		"id": 1219,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1219,
 		"type": "choice",
 		"text": "Kyselina benzoová je:",
@@ -37327,7 +37327,7 @@
 	{
 		"id": 1220,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1220,
 		"type": "choice",
 		"text": "Emulgátor je látka, která",
@@ -37358,7 +37358,7 @@
 	{
 		"id": 1221,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1221,
 		"type": "choice",
 		"text": "Emulze je",
@@ -37388,7 +37388,7 @@
 	{
 		"id": 1222,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1222,
 		"type": "choice",
 		"text": "Alkaloidy jsou",
@@ -37419,7 +37419,7 @@
 	{
 		"id": 1223,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1223,
 		"type": "choice",
 		"text": "Do zubních past se nejčastěji přidávají",
@@ -37450,7 +37450,7 @@
 	{
 		"id": 1224,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1224,
 		"type": "choice",
 		"text": "Diethylether je",
@@ -37481,7 +37481,7 @@
 	{
 		"id": 1225,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1225,
 		"type": "choice",
 		"text": "Vitamíny rozpustné ve vodě jsou",
@@ -37512,7 +37512,7 @@
 	{
 		"id": 1226,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1226,
 		"type": "choice",
 		"text": "Název esenciální aminokyselina znamená",
@@ -37543,7 +37543,7 @@
 	{
 		"id": 1227,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1227,
 		"type": "choice",
 		"text": "Stopové prvky je označení pro",
@@ -37573,7 +37573,7 @@
 	{
 		"id": 1228,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1228,
 		"type": "choice",
 		"text": "Kosti jsou tvořeny",
@@ -37603,7 +37603,7 @@
 	{
 		"id": 1229,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1229,
 		"type": "choice",
 		"text": "Krev je",
@@ -37634,7 +37634,7 @@
 	{
 		"id": 1230,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1230,
 		"type": "choice",
 		"text": "Ozón je",
@@ -37665,7 +37665,7 @@
 	{
 		"id": 1231,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1231,
 		"type": "choice",
 		"text": "Kuchyňská sůl je",
@@ -37697,7 +37697,7 @@
 	{
 		"id": 1232,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1232,
 		"type": "choice",
 		"text": "Jod je důležitý pro",
@@ -37727,7 +37727,7 @@
 	{
 		"id": 1233,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1233,
 		"type": "choice",
 		"text": "Síra má",
@@ -37758,7 +37758,7 @@
 	{
 		"id": 1234,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1234,
 		"type": "choice",
 		"text": "Principem tuhnutí sádry (např. u sádrových obvazů) je",
@@ -37788,7 +37788,7 @@
 	{
 		"id": 1235,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1235,
 		"type": "choice",
 		"text": "Rajský plyn je",
@@ -37818,7 +37818,7 @@
 	{
 		"id": 1236,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1236,
 		"type": "choice",
 		"text": "Fosfor",
@@ -37850,7 +37850,7 @@
 	{
 		"id": 1237,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1237,
 		"type": "choice",
 		"text": "Oxid uhelnatý je",
@@ -37881,7 +37881,7 @@
 	{
 		"id": 1238,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1238,
 		"type": "choice",
 		"text": "Oxid uhličitý je",
@@ -37913,7 +37913,7 @@
 	{
 		"id": 1239,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1239,
 		"type": "choice",
 		"text": "Sirouhlík je",
@@ -37944,7 +37944,7 @@
 	{
 		"id": 1240,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1240,
 		"type": "choice",
 		"text": "Kyanovodík je",
@@ -37975,7 +37975,7 @@
 	{
 		"id": 1241,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1241,
 		"type": "choice",
 		"text": "Křemík tvoří",
@@ -38007,7 +38007,7 @@
 	{
 		"id": 1242,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1242,
 		"type": "choice",
 		"text": "Zeolity jsou látky",
@@ -38038,7 +38038,7 @@
 	{
 		"id": 1243,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1243,
 		"type": "choice",
 		"text": "Silikony jsou látky, které",
@@ -38069,7 +38069,7 @@
 	{
 		"id": 1244,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1244,
 		"type": "choice",
 		"text": "Tetraboritan disodný je",
@@ -38100,7 +38100,7 @@
 	{
 		"id": 1245,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1245,
 		"type": "choice",
 		"text": "Jodová tinktura je",
@@ -38131,7 +38131,7 @@
 	{
 		"id": 1246,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1246,
 		"type": "choice",
 		"text": "Amalgám je",
@@ -38162,7 +38162,7 @@
 	{
 		"id": 1247,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1247,
 		"type": "choice",
 		"text": "Rtuť je",
@@ -38193,7 +38193,7 @@
 	{
 		"id": 1248,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1248,
 		"type": "choice",
 		"text": "Co je to racemická směs?",
@@ -38223,7 +38223,7 @@
 	{
 		"id": 1249,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1249,
 		"type": "choice",
 		"text": "Které z následujících procesů neobsahují chemické reakce?",
@@ -38255,7 +38255,7 @@
 	{
 		"id": 1250,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1250,
 		"type": "choice",
 		"text": "Jaký je rozdíl mezi Na a Nat?",
@@ -38286,7 +38286,7 @@
 	{
 		"id": 1251,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1251,
 		"type": "choice",
 		"text": "Alfa záření je",
@@ -38318,7 +38318,7 @@
 	{
 		"id": 1252,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1252,
 		"type": "choice",
 		"text": "Beta záření",
@@ -38350,7 +38350,7 @@
 	{
 		"id": 1253,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1253,
 		"type": "choice",
 		"text": "Radioaktivita je",
@@ -38381,7 +38381,7 @@
 	{
 		"id": 1254,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1254,
 		"type": "choice",
 		"text": "Které látky patří mezi binární sloučeniny?",
@@ -38413,7 +38413,7 @@
 	{
 		"id": 1255,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1255,
 		"type": "choice",
 		"text": "Molekula vodíku označovaná H2 je tvořena",
@@ -38444,7 +38444,7 @@
 	{
 		"id": 1256,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1256,
 		"type": "choice",
 		"text": "Které z následujících prvků jsou při teplotě 298 K a normálním atmosférické tlaku (101325 Pa) kapalné?",
@@ -38475,7 +38475,7 @@
 	{
 		"id": 1257,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1257,
 		"type": "choice",
 		"text": "Jak je možné znehodnotit diamant?",
@@ -38505,7 +38505,7 @@
 	{
 		"id": 1258,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1258,
 		"type": "choice",
 		"text": "Která triáda obsahuje kov alkalických zemin, přechodný (tranzitní) kov a halogen?",
@@ -38535,7 +38535,7 @@
 	{
 		"id": 1259,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1259,
 		"type": "choice",
 		"text": "Typické vlastnosti přechodných kovů jsou",
@@ -38566,7 +38566,7 @@
 	{
 		"id": 1260,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1260,
 		"type": "choice",
 		"text": "Vzácné plyny",
@@ -38596,7 +38596,7 @@
 	{
 		"id": 1261,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1261,
 		"type": "choice",
 		"text": "Zlato se používá v medicíně a stomatologii, protože",
@@ -38627,7 +38627,7 @@
 	{
 		"id": 1262,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1262,
 		"type": "choice",
 		"text": "Arsen",
@@ -38659,7 +38659,7 @@
 	{
 		"id": 1263,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1263,
 		"type": "choice",
 		"text": "Vyberte správné tvrzení. Polokovy",
@@ -38691,7 +38691,7 @@
 	{
 		"id": 1264,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1264,
 		"type": "choice",
 		"text": "Sodík se uchovává pod vrstvou petroleje, protože",
@@ -38721,7 +38721,7 @@
 	{
 		"id": 1265,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1265,
 		"type": "choice",
 		"text": "Vyberte správnou možnost. Tzv. těžké kovy",
@@ -38752,7 +38752,7 @@
 	{
 		"id": 1266,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1266,
 		"type": "choice",
 		"text": "Přechodové kovy (také přechodné n. tranzitní)",
@@ -38783,7 +38783,7 @@
 	{
 		"id": 1267,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1267,
 		"type": "choice",
 		"text": "Biodegradace je",
@@ -38814,7 +38814,7 @@
 	{
 		"id": 1268,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1268,
 		"type": "choice",
 		"text": "Přírodní hedvábí je",
@@ -38845,7 +38845,7 @@
 	{
 		"id": 1269,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1269,
 		"type": "choice",
 		"text": "Bavlna",
@@ -38875,7 +38875,7 @@
 	{
 		"id": 1270,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1270,
 		"type": "choice",
 		"text": "Pektiny",
@@ -38906,7 +38906,7 @@
 	{
 		"id": 1271,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1271,
 		"type": "choice",
 		"text": "Atropin je",
@@ -38937,7 +38937,7 @@
 	{
 		"id": 1272,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1272,
 		"type": "choice",
 		"text": "Odstranění bradavice tekutým dusíkem je možné, protože",
@@ -38967,7 +38967,7 @@
 	{
 		"id": 1273,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1273,
 		"type": "choice",
 		"text": "Tvrdost vody",
@@ -38998,7 +38998,7 @@
 	{
 		"id": 1274,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1274,
 		"type": "choice",
 		"text": "Cytostatikum je",
@@ -39029,7 +39029,7 @@
 	{
 		"id": 1275,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1275,
 		"type": "choice",
 		"text": "Onemocnění tetanem",
@@ -39060,7 +39060,7 @@
 	{
 		"id": 1276,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1276,
 		"type": "choice",
 		"text": "Borová voda je",
@@ -39090,7 +39090,7 @@
 	{
 		"id": 1277,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1277,
 		"type": "choice",
 		"text": "Včelí med je složen převážně z",
@@ -39120,7 +39120,7 @@
 	{
 		"id": 1278,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1278,
 		"type": "choice",
 		"text": "Peroxid vodíku při styku s krví",
@@ -39150,7 +39150,7 @@
 	{
 		"id": 1279,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1279,
 		"type": "choice",
 		"text": "Krev",
@@ -39182,7 +39182,7 @@
 	{
 		"id": 1280,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1280,
 		"type": "choice",
 		"text": "Denaturace DNA je",
@@ -39212,7 +39212,7 @@
 	{
 		"id": 1281,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1281,
 		"type": "choice",
 		"text": "Vápník, tj. jeho sloučeniny",
@@ -39242,7 +39242,7 @@
 	{
 		"id": 1282,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1282,
 		"type": "choice",
 		"text": "Talosa je",
@@ -39272,7 +39272,7 @@
 	{
 		"id": 1283,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1283,
 		"type": "choice",
 		"text": "Baktericidní účinek",
@@ -39303,7 +39303,7 @@
 	{
 		"id": 1284,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1284,
 		"type": "choice",
 		"text": "Cement je",
@@ -39334,7 +39334,7 @@
 	{
 		"id": 1285,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1285,
 		"type": "choice",
 		"text": "Pod vzorcem Ca5X(PO4)3, kde X je F, Cl nebo OH se skrývají",
@@ -39364,7 +39364,7 @@
 	{
 		"id": 1286,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1286,
 		"type": "choice",
 		"text": "Chemická koroze",
@@ -39395,7 +39395,7 @@
 	{
 		"id": 1287,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1287,
 		"type": "choice",
 		"text": "Dehet je",
@@ -39427,7 +39427,7 @@
 	{
 		"id": 1288,
 		"package": 1,
-		"category": 2,
+		"category": 1,
 		"number": 1288,
 		"type": "choice",
 		"text": "Tenzidy",

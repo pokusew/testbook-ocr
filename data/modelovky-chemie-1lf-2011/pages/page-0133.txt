@@ -11,16 +11,16 @@ b) kation H30+ a anion CH3C00- (pravá strana rovnice)
 C) kyselina octová a anion CH3C00-
 D) voda a kation H30+
 1092) Vacidobazické rovnovážné reakci popsané reakcí:
-CH3COOH + H20 H30* + CH3C00-
-je rovnovážná konstanta Kc vyjádřena vzorcem (koncentrace v hranatých
+CH3COOH + H20 H30* + CH3C00- je
+rovnovážná konstanta Kc vyjádřena vzorcem (koncentrace v hranatých
 závorkách představují rovnovážné koncentrace)
 a) [CH3COOH][H20]/[CH, C00-][H3O+]
 b) [CH3C00-][H3O+] /[CH, COOH]
 C) [CH2C00-][H3O+]/[CH3COOH][H20]
 d) [H3O+][H20]/[CH3COO-[CH3COOH]
 1093) Zacidobazické rovnovážné reakce popsané reakcí:
-CH3COOH + H20 H30* + CH3C00-
-můžeme vyjádřit disociační konstantu kyseliny octové K, výrazem
+CH3COOH + H20 H30* + CH3C00- můžeme
+vyjádřit disociační konstantu kyseliny octové K, výrazem
 a) [CH3COOH][H20]/[CH2 C00-][H20+]
 B) [CH3COO-][H3O+]/[CH3COOH]
 c) [CH3COO-][H20+]/[CH2COOH][H2O]

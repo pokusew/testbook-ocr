@@ -1,7 +1,7 @@
 [
 	{
 		"id": 949,
-		"category": 2,
+		"category": 1,
 		"number": 949,
 		"text": "Která/é typ/y reakce/í je/jsou důležitý/é v Krebsově cyklu?",
 		"choices": [
@@ -33,7 +33,7 @@
 	},
 	{
 		"id": 950,
-		"category": 2,
+		"category": 1,
 		"number": 950,
 		"text": "Která/é dvojice má/mají stejný počet uhlíků?",
 		"choices": [
@@ -65,7 +65,7 @@
 	},
 	{
 		"id": 951,
-		"category": 2,
+		"category": 1,
 		"number": 951,
 		"text": "Aflatoxin je",
 		"choices": [
@@ -97,7 +97,7 @@
 	},
 	{
 		"id": 952,
-		"category": 2,
+		"category": 1,
 		"number": 952,
 		"text": "Botulotoxin",
 		"choices": [
@@ -129,7 +129,7 @@
 	},
 	{
 		"id": 953,
-		"category": 2,
+		"category": 1,
 		"number": 953,
 		"text": "Triacylglyceroly jsou",
 		"choices": [
@@ -161,7 +161,7 @@
 	},
 	{
 		"id": 954,
-		"category": 2,
+		"category": 1,
 		"number": 954,
 		"text": "Vitamín B12 ve své molekule obsahuje",
 		"choices": [
@@ -193,7 +193,7 @@
 	},
 	{
 		"id": 955,
-		"category": 2,
+		"category": 1,
 		"number": 955,
 		"text": "Jako esenciální mastné kyseliny označujeme ty kyseliny, které",
 		"choices": [
@@ -225,7 +225,7 @@
 	},
 	{
 		"id": 956,
-		"category": 2,
+		"category": 1,
 		"number": 956,
 		"text": "Při odbourávání bílkovin je/jsou produktem/produkty",
 		"choices": [
@@ -257,7 +257,7 @@
 	},
 	{
 		"id": 957,
-		"category": 2,
+		"category": 1,
 		"number": 957,
 		"text": "Funkce žlučových kyselin je/jsou",
 		"choices": [

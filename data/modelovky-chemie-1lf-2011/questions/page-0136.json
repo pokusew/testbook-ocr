@@ -1,7 +1,7 @@
 [
 	{
 		"id": 1113,
-		"category": 2,
+		"category": 1,
 		"number": 1113,
 		"text": "Heterogenní směsí je",
 		"choices": [
@@ -33,7 +33,7 @@
 	},
 	{
 		"id": 1114,
-		"category": 2,
+		"category": 1,
 		"number": 1114,
 		"text": "Izotopy daného prvku se od sebe",
 		"choices": [
@@ -65,7 +65,7 @@
 	},
 	{
 		"id": 1115,
-		"category": 2,
+		"category": 1,
 		"number": 1115,
 		"text": "Aktivační energie reakce je",
 		"choices": [
@@ -97,7 +97,7 @@
 	},
 	{
 		"id": 1116,
-		"category": 2,
+		"category": 1,
 		"number": 1116,
 		"text": "Složení reakční směsi v rovnováze mohu ovlivnit",
 		"choices": [
@@ -129,7 +129,7 @@
 	},
 	{
 		"id": 1117,
-		"category": 2,
+		"category": 1,
 		"number": 1117,
 		"text": "Poločas (např. rozpadu) je u chemických přeměn",
 		"choices": [
@@ -161,7 +161,7 @@
 	},
 	{
 		"id": 1118,
-		"category": 2,
+		"category": 1,
 		"number": 1118,
 		"text": "Pomocí Hessova zákona lze",
 		"choices": [
@@ -193,7 +193,7 @@
 	},
 	{
 		"id": 1119,
-		"category": 2,
+		"category": 1,
 		"number": 1119,
 		"text": "Rozměr univerzální plynové konstanty ve stavové rovnici PV=nRT je",
 		"choices": [
@@ -225,7 +225,7 @@
 	},
 	{
 		"id": 1120,
-		"category": 2,
+		"category": 1,
 		"number": 1120,
 		"text": "Exotermní reakce bude vykazovat",
 		"choices": [
@@ -257,7 +257,7 @@
 	},
 	{
 		"id": 1121,
-		"category": 2,
+		"category": 1,
 		"number": 1121,
 		"text": "Endotermní reakce bude vykazovat",
 		"choices": [

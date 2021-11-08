@@ -1,7 +1,7 @@
 [
 	{
 		"id": 860,
-		"category": 2,
+		"category": 1,
 		"number": 860,
 		"text": "Vyberte sumární vzorec pro tento racionální vzorec",
 		"choices": [
@@ -33,7 +33,7 @@
 	},
 	{
 		"id": 861,
-		"category": 2,
+		"category": 1,
 		"number": 861,
 		"text": "Na obrázku vidí Н.",
 		"choices": [
@@ -65,7 +65,7 @@
 	},
 	{
 		"id": 862,
-		"category": 2,
+		"category": 1,
 		"number": 862,
 		"text": "Povaha reakcí, kte é probíhají v živých buňkách, je",
 		"choices": [
@@ -97,7 +97,7 @@
 	},
 	{
 		"id": 863,
-		"category": 2,
+		"category": 1,
 		"number": 863,
 		"text": "Enzymy působí tak, že",
 		"choices": [
@@ -129,7 +129,7 @@
 	},
 	{
 		"id": 864,
-		"category": 2,
+		"category": 1,
 		"number": 864,
 		"text": "Rychlost enzymově katalyzovaných reakcí ovlivňuje",
 		"choices": [
@@ -161,7 +161,7 @@
 	},
 	{
 		"id": 865,
-		"category": 2,
+		"category": 1,
 		"number": 865,
 		"text": "Enzymy, které jsou přítomny ve slinách,",
 		"choices": [
@@ -193,7 +193,7 @@
 	},
 	{
 		"id": 866,
-		"category": 2,
+		"category": 1,
 		"number": 866,
 		"text": "Pokud jsou živočišné enzymy vystaveny vysoké teplotě (např. nad 100 °C), pa probíhá",
 		"choices": [
@@ -225,7 +225,7 @@
 	},
 	{
 		"id": 867,
-		"category": 2,
+		"category": 1,
 		"number": 867,
 		"text": "Jak se jmenuje látka, kterou tvoří dvě aminokyseliny navzájem spojené amidovo vazbou?",
 		"choices": [

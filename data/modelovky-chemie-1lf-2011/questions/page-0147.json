@@ -1,7 +1,7 @@
 [
 	{
 		"id": 1193,
-		"category": 2,
+		"category": 1,
 		"number": 1193,
 		"text": "Vyberte správnou možnost/i. Jaké jsou správné stechiometrické koeficient v rovnici, která vyjadřuje reakci sulfidu stříbrného s vodíkem, vzniká stříbro a sulfan",
 		"choices": [
@@ -33,7 +33,7 @@
 	},
 	{
 		"id": 1194,
-		"category": 2,
+		"category": 1,
 		"number": 1194,
 		"text": "Vyberte správnou možnost/i. Jaké jsou správné stechiometrické koeficient v rovnici, která vyjadřuje reakci oxidu uhelnatého s vodíkem, vzniká methanol",
 		"choices": [
@@ -65,7 +65,7 @@
 	},
 	{
 		"id": 1195,
-		"category": 2,
+		"category": 1,
 		"number": 1195,
 		"text": "Vyberte správnou možnost/i. Jaké jsou správné stechiometrické koeficient v rovnici, která vyjadřuje reakci čistého železa s vodní parou, vzniká oxi železnato-železitý a vodík",
 		"choices": [
@@ -97,7 +97,7 @@
 	},
 	{
 		"id": 1196,
-		"category": 2,
+		"category": 1,
 		"number": 1196,
 		"text": "Vyberte správnou možnost/i. Jaké jsou správné stechiometrické koeficient v rovnici, která vyjadřuje reakci vodní páry s rozžhaveným koksem (uhlík) vzniká vodík a oxid uhelnatý.",
 		"choices": [
@@ -129,7 +129,7 @@
 	},
 	{
 		"id": 1197,
-		"category": 2,
+		"category": 1,
 		"number": 1197,
 		"text": "Vyberte správnou možnost/i. Jaké jsou správné stechiometrické koeficient v rovnici, která vyjadřuje reakci fosfidu vápenatého s vodou, vzniká fosfan a hydroxid vápenatý",
 		"choices": [
@@ -161,7 +161,7 @@
 	},
 	{
 		"id": 1198,
-		"category": 2,
+		"category": 1,
 		"number": 1198,
 		"text": "Vyberte správnou možnost/i. Jaké jsou správné stechiometrické koeficient v rovnici, která vyjadřuje reakci oxidu křemičitého s hydroxidem sodným, vznik křemičitan sodný a voda",
 		"choices": [
@@ -193,7 +193,7 @@
 	},
 	{
 		"id": 1199,
-		"category": 2,
+		"category": 1,
 		"number": 1199,
 		"text": "Vyberte správnou možnost/i. Jaké jsou správné stechiometrické koeficient v rovnici, která vyjadřuje reakci oxidu křemičitého s uhlíkem, vzniká karbi křemičitý a oxid uhelnatý",
 		"choices": [

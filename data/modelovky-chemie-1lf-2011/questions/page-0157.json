@@ -1,7 +1,7 @@
 [
 	{
 		"id": 1278,
-		"category": 2,
+		"category": 1,
 		"number": 1278,
 		"text": "Peroxid vodíku při styku s krví",
 		"choices": [
@@ -33,7 +33,7 @@
 	},
 	{
 		"id": 1279,
-		"category": 2,
+		"category": 1,
 		"number": 1279,
 		"text": "Krev",
 		"choices": [
@@ -65,7 +65,7 @@
 	},
 	{
 		"id": 1280,
-		"category": 2,
+		"category": 1,
 		"number": 1280,
 		"text": "Denaturace DNA je",
 		"choices": [
@@ -97,7 +97,7 @@
 	},
 	{
 		"id": 1281,
-		"category": 2,
+		"category": 1,
 		"number": 1281,
 		"text": "Vápník, tj. jeho sloučeniny",
 		"choices": [
@@ -129,7 +129,7 @@
 	},
 	{
 		"id": 1282,
-		"category": 2,
+		"category": 1,
 		"number": 1282,
 		"text": "Talosa je",
 		"choices": [
@@ -161,7 +161,7 @@
 	},
 	{
 		"id": 1283,
-		"category": 2,
+		"category": 1,
 		"number": 1283,
 		"text": "Baktericidní účinek",
 		"choices": [
@@ -193,7 +193,7 @@
 	},
 	{
 		"id": 1284,
-		"category": 2,
+		"category": 1,
 		"number": 1284,
 		"text": "Cement je",
 		"choices": [
@@ -225,7 +225,7 @@
 	},
 	{
 		"id": 1285,
-		"category": 2,
+		"category": 1,
 		"number": 1285,
 		"text": "Pod vzorcem Ca5X(PO4)3, kde X je F, Cl nebo OH se skrývají",
 		"choices": [
@@ -257,7 +257,7 @@
 	},
 	{
 		"id": 1286,
-		"category": 2,
+		"category": 1,
 		"number": 1286,
 		"text": "Chemická koroze",
 		"choices": [

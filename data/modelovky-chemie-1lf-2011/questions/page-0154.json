@@ -1,7 +1,7 @@
 [
 	{
 		"id": 1251,
-		"category": 2,
+		"category": 1,
 		"number": 1251,
 		"text": "Alfa záření je",
 		"choices": [
@@ -33,7 +33,7 @@
 	},
 	{
 		"id": 1252,
-		"category": 2,
+		"category": 1,
 		"number": 1252,
 		"text": "Beta záření",
 		"choices": [
@@ -65,7 +65,7 @@
 	},
 	{
 		"id": 1253,
-		"category": 2,
+		"category": 1,
 		"number": 1253,
 		"text": "Radioaktivita je",
 		"choices": [
@@ -97,7 +97,7 @@
 	},
 	{
 		"id": 1254,
-		"category": 2,
+		"category": 1,
 		"number": 1254,
 		"text": "Které látky patří mezi binární sloučeniny?",
 		"choices": [
@@ -129,7 +129,7 @@
 	},
 	{
 		"id": 1255,
-		"category": 2,
+		"category": 1,
 		"number": 1255,
 		"text": "Molekula vodíku označovaná H2 je tvořena",
 		"choices": [
@@ -161,7 +161,7 @@
 	},
 	{
 		"id": 1256,
-		"category": 2,
+		"category": 1,
 		"number": 1256,
 		"text": "Které z následujících prvků jsou při teplotě 298 K a normálním atmosférické tlaku (101325 Pa) kapalné?",
 		"choices": [
@@ -193,7 +193,7 @@
 	},
 	{
 		"id": 1257,
-		"category": 2,
+		"category": 1,
 		"number": 1257,
 		"text": "Jak je možné znehodnotit diamant?",
 		"choices": [
@@ -225,7 +225,7 @@
 	},
 	{
 		"id": 1258,
-		"category": 2,
+		"category": 1,
 		"number": 1258,
 		"text": "Která triáda obsahuje kov alkalických zemin, přechodný (tranzitní) kov a halogen?",
 		"choices": [
@@ -257,7 +257,7 @@
 	},
 	{
 		"id": 1259,
-		"category": 2,
+		"category": 1,
 		"number": 1259,
 		"text": "Typické vlastnosti přechodných kovů jsou",
 		"choices": [

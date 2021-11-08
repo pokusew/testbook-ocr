@@ -1,7 +1,7 @@
 [
 	{
 		"id": 1215,
-		"category": 2,
+		"category": 1,
 		"number": 1215,
 		"text": "Denaturovaný alkohol je",
 		"choices": [
@@ -33,7 +33,7 @@
 	},
 	{
 		"id": 1216,
-		"category": 2,
+		"category": 1,
 		"number": 1216,
 		"text": "Benzín je",
 		"choices": [
@@ -65,7 +65,7 @@
 	},
 	{
 		"id": 1217,
-		"category": 2,
+		"category": 1,
 		"number": 1217,
 		"text": "Ocet, čili vodný roztok kyseliny octové, se dá vyrobit",
 		"choices": [
@@ -97,7 +97,7 @@
 	},
 	{
 		"id": 1218,
-		"category": 2,
+		"category": 1,
 		"number": 1218,
 		"text": "Mezi polysacharidy patří",
 		"choices": [
@@ -129,7 +129,7 @@
 	},
 	{
 		"id": 1219,
-		"category": 2,
+		"category": 1,
 		"number": 1219,
 		"text": "Kyselina benzoová je:",
 		"choices": [
@@ -161,7 +161,7 @@
 	},
 	{
 		"id": 1220,
-		"category": 2,
+		"category": 1,
 		"number": 1220,
 		"text": "Emulgátor je látka, která",
 		"choices": [
@@ -193,7 +193,7 @@
 	},
 	{
 		"id": 1221,
-		"category": 2,
+		"category": 1,
 		"number": 1221,
 		"text": "Emulze je",
 		"choices": [
@@ -225,7 +225,7 @@
 	},
 	{
 		"id": 1222,
-		"category": 2,
+		"category": 1,
 		"number": 1222,
 		"text": "Alkaloidy jsou",
 		"choices": [
@@ -257,7 +257,7 @@
 	},
 	{
 		"id": 1223,
-		"category": 2,
+		"category": 1,
 		"number": 1223,
 		"text": "Do zubních past se nejčastěji přidávají",
 		"choices": [

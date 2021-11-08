@@ -1,7 +1,7 @@
 [
 	{
 		"id": 922,
-		"category": 2,
+		"category": 1,
 		"number": 922,
 		"text": "Inositol je",
 		"choices": [
@@ -33,7 +33,7 @@
 	},
 	{
 		"id": 923,
-		"category": 2,
+		"category": 1,
 		"number": 923,
 		"text": "Kolagen je",
 		"choices": [
@@ -65,7 +65,7 @@
 	},
 	{
 		"id": 924,
-		"category": 2,
+		"category": 1,
 		"number": 924,
 		"text": "Globulární bílkoviny",
 		"choices": [
@@ -97,7 +97,7 @@
 	},
 	{
 		"id": 925,
-		"category": 2,
+		"category": 1,
 		"number": 925,
 		"text": "Glykoproteiny",
 		"choices": [
@@ -129,7 +129,7 @@
 	},
 	{
 		"id": 926,
-		"category": 2,
+		"category": 1,
 		"number": 926,
 		"text": "Kyselou hydrolýzou polysacharidu vznikají",
 		"choices": [
@@ -161,7 +161,7 @@
 	},
 	{
 		"id": 927,
-		"category": 2,
+		"category": 1,
 		"number": 927,
 		"text": "Monosacharidy jsou",
 		"choices": [
@@ -193,7 +193,7 @@
 	},
 	{
 		"id": 928,
-		"category": 2,
+		"category": 1,
 		"number": 928,
 		"text": "Polysacharidy mohou mít funkci",
 		"choices": [
@@ -225,7 +225,7 @@
 	},
 	{
 		"id": 929,
-		"category": 2,
+		"category": 1,
 		"number": 929,
 		"text": "Mezi disacharidy patří",
 		"choices": [
@@ -257,7 +257,7 @@
 	},
 	{
 		"id": 930,
-		"category": 2,
+		"category": 1,
 		"number": 930,
 		"text": "Celulóza",
 		"choices": [

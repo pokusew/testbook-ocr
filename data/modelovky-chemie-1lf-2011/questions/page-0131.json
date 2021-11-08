@@ -1,7 +1,7 @@
 [
 	{
 		"id": 1074,
-		"category": 2,
+		"category": 1,
 		"number": 1074,
 		"text": "Vodíkové můstky",
 		"choices": [
@@ -33,7 +33,7 @@
 	},
 	{
 		"id": 1075,
-		"category": 2,
+		"category": 1,
 		"number": 1075,
 		"text": "Označte typ vazby v molekule kyslíku",
 		"choices": [
@@ -65,7 +65,7 @@
 	},
 	{
 		"id": 1076,
-		"category": 2,
+		"category": 1,
 		"number": 1076,
 		"text": "Označte typ vazby v molekule chloru",
 		"choices": [
@@ -97,7 +97,7 @@
 	},
 	{
 		"id": 1077,
-		"category": 2,
+		"category": 1,
 		"number": 1077,
 		"text": "Charakterizujte typ vazby v molekule chloridu sodného",
 		"choices": [
@@ -129,7 +129,7 @@
 	},
 	{
 		"id": 1078,
-		"category": 2,
+		"category": 1,
 		"number": 1078,
 		"text": "Která/é z následujících sloučenin netvoří vodíkové můstky",
 		"choices": [
@@ -161,7 +161,7 @@
 	},
 	{
 		"id": 1079,
-		"category": 2,
+		"category": 1,
 		"number": 1079,
 		"text": "Která/é z následujících sloučenin netvoří vodíkové můstky",
 		"choices": [
@@ -193,7 +193,7 @@
 	},
 	{
 		"id": 1080,
-		"category": 2,
+		"category": 1,
 		"number": 1080,
 		"text": "Pokud má prvek malou ionizační energii, potom",
 		"choices": [
@@ -225,7 +225,7 @@
 	},
 	{
 		"id": 1081,
-		"category": 2,
+		"category": 1,
 		"number": 1081,
 		"text": "Anionty se snadno tvoří z prvků, které",
 		"choices": [
@@ -257,7 +257,7 @@
 	},
 	{
 		"id": 1082,
-		"category": 2,
+		"category": 1,
 		"number": 1082,
 		"text": "Reakční teplo je",
 		"choices": [

@@ -1,7 +1,7 @@
 [
 	{
 		"id": 1233,
-		"category": 2,
+		"category": 1,
 		"number": 1233,
 		"text": "Síra má",
 		"choices": [
@@ -33,7 +33,7 @@
 	},
 	{
 		"id": 1234,
-		"category": 2,
+		"category": 1,
 		"number": 1234,
 		"text": "Principem tuhnutí sádry (např. u sádrových obvazů) je",
 		"choices": [
@@ -65,7 +65,7 @@
 	},
 	{
 		"id": 1235,
-		"category": 2,
+		"category": 1,
 		"number": 1235,
 		"text": "Rajský plyn je",
 		"choices": [
@@ -97,7 +97,7 @@
 	},
 	{
 		"id": 1236,
-		"category": 2,
+		"category": 1,
 		"number": 1236,
 		"text": "Fosfor",
 		"choices": [
@@ -129,7 +129,7 @@
 	},
 	{
 		"id": 1237,
-		"category": 2,
+		"category": 1,
 		"number": 1237,
 		"text": "Oxid uhelnatý je",
 		"choices": [
@@ -161,7 +161,7 @@
 	},
 	{
 		"id": 1238,
-		"category": 2,
+		"category": 1,
 		"number": 1238,
 		"text": "Oxid uhličitý je",
 		"choices": [
@@ -193,7 +193,7 @@
 	},
 	{
 		"id": 1239,
-		"category": 2,
+		"category": 1,
 		"number": 1239,
 		"text": "Sirouhlík je",
 		"choices": [
@@ -225,7 +225,7 @@
 	},
 	{
 		"id": 1240,
-		"category": 2,
+		"category": 1,
 		"number": 1240,
 		"text": "Kyanovodík je",
 		"choices": [
@@ -257,7 +257,7 @@
 	},
 	{
 		"id": 1241,
-		"category": 2,
+		"category": 1,
 		"number": 1241,
 		"text": "Křemík tvoří",
 		"choices": [

@@ -1,7 +1,7 @@
 [
 	{
 		"id": 913,
-		"category": 2,
+		"category": 1,
 		"number": 913,
 		"text": "Glukóza přijatá potravou může být v lidském těle",
 		"choices": [
@@ -33,7 +33,7 @@
 	},
 	{
 		"id": 914,
-		"category": 2,
+		"category": 1,
 		"number": 914,
 		"text": "Která/é z následujících látek se přirozeně nevyskytuje/í v živých buňkách?",
 		"choices": [
@@ -65,7 +65,7 @@
 	},
 	{
 		"id": 915,
-		"category": 2,
+		"category": 1,
 		"number": 915,
 		"text": "Aminokyseliny, které obsahují další aminoskupinu v postranním řetězci jsou",
 		"choices": [
@@ -97,7 +97,7 @@
 	},
 	{
 		"id": 916,
-		"category": 2,
+		"category": 1,
 		"number": 916,
 		"text": "Aminokyselina/y obsahující v postranním řetězci síru je/jsou",
 		"choices": [
@@ -129,7 +129,7 @@
 	},
 	{
 		"id": 917,
-		"category": 2,
+		"category": 1,
 		"number": 917,
 		"text": "Aminokyselina/y obsahující v postranním řetězci hydroxylovou skupinu je/jsou",
 		"choices": [
@@ -161,7 +161,7 @@
 	},
 	{
 		"id": 918,
-		"category": 2,
+		"category": 1,
 		"number": 918,
 		"text": "Aminokyselina/y, která/é ve své molekule obsahuje aromatický kruh je/jsou",
 		"choices": [
@@ -193,7 +193,7 @@
 	},
 	{
 		"id": 919,
-		"category": 2,
+		"category": 1,
 		"number": 919,
 		"text": "Aminokyselina/y obsahující ve své molekule amidovou vazbu je/jsou",
 		"choices": [
@@ -225,7 +225,7 @@
 	},
 	{
 		"id": 920,
-		"category": 2,
+		"category": 1,
 		"number": 920,
 		"text": "Která z uvedených látek je v lidském těle nejvíce zastoupena (tj. tuto látk obsahuje lidské tělo v největším množství)",
 		"choices": [
@@ -257,7 +257,7 @@
 	},
 	{
 		"id": 921,
-		"category": 2,
+		"category": 1,
 		"number": 921,
 		"text": "Tuky jsou",
 		"choices": [

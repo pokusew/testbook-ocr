@@ -58,7 +58,7 @@
 			{
 				"id": 4,
 				"name": "d",
-				"text": "konstituční izomer je",
+				"text": "konstituční izomery",
 				"correct": false
 			}
 		]
@@ -90,7 +90,7 @@
 			{
 				"id": 4,
 				"name": "d",
-				"text": "cyklický este jsou v poloze",
+				"text": "cyklický ester",
 				"correct": false
 			}
 		]
@@ -110,7 +110,7 @@
 			{
 				"id": 2,
 				"name": "b",
-				"text": "met R",
+				"text": "meta",
 				"correct": true
 			},
 			{
@@ -218,7 +218,7 @@
 			{
 				"id": 4,
 				"name": "d",
-				"text": "CH30 CH CH C OH j OH",
+				"text": "CH30-",
 				"correct": false
 			}
 		]

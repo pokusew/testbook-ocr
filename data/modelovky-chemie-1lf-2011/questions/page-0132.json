@@ -1,7 +1,7 @@
 [
 	{
 		"id": 1083,
-		"category": 2,
+		"category": 1,
 		"number": 1083,
 		"text": "První termochemický zákon říká",
 		"choices": [
@@ -33,7 +33,7 @@
 	},
 	{
 		"id": 1084,
-		"category": 2,
+		"category": 1,
 		"number": 1084,
 		"text": "Druhý termochemický zákon říká",
 		"choices": [
@@ -65,7 +65,7 @@
 	},
 	{
 		"id": 1085,
-		"category": 2,
+		"category": 1,
 		"number": 1085,
 		"text": "Jestliže je reakce exotermní, pak platí",
 		"choices": [
@@ -97,7 +97,7 @@
 	},
 	{
 		"id": 1086,
-		"category": 2,
+		"category": 1,
 		"number": 1086,
 		"text": "První termodynamický zákon",
 		"choices": [
@@ -129,7 +129,7 @@
 	},
 	{
 		"id": 1087,
-		"category": 2,
+		"category": 1,
 		"number": 1087,
 		"text": "Druhý termodynamický zákon",
 		"choices": [
@@ -161,7 +161,7 @@
 	},
 	{
 		"id": 1088,
-		"category": 2,
+		"category": 1,
 		"number": 1088,
 		"text": "Třetí termodynamický zákon",
 		"choices": [
@@ -193,7 +193,7 @@
 	},
 	{
 		"id": 1089,
-		"category": 2,
+		"category": 1,
 		"number": 1089,
 		"text": "Brönstedova kyselina",
 		"choices": [

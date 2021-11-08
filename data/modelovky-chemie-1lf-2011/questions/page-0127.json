@@ -1,7 +1,7 @@
 [
 	{
 		"id": 1046,
-		"category": 2,
+		"category": 1,
 		"number": 1046,
 		"text": "Ionizační energie v řadě Li, Na, K, Rb, Cs",
 		"choices": [
@@ -33,7 +33,7 @@
 	},
 	{
 		"id": 1047,
-		"category": 2,
+		"category": 1,
 		"number": 1047,
 		"text": "Vyberte správnou/é definici/definice. Orbital je",
 		"choices": [
@@ -65,7 +65,7 @@
 	},
 	{
 		"id": 1048,
-		"category": 2,
+		"category": 1,
 		"number": 1048,
 		"text": "Vazebnou energií nazýváme",
 		"choices": [
@@ -97,7 +97,7 @@
 	},
 	{
 		"id": 1049,
-		"category": 2,
+		"category": 1,
 		"number": 1049,
 		"text": "V molekule NH4Cl nalezneme vazby",
 		"choices": [
@@ -129,7 +129,7 @@
 	},
 	{
 		"id": 1050,
-		"category": 2,
+		"category": 1,
 		"number": 1050,
 		"text": "Vznik chemické vazby mezi dvěma atomy",
 		"choices": [
@@ -161,7 +161,7 @@
 	},
 	{
 		"id": 1051,
-		"category": 2,
+		"category": 1,
 		"number": 1051,
 		"text": "Excitovaný stav je",
 		"choices": [
@@ -193,7 +193,7 @@
 	},
 	{
 		"id": 1052,
-		"category": 2,
+		"category": 1,
 		"number": 1052,
 		"text": "Elektronová konfigurace 2s 2p² patří",
 		"choices": [
@@ -225,7 +225,7 @@
 	},
 	{
 		"id": 1053,
-		"category": 2,
+		"category": 1,
 		"number": 1053,
 		"text": "Stav atomu o nejnižší energii se nazývá",
 		"choices": [

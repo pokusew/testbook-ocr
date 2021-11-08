@@ -1,7 +1,7 @@
 [
 	{
 		"id": 1065,
-		"category": 2,
+		"category": 1,
 		"number": 1065,
 		"text": "Komplexní vazba",
 		"choices": [
@@ -33,7 +33,7 @@
 	},
 	{
 		"id": 1066,
-		"category": 2,
+		"category": 1,
 		"number": 1066,
 		"text": "Elektronegativita je",
 		"choices": [
@@ -65,7 +65,7 @@
 	},
 	{
 		"id": 1067,
-		"category": 2,
+		"category": 1,
 		"number": 1067,
 		"text": "Hybridizace je",
 		"choices": [
@@ -97,7 +97,7 @@
 	},
 	{
 		"id": 1068,
-		"category": 2,
+		"category": 1,
 		"number": 1068,
 		"text": "Hybridní orbital",
 		"choices": [
@@ -129,7 +129,7 @@
 	},
 	{
 		"id": 1069,
-		"category": 2,
+		"category": 1,
 		"number": 1069,
 		"text": "Polarita kovalentní vazby je způsobena",
 		"choices": [
@@ -161,7 +161,7 @@
 	},
 	{
 		"id": 1070,
-		"category": 2,
+		"category": 1,
 		"number": 1070,
 		"text": "Elektrický dipólový moment charakterizuje",
 		"choices": [
@@ -193,7 +193,7 @@
 	},
 	{
 		"id": 1071,
-		"category": 2,
+		"category": 1,
 		"number": 1071,
 		"text": "van der Waalsovy síly",
 		"choices": [
@@ -225,7 +225,7 @@
 	},
 	{
 		"id": 1072,
-		"category": 2,
+		"category": 1,
 		"number": 1072,
 		"text": "Vodíková vazba (vodíkový můstek)",
 		"choices": [
@@ -257,7 +257,7 @@
 	},
 	{
 		"id": 1073,
-		"category": 2,
+		"category": 1,
 		"number": 1073,
 		"text": "Vodíkové můstky nevznikají",
 		"choices": [

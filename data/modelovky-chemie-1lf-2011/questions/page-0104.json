@@ -1,7 +1,7 @@
 [
 	{
 		"id": 853,
-		"category": 2,
+		"category": 1,
 		"number": 853,
 		"text": "Tento vzorec",
 		"choices": [
@@ -33,7 +33,7 @@
 	},
 	{
 		"id": 854,
-		"category": 2,
+		"category": 1,
 		"number": 854,
 		"text": "Tento vzorec",
 		"choices": [
@@ -65,7 +65,7 @@
 	},
 	{
 		"id": 855,
-		"category": 2,
+		"category": 1,
 		"number": 855,
 		"text": "Název této O",
 		"choices": [
@@ -97,7 +97,7 @@
 	},
 	{
 		"id": 856,
-		"category": 2,
+		"category": 1,
 		"number": 856,
 		"text": "Kyselina máselná má",
 		"choices": [
@@ -129,7 +129,7 @@
 	},
 	{
 		"id": 857,
-		"category": 2,
+		"category": 1,
 		"number": 857,
 		"text": "Vyberte sumární vzorec pro tento racionální vzorec",
 		"choices": [
@@ -161,7 +161,7 @@
 	},
 	{
 		"id": 858,
-		"category": 2,
+		"category": 1,
 		"number": 858,
 		"text": "Vyberte sumární vzorec pro tento racionální vzorec",
 		"choices": [
@@ -193,7 +193,7 @@
 	},
 	{
 		"id": 859,
-		"category": 2,
+		"category": 1,
 		"number": 859,
 		"text": "Vyberte sumární vzorec pro tento racionální vzorec",
 		"choices": [

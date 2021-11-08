@@ -1,7 +1,7 @@
 [
 	{
 		"id": 895,
-		"category": 2,
+		"category": 1,
 		"number": 895,
 		"text": "Progesteron je",
 		"choices": [
@@ -33,7 +33,7 @@
 	},
 	{
 		"id": 896,
-		"category": 2,
+		"category": 1,
 		"number": 896,
 		"text": "Insulin je",
 		"choices": [
@@ -65,7 +65,7 @@
 	},
 	{
 		"id": 897,
-		"category": 2,
+		"category": 1,
 		"number": 897,
 		"text": "Cukrovka je onemocnění, při kterém hraje podstatnou úlohu",
 		"choices": [
@@ -97,7 +97,7 @@
 	},
 	{
 		"id": 898,
-		"category": 2,
+		"category": 1,
 		"number": 898,
 		"text": "Vitamíny jsou",
 		"choices": [
@@ -129,7 +129,7 @@
 	},
 	{
 		"id": 899,
-		"category": 2,
+		"category": 1,
 		"number": 899,
 		"text": "Vitamin A",
 		"choices": [
@@ -161,7 +161,7 @@
 	},
 	{
 		"id": 900,
-		"category": 2,
+		"category": 1,
 		"number": 900,
 		"text": "Vitamín D",
 		"choices": [
@@ -193,7 +193,7 @@
 	},
 	{
 		"id": 901,
-		"category": 2,
+		"category": 1,
 		"number": 901,
 		"text": "NAD+ a NADH se",
 		"choices": [
@@ -225,7 +225,7 @@
 	},
 	{
 		"id": 902,
-		"category": 2,
+		"category": 1,
 		"number": 902,
 		"text": "Aktivní transport je",
 		"choices": [
@@ -257,7 +257,7 @@
 	},
 	{
 		"id": 903,
-		"category": 2,
+		"category": 1,
 		"number": 903,
 		"text": "Adrenalin je",
 		"choices": [

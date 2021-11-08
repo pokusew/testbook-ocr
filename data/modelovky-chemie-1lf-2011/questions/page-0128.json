@@ -1,7 +1,7 @@
 [
 	{
 		"id": 1054,
-		"category": 2,
+		"category": 1,
 		"number": 1054,
 		"text": "Obsazování jednotlivých orbitalů elektrony, neboli elektronová konfigurace atom v základním stavu se řídí následujícími principy",
 		"choices": [
@@ -33,7 +33,7 @@
 	},
 	{
 		"id": 1055,
-		"category": 2,
+		"category": 1,
 		"number": 1055,
 		"text": "Pauliho vylučovací princip pro obsazování jednotlivých orbitalů elektron v základním stavu zní",
 		"choices": [
@@ -65,7 +65,7 @@
 	},
 	{
 		"id": 1056,
-		"category": 2,
+		"category": 1,
 		"number": 1056,
 		"text": "Vyberte správný/é výrok/y",
 		"choices": [
@@ -97,7 +97,7 @@
 	},
 	{
 		"id": 1057,
-		"category": 2,
+		"category": 1,
 		"number": 1057,
 		"text": "Hundovo pravidlo pro obsazování jednotlivých orbitalů elektrony v základní stavu zní",
 		"choices": [
@@ -129,7 +129,7 @@
 	},
 	{
 		"id": 1058,
-		"category": 2,
+		"category": 1,
 		"number": 1058,
 		"text": "Elektronegativní může být",
 		"choices": [

@@ -1,7 +1,7 @@
 [
 	{
 		"id": 1090,
-		"category": 2,
+		"category": 1,
 		"number": 1090,
 		"text": "Brönstedova zásada",
 		"choices": [
@@ -33,7 +33,7 @@
 	},
 	{
 		"id": 1091,
-		"category": 2,
+		"category": 1,
 		"number": 1091,
 		"text": "Vacidobazické rovnovážné reakci popsané rovnic CH3COOH + H20 H30* + CH3C0 Jsou tyto konjugované páry (ve smyslu Brönstedovy teorie kyselin a zásad)",
 		"choices": [
@@ -65,9 +65,9 @@
 	},
 	{
 		"id": 1092,
-		"category": 2,
+		"category": 1,
 		"number": 1092,
-		"text": "Vacidobazické rovnovážné reakci popsané reakcí CH3COOH + H20 H30* + CH3C00 je rovnovážná konstanta Kc vyjádřena vzorcem (koncentrace v hranatýc závorkách představují rovnovážné koncentrace)",
+		"text": "Vacidobazické rovnovážné reakci popsané reakcí CH3COOH + H20 H30* + CH3C00- j rovnovážná konstanta Kc vyjádřena vzorcem (koncentrace v hranatýc závorkách představují rovnovážné koncentrace)",
 		"choices": [
 			{
 				"id": 1,
@@ -97,9 +97,9 @@
 	},
 	{
 		"id": 1093,
-		"category": 2,
+		"category": 1,
 		"number": 1093,
-		"text": "Zacidobazické rovnovážné reakce popsané reakcí CH3COOH + H20 H30* + CH3C00 můžeme vyjádřit disociační konstantu kyseliny octové K, výrazem",
+		"text": "Zacidobazické rovnovážné reakce popsané reakcí CH3COOH + H20 H30* + CH3C00- můžem vyjádřit disociační konstantu kyseliny octové K, výrazem",
 		"choices": [
 			{
 				"id": 1,
@@ -129,7 +129,7 @@
 	},
 	{
 		"id": 1094,
-		"category": 2,
+		"category": 1,
 		"number": 1094,
 		"text": "Iontový součin autoprotolýzy vody, tj. reakce 2H20 H30* + OH- má při 25° přibližně hodnotu (předpokládáme, že roztok se chová ideálně)",
 		"choices": [
@@ -161,7 +161,7 @@
 	},
 	{
 		"id": 1095,
-		"category": 2,
+		"category": 1,
 		"number": 1095,
 		"text": "Pro kyselé vodné roztoky platí",
 		"choices": [
