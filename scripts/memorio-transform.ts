@@ -11,7 +11,7 @@ util.inspect.defaultOptions.depth = Infinity;
 const PAGE_QUESTIONS_FILE_NAME = /page-([0-9]{4})\.json/;
 
 
-const run = async (questionsDir: string, memorioOutputDir: string) => {
+const run = async (questionsDir: string, memorioOutputDir: string, idShift: number = 0) => {
 
 	console.log(`questionsDir = ${questionsDir}`);
 	console.log(`memorioOutputDir = ${memorioOutputDir}`);
@@ -55,7 +55,7 @@ const run = async (questionsDir: string, memorioOutputDir: string) => {
 		for (const question of questions) {
 
 			transformedQuestions.push({
-				id: question.id,
+				id: question.id + idShift,
 				package: 1,
 				category: question.category,
 				number: question.number,
@@ -91,11 +91,19 @@ const run = async (questionsDir: string, memorioOutputDir: string) => {
 // process.argv[0] - path to node (Node.js interpreter)
 // process.argv[1] - path to script
 if (!isDefined(process.argv[2]) || !isDefined(process.argv[3])) {
-	console.error('usage: {questionsDir} {memorioOutputDir}');
+	console.error('usage: {questionsDir} {memorioOutputDir} [idShift]');
 	process.exit(1);
 }
 
-run(process.argv[2], process.argv[3])
+const idShiftArg = isDefined(process.argv[4]) ? parseInt(process.argv[4]) : 0;
+
+if (!Number.isInteger(idShiftArg)) {
+	console.error('invalid idShift, must be an integer');
+	console.error('usage: {questionsDir} {memorioOutputDir} [idShift]');
+	process.exit(1);
+}
+
+run(process.argv[2], process.argv[3], idShiftArg)
 	.then(() => {
 		console.log('script finished');
 		process.exit(0);
