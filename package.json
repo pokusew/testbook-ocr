@@ -23,15 +23,15 @@
     "tsc": "tsc"
   },
   "dependencies": {
-    "@google-cloud/vision": "^2.4.0"
+    "@google-cloud/vision": "^2.4.2"
   },
   "devDependencies": {
-    "@babel/core": "^7.16.0",
-    "@babel/preset-env": "^7.16.0",
-    "@babel/preset-typescript": "^7.16.0",
-    "@babel/register": "^7.16.0",
-    "chalk": "^4.1.2",
-    "typescript": "^4.4.4"
+    "@babel/core": "^7.18.2",
+    "@babel/preset-env": "^7.18.2",
+    "@babel/preset-typescript": "^7.17.12",
+    "@babel/register": "^7.17.7",
+    "chalk": "^5.0.1",
+    "typescript": "^4.7.3"
   },
   "engines": {
     "node": ">=14.x",
