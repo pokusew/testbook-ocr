@@ -12,15 +12,16 @@ util.inspect.defaultOptions.depth = Infinity;
 const createCategory = (writer: BulkWriter, categoriesRef, packageId, { name, number, _numQuestions }) => {
 	const id = `${packageId}-${number.toString().padStart(2, '0')}`;
 	const ref = categoriesRef.doc(id);
-	writer.set(
-		ref,
-		{
-			name,
-			number,
-			_numQuestions,
-		},
-	);
+	const data = {
+		name,
+		number,
+		_numQuestions,
+	};
+	writer.set(ref, data);
+	return data;
 };
+
+const AUTO_CATEGORY_SIZE = 200;
 
 const run = async (packageFile: string) => {
 
@@ -68,13 +69,36 @@ const run = async (packageFile: string) => {
 		});
 	}
 
+	let lastAutoCategoryNumber = 1;
+	let numQuestionsInLastAutoCategory = 0;
+
 	for (const question of data.questions) {
+
+		let categoryId = question.category;
+
+		if (categoryId === -1) {
+
+			if (numQuestionsInLastAutoCategory === AUTO_CATEGORY_SIZE) {
+				createCategory(writer, categoriesRef, packageId, {
+					name: `Auto ${lastAutoCategoryNumber}`,
+					number: lastAutoCategoryNumber,
+					_numQuestions: numQuestionsInLastAutoCategory,
+				});
+				lastAutoCategoryNumber++;
+				numQuestionsInLastAutoCategory = 0;
+			}
+
+			categoryId = lastAutoCategoryNumber;
+			numQuestionsInLastAutoCategory++;
+
+		}
+
 		const id = `${packageId}-${question.number.toString().padStart(4, '0')}`;
 		const ref = questionsRef.doc(id);
 		writer.set(
 			ref,
 			{
-				category: `${packageId}-${question.category.toString().padStart(2, '0')}`,
+				category: `${packageId}-${categoryId.toString().padStart(2, '0')}`,
 				number: question.number,
 				type: question.type,
 				text: question.text,
@@ -83,6 +107,16 @@ const run = async (packageFile: string) => {
 				choices: question.choices,
 			},
 		);
+	}
+
+	if (numQuestionsInLastAutoCategory > 0) {
+		createCategory(writer, categoriesRef, packageId, {
+			name: `Auto ${lastAutoCategoryNumber}`,
+			number: lastAutoCategoryNumber,
+			_numQuestions: numQuestionsInLastAutoCategory,
+		});
+		// lastAutoCategoryNumber++;
+		// numQuestionsInLastAutoCategory = 0;
 	}
 
 	await writer.close();
