@@ -61,12 +61,15 @@ const run = async (packageFile: string) => {
 		},
 	);
 
-	for (const category of data.categories) {
-		createCategory(writer, categoriesRef, packageId, {
-			name: category.name,
-			number: category.number,
-			_numQuestions: category.numQuestions,
-		});
+	const numQuestionsPerCategory: Map<number, number> = new Map<number, number>();
+	const boundaryCategoryMapping: [number, number][] = [];
+
+	// relying on correct ordering and meaningful fromIncl/toIncl values
+	for (let i = data.categories.length - 1; i >= 0; i--) {
+		const category = data.categories[i];
+		if (isDefined(category.fromIncl) && isDefined(category.toIncl)) {
+			boundaryCategoryMapping.push([category.fromIncl, category.number]);
+		}
 	}
 
 	let lastAutoCategoryNumber = 1;
@@ -93,6 +96,17 @@ const run = async (packageFile: string) => {
 
 		}
 
+		if (categoryId === -2) {
+			const boundary = boundaryCategoryMapping.find(
+				([fromIncl, c]) => question.number >= fromIncl,
+			);
+			if (!isDefined(boundary)) {
+				throw new Error(`Failed to find corresponding category for question number ${question.number}.`);
+			}
+			categoryId = boundary[1];
+			// console.log(question.number, categoryId);
+		}
+
 		const id = `${packageId}-${question.number.toString().padStart(4, '0')}`;
 		const ref = questionsRef.doc(id);
 		writer.set(
@@ -107,6 +121,9 @@ const run = async (packageFile: string) => {
 				choices: question.choices,
 			},
 		);
+
+		numQuestionsPerCategory.set(categoryId, (numQuestionsPerCategory.get(categoryId) ?? 0) + 1);
+
 	}
 
 	if (numQuestionsInLastAutoCategory > 0) {
@@ -117,6 +134,17 @@ const run = async (packageFile: string) => {
 		});
 		// lastAutoCategoryNumber++;
 		// numQuestionsInLastAutoCategory = 0;
+	}
+
+	for (const category of data.categories) {
+		if (!numQuestionsPerCategory.has(category.number)) {
+			throw new Error(`unexpected: numQuestionsPerCategory.has(${category.number}) === false`);
+		}
+		createCategory(writer, categoriesRef, packageId, {
+			name: category.name,
+			number: category.number,
+			_numQuestions: numQuestionsPerCategory.get(category.number),
+		});
 	}
 
 	await writer.close();
