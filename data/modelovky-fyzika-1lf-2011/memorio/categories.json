@@ -1,0 +1,146 @@
+[
+	{
+		"id": 1,
+		"package": 2,
+		"name": "Veličiny a jednotky",
+		"number": 1,
+		"fromIncl": 1,
+		"toIncl": 39
+	},
+	{
+		"id": 2,
+		"package": 2,
+		"name": "Převody jednotek",
+		"number": 2,
+		"fromIncl": 40,
+		"toIncl": 59
+	},
+	{
+		"id": 3,
+		"package": 2,
+		"name": "Mechanika pevných těles",
+		"number": 3,
+		"fromIncl": 60,
+		"toIncl": 192
+	},
+	{
+		"id": 4,
+		"package": 2,
+		"name": "Mechanika tekutin",
+		"number": 4,
+		"fromIncl": 193,
+		"toIncl": 320
+	},
+	{
+		"id": 5,
+		"package": 2,
+		"name": "El. a magnetismus",
+		"number": 5,
+		"fromIncl": 321,
+		"toIncl": 404
+	},
+	{
+		"id": 6,
+		"package": 2,
+		"name": "Molekulová fyzika a termika",
+		"number": 6,
+		"fromIncl": 405,
+		"toIncl": 616
+	},
+	{
+		"id": 7,
+		"package": 2,
+		"name": "El. proud",
+		"number": 7,
+		"fromIncl": 617,
+		"toIncl": 758
+	},
+	{
+		"id": 8,
+		"package": 2,
+		"name": "El. proud v polovodičích",
+		"number": 8,
+		"fromIncl": 759,
+		"toIncl": 789
+	},
+	{
+		"id": 9,
+		"package": 2,
+		"name": "El. proud v kapalinách",
+		"number": 9,
+		"fromIncl": 790,
+		"toIncl": 814
+	},
+	{
+		"id": 10,
+		"package": 2,
+		"name": "El. proud v plynech",
+		"number": 10,
+		"fromIncl": 815,
+		"toIncl": 828
+	},
+	{
+		"id": 11,
+		"package": 2,
+		"name": "Stacionární magnet. pole",
+		"number": 11,
+		"fromIncl": 829,
+		"toIncl": 903
+	},
+	{
+		"id": 12,
+		"package": 2,
+		"name": "Střídavý proud",
+		"number": 12,
+		"fromIncl": 904,
+		"toIncl": 960
+	},
+	{
+		"id": 13,
+		"package": 2,
+		"name": "Mechan. kmitání a vlnění",
+		"number": 13,
+		"fromIncl": 961,
+		"toIncl": 1010
+	},
+	{
+		"id": 14,
+		"package": 2,
+		"name": "Kmit. mechan. oscilátoru",
+		"number": 14,
+		"fromIncl": 1011,
+		"toIncl": 1019
+	},
+	{
+		"id": 15,
+		"package": 2,
+		"name": "Mechanické vlnění",
+		"number": 15,
+		"fromIncl": 1020,
+		"toIncl": 1049
+	},
+	{
+		"id": 16,
+		"package": 2,
+		"name": "Zvukové vlnění",
+		"number": 16,
+		"fromIncl": 1050,
+		"toIncl": 1081
+	},
+	{
+		"id": 17,
+		"package": 2,
+		"name": "Optika",
+		"number": 17,
+		"fromIncl": 1082,
+		"toIncl": 1213
+	},
+	{
+		"id": 18,
+		"package": 2,
+		"name": "Atomistika",
+		"number": 18,
+		"fromIncl": 1214,
+		"toIncl": 1262
+	}
+]
