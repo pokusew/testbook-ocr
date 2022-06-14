@@ -3,11 +3,24 @@
 import util from 'util';
 import { isDefined } from './common';
 import { applicationDefault, initializeApp } from 'firebase-admin/app';
-import { getFirestore } from 'firebase-admin/firestore';
+import { BulkWriter, getFirestore } from 'firebase-admin/firestore';
 import fs from 'fs/promises';
 
 util.inspect.defaultOptions.depth = Infinity;
 
+
+const createCategory = (writer: BulkWriter, categoriesRef, packageId, { name, number, _numQuestions }) => {
+	const id = `${packageId}-${number.toString().padStart(2, '0')}`;
+	const ref = categoriesRef.doc(id);
+	writer.set(
+		ref,
+		{
+			name,
+			number,
+			_numQuestions,
+		},
+	);
+};
 
 const run = async (packageFile: string) => {
 
@@ -48,16 +61,11 @@ const run = async (packageFile: string) => {
 	);
 
 	for (const category of data.categories) {
-		const id = `${packageId}-${category.number.toString().padStart(2, '0')}`;
-		const ref = categoriesRef.doc(id);
-		writer.set(
-			ref,
-			{
-				name: category.name,
-				number: category.number,
-				_numQuestions: category.numQuestions,
-			},
-		);
+		createCategory(writer, categoriesRef, packageId, {
+			name: category.name,
+			number: category.number,
+			_numQuestions: category.numQuestions,
+		});
 	}
 
 	for (const question of data.questions) {
