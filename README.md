@@ -17,7 +17,7 @@ this mini-project.
 
 ### Requirements
 
-* [Node.js](https://nodejs.org/) >=14.x
+* [Node.js](https://nodejs.org/) >=18.x
 * [Yarn](https://yarnpkg.com/) 1.x
 * _optional:_ globally installed [nodemon](https://nodemon.io/) for rerunning scripts on source changes
 
