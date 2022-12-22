@@ -2,9 +2,9 @@
 
 import util from 'util';
 import { applicationDefault, initializeApp } from 'firebase-admin/app';
-import { getFirestore } from 'firebase-admin/firestore';
+import { getFirestore, GrpcStatus } from 'firebase-admin/firestore';
 
-util.inspect.defaultOptions.depth = Infinity;
+util.inspect.defaultOptions.depth = 10;
 
 
 const range = (startAtIncl: number, stopAtIncl: number): ReadonlyArray<number> => {
@@ -17,13 +17,26 @@ const questionNumberToId = (packageId: string, questionNumber: number) =>
 
 const run = async () => {
 
+	// see https://firebase.google.com/docs/admin/setup#initialize-sdk
 	const app = initializeApp({
+		// set the environment variable GOOGLE_APPLICATION_CREDENTIALS
+		// to the file path of the JSON file that contains your service account key
 		credential: applicationDefault(),
 	});
 
 	const db = getFirestore(app);
 
 	const writer = db.bulkWriter();
+
+	// see https://googleapis.dev/nodejs/firestore/latest/BulkWriter.html#onWriteError
+	writer.onWriteError((error) => {
+		if (error.code === GrpcStatus.UNAVAILABLE && error.failedAttempts < 10) {
+			return true;
+		} else {
+			console.error(`write error code=${error.code}, documentRef=${error.documentRef.path}, operationType=${error.operationType}, failedAttempts=${error.failedAttempts}:`, error.message);
+			return false;
+		}
+	});
 
 	const packageId = '3';
 	const packageRef = db.collection('packages').doc(packageId);
@@ -49,6 +62,10 @@ const run = async () => {
 		writer.update(questionRef, { disabled: true });
 	});
 
+	// note: this Promise will never be rejected
+	//   see https://googleapis.dev/nodejs/firestore/latest/BulkWriter.html#close
+	//   see https://googleapis.dev/nodejs/firestore/latest/BulkWriter.html#onWriteError
+	//   see https://googleapis.dev/nodejs/firestore/latest/BulkWriter.html#set
 	await writer.close();
 
 	console.log('questions ignored');

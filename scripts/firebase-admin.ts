@@ -5,12 +5,15 @@ import { isDefined } from './common';
 import { applicationDefault, initializeApp } from 'firebase-admin/app';
 import { getAuth } from 'firebase-admin/auth';
 
-util.inspect.defaultOptions.depth = Infinity;
+util.inspect.defaultOptions.depth = 10;
 
 
 const run = async (uid: string, claimsString: string) => {
 
+	// see https://firebase.google.com/docs/admin/setup#initialize-sdk
 	const app = initializeApp({
+		// set the environment variable GOOGLE_APPLICATION_CREDENTIALS
+		// to the file path of the JSON file that contains your service account key
 		credential: applicationDefault(),
 	});
 

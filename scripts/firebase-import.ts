@@ -3,10 +3,10 @@
 import util from 'util';
 import { isDefined } from './common';
 import { applicationDefault, initializeApp } from 'firebase-admin/app';
-import { BulkWriter, getFirestore } from 'firebase-admin/firestore';
+import { BulkWriter, getFirestore, GrpcStatus } from 'firebase-admin/firestore';
 import fs from 'fs/promises';
 
-util.inspect.defaultOptions.depth = Infinity;
+util.inspect.defaultOptions.depth = 10;
 
 
 const createCategory = (writer: BulkWriter, categoriesRef, packageId, { name, number, _numQuestions }) => {
@@ -25,13 +25,26 @@ const AUTO_CATEGORY_SIZE = 200;
 
 const run = async (packageFile: string) => {
 
+	// see https://firebase.google.com/docs/admin/setup#initialize-sdk
 	const app = initializeApp({
+		// set the environment variable GOOGLE_APPLICATION_CREDENTIALS
+		// to the file path of the JSON file that contains your service account key
 		credential: applicationDefault(),
 	});
 
 	const db = getFirestore(app);
 
 	const writer = db.bulkWriter();
+
+	// see https://googleapis.dev/nodejs/firestore/latest/BulkWriter.html#onWriteError
+	writer.onWriteError((error) => {
+		if (error.code === GrpcStatus.UNAVAILABLE && error.failedAttempts < 10) {
+			return true;
+		} else {
+			console.error(`write error code=${error.code}, documentRef=${error.documentRef.path}, operationType=${error.operationType}, failedAttempts=${error.failedAttempts}:`, error.message);
+			return false;
+		}
+	});
 
 	const dataString = await fs.readFile(packageFile, {
 		encoding: 'utf-8',
@@ -46,12 +59,14 @@ const run = async (packageFile: string) => {
 	}
 
 	const packageId = data.id.toString();
-	const packageRef = db.collection('packages').doc(data.id.toString());
+	const packageRef = db.collection('packages').doc(packageId);
 	const categoriesRef = packageRef.collection('categories');
 	const questionsRef = packageRef.collection('questions');
 
+	console.log(`writing ${packageRef.path}`);
+
 	writer.set(
-		db.collection('packages').doc(data.id.toString()),
+		packageRef,
 		{
 			locale: data.locale,
 			name: data.name,
@@ -147,6 +162,10 @@ const run = async (packageFile: string) => {
 		});
 	}
 
+	// note: this Promise will never be rejected
+	//   see https://googleapis.dev/nodejs/firestore/latest/BulkWriter.html#close
+	//   see https://googleapis.dev/nodejs/firestore/latest/BulkWriter.html#onWriteError
+	//   see https://googleapis.dev/nodejs/firestore/latest/BulkWriter.html#set
 	await writer.close();
 
 	console.log('package imported');
