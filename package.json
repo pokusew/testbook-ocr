@@ -24,7 +24,8 @@
   },
   "dependencies": {
     "@google-cloud/vision": "^3.0.1",
-    "firebase-admin": "^11.4.1"
+    "firebase-admin": "^11.4.1",
+    "mammoth": "^1.5.1"
   },
   "devDependencies": {
     "@babel/core": "^7.20.7",

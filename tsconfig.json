@@ -17,7 +17,15 @@
 		// Import non-ES modules as default imports.
 		"esModuleInterop": true,
 		"jsx": "preserve",
-		"resolveJsonModule": true
+		"resolveJsonModule": true,
+		// see https://www.typescriptlang.org/docs/handbook/module-resolution.html#path-mapping
+		// see https://stackoverflow.com/questions/49884527/how-do-i-override-incorrect-types-from-a-package-that-ships-its-own-d-ts
+		"baseUrl": "./",
+		"paths": {
+			"mammoth": [
+				"scripts/mammoth-override"
+			]
+		}
 	},
 	"exclude": [
 		// TODO: check
