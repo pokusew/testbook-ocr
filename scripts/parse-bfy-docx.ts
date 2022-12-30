@@ -156,10 +156,162 @@ const convertRunToBlock = (element: MammothRun): Block | null => {
 
 };
 
-const run = async (docxFile: string, outputHtmlFile: string) => {
+interface Category {
+	id: number;
+	name: string;
+	numQuestions: number;
+}
+
+interface Choice {
+	id: number;
+	text: string;
+}
+
+interface Question {
+	category: number;
+	number: number;
+	type: 'choice';
+	text: string;
+	multiple: true;
+	correct: number[];
+	choices: Choice[];
+}
+
+const convertBlocksToData = (blocks: Block[]): any => {
+
+	let nextBlockType: Array<Block['type']> = ['category-name'];
+
+	const categories: Category[] = [];
+	const questions: Question[] = [];
+
+	const numChoicesPerQuestion = 4;
+
+	let categoryId = 0;
+	let questionNumber = 0;
+	let currentCategory: Category | null = null;
+	let currentQuestion: Question | null = null;
+
+	for (const block of blocks) {
+
+		if (!nextBlockType.includes(block.type)) {
+			console.error(block);
+			throw new Error(`Unexpected block.`);
+		}
+
+		if (block.type === 'category-name') {
+			categoryId++;
+			currentCategory = {
+				id: categoryId,
+				name: block.name,
+				numQuestions: 0,
+			};
+			categories.push(currentCategory);
+			nextBlockType = ['question-name'];
+			continue;
+		}
+
+		if (block.type === 'question-name') {
+			if (currentCategory === null) {
+				// should never happen
+				throw new Error(`currentCategory null while processing question-name`);
+			}
+			questionNumber++;
+			if (questionNumber !== block.number) {
+				console.error(questionNumber, block);
+				throw new Error(`unexpected question number`);
+			}
+			currentQuestion = {
+				category: currentCategory.id,
+				number: block.number,
+				type: 'choice',
+				text: '',
+				multiple: true,
+				correct: [],
+				choices: [],
+			};
+			questions.push(currentQuestion);
+			currentCategory.numQuestions++;
+			nextBlockType = ['question-text'];
+			continue;
+		}
+
+		if (block.type === 'question-text') {
+			if (currentQuestion === null) {
+				// should never happen
+				throw new Error(`currentQuestion null while processing question-text`);
+			}
+			currentQuestion.text = block.text;
+			nextBlockType = ['question-instruction'];
+			continue;
+		}
+
+		if (block.type === 'question-instruction') {
+			if (currentQuestion === null) {
+				// should never happen
+				throw new Error(`currentQuestion null while processing question-instruction`);
+			}
+			nextBlockType = ['question-choice'];
+			continue;
+		}
+
+		if (block.type === 'question-choice') {
+			if (currentQuestion === null) {
+				// should never happen
+				throw new Error(`currentQuestion null while processing question-choice`);
+			}
+			if (currentQuestion.choices.length + 1 !== block.id) {
+				console.error(currentQuestion, block);
+				throw new Error(`unexpected choice id`);
+			}
+			const choice: Choice = {
+				id: block.id,
+				text: block.text,
+			};
+			currentQuestion.choices.push(choice);
+			if (block.correct) {
+				currentQuestion.correct.push(choice.id);
+			}
+			if (currentQuestion.choices.length === numChoicesPerQuestion) {
+				nextBlockType = ['question-name', 'category-name'];
+			} else {
+				nextBlockType = ['question-choice'];
+			}
+			continue;
+		}
+
+		// should never happen
+		throw new Error(`unprocessed block`);
+
+	}
+
+	if (
+		nextBlockType.length !== 2
+		|| !nextBlockType.every(type => type === 'question-name' || type === 'category-name')
+	) {
+		console.error(currentQuestion);
+		throw new Error(`incomplete question but no more blocks available`);
+	}
+
+	return {
+		id: 6,
+		version: 1,
+		locale: 'cs',
+		name: 'Biofyzika 2020 1. LF UK zápočtové otázky',
+		description: 'Zápočtové otázky verze 2020 z předmětu Biofyzika na 1. LF UK',
+		numCategories: categories.length,
+		numQuestions: questions.length,
+		categories,
+		questions,
+	};
+
+};
+
+const run = async (docxFile: string, outputPackageFile: string) => {
 
 	console.log(`docxFile = ${docxFile}`);
-	console.log(`outputHtmlFile = ${outputHtmlFile}`);
+	console.log(`outputPackageFile = ${outputPackageFile}`);
+
+	console.log(`reading docx file...`);
 
 	const blocks: Block[] = [];
 
@@ -194,9 +346,13 @@ const run = async (docxFile: string, outputHtmlFile: string) => {
 		},
 	);
 
-	console.log(`docx to html conversion finished`, result.messages);
+	console.log(`docx to html conversion finished, messages =`, result.messages);
+	console.log(`extracted ${blocks.length} blocks`);
+	console.log(`converting blocks to package data...`);
 
-	console.log(blocks);
+	const packageData = convertBlocksToData(blocks);
+
+	console.log(packageData);
 
 	// const html = result.value;
 	// await fs.writeFile(outputHtmlFile, html);
@@ -208,7 +364,7 @@ const run = async (docxFile: string, outputHtmlFile: string) => {
 // process.argv[0] - path to node (Node.js interpreter)
 // process.argv[1] - path to script
 // process.argv[2] - docx file
-// process.argv[3] - output html file
+// process.argv[3] - output package file
 if (!isDefined(process.argv[2]) || !isDefined(process.argv[3])) {
 	console.error('usage: {docxFile} {outputHtmlFile}');
 	process.exit(1);
