@@ -7,6 +7,7 @@ interface Mammoth {
 	extractRawText: (input: Input) => Promise<Result>;
 	embedStyleMap: (input: Input, styleMap: string) => Promise<{ toBuffer: () => Buffer }>;
 	images: Images;
+	transforms: Transforms;
 }
 
 type Input = NodeJsInput | BrowserInput;
@@ -34,6 +35,7 @@ interface Options {
 	convertImage?: ImageConverter;
 	ignoreEmptyParagraphs?: boolean;
 	idPrefix?: string;
+	transformDocument?: (document: MammothDocument) => MammothElement;
 }
 
 interface ImageConverter {
@@ -43,6 +45,13 @@ interface ImageConverter {
 interface Image {
 	contentType: string;
 	read: ImageRead;
+}
+
+interface Transforms {
+	paragraph: (element: MammothParagraph) => MammothElement;
+	run: (element: MammothRun) => MammothElement;
+	getDescendantsOfType: <Type extends MammothElement>(element: MammothElement, type: Type["type"]) => Array<Type>;
+	getDescendants: (element: MammothElement) => Array<MammothElement>;
 }
 
 interface ImageRead {
@@ -78,6 +87,55 @@ interface Error {
 	error: unknown;
 }
 
-declare const mammoth: Mammoth;
+// TODO: improve transform related types
 
-export = mammoth;
+export type MammothElement = MammothDocument | MammothParagraph | MammothRun | MammothText;
+
+export interface MammothDocument {
+	type: "document";
+	children: Array<MammothParagraph>;
+	notes: any;
+	comments: Array<any>;
+}
+
+export interface MammothParagraph {
+	type: "paragraph";
+	children: Array<MammothRun>;
+	styleId: string | null;
+	styleName: string | null;
+	numbering: string | null;
+	alignment: string | "center";
+	indent: {
+		start: string | null;
+		end: string | null;
+		firstLine: string | null;
+		hanging: string | null;
+	};
+}
+
+export interface MammothRun {
+	type: "run";
+	children: Array<MammothText>;
+	styleId: string | null,
+	styleName: string | null,
+	isBold: boolean,
+	isUnderline: boolean,
+	isItalic: boolean,
+	isStrikethrough: boolean,
+	isAllCaps: boolean,
+	isSmallCaps: boolean,
+	verticalAlignment: "baseline" | string,
+	font: string | null;
+	fontSize: number;
+	color: string | null;
+	highlight: string | null;
+}
+
+export interface MammothText {
+	type: "text";
+	value: string;
+}
+
+export const mammoth: Mammoth;
+
+export default mammoth;
