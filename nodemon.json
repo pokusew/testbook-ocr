@@ -1,6 +1,7 @@
 {
 	"ignore": [
 		"temp/",
+		"packages/",
 		"**/test/"
 	],
 	"env": {

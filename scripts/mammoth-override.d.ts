@@ -136,6 +136,11 @@ export interface MammothText {
 	value: string;
 }
 
+export interface MammothBreak {
+	type: "break";
+	breakType: "line" | string;
+}
+
 export const mammoth: Mammoth;
 
 export default mammoth;

@@ -16,6 +16,10 @@ const visitDescendants = (element: MammothElement, visit: (element: MammothEleme
 	if (element.type === 'text') {
 		return;
 	}
+	if (!isDefined(element.children)) {
+		console.log(element);
+		return;
+	}
 	element.children.forEach(child => {
 		visitDescendants(child, visit);
 		visit(child);
@@ -85,11 +89,16 @@ interface QuestionChoice {
 type Block = CategoryName | QuestionName | QuestionInstruction | QuestionText | QuestionChoice;
 
 const WHITESPACE = /\s+/g;
-const CATEGORY_NAME = /^\p{Lu}+$/u;
+const CATEGORY_NAME = /^[\p{Lu}\s]+$/u;
 const QUESTION_NAME = /^Úloha (?<number>[0-9]+)$/;
 const CHOICE_START = /^[abcd]\./;
 
 const convertRunToBlock = (element: MammothRun): Block | null => {
+
+	if (element.children.length === 0) {
+		// console.log(`ignoring run with no children`, element);
+		return null;
+	}
 
 	if (element.children.length !== 1) {
 		console.error(`unexpected run length`, element);
@@ -97,6 +106,11 @@ const convertRunToBlock = (element: MammothRun): Block | null => {
 	}
 
 	const text = element.children[0].value;
+
+	if (text === '') {
+		// console.log(`ignoring run with one empty text element`, element);
+		return null;
+	}
 
 	if (text === 'Biofyzika souhrn všech otázek') {
 		return null;
@@ -109,10 +123,20 @@ const convertRunToBlock = (element: MammothRun): Block | null => {
 		};
 	}
 
-	if (element.color === 'FF0000') {
+	if (text === 'Vyberte jednu z nabízených možností:') {
+		return {
+			type: 'question-instruction',
+			text,
+		};
+	}
+
+	if (element.color !== '333333') {
 		const match = CATEGORY_NAME.exec(text);
 		if (match) {
 			const name = match[0].slice(0, 1) + match[0].slice(1).toLocaleLowerCase('cs-CZ');
+			if (element.color !== 'FF0000') {
+				console.warn(`category ${name} with an unexpected color`, element.color);
+			}
 			return {
 				type: 'category-name',
 				name,
@@ -137,7 +161,8 @@ const convertRunToBlock = (element: MammothRun): Block | null => {
 		const name = text.slice(0, 1);
 		const id = name.charCodeAt(0) - ('a'.charCodeAt(0)) + 1;
 		const choice = text.slice(3);
-		if (!(1 <= id && id <= 4 && choice.length > 0)) {
+		//  && choice.length > 0
+		if (!(1 <= id && id <= 4)) {
 			console.error(`invalid question choice`, name, id, choice, text);
 			throw new Error(`Invalid question choice.`);
 		}
@@ -190,11 +215,18 @@ const convertBlocksToData = (blocks: Block[]): any => {
 	let questionNumber = 0;
 	let currentCategory: Category | null = null;
 	let currentQuestion: Question | null = null;
+	let currentChoice: Choice | null = null;
 
 	for (const block of blocks) {
 
+		if (block.type === 'question-text' && currentChoice !== null) {
+			// console.warn('appending question-text to the last choice', block, currentQuestion);
+			currentChoice.text += ' ' + block.text;
+			continue;
+		}
+
 		if (!nextBlockType.includes(block.type)) {
-			console.error(block);
+			console.error(nextBlockType, block, currentCategory, currentQuestion);
 			throw new Error(`Unexpected block.`);
 		}
 
@@ -232,6 +264,7 @@ const convertBlocksToData = (blocks: Block[]): any => {
 			questions.push(currentQuestion);
 			currentCategory.numQuestions++;
 			nextBlockType = ['question-text'];
+			currentChoice = null;
 			continue;
 		}
 
@@ -240,8 +273,13 @@ const convertBlocksToData = (blocks: Block[]): any => {
 				// should never happen
 				throw new Error(`currentQuestion null while processing question-text`);
 			}
-			currentQuestion.text = block.text;
-			nextBlockType = ['question-instruction'];
+			if (currentQuestion.text.length > 0) {
+				currentQuestion.text += ' ';
+			}
+			currentQuestion.text += block.text;
+			// TODO: maybe question-instruction may not always be present
+			// allow more blocks of type question-text in case the text is split
+			nextBlockType = ['question-text', 'question-instruction'];
 			continue;
 		}
 
@@ -263,13 +301,13 @@ const convertBlocksToData = (blocks: Block[]): any => {
 				console.error(currentQuestion, block);
 				throw new Error(`unexpected choice id`);
 			}
-			const choice: Choice = {
+			currentChoice = {
 				id: block.id,
 				text: block.text,
 			};
-			currentQuestion.choices.push(choice);
+			currentQuestion.choices.push(currentChoice);
 			if (block.correct) {
-				currentQuestion.correct.push(choice.id);
+				currentQuestion.correct.push(currentChoice.id);
 			}
 			if (currentQuestion.choices.length === numChoicesPerQuestion) {
 				nextBlockType = ['question-name', 'category-name'];
@@ -348,6 +386,10 @@ const run = async (docxFile: string, outputPackageFile: string) => {
 
 	console.log(`docx to html conversion finished, messages =`, result.messages);
 	console.log(`extracted ${blocks.length} blocks`);
+
+	console.log(`writing blocks data to ${outputPackageFile}`);
+	await fs.writeFile(outputPackageFile, JSON.stringify(blocks, undefined, 2));
+
 	console.log(`converting blocks to package data...`);
 
 	const packageData = convertBlocksToData(blocks);
