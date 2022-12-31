@@ -13,11 +13,11 @@ util.inspect.defaultOptions.depth = Infinity;
 
 
 const visitDescendants = (element: MammothElement, visit: (element: MammothElement) => void) => {
-	if (element.type === 'text') {
+	if (element.type === 'text' || element.type === 'break') {
 		return;
 	}
 	if (!isDefined(element.children)) {
-		console.log(element);
+		console.warn(`unknown element type ${element.type} does not have children property`, element);
 		return;
 	}
 	element.children.forEach(child => {
@@ -59,6 +59,14 @@ const removeEmptyParagraphs = (doc: MammothDocument): MammothDocument => ({
 	children: doc.children.filter(p => !isEmptyParagraph(p)),
 });
 
+interface SuperParagraph {
+	text: string;
+	texts: Array<string>;
+	anyIsBold: boolean;
+	colors: Set<string>;
+	highlights: Set<string>;
+}
+
 interface CategoryName {
 	type: 'category-name';
 	name: string;
@@ -71,7 +79,7 @@ interface QuestionName {
 
 interface QuestionInstruction {
 	type: 'question-instruction';
-	text: string;
+	instruction: 'single-choice' | 'multiple-choice';
 }
 
 interface QuestionText {
@@ -91,26 +99,11 @@ type Block = CategoryName | QuestionName | QuestionInstruction | QuestionText | 
 const WHITESPACE = /\s+/g;
 const CATEGORY_NAME = /^[\p{Lu}\s]+$/u;
 const QUESTION_NAME = /^Úloha (?<number>[0-9]+)$/;
-const CHOICE_START = /^[abcd]\./;
+const CHOICE_START = /^[abcde]\./;
 
-const convertRunToBlock = (element: MammothRun): Block | null => {
+const convertSuperParagraphToBlock = (sp: SuperParagraph): Block | null => {
 
-	if (element.children.length === 0) {
-		// console.log(`ignoring run with no children`, element);
-		return null;
-	}
-
-	if (element.children.length !== 1) {
-		console.error(`unexpected run length`, element);
-		throw new Error(`Unexpected run length.`);
-	}
-
-	const text = element.children[0].value;
-
-	if (text === '') {
-		// console.log(`ignoring run with one empty text element`, element);
-		return null;
-	}
+	const text = sp.text;
 
 	if (text === 'Biofyzika souhrn všech otázek') {
 		return null;
@@ -119,23 +112,23 @@ const convertRunToBlock = (element: MammothRun): Block | null => {
 	if (text === 'Vyberte jednu nebo více možností:') {
 		return {
 			type: 'question-instruction',
-			text,
+			instruction: 'multiple-choice',
 		};
 	}
 
 	if (text === 'Vyberte jednu z nabízených možností:') {
 		return {
 			type: 'question-instruction',
-			text,
+			instruction: 'single-choice',
 		};
 	}
 
-	if (element.color !== '333333') {
+	if (sp.colors.has('FF0000') || !sp.colors.has('333333')) {
 		const match = CATEGORY_NAME.exec(text);
 		if (match) {
 			const name = match[0].slice(0, 1) + match[0].slice(1).toLocaleLowerCase('cs-CZ');
-			if (element.color !== 'FF0000') {
-				console.warn(`category ${name} with an unexpected color`, element.color);
+			if (!sp.colors.has('FF0000')) {
+				console.warn(`category ${name} with an unexpected color`, sp.colors);
 			}
 			return {
 				type: 'category-name',
@@ -144,16 +137,17 @@ const convertRunToBlock = (element: MammothRun): Block | null => {
 		}
 	}
 
-	if (element.isBold) {
-		const match = QUESTION_NAME.exec(text);
-		if (match) {
-			const number = Number.parseInt(match.groups?.number as string);
-			if (Number.isInteger(number)) {
-				return {
-					type: 'question-name',
-					number,
-				};
-			}
+	// for some reason not all question names have sp.anyIsBold === true
+	// it seems that isBold flag is not always correctly set by mammoth
+	// (at least in the questions from the second category and further)
+	const questionNameMatch = QUESTION_NAME.exec(text);
+	if (questionNameMatch) {
+		const number = Number.parseInt(questionNameMatch.groups?.number as string);
+		if (Number.isInteger(number)) {
+			return {
+				type: 'question-name',
+				number,
+			};
 		}
 	}
 
@@ -162,7 +156,7 @@ const convertRunToBlock = (element: MammothRun): Block | null => {
 		const id = name.charCodeAt(0) - ('a'.charCodeAt(0)) + 1;
 		const choice = text.slice(3);
 		//  && choice.length > 0
-		if (!(1 <= id && id <= 4)) {
+		if (!(1 <= id && id <= 5)) {
 			console.error(`invalid question choice`, name, id, choice, text);
 			throw new Error(`Invalid question choice.`);
 		}
@@ -170,7 +164,7 @@ const convertRunToBlock = (element: MammothRun): Block | null => {
 			type: 'question-choice',
 			id,
 			text: choice,
-			correct: element.highlight === 'yellow',
+			correct: sp.highlights.has('yellow'),
 		};
 	}
 
@@ -184,6 +178,7 @@ const convertRunToBlock = (element: MammothRun): Block | null => {
 interface Category {
 	id: number;
 	name: string;
+	number: number;
 	numQuestions: number;
 }
 
@@ -193,40 +188,83 @@ interface Choice {
 }
 
 interface Question {
+	id: number;
 	category: number;
 	number: number;
 	type: 'choice';
 	text: string;
-	multiple: true;
+	multiple: boolean;
 	correct: number[];
 	choices: Choice[];
 }
 
-const convertBlocksToData = (blocks: Block[]): any => {
+interface Package {
+	id: number;
+	version: number;
+	locale: string;
+	name: string;
+	description: string;
+	numCategories: number;
+	numQuestions: number;
+	categories: Category[];
+	questions: Question[];
+}
+
+const convertBlocksToData = (blocks: Block[]): Package => {
 
 	let nextBlockType: Array<Block['type']> = ['category-name'];
 
 	const categories: Category[] = [];
 	const questions: Question[] = [];
 
-	const numChoicesPerQuestion = 4;
+	const defaultNumChoicesPerQuestion = 4;
+	const numChoicesPerQuestion = new Map<number, number>([
+		// [question.number, numChoices]
+		[96, 5],
+		[97, 5],
+		[143, 3],
+		[200, 5],
+		[201, 5],
+		[202, 5],
+		[360, 3],
+		[524, 5],
+		[525, 5],
+		[579, 3],
+		[580, 3],
+		[737, 5],
+		[754, 2],
+		[755, 3],
+		[768, 3],
+		[769, 3],
+		[770, 3],
+		[771, 3],
+		[772, 3],
+		[1194, 5],
+		[1302, 5],
+		[1303, 5],
+	]);
+	const getNumChoicesPerQuestion = (id: number) =>
+		numChoicesPerQuestion.get(id) ?? defaultNumChoicesPerQuestion;
 
 	let categoryId = 0;
-	let questionNumber = 0;
+	let questionId = 0;
 	let currentCategory: Category | null = null;
 	let currentQuestion: Question | null = null;
 	let currentChoice: Choice | null = null;
 
 	for (const block of blocks) {
 
-		if (block.type === 'question-text' && currentChoice !== null) {
-			// console.warn('appending question-text to the last choice', block, currentQuestion);
-			currentChoice.text += ' ' + block.text;
-			continue;
-		}
+		// if (block.type === 'question-text' && currentChoice !== null) {
+		// 	// console.warn('appending question-text to the last choice', block, currentQuestion);
+		// 	currentChoice.text += ' ' + block.text;
+		// 	continue;
+		// }
 
 		if (!nextBlockType.includes(block.type)) {
-			console.error(nextBlockType, block, currentCategory, currentQuestion);
+			console.error('nextBlockType =', nextBlockType);
+			console.error('block =', block);
+			console.error('currentCategory =', currentCategory);
+			console.error('currentQuestion =', currentQuestion);
 			throw new Error(`Unexpected block.`);
 		}
 
@@ -235,6 +273,7 @@ const convertBlocksToData = (blocks: Block[]): any => {
 			currentCategory = {
 				id: categoryId,
 				name: block.name,
+				number: categoryId,
 				numQuestions: 0,
 			};
 			categories.push(currentCategory);
@@ -247,12 +286,13 @@ const convertBlocksToData = (blocks: Block[]): any => {
 				// should never happen
 				throw new Error(`currentCategory null while processing question-name`);
 			}
-			questionNumber++;
-			if (questionNumber !== block.number) {
-				console.error(questionNumber, block);
+			questionId++;
+			if (currentCategory.numQuestions + 1 !== block.number) {
+				console.error(questionId, block);
 				throw new Error(`unexpected question number`);
 			}
 			currentQuestion = {
+				id: questionId,
 				category: currentCategory.id,
 				number: block.number,
 				type: 'choice',
@@ -277,9 +317,7 @@ const convertBlocksToData = (blocks: Block[]): any => {
 				currentQuestion.text += ' ';
 			}
 			currentQuestion.text += block.text;
-			// TODO: maybe question-instruction may not always be present
-			// allow more blocks of type question-text in case the text is split
-			nextBlockType = ['question-text', 'question-instruction'];
+			nextBlockType = ['question-instruction'];
 			continue;
 		}
 
@@ -287,6 +325,14 @@ const convertBlocksToData = (blocks: Block[]): any => {
 			if (currentQuestion === null) {
 				// should never happen
 				throw new Error(`currentQuestion null while processing question-instruction`);
+			}
+			if (block.instruction === 'multiple-choice') {
+				currentQuestion.multiple = true;
+			} else if (block.instruction === 'single-choice') {
+				currentQuestion.multiple = false;
+			} else {
+				console.error(`unsupported question-instruction`, block, currentQuestion);
+				throw new Error(`unsupported question-instruction`);
 			}
 			nextBlockType = ['question-choice'];
 			continue;
@@ -309,7 +355,7 @@ const convertBlocksToData = (blocks: Block[]): any => {
 			if (block.correct) {
 				currentQuestion.correct.push(currentChoice.id);
 			}
-			if (currentQuestion.choices.length === numChoicesPerQuestion) {
+			if (currentQuestion.choices.length === getNumChoicesPerQuestion(currentQuestion.id)) {
 				nextBlockType = ['question-name', 'category-name'];
 			} else {
 				nextBlockType = ['question-choice'];
@@ -344,6 +390,43 @@ const convertBlocksToData = (blocks: Block[]): any => {
 
 };
 
+const toSuperParagraph = (element: MammothParagraph): SuperParagraph => {
+
+	const texts: string[] = [];
+	let anyIsBold = false;
+	const colors = new Set<string>();
+	const highlights = new Set<string>();
+
+	visitDescendantsOfType<MammothRun>(element, 'run', (run => {
+
+		run.children.forEach(text => texts.push(text.value));
+
+		if (run.isBold) {
+			anyIsBold = true;
+		}
+
+		if (run.color !== null) {
+			colors.add(run.color);
+		}
+
+		if (run.highlight !== null) {
+			highlights.add(run.highlight);
+		}
+
+	}));
+
+	const text = texts.join('').replace(WHITESPACE, ' ').trim();
+
+	return {
+		text,
+		texts,
+		anyIsBold,
+		colors,
+		highlights,
+	};
+
+};
+
 const run = async (docxFile: string, outputPackageFile: string) => {
 
 	console.log(`docxFile = ${docxFile}`);
@@ -355,13 +438,15 @@ const run = async (docxFile: string, outputPackageFile: string) => {
 
 	const extractQuestions = (doc: MammothDocument): MammothDocument => {
 
-		visitDescendantsOfType(doc, 'text', normalizeWhitespaceMutable);
+		const superParagraphs = doc.children
+			.map(toSuperParagraph)
+			.filter(sp => sp.text !== '');
 
-		const cleanedDoc = removeEmptyParagraphs(doc);
+		// console.log(superParagraphs);
 
-		visitDescendantsOfType(cleanedDoc, 'run', (element: MammothRun) => {
+		superParagraphs.forEach(sp => {
 
-			const block = convertRunToBlock(element);
+			const block = convertSuperParagraphToBlock(sp);
 
 			if (block !== null) {
 				blocks.push(block);
@@ -369,7 +454,11 @@ const run = async (docxFile: string, outputPackageFile: string) => {
 
 		});
 
-		return cleanedDoc;
+		// no need to actually convert anything to HTML as we extracted the data from the document's AST
+		return {
+			...doc,
+			children: [],
+		};
 
 	};
 
@@ -387,17 +476,24 @@ const run = async (docxFile: string, outputPackageFile: string) => {
 	console.log(`docx to html conversion finished, messages =`, result.messages);
 	console.log(`extracted ${blocks.length} blocks`);
 
-	console.log(`writing blocks data to ${outputPackageFile}`);
-	await fs.writeFile(outputPackageFile, JSON.stringify(blocks, undefined, 2));
+	const tmpBlocksData = `${__dirname}/../temp/blocks.json`;
+	console.log(`writing blocks data to ${tmpBlocksData}`);
+	await fs.writeFile(tmpBlocksData, JSON.stringify(blocks, undefined, '\t'));
 
 	console.log(`converting blocks to package data...`);
 
 	const packageData = convertBlocksToData(blocks);
 
-	console.log(packageData);
+	console.log(`conversion of blocks to package data finished:`);
+	console.log(`  numCategories =`, packageData.numCategories);
+	console.log(`  numQuestions =`, packageData.numQuestions);
+	console.log(`  categories:`);
+	packageData.categories.forEach(category => {
+		console.log(`    ${category.id}. ${category.name} (${category.numQuestions})`);
+	});
 
-	// const html = result.value;
-	// await fs.writeFile(outputHtmlFile, html);
+	console.log(`writing package data to ${outputPackageFile}`);
+	await fs.writeFile(outputPackageFile, JSON.stringify(packageData, undefined, '\t'));
 
 	console.log(`finished`);
 

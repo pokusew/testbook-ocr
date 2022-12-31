@@ -89,7 +89,7 @@ interface Error {
 
 // TODO: improve transform related types
 
-export type MammothElement = MammothDocument | MammothParagraph | MammothRun | MammothText;
+export type MammothElement = MammothDocument | MammothParagraph | MammothRun | MammothText | MammothBreak;
 
 export interface MammothDocument {
 	type: "document";
