@@ -23,7 +23,7 @@ const createCategory = (writer: BulkWriter, categoriesRef, packageId, { name, nu
 
 const AUTO_CATEGORY_SIZE = 200;
 
-const run = async (packageFile: string) => {
+const run = async (packageFile: string, useQuestionId: boolean = false) => {
 
 	// see https://firebase.google.com/docs/admin/setup#initialize-sdk
 	const app = initializeApp({
@@ -122,7 +122,12 @@ const run = async (packageFile: string) => {
 			// console.log(question.number, categoryId);
 		}
 
-		const id = `${packageId}-${question.number.toString().padStart(4, '0')}`;
+		if (useQuestionId && !isDefined(question.id)) {
+			console.error(`useQuestionId is true but question.id is missing, question =`, question);
+			throw new Error(`useQuestionId is true but question.id is missing`);
+		}
+
+		const id = `${packageId}-${(useQuestionId ? question.id : question.number).toString().padStart(4, '0')}`;
 		const ref = questionsRef.doc(id);
 		writer.set(
 			ref,
@@ -174,12 +179,15 @@ const run = async (packageFile: string) => {
 
 // process.argv[0] - path to node (Node.js interpreter)
 // process.argv[1] - path to script
-if (!isDefined(process.argv[2])) {
-	console.error('usage: {packageFile}');
+if (
+	!isDefined(process.argv[2])
+	|| (isDefined(process.argv[3]) && process.argv[3] !== 'true' && process.argv[3] !== 'false')
+) {
+	console.error('usage: {packageFile} [useQuestionId true|false]');
 	process.exit(1);
 }
 
-run(process.argv[2])
+run(process.argv[2], process.argv[3] === 'true')
 	.then(() => {
 		console.log('script finished');
 		process.exit(0);
