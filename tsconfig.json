@@ -1,12 +1,13 @@
 {
+	// see https://github.com/tsconfig/bases
 	"compilerOptions": {
-		// https://stackoverflow.com/questions/61305578/what-typescript-configuration-produces-output-closest-to-node-js-14-capabilities/61305579#61305579
+		// https://stackoverflow.com/questions/72380007/what-typescript-configuration-produces-output-closest-to-node-js-18-capabilities/72380008#72380008
 		"lib": [
-			"es2020",
-			"dom"
+			// https://www.typescriptlang.org/tsconfig#lib
+			"es2022"
 		],
 		"module": "commonjs",
-		"target": "es2020",
+		"target": "es2022",
 		// TODO: maybe true Process & infer types from .js files.
 		"allowJs": true,
 		// Don't emit; allow Babel to transform files.
