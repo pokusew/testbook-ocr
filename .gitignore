@@ -29,11 +29,12 @@ captures
 # common files
 *.log
 
+# local-only files (may be useful during development)
+*.local.*
+*.local
+
 
 ### PROJECT
-
-# local files
-*.local.*
 
 # node, npm
 node_modules/
